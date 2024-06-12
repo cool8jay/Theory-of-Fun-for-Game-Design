@@ -10,7 +10,7 @@ There's a field called "game theory[^game_theory]," which has something to do wi
 
 有一个领域叫“博弈论[^game_theory]”，它与游戏有关，与心理学有很大关系，与数学关系更大，与游戏设计关系不大。博弈论是关于竞争者如何做出最优选择的，它主要用于政治和经济领域，但经常被证明是错误的。
 
-[^game_theory]: Game theory: A field of mathematics that studies decision making in formal models. Most games can be interpreted as formal models, but game theory (like economics) tends to run afoul of real-world data when the mathematical hypotheses are tested, largely because game theory is based on optimal strategies. Most people aren’t optimal all the time. Game theory doesn’t always help you design a better game, but it can help explain why people make certain choices in a game. 博弈论： 研究正式模型中决策制定的数学领域。大多数博弈都可以被解释为形式模型，但博弈论（和经济学一样）在检验数学假设时往往会与现实世界的数据相冲突，这主要是因为博弈论是建立在最优策略的基础上的。大多数人并不是一直都是最优的。博弈论并不总能帮你设计出更好的游戏，但它可以帮助解释为什么人们会在游戏中做出某些选择。
+[^game_theory]: Game theory: A field of mathematics that studies decision making in formal models. Most games can be interpreted as formal models, but game theory (like economics) tends to run afoul of real-world data when the mathematical hypotheses are tested, largely because game theory is based on optimal strategies. Most people aren’t optimal all the time. Game theory doesn’t always help you design a better game, but it can help explain why people make certain choices in a game. 博弈论：研究形式模型中决策制定的数学领域。大多数博弈都可以被解释为形式模型，但博弈论（和经济学一样）在检验数学假设时往往会与现实世界的数据相冲突，这主要是因为博弈论是建立在最优策略的基础上的。大多数人并不是一直都是最优的。博弈论并不总能帮你设计出更好的游戏，但它可以帮助解释为什么人们会在游戏中做出某些选择。
 
 Looking up "game" in the dictionary isn't that helpful. Once you leave out the definitions referring to hunting, they wander all over the place. Pastimes or amusements are lumped in with contests. Interestingly, none of the definitions tend to assume that fun is a requirement: amusement or entertainment at best is required.
 
@@ -22,9 +22,9 @@ Those few academics who have tried to define "game" have offered up everything f
 
 [^roger_caillois]: Roger Caillois: An anthropologist who wrote a book called Man, Play and Games in 1958. In it, he also categorized games into four types, based on chance, competition, make-believe or pretense, and vertigo. He saw games primarily as tools of acculturation. 罗杰·卡尤瓦：人类学家，1958 年著有《人、玩和游戏》一书。在这本书中，他还将游戏分为四种类型，分别基于机会、竞争、虚构或伪装以及眩晕。他认为游戏主要是文化适应的工具。
 
-[^johan_huizinga]: Johan Huizinga: Author of Homo Ludens (1938), a book primarily focusing on the importance of play in human culture. Huizinga defines the concept of the “magic circle” within which play takes place as a protected and even sacred space that must not be violated. 约翰·赫伊津哈：《游戏的人》（1938 年）的作者，该书主要关注游戏在人类文化中的重要性。Huizinga 提出了 “魔法圈 ”的概念，认为游戏是一个受保护的、甚至是神圣的、不可侵犯的空间。
+[^johan_huizinga]: Johan Huizinga: Author of Homo Ludens (1938), a book primarily focusing on the importance of play in human culture. Huizinga defines the concept of the “magic circle” within which play takes place as a protected and even sacred space that must not be violated. 约翰·赫伊津哈：《游戏的人》（1938 年）的作者，该书主要关注玩乐在人类文化中的重要性。赫伊津哈提出了“魔法圈”的概念，认为游戏是一个受保护的、甚至是神圣的、不可侵犯的空间。
 
-[^jesper_juul]: Jesper Juul: An academic who is a leader of the relatively recent "ludology" movement. His website is [https://www.jesperjuul.net](https://www.jesperjuul.net). I recommend his book Half-Real (MIT Press, 2011) for an introduction to ludology. 杰斯珀·尤尔： 最近兴起的 “游戏学”（ludology）运动的领军学者。他的网站是 [https://www.jesperjuul.net](https://www.jesperjuul.net)。我推荐他的《半真实》（麻省理工学院出版社，2011 年）一书，以介绍游戏学。
+[^jesper_juul]: Jesper Juul: An academic who is a leader of the relatively recent "ludology" movement. His website is [https://www.jesperjuul.net](https://www.jesperjuul.net). I recommend his book Half-Real (MIT Press, 2011) for an introduction to ludology. 杰斯珀·尤尔：最近兴起的 “游戏学”（ludology）运动的领军学者。他的网站是 [https://www.jesperjuul.net](https://www.jesperjuul.net)。我推荐他的《半真实》（麻省理工学院出版社，2011 年）一书，以介绍游戏学。
 
 None of these help designers find "fun," though.
 
@@ -44,11 +44,11 @@ Game designers themselves offer a bewildering and often contradictory set of def
 
 * To Chris Crawford[^chris_crawford], outspoken designer and theorist, games are a subset of entertainment limited to conflicts in which players work to foil each other’s goals, just one of many leaves off a tree that includes playthings, toys, challenges, stories, competitions, and a lot more.\
 
-    克里斯·克劳福德是一位直言不讳的设计师和理论家，在他看来，游戏是娱乐的一个分支，仅限于冲突，在冲突中玩家要努力挫败对方的目标。
+    克里斯·克劳福德[^chris_crawford]是一位直言不讳的设计师和理论家，在他看来，游戏是娱乐的一个分支，仅限于冲突，在冲突中玩家要努力挫败对方的目标。
 
 * Sid Meier[^sid_meier], designer of the classic Civilization computer games, gave a famous definition of "a series of meaningful choices."\
 
-    经典电脑游戏《文明》的设计师席德·迈尔给出了一个著名的定义：“一系列有意义的选择。”
+    经典电脑游戏《文明》的设计师席德·梅尔[^sid_meier]给出了一个著名的定义：“一系列有意义的选择。”
 
 * Ernest Adams and Andrew Rollings, authors of Andrew Rollings and Ernest Adams on Game Design[^andrew_rollings_and_ernest_adams_on_game_design], narrow this further to "one or more causally linked series of challenges in a simulated environment."\
 
@@ -62,7 +62,7 @@ Game designers themselves offer a bewildering and often contradictory set of def
 
 [^sid_meier]: Sid Meier: One of the most highly regarded computer game designers working today, Meier has been responsible for Civilization (the computer version, not the board game version, although there is now a board game version of the computer game), Pirates!, and Gettysburg. 席德·梅尔：当今最受推崇的电脑游戏设计师之一，他的作品包括《文明》（电脑版，而非棋盘游戏版，尽管现在电脑游戏也有棋盘游戏版）、《海盗！》和《葛底斯堡》。
 
-[^andrew_rollings_and_ernest_adams_on_game_design]: Andrew Rollings and Ernest Adams on Game Design: This book was published by New Riders in 2003. It is a solid “how-to” book covering a variety of game genres as well as general game design principles. Disclaimer: I helped write the chapter on online games, so I am biased. 《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》： 这本书由 New Riders 于 2003 年出版。这是一本扎实的“如何做”的书，涵盖了各种游戏类型以及一般的游戏设计原则。免责声明：我参与撰写了关于网络游戏的章节，因此有失偏颇。
+[^andrew_rollings_and_ernest_adams_on_game_design]: Andrew Rollings and Ernest Adams on Game Design: This book was published by New Riders in 2003. It is a solid “how-to” book covering a variety of game genres as well as general game design principles. Disclaimer: I helped write the chapter on online games, so I am biased. 《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》：这本书由 New Riders 于 2003 年出版。这是一本扎实的“如何做”的书，涵盖了各种游戏类型以及一般的游戏设计原则。免责声明：我参与撰写了关于网络游戏的章节，因此有失偏颇。
 
 [^katie_salen_and_eric_zimmerman_and_rules_of_play]: Katie Salen and Eric Zimmerman and Rules of Play: Rules of Play is one of the most important books on what games are and how they work. It was published by the MIT Press in 2003. The authors are academics and also game designers in their own right. 凯蒂·萨伦和埃里克·齐默尔曼和《游戏规则》：《游戏规则》是关于游戏是什么以及游戏如何运作的最重要的书籍之一。该书于 2003 年由麻省理工学院出版社出版。作者是学者，同时也是游戏设计师。
 
@@ -77,6 +77,10 @@ I found my answer in reading about how the brain works. Based on my reading, the
 When you watch kids learn, you see there’s a recognizable pattern to what they do. They give it a try once—it seems that kids can’t learn just by being taught. They have to make mistakes themselves. They push at boundaries to test them and see how far they will bend. They watch the same video over and over and over and over and over and over…
 
 当你观察孩子们学习时，你会发现他们所做的事情都有一个可识别的模式。他们会尝试一次--孩子们似乎不能只靠老师教来学习。他们必须自己犯错。他们挑战极限，测试极限，看看极限能弯曲到什么程度。他们一遍又一遍地观看相同的视频……
+
+<p align="center">
+  <img src="images/2.2.png"/>
+</p>
 
 > Look at the places we can find a face.
 >
@@ -101,3 +105,44 @@ Experts have been telling us for a while now that we’re not really “consciou
 Assumptions are what the brain is best at. Some days, I suspect that makes us despair.
 
 大脑最擅长的就是假设。有些时候，我怀疑这让我们感到绝望。
+
+<p align="center">
+  <img src="images/2.3.png"/>
+</p>
+
+> In fact, we tend to see patterns where there aren't any.
+> 
+> 事实上，我们往往会在没有模式的地方看到模式。
+> 
+> Blah, blah, blah...
+> 
+> 吧啦，吧啦，吧啦……
+> 
+> Raph's just being pedantic again.
+> 
+> 拉斐又开始掉书袋了。
+
+There's a whole branch of science dedicated to figuring out how the brain knows what it does. It's already led to a wonderful set of discoveries.
+
+有一门科学专门研究大脑如何知道自己在做什么。这已经带来了一系列奇妙的发现。
+
+We’ve learned that if you show someone a movie with a lot of basketball players in it and tell them in advance to count the basketballs, they will probably miss the large gorilla in the background, even though it’s a somewhat noticeable object. The brain is good at cutting out the irrelevant.
+
+我们已经知道，如果你给别人看一部有很多篮球运动员的电影，并事先告诉他们数篮球，他们很可能会错过背景中的大猩猩，尽管它是一个有点引人注目的物体。大脑善于剔除无关紧要的东西。
+
+We’ve also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. The brain notices a lot more than we think it does.
+
+我们还发现，如果你让一个人进入催眠恍惚状态，让她描述某件事情，她描述的内容往往会比在大街上问她要多得多。大脑注意到的东西比我们想象的要多得多。
+
+We now know that when you ask someone to draw something, he is far more likely to draw the generalized iconic version of the object that he keeps in his head than he is to draw the actual object in front of him. In fact, seeing what is actually there with our conscious mind is really hard to do, and most people never learn how to do it! The brain is actively hiding the real world from us.
+
+我们现在知道，当你让一个人画某样东西时，他画出自己脑中保存的该物体的概括性图标版本的可能性要远远大于画出眼前的实际物体。事实上，用我们有意识的思维去看实际存在的东西真的很难做到，而且大多数人永远也学不会！大脑在积极地向我们隐藏真实的世界。
+
+These things fall under the rubric of “cognitive theory,”* a fancy way of saying “how we think we know what we think we know.” Most of them are examples of a concept called “chunking.”*
+
+这些都属于 “认知理论 ”*范畴，是 “我们如何认为我们知道我们认为我们知道的东西 ”的一种花哨说法。其中大部分都是 “分块 ”概念* 的例子。
+
+Chunking is something we do all the time.
+
+分块是我们经常做的事情。
+
