@@ -1,4 +1,6 @@
-# Prologue my grandfather 序言 我的祖父
+<p align="center">
+  <img src="images/prologue.png" alt=""/>
+</p>
 
 My grandfather wanted to know whether I felt proud of what I do. It seemed a reasonable question: there he was, aging and soon to pass away, though at the time I didn’t know that; a man who had spent his life as a fire chief, raising six children. One of them followed in his footsteps, became a fire chief himself, and now sells bathtub linings. There’s a special education teacher, an architect, a carpenter. Good, solid, wholesome professions for good, solid, wholesome people. And there I was—making games rather than contributing to society.
 

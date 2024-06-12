@@ -1,4 +1,6 @@
-# What people are saying! 人们的评价！
+<p align="center">
+  <img src="images/what-people-are-saying.png" alt=""/>
+</p>
 
 "The best game design book I have ever read."
 

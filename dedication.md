@@ -1,5 +1,3 @@
-# Dedication 致谢
-
 <p align="center">
   <img src="images/dedication.png" alt=""/>
 </p>

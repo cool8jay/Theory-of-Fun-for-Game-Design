@@ -1,5 +1,3 @@
-# Acknowledgments 鸣谢
-
 <p align="center">
   <img src="images/acknowledgments.png" alt=""/>
 </p>

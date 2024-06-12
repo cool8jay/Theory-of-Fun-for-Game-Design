@@ -1,5 +1,3 @@
-# ABOUT THE AUTHOR 关于作者
-
 <p align="center">
   <img src="images/about-the-author.png" alt=""/>
 </p>
