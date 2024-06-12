@@ -213,3 +213,27 @@ There's some highly ordered music that doesn't appeal to most of us, though. A l
 Even static has patterns to it. If the little black and white dots are the output of random numbers, they have the pattern of the output of random number generators—a complex pattern, but a pattern nonetheless. If you happen to know the algorithm used to generate the number, and the seed from which the algorithm started, you could exactly replicate that static. There's really next to nothing in the visible universe that is patternless. If we perceive something as noise, it's most likely a failure in ourselves, not a failure in the universe.
 
 即使是静电也有规律可循。如果小黑点和小白点是随机数的输出，那么它们就具有随机数发生器输出的模式——虽然模式复杂，但仍然是一种模式。如果你碰巧知道生成数字的算法，以及算法的起始种子，你就可以完全复制这种静电。在可见的宇宙中，几乎没有什么是没有模式的。如果我们把某些东西视为噪音，那很可能是我们自己的失败，而不是宇宙的失败。
+
+<p align="center">
+  <img src="images/2.7.png"/>
+</p>
+
+> When we meet noise, and fail to see a pattern in it, we get frustrated, and give up.
+> 
+> 当我们遇到噪音，却无法从中发现规律时，我们就会感到沮丧并放弃。
+ 
+The first time you hear bebop jazz it may sound weird to you, especially if you've been reared on good old-fashioned "three chords and the truth"* rock 'n' roll. It’ll be "devil music," to borrow a term from countless exasperated parents who railed against their kids' choice of music.
+
+第一次听到贝波普爵士乐时，你可能会觉得怪怪的，尤其是如果你是在老式的“三个和弦和真理”摇滚乐中长大的话。借用无数气急败坏的父母对孩子选择音乐的抨击，这将是“魔鬼音乐”。
+
+If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you’ll spot the flattened fifth* that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you get it, and experience a moment of discovery, of joy.
+
+如果你摆脱了最初的厌恶（可能只持续几分之一秒），你可能会发现其中蕴含的规律。例如，你会发现对爵士乐来说非常重要的平五度。你开始用手指敲打预期的 4/4 拍子，却沮丧地发现实际上是 7/8 拍或其他拍子。你会茫然一会儿，但一旦你明白了，你可能会体验到一丝喜悦，体验到发现、喜悦的时刻。
+
+If jazz happens to interest you, you'll sink into these patterns and come to expect them. If you get really into it, you may come to feel that a musical style such as alternating-bass* folk music is hopelessly "square."
+
+如果你对爵士乐感兴趣，你就会沉浸在这些模式中，并开始期待它们。如果你真的喜欢上了爵士乐，你可能会觉得像交替低音*民乐这样的音乐风格是无可救药的“古板”。
+
+Congratulations, you just chunked up jazz. (Hmm, I hope that doesn’t sound too disgusting!)
+
+恭喜你，你刚刚学会了爵士乐。(嗯，我希望这听起来不会太恶心！）。
