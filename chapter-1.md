@@ -1,0 +1,11 @@
+Our kids took to games at a very early age. Games were all around them, and I brought home a crazy amount of them because of my work. I suppose it’s no surprise that children model their parents. But my wife and I are also voracious readers, and the kids were resistant to that. Their attraction to games was more instinctive. As babies, they found the game of hide-the-object to be endlessly fascinating, and even now that they are older it elicits an occasional giggle. As babies there was an intentness about their alien gaze, as they tried to figure out where the rubber duckie had gone, that showed that this game was, for them, in deadly earnest.
+
+我们的孩子很小就喜欢上了游戏。他们身边到处都是游戏，由于工作关系，我带回家的游戏多得让人眼花缭乱。我想，孩子以父母为榜样并不奇怪。但我和妻子也是贪婪的读者，孩子们对此很抵触。他们对游戏的吸引力更多是出于本能。在他们还是婴儿的时候，他们就发现捉迷藏的游戏充满了无穷的吸引力，即使现在他们长大了，这个游戏偶尔也会引起他们的咯咯笑声。当他们试图找出橡皮鸭子的去向时，他们那异样的目光中流露出一种专注，这表明这个游戏对他们来说是认真的。
+
+Kids are playing everywhere, all the time, and often playing games that we do not quite understand. They play and learn at a ferocious rate. We see the statistics on how many words kids absorb in a day, how rapidly they develop motor control, and how many basic aspects of life they master—aspects that are frankly so subtle that we have even forgotten learning them—and we usually fail to appreciate what an amazing feat this is.
+
+孩子们无处不在、无时不在玩耍，而且经常玩一些我们不太了解的游戏。他们以惊人的速度玩耍和学习。我们看到的统计数字表明，孩子们一天能吸收多少单词，他们的运动控制能力发展得有多快，他们掌握了多少生活的基本方面——坦率地说，这些方面是如此微妙，以至于我们甚至忘记了学习它们。
+
+Consider how hard it is to learn a language, and yet children all over the world do it routinely. A first language. They are doing it without assigning cognates* in their native tongue and without translating in their heads. Much attention has been paid to some very special deaf kids in Nicaragua, * who have managed to invent a fully functional sign language in just a few generations. Many believe this shows language is built into the brain, and that there’s something in our wiring that guides us inexorably towards language.
+
+想想看，学习一门语言有多难，但全世界的孩子都能照常学习。第一语言。他们是在没有指定母语中的同义词*，也没有在头脑中进行翻译的情况下完成学习的。尼加拉瓜一些非常特殊的聋哑儿童*备受关注，他们在短短几代人的时间里就发明了一种功能齐全的手语。许多人认为，这表明语言是内置于大脑中的，在我们的线路中，有某种东西在引导我们不可避免地走向语言。

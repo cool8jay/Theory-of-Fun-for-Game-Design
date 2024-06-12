@@ -1,5 +1,11 @@
 # Acknowledgments 鸣谢
 
+<p align="center">
+  <img src="images/acknowledgments.png" alt=""/>
+</p>
+
+Who wrote on me? 谁在我身上写字？
+
 Special thanks to all those who have helped me clarify the thoughts that went into this book, through their writing and direct conversation and by challenging my assumptions. The following are in no particular order:
 
 特别感谢所有通过写作、直接对话、质疑等方式帮助我理清本书写作思路的人。通过他们的文字和直接对话，以及通过质疑我的假设
