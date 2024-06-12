@@ -10,13 +10,13 @@ There's a field called "game theory[^game_theory]," which has something to do wi
 
 有一个领域叫“博弈论[^game_theory]”，它与游戏有关，与心理学有很大关系，与数学关系更大，与游戏设计关系不大。博弈论是关于竞争者如何做出最优选择的，它主要用于政治和经济领域，但经常被证明是错误的。
 
-[^game_theory]: Game theory: A field of mathematics that studies decision making in formal models. Most games can be interpreted as formal models, but game theory (like economics) tends to run afoul of real-world data when the mathematical hypotheses are tested, largely because game theory is based on optimal strategies. Most people aren’t optimal all the time. Game theory doesn’t always help you design a better game, but it can help explain why people make certain choices in a game. 博弈论：研究形式模型中决策制定的数学领域。大多数博弈都可以被解释为形式模型，但博弈论（和经济学一样）在检验数学假设时往往会与现实世界的数据相冲突，这主要是因为博弈论是建立在最优策略的基础上的。大多数人并不是一直都是最优的。博弈论并不总能帮你设计出更好的游戏，但它可以帮助解释为什么人们会在游戏中做出某些选择。
+[^game_theory]: Game theory: A field of mathematics that studies decision making in formal models. Most games can be interpreted as formal models, but game theory (like economics) tends to run afoul of real-world data when the mathematical hypotheses are tested, largely because game theory is based on optimal strategies. Most people aren't optimal all the time. Game theory doesn't always help you design a better game, but it can help explain why people make certain choices in a game. 博弈论：研究形式模型中决策制定的数学领域。大多数博弈都可以被解释为形式模型，但博弈论（和经济学一样）在检验数学假设时往往会与现实世界的数据相冲突，这主要是因为博弈论是建立在最优策略的基础上的。大多数人并不是一直都是最优的。博弈论并不总能帮你设计出更好的游戏，但它可以帮助解释为什么人们会在游戏中做出某些选择。
 
 Looking up "game" in the dictionary isn't that helpful. Once you leave out the definitions referring to hunting, they wander all over the place. Pastimes or amusements are lumped in with contests. Interestingly, none of the definitions tend to assume that fun is a requirement: amusement or entertainment at best is required.
 
 在字典里查找“游戏”一词并没有什么帮助。一旦撇开有关狩猎的定义，它们就会到处乱窜。消遣或娱乐与竞赛混为一谈。有趣的是，没有一个定义倾向于认为乐趣是必要条件：娱乐或消遣充其量只是必要条件。
 
-Those few academics who have tried to define "game" have offered up everything from Roger Caillois[^roger_caillois]' "activity which is…voluntary…uncertain, unproductive, governed by rules, make-believe" to Johan Huizinga[^johan_huizinga]'s "free activity…outside ‘ordinary' life…" to Jesper Juul[^jesper_juul]'s more contemporary and precise take: "A game is a rule-based formal system with a variable and quantifiable outcome, where different outcomes are assigned different values, the player exerts effort in order to influence the outcome, the player feels attached to the outcome, and the consequences of the activity are optional and negotiable."
+Those few academics who have tried to define "game" have offered up everything from Roger Caillois[^roger_caillois]' "activity which is…voluntary…uncertain, unproductive, governed by rules, make-believe" to Johan Huizinga[^johan_huizinga]'s "free activity…outside 'ordinary' life…" to Jesper Juul[^jesper_juul]'s more contemporary and precise take: "A game is a rule-based formal system with a variable and quantifiable outcome, where different outcomes are assigned different values, the player exerts effort in order to influence the outcome, the player feels attached to the outcome, and the consequences of the activity are optional and negotiable."
 
 那些尝试定义“游戏”的少数学者们提出了各种定义，从罗杰·卡尤瓦[^roger_caillois]的“自愿的……不确定的，无产出的，受规则制约的，虚构的活动”到约翰·赫伊津哈[^johan_huizinga]的“自由活动……在‘普通’生活之外……”到杰斯珀·尤尔[^jesper_juul]的更现代和精确的看法：“游戏是一个基于规则的形式系统，具有可变和可量化的结果，在其中不同的结果被赋予不同的价值，玩家付出努力以影响结果，玩家对结果有归属感，并且该活动的后果是可选择和可协商的。”
 
@@ -42,9 +42,9 @@ Game designers themselves offer a bewildering and often contradictory set of def
 
 游戏设计师们自己给出了一系列令人困惑、往往自相矛盾的定义：
 
-* To Chris Crawford[^chris_crawford], outspoken designer and theorist, games are a subset of entertainment limited to conflicts in which players work to foil each other’s goals, just one of many leaves off a tree that includes playthings, toys, challenges, stories, competitions, and a lot more.\
+* To Chris Crawford[^chris_crawford], outspoken designer and theorist, games are a subset of entertainment limited to conflicts in which players work to foil each other's goals, just one of many leaves off a tree that includes playthings, toys, challenges, stories, competitions, and a lot more.\
 
-    克里斯·克劳福德[^chris_crawford]是一位直言不讳的设计师和理论家，在他看来，游戏是娱乐的一个分支，仅限于冲突，在冲突中玩家要努力挫败对方的目标。
+    对克里斯·克劳福德[^chris_crawford]这位直言不讳的设计师和理论家来说，游戏是娱乐的一个子集，仅限于玩家之间相互妨碍对方目标达成的冲突中，这只是包括玩物，玩具、挑战、故事、比赛等众多事物的大树上的一片叶子。
 
 * Sid Meier[^sid_meier], designer of the classic Civilization computer games, gave a famous definition of "a series of meaningful choices."\
 
@@ -52,15 +52,15 @@ Game designers themselves offer a bewildering and often contradictory set of def
 
 * Ernest Adams and Andrew Rollings, authors of Andrew Rollings and Ernest Adams on Game Design[^andrew_rollings_and_ernest_adams_on_game_design], narrow this further to "one or more causally linked series of challenges in a simulated environment."\
 
-    《Andrew Rollings and Ernest Adams on Game Design》一书的作者欧内斯特·亚当斯和安德鲁·罗林斯*将这一定义进一步缩小为“模拟环境中一个或多个因果联系的系列挑战。”
+    《Andrew Rollings and Ernest Adams on Game Design》一书的作者欧内斯特·亚当斯和安德鲁·罗林斯[^andrew_rollings_and_ernest_adams_on_game_design]将这一定义进一步缩小为“模拟环境中一个或多个因果联系的系列挑战。”
 
 * Katie Salen and Eric Zimmerman say in their book Rules of Play[^katie_salen_and_eric_zimmerman_and_rules_of_play] that a game is "a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome."\
 
-    凯蒂·萨伦和埃里克·齐默尔曼在《游戏规则》*一书中称，游戏是“一个系统，在这个系统中，玩家参与由规则定义的人为冲突，并产生可量化的结果。”
+    凯蒂·萨伦和埃里克·齐默尔曼在《游戏规则》[^katie_salen_and_eric_zimmerman_and_rules_of_play]一书中称，游戏是“一个系统，在这个系统中，玩家参与由规则定义的人为冲突，并产生可量化的结果。”
 
-[^chris_crawford]: Chris Crawford: One of the grand old men of computer game design, his seminal works include Eastern Front 1941 and Balance of Power. Crawford has long advocated games as art, and has also been a major proponent of interactive storytelling. His book, The Art of Computer Game Design, is considered a classic. 克里斯·克劳福德：克劳福德是电脑游戏设计界的老前辈之一，他的开创性作品包括《1941 年东部前线》和《力量平衡》。长期以来，克劳福德一直主张将游戏作为艺术，也是互动故事的主要倡导者。他的著作《电脑游戏设计艺术》被奉为经典。
+[^chris_crawford]: Chris Crawford: One of the grand old men of computer game design, his seminal works include [Eastern Front 1941](https://en.wikipedia.org/wiki/Eastern_Front_(1941)) and [Balance of Power](https://en.wikipedia.org/wiki/Balance_of_Power_(video_game)). Crawford has long advocated games as art, and has also been a major proponent of interactive storytelling. His book, The Art of Computer Game Design, is considered a classic. 克里斯·克劳福德：克劳福德是电脑游戏设计界的老前辈之一，他的开创性作品包括[《1941 年东部前线》](https://en.wikipedia.org/wiki/Eastern_Front_(1941))和[《权力平衡》](https://en.wikipedia.org/wiki/Balance_of_Power_(video_game))。长期以来，克劳福德一直主张将游戏作为艺术，也是互动故事的主要倡导者。他的著作《电脑游戏设计艺术》被奉为经典。
 
-[^sid_meier]: Sid Meier: One of the most highly regarded computer game designers working today, Meier has been responsible for Civilization (the computer version, not the board game version, although there is now a board game version of the computer game), Pirates!, and Gettysburg. 席德·梅尔：当今最受推崇的电脑游戏设计师之一，他的作品包括《文明》（电脑版，而非棋盘游戏版，尽管现在电脑游戏也有棋盘游戏版）、《海盗！》和《葛底斯堡》。
+[^sid_meier]: Sid Meier: One of the most highly regarded computer game designers working today, Meier has been responsible for [Civilization](https://en.wikipedia.org/wiki/Civilization_(series)) (the computer version, not the board game version, although there is now a board game version of the computer game), [Pirates!](https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!), and [Gettysburg](https://en.wikipedia.org/wiki/Sid_Meier%27s_Gettysburg!). 席德·梅尔：当今最受推崇的电脑游戏设计师之一，他的作品包括[《文明》](https://en.wikipedia.org/wiki/Civilization_(series))（电脑版，而非棋盘游戏版，尽管现在电脑游戏也有棋盘游戏版）、[《海盗！》](https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!)和[《盖茨堡战役》](https://en.wikipedia.org/wiki/Sid_Meier%27s_Gettysburg!)。
 
 [^andrew_rollings_and_ernest_adams_on_game_design]: Andrew Rollings and Ernest Adams on Game Design: This book was published by New Riders in 2003. It is a solid “how-to” book covering a variety of game genres as well as general game design principles. Disclaimer: I helped write the chapter on online games, so I am biased. 《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》：这本书由 New Riders 于 2003 年出版。这是一本扎实的“如何做”的书，涵盖了各种游戏类型以及一般的游戏设计原则。免责声明：我参与撰写了关于网络游戏的章节，因此有失偏颇。
 
@@ -72,11 +72,11 @@ This feels like a quick way to get sucked into quibbling over the classification
 
 I found my answer in reading about how the brain works. Based on my reading, the human brain is mostly a voracious consumer of patterns, a soft pudgy gray [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) of concepts. Games are just exceptionally tasty patterns to eat up.
 
-我在阅读大脑工作原理时找到了答案。根据我的阅读，人类大脑主要是一个贪婪的模式消费者，一个软乎乎的灰色概念[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)。游戏只是一种特别美味的模式。
+我在阅读大脑工作原理时找到了答案。根据我的阅读，人类大脑主要是一个贪婪的模式消费者，一个柔软而丰满的灰色概念[吃豆人](https://en.wikipedia.org/wiki/Pac-Man)。游戏只是特别美味的模式供其吞噬。
 
-When you watch kids learn, you see there’s a recognizable pattern to what they do. They give it a try once—it seems that kids can’t learn just by being taught. They have to make mistakes themselves. They push at boundaries to test them and see how far they will bend. They watch the same video over and over and over and over and over and over…
+When you watch kids learn, you see there's a recognizable pattern to what they do. They give it a try once—it seems that kids can't learn just by being taught. They have to make mistakes themselves. They push at boundaries to test them and see how far they will bend. They watch the same video over and over and over and over and over and over…
 
-当你观察孩子们学习时，你会发现他们所做的事情都有一个可识别的模式。他们会尝试一次--孩子们似乎不能只靠老师教来学习。他们必须自己犯错。他们挑战极限，测试极限，看看极限能弯曲到什么程度。他们一遍又一遍地观看相同的视频……
+当你观察孩子们学习时，你会发现他们的行为有一个可识别的模式。他们尝试一次——看起来孩子们不能仅仅通过被教导来学习。他们必须自己犯错误。他们挑战极限，测试极限，看看极限能弯曲到什么程度。他们一遍又一遍又一遍又一遍又一遍地观看同一个视频……
 
 <p align="center">
   <img src="images/2.2.png"/>
@@ -86,21 +86,21 @@ When you watch kids learn, you see there’s a recognizable pattern to what they
 >
 > 看看我们能在哪些地方找到一张脸。
 
-Seeing patterns in how kids learn is evidence of how pattern-driven our brains are. We pattern-seek the process of pattern-seeking! Faces may be the best example. How many times have you seen faces in wood grain, in the patterns in plaster walls, or in the smudges on the sidewalk? A surprisingly large part of the human brain is devoted to seeing faces—when we look at a person’s face, a huge amount of brainpower is expended in interpreting it. When we’re not looking at someone face-to-face, we often misinterpret what he or she means because we lack all the information.
+Seeing patterns in how kids learn is evidence of how pattern-driven our brains are. We pattern-seek the process of pattern-seeking! Faces may be the best example. How many times have you seen faces in wood grain, in the patterns in plaster walls, or in the smudges on the sidewalk? A surprisingly large part of the human brain is devoted to seeing faces—when we look at a person's face, a huge amount of brainpower is expended in interpreting it. When we're not looking at someone face-to-face, we often misinterpret what he or she means because we lack all the information.
 
-从孩子们的学习方式中发现模式，证明了我们的大脑是如何受模式驱动的。我们在寻找模式的过程中寻找模式！面孔可能就是最好的例子。你曾多少次在木纹、灰泥墙上的图案或人行道上的污迹中看到过人的面孔？人类大脑的很大一部分竟然是用来看脸的--当我们看一个人的脸时，会花费大量的脑力来解读它。当我们不是面对面地看着一个人时，我们常常会因为缺乏所有的信息而误解他或她的意思。
+从孩子们的学习方式中发现模式，证明了我们的大脑是如何受模式驱动的。我们在寻找模式的过程中寻找模式！面孔可能就是最好的例子。你曾多少次在木纹、灰泥墙上的图案或人行道上的污迹中看到过人的面孔？人类大脑的很大一部分竟然是用来看脸的——当我们看一个人的脸时，会花费大量的脑力来解读它。当我们不是面对面地看着一个人时，我们常常会因为缺乏所有的信息而误解他或她的意思。
 
-The brain is hardwired for facial recognition, * just as it is hardwired for language, because faces are incredibly important to how human society works. The capability to see a face in a collection of cartoony lines, and interpret remarkably subtle emotions from it, is indicative of what the brain does best.
+The brain is hardwired for facial recognition, just as it is hardwired for language, because faces are incredibly important to how human society works. The capability to see a face in a collection of cartoony lines, and interpret remarkably subtle emotions from it, is indicative of what the brain does best.
 
-就像语言一样，大脑对面部识别也有硬性要求，因为人脸对人类社会的运作非常重要。从一组卡通线条中看到一张脸，并从中解读出极其微妙的情感，这种能力正是大脑最擅长的。
+大脑天生就具备面部识别的能力，正如它天生就具备语言能力一样，因为面部对于人类社会的运作极其重要。在一系列卡通线条中认出一张人脸，并从中解读出极其微妙的情感，这正体现了大脑最擅长的能力。
 
-Simply put, the brain is made to fill in blanks. We do this so much we don’t even realize we’re doing it.
+Simply put, the brain is made to fill in blanks. We do this so much we don't even realize we're doing it.
 
-简而言之，大脑就是用来填补空白的。我们经常这样做，甚至没有意识到自己在这样做。
+简单来说，大脑天生就是用来填补空白的。我们这样做得如此频繁，以至于我们甚至没有意识到自己在这么做。
 
-Experts have been telling us for a while now that we’re not really “conscious” in the way that we think we are; we do most things on autopilot. But autopilot only works when we have a reasonably accurate picture of the world around us. Our noses really ought to be blocking a lot of our view, but when we cross our eyes, our brains magically make our nose invisible. * What the heck has the brain managed to put in its place? The answer, oddly, is an assumption—a reasonable construct based on the input from both eyes and what we have seen before.
+Experts have been telling us for a while now that we're not really "conscious" in the way that we think we are; we do most things on autopilot. But autopilot only works when we have a reasonably accurate picture of the world around us. Our noses really ought to be blocking a lot of our view, but when we cross our eyes, our brains magically make our nose invisible. What the heck has the brain managed to put in its place? The answer, oddly, is an assumption—a reasonable construct based on the input from both eyes and what we have seen before.
 
-专家们告诉我们，我们的 “意识 ”并不像我们认为的那样，我们做的大多数事情都是在自动驾驶状态下完成的。但是，只有当我们对周围的世界有一个相当准确的认识时，自动驾驶才会起作用。我们的鼻子本应挡住我们的大部分视线，但当我们睁开眼睛时，大脑却神奇地让我们的鼻子看不见了。* 大脑到底在它的位置上放了什么？奇怪的是，答案是一种假设--一种基于双眼输入和我们之前所见的合理构造。
+专家们已经告诉我们一段时间，我们的“意识”并不像我们认为的那样，我们做的大多数事情都是在自动驾驶状态下完成的。但是，只有当我们对周围的世界有一个相当准确的认识时，自动驾驶才会起作用。我们的鼻子本应挡住我们的大部分视线，但当我们睁开眼睛时，大脑却神奇地让我们的鼻子看不见了。大脑到底在它的位置上放了什么？奇怪的是，答案是一种假设——一种基于双眼输入和我们之前所见的合理构造。
 
 Assumptions are what the brain is best at. Some days, I suspect that makes us despair.
 
@@ -126,11 +126,11 @@ There's a whole branch of science dedicated to figuring out how the brain knows 
 
 有一门科学专门研究大脑如何知道自己在做什么。这已经带来了一系列奇妙的发现。
 
-We’ve learned that if you show someone a movie with a lot of basketball players in it and tell them in advance to count the basketballs, they will probably miss the large gorilla in the background, even though it’s a somewhat noticeable object. The brain is good at cutting out the irrelevant.
+We've learned that if you show someone a movie with a lot of basketball players in it and tell them in advance to count the basketballs, they will probably miss the large gorilla in the background, even though it's a somewhat noticeable object. The brain is good at cutting out the irrelevant.
 
 我们已经知道，如果你给别人看一部有很多篮球运动员的电影，并事先告诉他们数篮球，他们很可能会错过背景中的大猩猩，尽管它是一个有点引人注目的物体。大脑善于剔除无关紧要的东西。
 
-We’ve also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. The brain notices a lot more than we think it does.
+We've also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. The brain notices a lot more than we think it does.
 
 我们还发现，如果你让一个人进入催眠恍惚状态，让她描述某件事情，她描述的内容往往会比在大街上问她要多得多。大脑注意到的东西比我们想象的要多得多。
 
@@ -138,11 +138,54 @@ We now know that when you ask someone to draw something, he is far more likely t
 
 我们现在知道，当你让一个人画某样东西时，他画出自己脑中保存的该物体的概括性图标版本的可能性要远远大于画出眼前的实际物体。事实上，用我们有意识的思维去看实际存在的东西真的很难做到，而且大多数人永远也学不会！大脑在积极地向我们隐藏真实的世界。
 
-These things fall under the rubric of “cognitive theory,”* a fancy way of saying “how we think we know what we think we know.” Most of them are examples of a concept called “chunking.”*
+These things fall under the rubric of "cognitive theory," a fancy way of saying "how we think we know what we think we know." Most of them are examples of a concept called "chunking."
 
-这些都属于 “认知理论 ”*范畴，是 “我们如何认为我们知道我们认为我们知道的东西 ”的一种花哨说法。其中大部分都是 “分块 ”概念* 的例子。
+这些都属于“认知理论”范畴，是“我们如何认为我们知道我们认为我们知道的东西”的一种花哨说法。其中大部分都是“分块”概念的例子。
 
 Chunking is something we do all the time.
 
 分块是我们经常做的事情。
 
+<p align="center">
+  <img src="images/2.4.png"/>
+</p>
+
+> When we grasp a pattern, we usually get bored with it and iconify it.
+> 
+> 当我们掌握了一种模式后，通常会对其感到厌倦，并将其图标化。
+
+If I asked you to describe how you got to work in the morning in some detail, you'd list off getting up, stumbling to the bathroom, taking a shower, getting dressed, eating breakfast, leaving the house, and driving to your place of employment. That seems like a good list, until I ask you to walk through exactly how you perform just one of those steps. Consider the step of getting dressed. You'd probably have trouble remembering all the stages. Which do you grab first, tops or bottoms? Do you keep your socks in the top or second drawer? Which leg do you put in your pants first? Which hand touches the button on your shirt first?
+
+如果我让你详细描述一下你早上是如何上班的，你会列出起床、跌跌撞撞地去浴室、洗澡、穿衣、吃早餐、出门、开车去工作地点等步骤。这似乎是一个很好的清单，直到我请你具体回顾一下你是如何完成其中一个步骤的。考虑一下穿衣服这个步骤。你可能很难记住所有的步骤。你先拿上衣还是下衣？你把袜子放在最上面还是第二个抽屉？你先把哪条腿放进裤子里？哪只手先触摸衬衫上的纽扣？
+
+Odds are good that you could come to an answer if you thought about it. This is called a morning routine because it is routine. You rely on doing these things on autopilot. This whole routine has been "chunked" in your brain, which is why you have to work to recall the individual steps. It’s basically a recipe that is burned into your neurons, and you don’t "think" about it anymore.
+
+如果你仔细想想，很有可能得出答案。这就是所谓的晨间例行公事，因为它就是例行公事。你依靠自动驾驶来做这些事情。整个例行公事已经在你的大脑中“分块”，这就是为什么你必须努力回想各个步骤。这基本上就是一个烙印在你神经元里的食谱，你不再“思考”它。
+
+Whatever “thinking” means.
+
+不管“思考”是什么意思。
+
+<p align="center">
+  <img src="images/2.5.png"/>
+</p>
+
+> Humans are really good at doing this -- we can drive barely seeing the road.
+> 
+> 人类很擅长这样做——我们开车时几乎看不到路。
+ 
+We're usually running on these automatic chunked patterns. Thinking is, in fact, mostly memory, pattern-matching against past experiences.
+
+我们通常是按照这些自动分块模式运行的。事实上，思考主要是记忆，是根据过去的经验进行模式匹配。
+
+In fact, most of what we see is also a chunked pattern. We rarely look at the real world; we instead recognize something we have chunked and leave it at that. The world could easily be composed of cardboard stand-ins for real objects as far as our brains are concerned. One might argue that the essence of much of art is forcing us to see things as they are rather than as we assume them to be. Poems about trees force us to look at the majesty of bark and the subtlety of leaf, the strength of trunk and the amazing abstractness of the negative space between boughs; they are getting us to ignore the image in our head of "wood, big greenish, whatever" that we take for granted.
+
+事实上，我们所看到的大部分事物也是分块模式。我们很少去看真实的世界，而是去认识一些我们已经分块的东西，然后就不管它了。就我们的大脑而言，这个世界很容易由纸板组成的真实物体的替身。有人可能会说，许多艺术的本质就是迫使我们看到事物的本来面目，而不是我们假定的样子。关于树的诗歌迫使我们观察树皮的威严和树叶的细腻、树干的力量和枝桠间负空间的惊人抽象性；它们让我们忽略我们头脑中理所当然的“木头、大块的绿色什么的”形象。
+
+When something in a chunk does not behave as we expect it to, we have problems. * It can even get us killed. If cars careen sideways on the road instead of moving forward as we expect them to, we no longer have a rapid response routine unless we have trained a “chunk” for it. And sadly, conscious thought is really inefficient. If you have to think about what you’re doing, you’re more liable to screw up. Your reaction times are orders of magnitude slower, and odds are good you’ll get in a wreck.
+
+当大块中的某些东西的行为与我们的预期不符时，我们就会遇到问题。它甚至会让我们丧命。如果汽车在道路上发生侧滑，而不是按照我们的预期向前行驶，我们就不再有快速反应的程序，除非我们为此训练了一个“大块”。可悲的是，有意识的思考实在是效率低下。如果你必须思考你在做什么，你就更容易搞砸。你的反应时间会慢上几个数量级，很有可能就会出车祸。
+
+That we live in a world of chunking is fascinating. Maybe you're reading this and feeling uncomfortable about whether you're really reading this. But what I really want to talk about is how chunks and routines are built in the first place.
+
+我们生活在一个“分块”的世界里，这一点令人着迷。也许你在读这篇文章时，会对自己是否真的在读这篇文章感到不安。但我真正想说的是，分块和例程是如何建立起来的。
