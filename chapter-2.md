@@ -118,9 +118,9 @@ Assumptions are what the brain is best at. Some days, I suspect that makes us de
 > 
 > 吧啦，吧啦，吧啦……
 > 
-> Raph's just being pedantic again.
+> Raph's just being pedantic again...
 > 
-> 拉斐又开始掉书袋了。
+> 拉斐又开始掉书袋了……
 
 There's a whole branch of science dedicated to figuring out how the brain knows what it does. It's already led to a wonderful set of discoveries.
 
