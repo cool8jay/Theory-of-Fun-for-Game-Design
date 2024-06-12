@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/acknowledgments.png" alt=""/>
+  <img src="images/acknowledgments.png"/>
 </p>
 
 Who wrote on me? 谁在我身上写字？

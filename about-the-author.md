@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/about-the-author.png" alt=""/>
+  <img src="images/about-the-author.png"/>
 </p>
 
 Raph Koster is a veteran game designer who has been professionally credited in almost every area of the game industry. He started out as a hobbyist, making games himself starting in his teens. Eventually he played a key role on [LegendMUD](https://www.legendmud.org/index.php/Welcome_to_Legend), an award-winning text-based virtual world. He’s been the lead designer or director of massive online titles such as [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online) and [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies); a venture-backed entrepreneur heading his own studio, Metaplace; and he’s contributed design work, writing, art, soundtrack music, and programming to many more titles ranging from Facebook games to single-player games for handheld consoles.

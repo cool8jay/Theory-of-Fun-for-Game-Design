@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/what-people-are-saying.png" alt=""/>
+  <img src="images/what-people-are-saying.png"/>
 </p>
 
 "The best game design book I have ever read."
@@ -8,7 +8,7 @@
 
 “我读过的最棒的游戏设计书。”
 
-——大卫·杰夫，《战神》创意总监
+——大卫·贾夫，《战神》创意总监
 
 <hr>
 
