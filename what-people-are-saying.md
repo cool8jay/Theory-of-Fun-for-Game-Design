@@ -296,7 +296,7 @@ One of the "Five Books You Should Read About Game Design"
 
 “这是一本非常有趣的书：D 以诙谐有趣的风格呈现。”
 
--迈克尔·萨曼，[故事的故事](https://www.tale-of-tales.com/index.php)游戏工作室
+——迈克尔·萨曼，[故事的故事](https://www.tale-of-tales.com/index.php)游戏工作室
 
 <hr>
 
@@ -326,7 +326,7 @@ One of the "Five Books You Should Read About Game Design"
 
 “我最喜欢的书[之一]……拉斐是许多著名网络游戏的创意负责人，他首先从人性入手，推断出游戏的重要性，并提出了理解游戏的公式。最后你会惊呼，'哇哦'。”
 
--乔治·“胖子”·桑格，游戏音频传奇人物
+——乔治·“胖子”·桑格，游戏音频传奇人物
 
 <hr>
 
@@ -366,7 +366,7 @@ One of the "Five Books You Should Read About Game Design"
 
 “值得庆幸的是，《趣味理论》在各个层面上都超出了我的预期。它具有《理解漫画》的易读性，每隔一页就有一个用图片描述的故事。但它也有深度……这是一本出色的书，注定成为经典。”
 
--特拉·诺娃
+——特拉·诺娃
 
 <hr>
 
@@ -396,7 +396,7 @@ One of the "Five Books You Should Read About Game Design"
 
 “我是这本书的超级粉丝。到目前为止，我已经送出了将近 15 本书，包括给我母亲的一本。我喜欢用这本书来引发一场高级设计对话，同时也用它来向我妈妈解释我到底是做什么工作的，以及为什么我玩的这些游戏真的很重要。”
 
-—保罗·斯特凡诺克，游戏设计师
+——保罗·斯特凡诺克，游戏设计师
 
 <hr>
 
@@ -406,7 +406,7 @@ One of the "Five Books You Should Read About Game Design"
 
 “顺便说一句，如果你还没有买这本书，你应该马上买。是的，我极力推荐。”
 
--理查德·巴特尔博士，MUDs 的联合创始人
+——理查德·巴特尔博士，MUDs 的联合创始人
 
 <hr>
 
