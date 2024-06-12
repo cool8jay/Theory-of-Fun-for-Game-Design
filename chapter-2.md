@@ -98,9 +98,9 @@ Simply put, the brain is made to fill in blanks. We do this so much we don't eve
 
 简单来说，大脑天生就是用来填补空白的。我们这样做得如此频繁，以至于我们甚至没有意识到自己在这么做。
 
-Experts have been telling us for a while now that we're not really "conscious" in the way that we think we are; we do most things on autopilot. But autopilot only works when we have a reasonably accurate picture of the world around us. Our noses really ought to be blocking a lot of our view, but when we cross our eyes, our brains magically make our nose invisible. What the heck has the brain managed to put in its place? The answer, oddly, is an assumption—a reasonable construct based on the input from both eyes and what we have seen before.
+Experts have been telling us for a while now that we're not really "conscious" in the way that we think we are; we do most things on autopilot. But autopilot only works when we have a reasonably accurate picture of the world around us. Our noses really ought to be blocking a lot of our view, but when we cross our eyes, our brains magically make our nose invisible. What the heck has the brain managed to put in its place? The answer, oddly, is an *assumption*—a reasonable construct based on the input from both eyes and what we have seen before.
 
-专家们已经告诉我们一段时间，我们的“意识”并不像我们认为的那样，我们做的大多数事情都是在自动驾驶状态下完成的。但是，只有当我们对周围的世界有一个相当准确的认识时，自动驾驶才会起作用。我们的鼻子本应挡住我们的大部分视线，但当我们睁开眼睛时，大脑却神奇地让我们的鼻子看不见了。大脑到底在它的位置上放了什么？奇怪的是，答案是一种假设——一种基于双眼输入和我们之前所见的合理构造。
+专家们已经告诉我们一段时间，我们的“意识”并不像我们认为的那样，我们做的大多数事情都是在自动驾驶状态下完成的。但是，只有当我们对周围的世界有一个相当准确的认识时，自动驾驶才会起作用。我们的鼻子本应挡住我们的大部分视线，但当我们睁开眼睛时，大脑却神奇地让我们的鼻子看不见了。大脑到底在它的位置上放了什么？奇怪的是，答案是一种*假设*——一种基于双眼输入和我们之前所见的合理构造。
 
 Assumptions are what the brain is best at. Some days, I suspect that makes us despair.
 
@@ -126,17 +126,17 @@ There's a whole branch of science dedicated to figuring out how the brain knows 
 
 有一门科学专门研究大脑如何知道自己在做什么。这已经带来了一系列奇妙的发现。
 
-We've learned that if you show someone a movie with a lot of basketball players in it and tell them in advance to count the basketballs, they will probably miss the large gorilla in the background, even though it's a somewhat noticeable object. The brain is good at cutting out the irrelevant.
+We've learned that if you show someone a movie with a lot of basketball players in it and tell them in advance to count the basketballs, they will probably miss the large gorilla in the background, even though it's a somewhat noticeable object. *The brain is good at cutting out the irrelevant*.
 
-我们已经知道，如果你给别人看一部有很多篮球运动员的电影，并事先告诉他们数篮球，他们很可能会错过背景中的大猩猩，尽管它是一个有点引人注目的物体。大脑善于剔除无关紧要的东西。
+我们已经知道，如果你给别人看一部有很多篮球运动员的电影，并事先告诉他们数篮球，他们很可能会错过背景中的大猩猩，尽管它是一个有点引人注目的物体。*大脑善于剔除无关紧要的东西*。
 
-We've also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. The brain notices a lot more than we think it does.
+We've also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. <!--The brain notices a lot more than we think it does-->.
 
-我们还发现，如果你让一个人进入催眠恍惚状态，让她描述某件事情，她描述的内容往往会比在大街上问她要多得多。大脑注意到的东西比我们想象的要多得多。
+我们还发现，如果你让一个人进入催眠恍惚状态，让她描述某件事情，她描述的内容往往会比在大街上问她要多得多。*大脑注意到的东西比我们想象的要多得多*。
 
-We now know that when you ask someone to draw something, he is far more likely to draw the generalized iconic version of the object that he keeps in his head than he is to draw the actual object in front of him. In fact, seeing what is actually there with our conscious mind is really hard to do, and most people never learn how to do it! The brain is actively hiding the real world from us.
+We now know that when you ask someone to draw something, he is far more likely to draw the generalized iconic version of the object that he keeps in his head than he is to draw the actual object in front of him. In fact, seeing what is actually there with our conscious mind is really hard to do, and most people never learn how to do it! *The brain is actively hiding the real world from us*.
 
-我们现在知道，当你让一个人画某样东西时，他画出自己脑中保存的该物体的概括性图标版本的可能性要远远大于画出眼前的实际物体。事实上，用我们有意识的思维去看实际存在的东西真的很难做到，而且大多数人永远也学不会！大脑在积极地向我们隐藏真实的世界。
+我们现在知道，当你让一个人画某样东西时，他画出自己脑中保存的该物体的概括性图标版本的可能性要远远大于画出眼前的实际物体。事实上，用我们有意识的思维去看实际存在的东西真的很难做到，而且大多数人永远也学不会！*大脑在积极地向我们隐藏真实的世界*。
 
 These things fall under the rubric of "cognitive theory," a fancy way of saying "how we think we know what we think we know." Most of them are examples of a concept called "chunking."
 
@@ -158,9 +158,9 @@ If I asked you to describe how you got to work in the morning in some detail, yo
 
 如果我让你详细描述一下你早上是如何上班的，你会列出起床、跌跌撞撞地去浴室、洗澡、穿衣、吃早餐、出门、开车去工作地点等步骤。这似乎是一个很好的清单，直到我请你具体回顾一下你是如何完成其中一个步骤的。考虑一下穿衣服这个步骤。你可能很难记住所有的步骤。你先拿上衣还是下衣？你把袜子放在最上面还是第二个抽屉？你先把哪条腿放进裤子里？哪只手先触摸衬衫上的纽扣？
 
-Odds are good that you could come to an answer if you thought about it. This is called a morning routine because it is routine. You rely on doing these things on autopilot. This whole routine has been "chunked" in your brain, which is why you have to work to recall the individual steps. It’s basically a recipe that is burned into your neurons, and you don’t "think" about it anymore.
+Odds are good that you could come to an answer if you thought about it. This is called a morning routine because it *is* routine. You rely on doing these things on autopilot. This whole routine has been "chunked" in your brain, which is why you have to work to recall the individual steps. It’s basically a recipe that is burned into your neurons, and you don’t "think" about it anymore.
 
-如果你仔细想想，很有可能得出答案。这就是所谓的晨间例行公事，因为它就是例行公事。你依靠自动驾驶来做这些事情。整个例行公事已经在你的大脑中“分块”，这就是为什么你必须努力回想各个步骤。这基本上就是一个烙印在你神经元里的食谱，你不再“思考”它。
+如果你仔细想想，很有可能得出答案。这就是所谓的晨间常规，因为它*就是*常规。你依靠自动驾驶来做这些事情。整个常规已经在你的大脑中“分块”，这就是为什么你必须努力回想各个步骤。这基本上就是一个烙印在你神经元里的食谱，你不再“思考”它。
 
 Whatever “thinking” means.
 
@@ -180,12 +180,36 @@ We're usually running on these automatic chunked patterns. Thinking is, in fact,
 
 In fact, most of what we see is also a chunked pattern. We rarely look at the real world; we instead recognize something we have chunked and leave it at that. The world could easily be composed of cardboard stand-ins for real objects as far as our brains are concerned. One might argue that the essence of much of art is forcing us to see things as they are rather than as we assume them to be. Poems about trees force us to look at the majesty of bark and the subtlety of leaf, the strength of trunk and the amazing abstractness of the negative space between boughs; they are getting us to ignore the image in our head of "wood, big greenish, whatever" that we take for granted.
 
-事实上，我们所看到的大部分事物也是分块模式。我们很少去看真实的世界，而是去认识一些我们已经分块的东西，然后就不管它了。就我们的大脑而言，这个世界很容易由纸板组成的真实物体的替身。有人可能会说，许多艺术的本质就是迫使我们看到事物的本来面目，而不是我们假定的样子。关于树的诗歌迫使我们观察树皮的威严和树叶的细腻、树干的力量和枝桠间负空间的惊人抽象性；它们让我们忽略我们头脑中理所当然的“木头、大块的绿色什么的”形象。
+事实上，我们所看到的大部分事物也是分块模式。我们很少去看真实的世界，而是去识别一些我们已经分块的东西，然后就不管它了。就我们的大脑而言，这个世界很容易由纸板组成的真实物体的替身。有人可能会说，许多艺术的本质就是迫使我们看到事物的本来面目，而不是我们假定的样子。关于树的诗歌迫使我们观察树皮的壮观和树叶的细腻、树干的力量和枝桠间负空间的惊人抽象性；它们让我们忽略我们头脑中理所当然的“木头、大块的绿色什么的”形象。
 
-When something in a chunk does not behave as we expect it to, we have problems. * It can even get us killed. If cars careen sideways on the road instead of moving forward as we expect them to, we no longer have a rapid response routine unless we have trained a “chunk” for it. And sadly, conscious thought is really inefficient. If you have to think about what you’re doing, you’re more liable to screw up. Your reaction times are orders of magnitude slower, and odds are good you’ll get in a wreck.
+When something in a chunk does not behave as we expect it to, we have problems. It can even get us killed. If cars careen sideways on the road instead of moving forward as we expect them to, we no longer have a rapid response routine unless we have trained a "chunk" for it. And sadly, conscious thought is really inefficient. If you have to think about what you're doing, you're more liable to screw up. Your reaction times are orders of magnitude slower, and odds are good you’ll get in a wreck.
 
-当大块中的某些东西的行为与我们的预期不符时，我们就会遇到问题。它甚至会让我们丧命。如果汽车在道路上发生侧滑，而不是按照我们的预期向前行驶，我们就不再有快速反应的程序，除非我们为此训练了一个“大块”。可悲的是，有意识的思考实在是效率低下。如果你必须思考你在做什么，你就更容易搞砸。你的反应时间会慢上几个数量级，很有可能就会出车祸。
+当成块的某些东西的行为与我们的预期不符时，我们就会遇到问题。它甚至会让我们丧命。如果汽车在道路上发生侧滑，而不是按照我们的预期向前行驶，我们就不再有快速反应的常规，除非我们为此训练了一个“大块”。可悲的是，有意识的思考实在是效率低下。如果你必须思考你在做什么，你就更容易搞砸。你的反应时间会慢上几个数量级，很有可能就会出车祸。
 
 That we live in a world of chunking is fascinating. Maybe you're reading this and feeling uncomfortable about whether you're really reading this. But what I really want to talk about is how chunks and routines are built in the first place.
 
-我们生活在一个“分块”的世界里，这一点令人着迷。也许你在读这篇文章时，会对自己是否真的在读这篇文章感到不安。但我真正想说的是，分块和例程是如何建立起来的。
+我们生活在一个分块的世界里，这一点令人着迷。也许你在读这篇文章时，会对自己是否真的在读这篇文章感到不安。但我真正想说的是，分块和常规是如何建立起来的。
+
+<p align="center">
+  <img src="images/2.6.png"/>
+</p>
+
+> This can mess us up when something changes and isn't in the icon.
+> 
+> 当某些事物发生变化且不在图标中时，这可能会让我们手忙脚乱。
+
+People dislike chaos. We like order—not regimented order, but order with a bit of *texture* or variation to it. For example, there's a long tradition in art history of observing that many paintings use a system of order called the golden section, which is basically just a way of dividing up the space on the painting into boxes of different proportions. It turns out that doing so makes the painting appear "prettier" to us.
+
+人们不喜欢混乱。我们喜欢秩序——不是严格死板的秩序，而是有点*质感*或变化的秩序。例如，艺术史上有一个悠久的传统，即观察到许多画作都使用了一种名为*黄金分割*的秩序系统，这种系统基本上就是将画作上的空间分割成不同比例的方块。事实证明，这样做会让我们觉得画作更“漂亮”。
+
+This isn't exactly a revelation to anyone in the arts. Excess chaos just doesn't have pop appeal. We call it "noise," "ugly," or "formless." My music teacher in college said, "Music is ordered sound and silence." "Ordered" is a pretty important word in that sentence.
+
+这对艺术界的人来说并不是什么启示。过度的混乱并没有大众吸引力。我们称之为“噪音”、“丑陋”或 “无形”。我大学时的音乐老师说过 “音乐是有序的声音和寂静。”在这句话中，“有序”是一个相当重要的词。
+
+There's some highly ordered music that doesn't appeal to most of us, though. A lot of folks say that the strain of jazz known as bebop is just noise. But I'm going to offer up an alternate definition of noise: *Noise is any pattern we don't understand*.
+
+不过，有些高度有序的音乐并不吸引我们大多数人。很多人说，被称为比波普的爵士乐分支只是噪音。但我要给噪音下一个另类的定义：*噪音是我们不理解的任何模式*。
+
+Even static has patterns to it. If the little black and white dots are the output of random numbers, they have the pattern of the output of random number generators—a complex pattern, but a pattern nonetheless. If you happen to know the algorithm used to generate the number, and the seed from which the algorithm started, you could exactly replicate that static. There's really next to nothing in the visible universe that is patternless. If we perceive something as noise, it's most likely a failure in ourselves, not a failure in the universe.
+
+即使是静电也有规律可循。如果小黑点和小白点是随机数的输出，那么它们就具有随机数发生器输出的模式——虽然模式复杂，但仍然是一种模式。如果你碰巧知道生成数字的算法，以及算法的起始种子，你就可以完全复制这种静电。在可见的宇宙中，几乎没有什么是没有模式的。如果我们把某些东西视为噪音，那很可能是我们自己的失败，而不是宇宙的失败。
