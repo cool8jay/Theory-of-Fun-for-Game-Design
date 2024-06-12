@@ -1,5 +1,9 @@
 # ABOUT THE AUTHOR 关于作者
 
+<p align="center">
+  <img src="images/about-the-author.png" alt=""/>
+</p>
+
 Raph Koster is a veteran game designer who has been professionally credited in almost every area of the game industry. He started out as a hobbyist, making games himself starting in his teens. Eventually he played a key role on [LegendMUD](https://www.legendmud.org/index.php/Welcome_to_Legend), an award-winning text-based virtual world. He’s been the lead designer or director of massive online titles such as [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online) and [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies); a venture-backed entrepreneur heading his own studio, Metaplace; and he’s contributed design work, writing, art, soundtrack music, and programming to many more titles ranging from Facebook games to single-player games for handheld consoles.
 
 拉斐·科斯特是一位资深的游戏设计师，他在游戏行业的几乎所有领域都有专业的贡献。他最初只是一个业余爱好者、从十几岁开始自己制作游戏。最终，他在[《传奇MUD》](https://www.legendmud.org/index.php/Welcome_to_Legend)这一屡获殊荣的基于文本的虚拟世界中扮演了重要角色。他曾是[《网络创世纪》](https://en.wikipedia.org/wiki/Ultima_Online)和[《星球大战星系》](https://en.wikipedia.org/wiki/Star_Wars_Galaxies)等大型在线游戏的首席设计师或总监。风险投资企业家，领导自己的工作室 Metaplace；他还为从 Facebook 游戏到掌上游戏机单人游戏等更多游戏提供设计、写作、美术、配乐和编程服务。
