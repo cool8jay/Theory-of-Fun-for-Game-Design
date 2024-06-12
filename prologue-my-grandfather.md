@@ -19,3 +19,7 @@ My kids were leading me, without my quite knowing it, towards a theory of fun. A
 <p align="center">
   <img src="images/1.png" alt=""/>
 </p>
+
+My kids are learning tic-tac-toe these days. 我的孩子们最近在学习井字游戏。
+age 5. 5岁。
+age 7. 7岁。
