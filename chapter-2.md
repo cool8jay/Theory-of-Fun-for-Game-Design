@@ -232,7 +232,7 @@ If you get past your initial distaste (which may last only a fraction of a secon
 
 If jazz happens to interest you, you'll sink into these patterns and come to expect them. If you get really into it, you may come to feel that a musical style such as alternating-bass* folk music is hopelessly "square."
 
-如果你对爵士乐感兴趣，你就会沉浸在这些模式中，并开始期待它们。如果你真的喜欢上了爵士乐，你可能会觉得像交替低音*民乐这样的音乐风格是无可救药的“古板”。
+如果你对爵士乐感兴趣，你就会沉浸在这些模式中，并开始期待它们。如果你真的喜欢上了爵士乐，你可能会觉得像交替低音*民乐这样的音乐风格是无可救药的“呆板”。
 
 Congratulations, you just chunked up jazz. (Hmm, I hope that doesn’t sound too disgusting!)
 
