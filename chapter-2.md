@@ -302,6 +302,14 @@ The second level of the brain is really slow. It's integrative, associative, and
   <img src="images/2.9.png"/>
 </p>
 
+> We call this "practicing," and the more we do it,
+> 
+> 我们称之为 "练习"，而且越练越多，
+> 
+> HELP WANTED
+> 
+> 需要帮助
+
 The last kind of thinking is not thinking. When you stick your finger in fire, you snatch it back before your brain has time to think about it (seriously, it's been measured[^finger_in_fire]).
 
 最后一种思考不是思考。当你把手指伸进火里时，你会在大脑来不及思考之前就把它收回来（说真的，有人测过[^finger_in_fire]）。
@@ -333,6 +341,10 @@ OK, sick joke aside, it illustrates that we're not just talking about muscle mem
 <p align="center">
   <img src="images/2.10.png"/>
 </p>
+
+> the less we have to think about what we're doing.
+> 
+> 我们就越不用思考我们在做什么。
 
 Take the example of playing a musical instrument. I play the guitar—mostly acoustic guitar. I've also dabbled in piano and keyboards, and I've had enough musical training that I can fake it with a banjo or mountain dulcimer.
 
