@@ -214,11 +214,11 @@ That we live in a world of chunking is fascinating. Maybe you're reading this an
 > 
 > 当某些事物发生变化且不在图标中时，这可能会让我们手忙脚乱。
 
-People dislike chaos. We like order—not regimented order, but order with a bit of *texture* or variation to it. For example, there's a long tradition in art history of observing that many paintings use a system of order called *the golden section*[^the_golder_section], which is basically just a way of dividing up the space on the painting into boxes of different proportions. It turns out that doing so makes the painting appear "prettier" to us.
+People dislike chaos. We like order—not regimented order, but order with a bit of *texture* or variation to it. For example, there's a long tradition in art history of observing that many paintings use a system of order called *the golden section*[^the_golden_section], which is basically just a way of dividing up the space on the painting into boxes of different proportions. It turns out that doing so makes the painting appear "prettier" to us.
 
-人们不喜欢混乱。我们喜欢秩序——不是严格死板的秩序，而是有点*质感*或变化的秩序。例如，艺术史上有一个悠久的传统，许多画作都使用了一种名为*黄金分割*[^the_golder_section]的秩序系统，这种系统基本上就是将画作上的空间分割成不同比例的方块。事实证明，这样做会让我们觉得画作更“漂亮”。
+人们不喜欢混乱。我们喜欢秩序——不是严格死板的秩序，而是有点*质感*或变化的秩序。例如，艺术史上有一个悠久的传统，许多画作都使用了一种名为*黄金分割*[^the_golden_section]的秩序系统，这种系统基本上就是将画作上的空间分割成不同比例的方块。事实证明，这样做会让我们觉得画作更“漂亮”。
 
-[^the_golder_section]: The golden section: Also called the golden mean, golden ratio, and divine proportion. This is too large a topic to discuss in an endnote; whole books have been written about it (such as Mario Livio’s The Golden Ratio: The Story of Phi, the World’s Most Astonishing Number). The golden ratio is the irrational number, approximately 1.618, called phi or ϕ. Ever since the ancient Greeks, art composed using this ratio in the composition has been deemed more beautiful. Some degree of this perception seems to be hardwired into our brain, perhaps because the ratio manifests in a wide range of natural phenomena, including the spiral pattern of seeds and petals around a flower stem, the shape of curling sea-shells, and certain proportions of the human body. 黄金分割：又称黄金平均数、黄金比例和神圣比例。这个话题太大，不可能在尾注中讨论；关于它已经写了很多书（如马里奥·利维奥的《黄金比例：世界上最惊人的数字——ϕ的故事》）。黄金比例是一个无理数，约为 1.618，称为 phi 或 ϕ。自古希腊以来，运用这一比例进行创作的艺术作品就被认为更加美观。某种程度上，这种感知似乎植根于我们的大脑中，可能是因为这一比例广泛体现在众多自然现象中，包括花茎周围种子和花瓣的螺旋排列、海螺的卷曲形状，以及人体的某些比例。
+[^the_golden_section]: The golden section: Also called the golden mean, golden ratio, and divine proportion. This is too large a topic to discuss in an endnote; whole books have been written about it (such as Mario Livio's The Golden Ratio: The Story of Phi, the World's Most Astonishing Number). The golden ratio is the irrational number, approximately 1.618, called phi or ϕ. Ever since the ancient Greeks, art composed using this ratio in the composition has been deemed more beautiful. Some degree of this perception seems to be hardwired into our brain, perhaps because the ratio manifests in a wide range of natural phenomena, including the spiral pattern of seeds and petals around a flower stem, the shape of curling sea-shells, and certain proportions of the human body. 黄金分割：又称黄金平均数、黄金比例和神圣比例。这个话题太大，不可能在尾注中讨论；关于它已经写了很多书（如马里奥·利维奥的《黄金比例：世界上最惊人的数字——ϕ的故事》）。黄金比例是一个无理数，约为 1.618，称为 phi 或 ϕ。自古希腊以来，运用这一比例进行创作的艺术作品就被认为更加美观。某种程度上，这种感知似乎植根于我们的大脑中，可能是因为这一比例广泛体现在众多自然现象中，包括花茎周围种子和花瓣的螺旋排列、海螺的卷曲形状，以及人体的某些比例。
 
 This isn't exactly a revelation to anyone in the arts. Excess chaos just doesn't have pop appeal. We call it "noise," "ugly," or "formless." My music teacher in college said, "Music is ordered sound and silence." "Ordered" is a pretty important word in that sentence.
 
@@ -232,7 +232,7 @@ Even static has patterns to it[^even_static_has_patterns]. If the little black a
 
 即使是雪花屏也有模式[^even_static_has_patterns]。如果小黑点和小白点是随机数的输出，那么它们就具有随机数发生器输出的模式——虽然模式复杂，但仍然是一种模式。如果你碰巧知道生成数字的算法，以及算法的起始种子，你就可以精确地复现那个雪花点画面。在可见的宇宙中，几乎没有什么是没有模式的。如果我们把某些东西视为噪音，那很可能是我们自己的失败，而不是宇宙的失败。
 
-[^even_static_has_patterns]: Even static has patterns: A concept from algorithmic information theory. An algorithm is an elegant way to describe complex information. The fraction "22 divided by 7" is a lot shorter than writing out 3.1428571. When we look at 3.1428571, it looks like chaos (it might look like π, but it’s only an approximation). And yet the 22/7 expresses this very big, dense piece of information in a concise manner when we use the algorithm of long division on it. What looks like highly disordered information may actually be highly ordered information—we just might not know what the algorithm to describe it is. Three people described algorithmic information theory nearly simultaneously: Andrei Kolmogorov, Raymond Solomonoff, and Gregory Chaitin, all of whom arrived at it independently. 即使是雪花屏也有模式：算法信息论的一个概念。算法是描述复杂信息的一种优雅方式。分数 “22 除以 7 ”要比写出 3.1428571 短得多。当我们看 3.1428571 时，它看起来像一团乱麻（它可能看起来像 π，但这只是一个近似值）。然而，当我们用长除法的算法来计算时，22/7 却能简明扼要地表达出这一大段密集的信息。看似高度无序的信息实际上可能是高度有序的信息，只是我们可能不知道描述它的算法是什么。有三个人几乎同时描述了算法信息论：安德烈·科尔莫戈罗夫、雷蒙德·所罗门诺夫和格雷戈里·柴廷，他们都是独立提出这一理论的。
+[^even_static_has_patterns]: Even static has patterns: A concept from algorithmic information theory. An algorithm is an elegant way to describe complex information. The fraction "22 divided by 7" is a lot shorter than writing out 3.1428571. When we look at 3.1428571, it looks like chaos (it might look like π, but it's only an approximation). And yet the 22/7 expresses this very big, dense piece of information in a concise manner when we use the algorithm of long division on it. What looks like highly disordered information may actually be highly ordered information—we just might not know what the algorithm to describe it is. Three people described algorithmic information theory nearly simultaneously: Andrei Kolmogorov, Raymond Solomonoff, and Gregory Chaitin, all of whom arrived at it independently. 即使是雪花屏也有模式：算法信息论的一个概念。算法是描述复杂信息的一种优雅方式。分数 “22 除以 7 ”要比写出 3.1428571 短得多。当我们看 3.1428571 时，它看起来像一团乱麻（它可能看起来像 π，但这只是一个近似值）。然而，当我们用长除法的算法来计算时，22/7 却能简明扼要地表达出这一大段密集的信息。看似高度无序的信息实际上可能是高度有序的信息，只是我们可能不知道描述它的算法是什么。有三个人几乎同时描述了算法信息论：安德烈·科尔莫戈罗夫、雷蒙德·所罗门诺夫和格雷戈里·柴廷，他们都是独立提出这一理论的。
 
 <p align="center">
   <img src="images/2.7.png"/>
@@ -248,13 +248,17 @@ The first time you hear bebop jazz it may sound weird to you, especially if you'
 
 [^three_chords_and_the_truth]: Three chords and the truth: One of the most basic chord progressions in all of music is the progression from tonic to subdominant to dominant and back again, often written as I-IV-V. In most folk music, blues, and classic rock, this pattern repeats over and over again, albeit in different keys. Music theory states that certain chords lead naturally into others because of leading tones within the chord—the V chord “wants to” go to the I chord because the V chord includes a note that is one half-step below the tonic note. Stopping on the V makes the music sound unresolved. This is also an expression of information theory, in that skilled musicians can intuitively guess what sorts of harmonic structures will follow on a given chord based on their experience. 三和弦与真理：所有音乐中最基本的和弦进行之一，就是从主和弦到下属和弦再到属和弦，通常写成 I-IV-V。在大多数民间音乐、蓝调和经典摇滚中，尽管是在不同的调性上，这个模式会反复出现。音乐理论认为，由于和弦内部的导音，某些和弦自然会引导到其他和弦——V和弦“想要”进入I和弦，这是因为 V 和弦中的一个音比主音低半音。在 V 音上停顿会使音乐听起来不完整。这也是信息论的一种表现形式，因为熟练的音乐家可以根据自己的经验，凭直觉猜测特定和弦后出现什么样的和声结构。
 
-If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you'll spot the flattened fifth* that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you get it, and experience a moment of discovery, of joy.
+If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you'll spot the flattened fifth[^flat_fifth] that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you get it, and experience a moment of discovery, of joy.
 
-如果你摆脱了最初的厌恶（可能只持续几分之一秒），你可能会发现其中蕴含的模式。例如，你会发现对爵士乐来说非常重要的平五度。你开始用手指敲打预期的 4/4 拍子，却沮丧地发现实际上是 7/8 拍或其他拍子。你会茫然一会儿，但一旦你明白了，你可能会体验到一丝喜悦，体验到发现、喜悦的时刻。
+如果你摆脱了最初的厌恶（可能只持续几分之一秒），你可能会发现其中蕴含的模式。例如，你会发现对爵士乐来说非常重要的降五度[^flat_fifth]。你开始用手指敲打预期的 4/4 拍子，却沮丧地发现实际上是 7/8 拍或其他拍子。你会茫然一会儿，但一旦你明白了，你可能会体验到一丝喜悦，体验到发现、喜悦的时刻。
 
-If jazz happens to interest you, you'll sink into these patterns and come to expect them. If you get really into it, you may come to feel that a musical style such as alternating-bass* folk music is hopelessly "square."
+[^flat_fifth]: Flat fifth: A major or minor chord will make use of a perfect fifth, which is two notes that are exactly seven half-steps apart on the scale (seven black or white keys on the piano). The flat fifth, or tritone, is six half-steps and is extremely dissonant, unlike the perfect fifth and perfect fourth. In much classical music, the tritone is not permitted and is called “the devil's interval.” It is, however, extremely common in jazz. 降五度：大调或小调和弦都会使用完全五度，即在音阶上相隔七个半音（钢琴上的七个黑键或白键）的两个音符。与完全五度和完全四度不同，平五度，或称三全音，是六个半音，极不和谐。在许多古典音乐中，三全音是不允许出现的，被称为“魔鬼音程”。但在爵士乐中却极为常见。
 
-如果你对爵士乐感兴趣，你就会沉浸在这些模式中，并开始期待它们。如果你真的喜欢上了爵士乐，你可能会觉得像交替低音*民乐这样的音乐风格是无可救药的“呆板”。
+If jazz happens to interest you, you'll sink into these patterns and come to expect them. If you get really into it, you may come to feel that a musical style such as alternating-bass[^alternating_bass] folk music is hopelessly "square."
+
+如果你对爵士乐感兴趣，你就会沉浸在这些模式中，并开始期待它们。如果你真的喜欢上了爵士乐，你可能会觉得像交替低音[^alternating_bass]民谣这样的音乐风格是无可救药的“呆板”。
+
+[^alternating_bass]: Alternating bass: A rhythm whereby the bass alternates steadily between the tonic note of a chord and the perfect fifth above it. 交替低音：低音在和弦的调性音与其上方的完全五度音之间稳定交替的一种节奏。
 
 Congratulations, you just chunked up jazz. (Hmm, I hope that doesn't sound too disgusting!)
 
@@ -263,3 +267,33 @@ Congratulations, you just chunked up jazz. (Hmm, I hope that doesn't sound too d
 {% hint style="info" %}
 译者注：chunk up，还有呕吐的意思。
 {% endhint %}
+
+<p align="center">
+  <img src="images/2.8.png"/>
+</p>
+
+> But once we see a pattern we delight in tracing it and seeing it reoccur.
+> 
+> 但是，一旦我们发现了一种模式，我们就会乐此不疲地追踪它，并看到它再次出现。
+
+That doesn't mean you are done with jazz, though. There's a long way to go between intellectual understanding, intuitive understanding, and grokking something.
+
+但这并不意味着你对爵士乐的了解已经结束。在智力理解、直觉理解和 "摸索 "之间，还有很长的路要走。
+
+"Grok" is a really useful word. Robert Heinlein coined it in his novel Stranger in a Strange Land[^grok_and_robert_heinlein].  It means that you understand something so thoroughly that you have become one with it and even love it. It's a profound understanding beyond intuition or empathy (though those are required steps on the way).
+
+“神入”是一个非常有用的词。罗伯特·海因莱因在他的小说《异乡异客》[^grok_and_robert_heinlein]中创造了这个词。它的意思是，你对某事物的理解如此透彻，以至于与它融为一体，甚至爱上了它。这是一种超越直觉或共鸣的深刻理解（虽然这些都是理解过程中的必要步骤）。
+
+[^grok_and_robert_heinlein]: Grok and Robert Heinlein: The definition offered in the book is "Grok means to understand so thoroughly that the observer becomes a part of the observed—to merge, blend, intermarry, lose identity in group experience. It means almost everything that we mean by religion, philosophy, and science— and it means as little to us (because we are from Earth) as color means to a blind man." In Martian, however, the word means "to drink." 神入和罗伯特·海因莱因：书中给出的定义是：“神入意味着理解得如此透彻，以至于观察者成为被观察者的一部分——在群体经验中融合、交融、通婚、失去个体特性。它几乎意味着我们所说的宗教、哲学和科学的一切——它对我们（因为我们来自地球）的意义就像颜色对盲人的意义一样微不足道”。然而，在火星语中，这个词的意思是“喝”。
+
+"Grokking" has a lot in common with what we call "muscle memory." Some writers on cognition describe the brain as functioning on three levels[^brain_functioning_on_three_levels]. The first level is what we call conscious thought. It's logical and works on a basically mathematical level, assigning values and making lists. It's kind of slow, even in those genius-IQ types. This is the sort of mind we measure when we take IQ tests.
+
+“Grokking”与我们所说的“肌肉记忆”有很多共同之处。一些研究认知的作家将大脑的功能描述为三个层次[^brain_functioning_on_three_levels]。第一个层次是我们所说的有意识思维。它的逻辑性很强，基本上是在数学层面上工作，分配数值并列出清单。它有点慢，即使是那些天才智商型的人也是如此。我们在智商测试中测量的就是这种思维。
+
+[^brain_functioning_on_three_levels]: Brain functioning on three levels: A good book describing this theory is Hare Brain, Tortoise Mind by cognitive scientist Guy Claxton, published by Ecco in 2000. He describes how many problems are best solved by the unconscious mind rather than the conscious, or "D-mode," brain. 大脑功能分三个层次：认知科学家盖伊·克莱克斯顿于 2000 年由 Ecco 出版社出版的《兔头龟脑》就是一本描述这一理论的好书。他描述了许多问题的最佳解决方式是通过无意识思维而非有意识，或者“深思（Deliberation）模式”大脑。
+
+The second level of the brain is really slow. It's integrative, associative, and intuitive. It links things that don't make much sense. This is the part of the brain that packages things up and chunks them. This part of how we think isn't something we can access directly—it doesn't use words. It's also frequently wrong. It's the source of "common sense," which is often self-contradictory ("look before you leap, but he who hesitates is lost"). It's the thing that builds approximations of reality[^approximations_of_reality].
+
+大脑的第二个层次非常缓慢。它具有整合性、联想性和直觉性。它能将没有多大意义的事物联系起来。这部分大脑会将事物打包并分块。这部分思考方式我们无法直接获取——它不使用语言。它也经常出错。它是“常识”的来源，而“常识”往往是自相矛盾的（“三思而后行，但是，当断不断，反受其乱"）。它是构建现实的近似[^approximations_of_reality]的那部分功能。
+
+[^approximations_of_reality]: Approximations of reality: We deal with approximations all the time, and perhaps they are our only reality. Is color a hue, or electromagnetic radiation? The best example of this that I can come up with is "weight." Physics tells us that mass is the correct concept. But in everyday life weight is "good enough." Another example: hot water is composed of highly excited molecules. But even hot water has molecules that are barely moving (and are therefore “cold”). When we speak of the temperature of water, we don’t consider the trillions of water molecules with varying levels of excitation—we instead consider the average of all of them and call it “temperature,” a convenience that makes sense for us because we’re so big and molecules are so small. Ludwig Boltzmann explained the difference between “temperature” and “individual molecule excitation” as the difference between a macrostate and a microstate. The schemata the brain works with are macrostates—they are algorithmic representations of reality. All of these are models for a reality where temperature and excited molecules are both “real,” but some levels of abstraction are a lot easier to cope with than others. 现实的近似：我们无时无刻不在与近似值打交道，也许它们就是我们唯一的现实。颜色是一种色调，还是电磁辐射？我能想到的最好的例子就是“重量”。物理学告诉我们，质量才是正确的概念。但在日常生活中，重量已经 “足够好”。另一个例子：热水是由高度激发的分子组成的。但即使是热水，里面也有一些分子是几乎不动（因此是“冷”的）。当我们谈论水的温度时，我们不考虑数以万亿计的具有不同激发水平的水分子，而是考虑所有水分子的平均值，并称之为“温度”，这对我们来说很方便，因为我们是如此之大，而分子是如此之小。路德维希·玻尔兹曼将“温度”和“单个分子激发”之间的区别解释为宏观状态和微观状态之间的区别。大脑使用的图式是宏观状态--它们是现实的算法表征。所有这些都是现实的模型，其中温度和激发分子都是“真实的”，但某些抽象层次比其他层次更容易处理。
