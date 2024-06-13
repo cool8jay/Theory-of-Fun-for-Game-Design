@@ -182,7 +182,7 @@ In fact, most of what we see is also a chunked pattern. We rarely look at the re
 
 事实上，我们所看到的大部分事物也是分块模式。我们很少去看真实的世界，而是去识别一些我们已经分块的东西，然后就不管它了。就我们的大脑而言，这个世界很容易由纸板组成的真实物体的替身。有人可能会说，许多艺术的本质就是迫使我们看到事物的本来面目，而不是我们假定的样子。关于树的诗歌迫使我们观察树皮的壮观和树叶的细腻、树干的力量和枝桠间负空间的惊人抽象性；它们让我们忽略我们头脑中理所当然的“木头、大块的绿色什么的”形象。
 
-When something in a chunk does not behave as we expect it to, we have problems. It can even get us killed. If cars careen sideways on the road instead of moving forward as we expect them to, we no longer have a rapid response routine unless we have trained a "chunk" for it. And sadly, conscious thought is really inefficient. If you have to think about what you're doing, you're more liable to screw up. Your reaction times are orders of magnitude slower, and odds are good you’ll get in a wreck.
+When something in a chunk does not behave as we expect it to, we have problems. It can even get us killed. If cars careen sideways on the road instead of moving forward as we expect them to, we no longer have a rapid response routine unless we have trained a "chunk" for it. And sadly, conscious thought is really inefficient. If you have to think about what you're doing, you're more liable to screw up. Your reaction times are orders of magnitude slower, and odds are good you'll get in a wreck.
 
 当成块的某些东西的行为与我们的预期不符时，我们就会遇到问题。它甚至会让我们丧命。如果汽车在道路上发生侧滑，而不是按照我们的预期向前行驶，我们就不再有快速反应的常规，除非我们为此训练了一个“大块”。可悲的是，有意识的思考实在是效率低下。如果你必须思考你在做什么，你就更容易搞砸。你的反应时间会慢上几个数量级，很有可能就会出车祸。
 
@@ -200,19 +200,19 @@ That we live in a world of chunking is fascinating. Maybe you're reading this an
 
 People dislike chaos. We like order—not regimented order, but order with a bit of *texture* or variation to it. For example, there's a long tradition in art history of observing that many paintings use a system of order called the golden section, which is basically just a way of dividing up the space on the painting into boxes of different proportions. It turns out that doing so makes the painting appear "prettier" to us.
 
-人们不喜欢混乱。我们喜欢秩序——不是严格死板的秩序，而是有点*质感*或变化的秩序。例如，艺术史上有一个悠久的传统，即观察到许多画作都使用了一种名为*黄金分割*的秩序系统，这种系统基本上就是将画作上的空间分割成不同比例的方块。事实证明，这样做会让我们觉得画作更“漂亮”。
+人们不喜欢混乱。我们喜欢秩序——不是严格死板的秩序，而是有点*质感*或变化的秩序。例如，艺术史上有一个悠久的传统，许多画作都使用了一种名为*黄金分割*的秩序系统，这种系统基本上就是将画作上的空间分割成不同比例的方块。事实证明，这样做会让我们觉得画作更“漂亮”。
 
 This isn't exactly a revelation to anyone in the arts. Excess chaos just doesn't have pop appeal. We call it "noise," "ugly," or "formless." My music teacher in college said, "Music is ordered sound and silence." "Ordered" is a pretty important word in that sentence.
 
-这对艺术界的人来说并不是什么启示。过度的混乱并没有大众吸引力。我们称之为“噪音”、“丑陋”或 “无形”。我大学时的音乐老师说过 “音乐是有序的声音和寂静。”在这句话中，“有序”是一个相当重要的词。
+这对艺术界的人来说并不是什么启示。过度的混乱并没有大众吸引力。我们称之为“噪音”、“丑陋”或 “杂乱”。我大学时的音乐老师说过：“音乐是有序的声音和寂静。”在这句话中，“有序”是一个相当重要的词。
 
 There's some highly ordered music that doesn't appeal to most of us, though. A lot of folks say that the strain of jazz known as bebop is just noise. But I'm going to offer up an alternate definition of noise: *Noise is any pattern we don't understand*.
 
-不过，有些高度有序的音乐并不吸引我们大多数人。很多人说，被称为比波普的爵士乐分支只是噪音。但我要给噪音下一个另类的定义：*噪音是我们不理解的任何模式*。
+不过，有些高度有序的音乐的受众却很小。很多人说，被称为比波普的爵士乐分支只是噪音。但我要给噪音下一个另类的定义：*噪音是我们不理解的任何模式*。
 
 Even static has patterns to it. If the little black and white dots are the output of random numbers, they have the pattern of the output of random number generators—a complex pattern, but a pattern nonetheless. If you happen to know the algorithm used to generate the number, and the seed from which the algorithm started, you could exactly replicate that static. There's really next to nothing in the visible universe that is patternless. If we perceive something as noise, it's most likely a failure in ourselves, not a failure in the universe.
 
-即使是静电也有规律可循。如果小黑点和小白点是随机数的输出，那么它们就具有随机数发生器输出的模式——虽然模式复杂，但仍然是一种模式。如果你碰巧知道生成数字的算法，以及算法的起始种子，你就可以完全复制这种静电。在可见的宇宙中，几乎没有什么是没有模式的。如果我们把某些东西视为噪音，那很可能是我们自己的失败，而不是宇宙的失败。
+即使是雪花屏也有模式。如果小黑点和小白点是随机数的输出，那么它们就具有随机数发生器输出的模式——虽然模式复杂，但仍然是一种模式。如果你碰巧知道生成数字的算法，以及算法的起始种子，你就可以精确地复现那个雪花点画面。在可见的宇宙中，几乎没有什么是没有模式的。如果我们把某些东西视为噪音，那很可能是我们自己的失败，而不是宇宙的失败。
 
 <p align="center">
   <img src="images/2.7.png"/>
@@ -220,15 +220,15 @@ Even static has patterns to it. If the little black and white dots are the outpu
 
 > When we meet noise, and fail to see a pattern in it, we get frustrated, and give up.
 > 
-> 当我们遇到噪音，却无法从中发现规律时，我们就会感到沮丧并放弃。
+> 当我们遇到噪音，却无法从中发现模式时，我们就会感到沮丧并放弃。
  
-The first time you hear bebop jazz it may sound weird to you, especially if you've been reared on good old-fashioned "three chords and the truth"* rock 'n' roll. It’ll be "devil music," to borrow a term from countless exasperated parents who railed against their kids' choice of music.
+The first time you hear bebop jazz it may sound weird to you, especially if you've been reared on good old-fashioned "three chords and the truth"* rock 'n' roll. It'll be "devil music," to borrow a term from countless exasperated parents who railed against their kids' choice of music.
 
-第一次听到贝波普爵士乐时，你可能会觉得怪怪的，尤其是如果你是在老式的“三个和弦和真理”摇滚乐中长大的话。借用无数气急败坏的父母对孩子选择音乐的抨击，这将是“魔鬼音乐”。
+第一次听到贝波普爵士乐时，你可能会觉得怪怪的，尤其是如果你是在老式的“三个和弦和真理”摇滚乐中长大的话。借用无数气急败坏的父母对孩子音乐选择的抨击，这将是“魔鬼音乐”。
 
-If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you’ll spot the flattened fifth* that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you get it, and experience a moment of discovery, of joy.
+If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you'll spot the flattened fifth* that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you get it, and experience a moment of discovery, of joy.
 
-如果你摆脱了最初的厌恶（可能只持续几分之一秒），你可能会发现其中蕴含的规律。例如，你会发现对爵士乐来说非常重要的平五度。你开始用手指敲打预期的 4/4 拍子，却沮丧地发现实际上是 7/8 拍或其他拍子。你会茫然一会儿，但一旦你明白了，你可能会体验到一丝喜悦，体验到发现、喜悦的时刻。
+如果你摆脱了最初的厌恶（可能只持续几分之一秒），你可能会发现其中蕴含的模式。例如，你会发现对爵士乐来说非常重要的平五度。你开始用手指敲打预期的 4/4 拍子，却沮丧地发现实际上是 7/8 拍或其他拍子。你会茫然一会儿，但一旦你明白了，你可能会体验到一丝喜悦，体验到发现、喜悦的时刻。
 
 If jazz happens to interest you, you'll sink into these patterns and come to expect them. If you get really into it, you may come to feel that a musical style such as alternating-bass* folk music is hopelessly "square."
 
