@@ -22,7 +22,7 @@ Those few academics who have tried to define "game" have offered up everything f
 
 [^roger_caillois]: Roger Caillois: An anthropologist who wrote a book called Man, Play and Games in 1958. In it, he also categorized games into four types, based on chance, competition, make-believe or pretense, and vertigo. He saw games primarily as tools of acculturation. 罗杰·卡尤瓦：人类学家，1958 年著有《人、玩和游戏》一书。在这本书中，他还将游戏分为四种类型，分别基于机会、竞争、虚构或伪装以及眩晕。他认为游戏主要是文化适应的工具。
 
-[^johan_huizinga]: Johan Huizinga: Author of Homo Ludens (1938), a book primarily focusing on the importance of play in human culture. Huizinga defines the concept of the “magic circle” within which play takes place as a protected and even sacred space that must not be violated. 约翰·赫伊津哈：《游戏的人》（1938 年）的作者，该书主要关注玩乐在人类文化中的重要性。赫伊津哈提出了“魔法圈”的概念，认为游戏是一个受保护的、甚至是神圣的、不可侵犯的空间。
+[^johan_huizinga]: Johan Huizinga: Author of Homo Ludens (1938), a book primarily focusing on the importance of play in human culture. Huizinga defines the concept of the "magic circle" within which play takes place as a protected and even sacred space that must not be violated. 约翰·赫伊津哈：《游戏的人》（1938 年）的作者，该书主要关注玩乐在人类文化中的重要性。赫伊津哈提出了“魔法圈”的概念，认为游戏是一个受保护的、甚至是神圣的、不可侵犯的空间。
 
 [^jesper_juul]: Jesper Juul: An academic who is a leader of the relatively recent "ludology" movement. His website is [https://www.jesperjuul.net](https://www.jesperjuul.net). I recommend his book Half-Real (MIT Press, 2011) for an introduction to ludology. 杰斯珀·尤尔：最近兴起的 “游戏学”（ludology）运动的领军学者。他的网站是 [https://www.jesperjuul.net](https://www.jesperjuul.net)。我推荐他的《半真实》（麻省理工学院出版社，2011 年）一书，以介绍游戏学。
 
@@ -62,7 +62,7 @@ Game designers themselves offer a bewildering and often contradictory set of def
 
 [^sid_meier]: Sid Meier: One of the most highly regarded computer game designers working today, Meier has been responsible for [Civilization](https://en.wikipedia.org/wiki/Civilization_(series)) (the computer version, not the board game version, although there is now a board game version of the computer game), [Pirates!](https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!), and [Gettysburg](https://en.wikipedia.org/wiki/Sid_Meier%27s_Gettysburg!). 席德·梅尔：当今最受推崇的电脑游戏设计师之一，他的作品包括[《文明》](https://en.wikipedia.org/wiki/Civilization_(series))（电脑版，而非棋盘游戏版，尽管现在电脑游戏也有棋盘游戏版）、[《海盗！》](https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!)和[《盖茨堡战役》](https://en.wikipedia.org/wiki/Sid_Meier%27s_Gettysburg!)。
 
-[^andrew_rollings_and_ernest_adams_on_game_design]: Andrew Rollings and Ernest Adams on Game Design: This book was published by New Riders in 2003. It is a solid “how-to” book covering a variety of game genres as well as general game design principles. Disclaimer: I helped write the chapter on online games, so I am biased. 《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》：这本书由 New Riders 于 2003 年出版。这是一本扎实的“如何做”的书，涵盖了各种游戏类型以及一般的游戏设计原则。免责声明：我参与撰写了关于网络游戏的章节，因此有失偏颇。
+[^andrew_rollings_and_ernest_adams_on_game_design]: Andrew Rollings and Ernest Adams on Game Design: This book was published by New Riders in 2003. It is a solid "how-to" book covering a variety of game genres as well as general game design principles. Disclaimer: I helped write the chapter on online games, so I am biased. 《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》：这本书由 New Riders 于 2003 年出版。这是一本扎实的“如何做”的书，涵盖了各种游戏类型以及一般的游戏设计原则。免责声明：我参与撰写了关于网络游戏的章节，因此有失偏颇。
 
 [^katie_salen_and_eric_zimmerman_and_rules_of_play]: Katie Salen and Eric Zimmerman and Rules of Play: Rules of Play is one of the most important books on what games are and how they work. It was published by the MIT Press in 2003. The authors are academics and also game designers in their own right. 凯蒂·萨伦和埃里克·齐默尔曼和《游戏规则》：《游戏规则》是关于游戏是什么以及游戏如何运作的最重要的书籍之一。该书于 2003 年由麻省理工学院出版社出版。作者是学者，同时也是游戏设计师。
 
@@ -174,7 +174,7 @@ Odds are good that you could come to an answer if you thought about it. This is 
 
 如果你仔细想想，很有可能得出答案。这就是所谓的晨间常规，因为它*就是*常规。你依靠自动驾驶来做这些事情。整个常规已经在你的大脑中“分块”，这就是为什么你必须努力回想各个步骤。这基本上就是一个烙印在你神经元里的食谱，你不再“思考”它。
 
-Whatever “thinking” means.
+Whatever "thinking" means.
 
 不管“思考”是什么意思。
 
@@ -246,7 +246,7 @@ The first time you hear bebop jazz it may sound weird to you, especially if you'
 
 第一次听到贝波普爵士乐时，你可能会觉得怪怪的，尤其是如果你是在老式的“三个和弦和真理”[^three_chords_and_the_truth]摇滚乐中长大的话。借用无数气急败坏的父母对孩子音乐选择的抨击，这将是“魔鬼音乐”。
 
-[^three_chords_and_the_truth]: Three chords and the truth: One of the most basic chord progressions in all of music is the progression from tonic to subdominant to dominant and back again, often written as I-IV-V. In most folk music, blues, and classic rock, this pattern repeats over and over again, albeit in different keys. Music theory states that certain chords lead naturally into others because of leading tones within the chord—the V chord “wants to” go to the I chord because the V chord includes a note that is one half-step below the tonic note. Stopping on the V makes the music sound unresolved. This is also an expression of information theory, in that skilled musicians can intuitively guess what sorts of harmonic structures will follow on a given chord based on their experience. 三和弦与真理：所有音乐中最基本的和弦进行之一，就是从主和弦到下属和弦再到属和弦，通常写成 I-IV-V。在大多数民间音乐、蓝调和经典摇滚中，尽管是在不同的调性上，这个模式会反复出现。音乐理论认为，由于和弦内部的导音，某些和弦自然会引导到其他和弦——V和弦“想要”进入I和弦，这是因为 V 和弦中的一个音比主音低半音。在 V 音上停顿会使音乐听起来不完整。这也是信息论的一种表现形式，因为熟练的音乐家可以根据自己的经验，凭直觉猜测特定和弦后出现什么样的和声结构。
+[^three_chords_and_the_truth]: Three chords and the truth: One of the most basic chord progressions in all of music is the progression from tonic to subdominant to dominant and back again, often written as I-IV-V. In most folk music, blues, and classic rock, this pattern repeats over and over again, albeit in different keys. Music theory states that certain chords lead naturally into others because of leading tones within the chord—the V chord "wants to" go to the I chord because the V chord includes a note that is one half-step below the tonic note. Stopping on the V makes the music sound unresolved. This is also an expression of information theory, in that skilled musicians can intuitively guess what sorts of harmonic structures will follow on a given chord based on their experience. 三和弦与真理：所有音乐中最基本的和弦进行之一，就是从主和弦到下属和弦再到属和弦，通常写成 I-IV-V。在大多数民间音乐、蓝调和经典摇滚中，尽管是在不同的调性上，这个模式会反复出现。音乐理论认为，由于和弦内部的导音，某些和弦自然会引导到其他和弦——V和弦“想要”进入I和弦，这是因为 V 和弦中的一个音比主音低半音。在 V 音上停顿会使音乐听起来不完整。这也是信息论的一种表现形式，因为熟练的音乐家可以根据自己的经验，凭直觉猜测特定和弦后出现什么样的和声结构。
 
 If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you'll spot the flattened fifth[^flat_fifth] that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you get it, and experience a moment of discovery, of joy.
 
@@ -288,7 +288,7 @@ That doesn't mean you are done with jazz, though. There's a long way to go betwe
 
 "Grokking" has a lot in common with what we call "muscle memory." Some writers on cognition describe the brain as functioning on three levels[^brain_functioning_on_three_levels]. The first level is what we call conscious thought. It's logical and works on a basically mathematical level, assigning values and making lists. It's kind of slow, even in those genius-IQ types. This is the sort of mind we measure when we take IQ tests.
 
-“Grokking”与我们所说的“肌肉记忆”有很多共同之处。一些研究认知的作家将大脑的功能描述为三个层次[^brain_functioning_on_three_levels]。第一个层次是我们所说的有意识思维。它的逻辑性很强，基本上是在数学层面上工作，分配数值并列出清单。它有点慢，即使是那些天才智商型的人也是如此。我们在智商测试中测量的就是这种思维。
+“神入”与我们所说的“肌肉记忆”有很多共同之处。一些研究认知的作家将大脑的功能描述为三个层次[^brain_functioning_on_three_levels]。第一个层次是我们所说的有意识思维。它的逻辑性很强，基本上是在数学层面上工作，分配数值并列出清单。它有点慢，即使是那些天才智商型的人也是如此。我们在智商测试中测量的就是这种思维。
 
 [^brain_functioning_on_three_levels]: Brain functioning on three levels: A good book describing this theory is Hare Brain, Tortoise Mind by cognitive scientist Guy Claxton, published by Ecco in 2000. He describes how many problems are best solved by the unconscious mind rather than the conscious, or "D-mode," brain. 大脑功能分三个层次：认知科学家盖伊·克莱克斯顿于 2000 年由 Ecco 出版社出版的《兔头龟脑》就是一本描述这一理论的好书。他描述了许多问题的最佳解决方式是通过无意识思维而非有意识，或者“深思（Deliberation）模式”大脑。
 
@@ -296,4 +296,60 @@ The second level of the brain is really slow. It's integrative, associative, and
 
 大脑的第二个层次非常缓慢。它具有整合性、联想性和直觉性。它能将没有多大意义的事物联系起来。这部分大脑会将事物打包并分块。这部分思考方式我们无法直接获取——它不使用语言。它也经常出错。它是“常识”的来源，而“常识”往往是自相矛盾的（“三思而后行，但是，当断不断，反受其乱"）。它是构建现实的近似[^approximations_of_reality]的那部分功能。
 
-[^approximations_of_reality]: Approximations of reality: We deal with approximations all the time, and perhaps they are our only reality. Is color a hue, or electromagnetic radiation? The best example of this that I can come up with is "weight." Physics tells us that mass is the correct concept. But in everyday life weight is "good enough." Another example: hot water is composed of highly excited molecules. But even hot water has molecules that are barely moving (and are therefore “cold”). When we speak of the temperature of water, we don’t consider the trillions of water molecules with varying levels of excitation—we instead consider the average of all of them and call it “temperature,” a convenience that makes sense for us because we’re so big and molecules are so small. Ludwig Boltzmann explained the difference between “temperature” and “individual molecule excitation” as the difference between a macrostate and a microstate. The schemata the brain works with are macrostates—they are algorithmic representations of reality. All of these are models for a reality where temperature and excited molecules are both “real,” but some levels of abstraction are a lot easier to cope with than others. 现实的近似：我们无时无刻不在与近似值打交道，也许它们就是我们唯一的现实。颜色是一种色调，还是电磁辐射？我能想到的最好的例子就是“重量”。物理学告诉我们，质量才是正确的概念。但在日常生活中，重量已经 “足够好”。另一个例子：热水是由高度激发的分子组成的。但即使是热水，里面也有一些分子是几乎不动（因此是“冷”的）。当我们谈论水的温度时，我们不考虑数以万亿计的具有不同激发水平的水分子，而是考虑所有水分子的平均值，并称之为“温度”，这对我们来说很方便，因为我们是如此之大，而分子是如此之小。路德维希·玻尔兹曼将“温度”和“单个分子激发”之间的区别解释为宏观状态和微观状态之间的区别。大脑使用的图式是宏观状态--它们是现实的算法表征。所有这些都是现实的模型，其中温度和激发分子都是“真实的”，但某些抽象层次比其他层次更容易处理。
+[^approximations_of_reality]: Approximations of reality: We deal with approximations all the time, and perhaps they are our only reality. Is color a hue, or electromagnetic radiation? The best example of this that I can come up with is "weight." Physics tells us that mass is the correct concept. But in everyday life weight is "good enough." Another example: hot water is composed of highly excited molecules. But even hot water has molecules that are barely moving (and are therefore "cold"). When we speak of the temperature of water, we don't consider the trillions of water molecules with varying levels of excitation—we instead consider the average of all of them and call it "temperature," a convenience that makes sense for us because we're so big and molecules are so small. Ludwig Boltzmann explained the difference between "temperature" and "individual molecule excitation" as the difference between a macrostate and a microstate. The schemata the brain works with are macrostates—they are algorithmic representations of reality. All of these are models for a reality where temperature and excited molecules are both "real," but some levels of abstraction are a lot easier to cope with than others. 现实的近似：我们无时无刻不在与近似值打交道，也许它们就是我们唯一的现实。颜色是一种色调，还是电磁辐射？我能想到的最好的例子就是“重量”。物理学告诉我们，质量才是正确的概念。但在日常生活中，重量已经 “足够好”。另一个例子：热水是由高度激发的分子组成的。但即使是热水，里面也有一些分子是几乎不动（因此是“冷”的）。当我们谈论水的温度时，我们不考虑数以万亿计的具有不同激发水平的水分子，而是考虑所有水分子的平均值，并称之为“温度”，这对我们来说很方便，因为我们是如此之大，而分子是如此之小。路德维希·玻尔兹曼将"温度”和“单个分子激发”之间的区别解释为宏观状态和微观状态之间的区别。大脑使用的图式是宏观状态——它们是现实的算法表征。所有这些都是现实的模型，其中温度和激发分子都是“真实的”，但某些抽象层次比其他层次更容易处理。
+
+<p align="center">
+  <img src="images/2.9.png"/>
+</p>
+
+The last kind of thinking is not thinking. When you stick your finger in fire, you snatch it back before your brain has time to think about it (seriously, it's been measured[^finger_in_fire]).
+
+最后一种思考不是思考。当你把手指伸进火里时，你会在大脑来不及思考之前就把它收回来（说真的，有人测过[^finger_in_fire]）。
+
+Calling this “muscle memory” is a lie. Muscles don't really have memory. They're just big ol' springs that coil and uncoil when you run electrical current through them. It's really all about nerves. There's a very large part of your body that works based on the *autonomic nervous system*, which is a fancy way of saying that it makes its own decisions. Some of it is stuff you can learn to bring under more conscious control, like your heart rate. Some of it is reflexes, like snatching your fingers out of the fire. And some of it is stuff you train your body to do.
+
+说这是“肌肉记忆”是骗人的。肌肉并没有真正的记忆。它们只是一个大弹簧，当电流通过它们时，它们就会卷起或松开。真正有记忆的是神经。你的身体有很大一部分是基于*自主神经系统*工作的，这是一种花哨的说法，意味着它自己做出决定。其中有些是你可以学会有意识控制，比如你的心率。有些是条件反射，比如把手指从火中拽出来。还有一些是你训练身体去做的事情。
+
+There's an old joke about a crowd gathered at the bottom of a burning building. Up at the top countless people jump from windows to be caught by the firemen. There's one mother who is unwilling to toss her baby to the waiting rescuers. Finally, one guy at the bottom says, "I can catch the kid, ma'am, I'm a famous football player." So the mother tosses the baby to the football player.
+
+有一个老笑话说，一群人聚集在一栋着火的大楼底部。在楼顶，无数人从窗户跳下，被消防员接住。有一位母亲不愿意把自己的孩子扔给救援人员。最后，底下的一个人说：“我能接住孩子，女士，我是个著名的足球运动员。”于是母亲把孩子扔给了那个足球运动员。
+
+It's a bad toss, so he has to run a little ways. He dives to catch the little tyke, and rolls on the ground in a perfect tumble, and finally stands, holding the baby up to a cheering crowd. Everyone is amazed.
+
+扔得不好，所以他不得不跑一段路。他俯身接住小家伙，在地上翻滚了一个完美的跟头，最后站了起来，把孩子举到欢呼的人群中。所有人都惊呆了。
+
+Then he drop-kicks the baby.
+
+然后，他一脚踢飞了婴儿。
+
+OK, sick joke aside, it illustrates that we're not just talking about muscle memory, but about whole sets of decisions we make instinctively[^football_player].
+
+好了，撇开这个恶心的笑话不谈，这说明我们谈论的不仅仅是肌肉记忆，而是我们本能地做出的一整套决定[^football_player]。
+
+[^finger_in_fire]: Sticking your finger in fire: The typical elapsed time for a reflex reaction such as this is around 250 milliseconds. Doing it consciously requires around 500 milliseconds. 把手指伸进火里：像这样的反射反应一般需要 250 毫秒左右。而有意识地去做则需要大约 500 毫秒。
+
+[^football_player]: The football player and instinctive reactions: In the book Sources of Power: How People Make Decisions, Gary Klein describes how most complex decisions are made based on the first impulse that came to mind and not conscious thought. Eerily, the first impulse is usually right. When it is wrong, however, it can be disastrous. The joke about the football player is funny because it rings true—we recognize something about how the brain works in it. 足球运动员和本能反应：加里·克莱因在《力量之源：人们如何做决定》一书中描述了大多数复杂的决定是如何根据脑海中的第一冲动而不是有意识的思考做出的。令人震惊的是，第一反应通常是正确的。然而，当它是错误的时候，就会带来灾难性的后果。关于足球运动员的笑话很有趣，因为它是真实的——我们从中认识到了大脑是如何工作的。
+
+<p align="center">
+  <img src="images/2.10.png"/>
+</p>
+
+Take the example of playing a musical instrument. I play the guitar—mostly acoustic guitar. I've also dabbled in piano and keyboards, and I've had enough musical training that I can fake it with a banjo or mountain dulcimer.
+
+以演奏乐器为例。我弹吉他，主要是木吉他。我还涉猎过钢琴和键盘乐器，受过足够的音乐训练，可以用班卓琴或山地扬琴假弹。
+
+My wife gave me a mandolin for my birthday one year. Mandolins have a different scale than a guitar—they're tuned like a violin. The frets are closer together. The chords are all different. There are a handful of techniques that just aren't used on the guitar. The notes sustain less. The musical vocabulary is different. And yet, it wasn't that hard to get basic competence.
+
+有一年我过生日，妻子送了我一把曼陀林。曼陀林的音阶与吉他不同，它的调音方式像小提琴。品之间的距离更近。和弦也不一样。有一些技巧在吉他上是用不到的。音符的延音较少。音乐词汇也不同。然而，要获得基本能力并不难。
+
+The reason isn't just muscle memory; that just accounts for some of my ability to move my fingers quickly along the fingerboard, but not all. For example, the distances I move my fingers are very different and the places I move them to are different, too. What is really going on is that because I have been playing guitar for over two decades, I have grokked enough about stringed instruments to create a library of chunked knowledge to apply. When I was playing the guitar all those years, I was also working on more obscure stuff, deepening my knowledge of the intervals between notes, mastering rhythm, and understanding harmonic progression. *
+
+原因不仅仅是肌肉记忆；肌肉记忆只是我手指在指板上快速移动的部分能力，但不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年了，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多晦涩难懂的东西，加深对音符之间的音程、节奏的掌握以及和声进程的理解。*
+
+Building up this library is what we call "practice."* Studies have shown that you don't even have to do it physically. You can just think about doing it and it'll get you much of the way there. This is strong evidence that the brain is doing the work, not the muscles. *
+
+建立这个库就是我们所说的“练习”。研究表明，你甚至不必身体力行。你只需想着去做，就能在很大程度上达到目的。这有力地证明了大脑在做功，而不是肌肉。
+
+When our brain is really into practicing something, we'll dream about it. This is the intuitive part of the brain burning neural pathways into our brain, working on turning newly grasped patterns into something that fits within the context of everything else we know. The ultimate goal is to turn it into a routine. Frankly, my impression is that the brain doesn't particularly want to have to deal with it again.
+
+当我们的大脑真正投入到练习某件事时，我们会梦见它。这是大脑的直觉部分在我们的大脑中燃烧神经通路，努力将新掌握的模式转变为能融入我们已知的一切知识体系的东西。最终目标是将它变成一种常规。坦白说，我的感觉是，大脑并不特别想再次处理这个事。
