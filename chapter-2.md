@@ -116,9 +116,9 @@ There's a whole branch of science dedicated to figuring out [how the brain knows
 
 有一门科学专门研究[大脑如何知道自己在做什么](#user-content-fn-22)[^22]。这已经带来了一系列奇妙的发现。
 
-We've learned that if you show someone a movie with a lot of basketball players in it and tell them in advance to count the basketballs, they will probably miss the large gorilla in the background, even though it's a somewhat [noticeable object](#user-content-fn-23)[^23]. _The brain is good at cutting out the irrelevant_.
+We've learned that if you show someone a movie with a lot of basketball players in it and tell them in advance to count the basketballs, they will probably miss [the large gorilla](#user-content-fn-23)[^23] in the background, even though it's a somewhat noticeable object. _The brain is good at cutting out the irrelevant_.
 
-我们已经知道，如果你给别人看一部有很多篮球运动员的电影，并事先告诉他们数篮球，他们很可能会错过背景中的大猩猩，尽管它是一个有点[引人注目的物体](#user-content-fn-24)[^24]。_大脑善于剔除无关紧要的东西_。
+我们已经知道，如果你给别人看一部有很多篮球运动员的电影，并事先告诉他们数篮球，他们很可能会错过背景中的[大猩猩](#user-content-fn-24)[^24]，尽管它是一个有点引人注目的物体。_大脑善于剔除无关紧要的东西_。
 
 We've also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. .
 
@@ -322,13 +322,13 @@ My wife gave me a mandolin for my birthday one year. Mandolins have a different 
 
 有一年我过生日，妻子送了我一把曼陀林。曼陀林的音阶与吉他不同，它的调音方式像小提琴。品之间的距离更近。和弦也不一样。有一些技巧在吉他上是用不到的。音符的延音较少。音乐词汇也不同。然而，要获得基本能力并不难。
 
-The reason isn't just muscle memory; that just accounts for some of my ability to move my fingers quickly along the fingerboard, but not all. For example, the distances I move my fingers are very different and the places I move them to are different, too. What is really going on is that because I have been playing guitar for over two decades, I have grokked enough about stringed instruments to create a library of chunked knowledge to apply. When I was playing the guitar all those years, I was also working on more obscure stuff, deepening my knowledge of the intervals between notes, mastering rhythm, and understanding harmonic progression. \*
+The reason isn't just muscle memory; that just accounts for some of my ability to move my fingers quickly along the fingerboard, but not all. For example, the distances I move my fingers are very different and the places I move them to are different, too. What is really going on is that because I have been playing guitar for over two decades, I have grokked enough about stringed instruments to create a library of chunked knowledge to apply. When I was playing the guitar all those years, I was also working on more obscure stuff, [deepening my knowledge](#user-content-fn-53)[^53] of the intervals between notes, mastering rhythm, and understanding harmonic progression.
 
-原因不仅仅是肌肉记忆；肌肉记忆只是我手指在指板上快速移动的部分能力，但不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年了，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多晦涩难懂的东西，加深对音符之间的音程、节奏的掌握以及和声进程的理解。\*
+原因不仅仅是肌肉记忆；肌肉记忆只是我手指在指板上快速移动的部分能力，但不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年了，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多晦涩难懂的东西，加深对音符之间的音程、节奏的掌握以及和声进程的[理解](#user-content-fn-54)[^54]。
 
-Building up this library is what we call "practice."\* Studies have shown that you don't even have to do it physically. You can just think about doing it and it'll get you much of the way there. This is strong evidence that the brain is doing the work, not the muscles. \*
+Building up this library is what we call "[practice](#user-content-fn-55)[^55]." Studies have shown that you don't even have to do it physically. You can just think about doing it and it'll get you much of the way there. This is strong evidence that [the brain is doing the work, not the muscles](#user-content-fn-57)[^57].
 
-建立这个库就是我们所说的“练习”。研究表明，你甚至不必身体力行。你只需想着去做，就能在很大程度上达到目的。这有力地证明了大脑在做功，而不是肌肉。
+建立这个库就是我们所说的“[练习](#user-content-fn-56)[^56]”。研究表明，你甚至不必身体力行。你只需想着去做，就能在很大程度上达到目的。这有力地证明了[大脑在做功，而不是肌肉](#user-content-fn-58)[^58]。
 
 When our brain is really into practicing something, we'll dream about it. This is the intuitive part of the brain burning neural pathways into our brain, working on turning newly grasped patterns into something that fits within the context of everything else we know. The ultimate goal is to turn it into a routine. Frankly, my impression is that the brain doesn't particularly want to have to deal with it again.
 
@@ -368,7 +368,7 @@ When our brain is really into practicing something, we'll dream about it. This i
 
 [^17]: Recognizing faces: The part of the brain that recognizes faces is called the fusiform face area, and it's actually used for recognizing individuals of a given class (as opposed to the parts of the brain that recognize classes of things). When people get brain damage in this part of the brain, they become unable to recognize the photographs of famous people, even though they can still classify them as women, men, blondes, brunettes, young, or old. The fusiform face area has to be trained; most people are experts in other people, so they recognize individuals and read their emotions easily. Autistics show reduced functioning of the fusiform face area when examined via MRI. Birdwatchers and car experts show activation of the fusiform face area when they are identifying particular birds or cars.
 
-[^18]: 识别面孔：大脑中识别面孔的部分叫做“（fusiform）梭状回（face）面孔（area）区”，它实际上是用来识别特定类别中的个体的（与大脑中识别事物类别的部分不同）。当人的这部分大脑受到损伤时，他们就无法识别名人的照片，尽管他们仍然可以把名人分为女性、男性、金发、黑发、年轻或年老。梭状回面孔区必须经过训练；大多数人是识人专家，因此他们很容易识别出个人并读懂他们的情绪。通过核磁共振成像检查，自闭症患者的梭状回面孔区功能减弱。观鸟者和汽车专家在识别特定的鸟类或汽车时，梭状回面孔区会被激活。
+[^18]: 识别面孔：大脑中识别面孔的部分叫做“梭状回（fusiform）面孔（face）区（area）”，它实际上是用来识别特定类别中的个体的（与大脑中识别事物类别的部分不同）。当人的这部分大脑受到损伤时，他们就无法识别名人的照片，尽管他们仍然可以把名人分为女性、男性、金发、黑发、年轻或年老。梭状回面孔区必须经过训练；大多数人是识人专家，因此他们很容易识别出个人并读懂他们的情绪。通过核磁共振成像检查，自闭症患者的梭状回面孔区功能减弱。观鸟者和汽车专家在识别特定的鸟类或汽车时，梭状回面孔区会被激活。
 
 [^19]: Filling in blanks and not seeing your nose: Some fun experiments to demonstrate blind spots and the brain filling in known data can be found at [http://faculty.washington.edu/chudler/chvision.html](http://faculty.washington.edu/chudler/chvision.html). Many popular optical illusions are based on the fact that the brain makes assumptions about what we are seeing.
 
@@ -437,3 +437,15 @@ When our brain is really into practicing something, we'll dream about it. This i
 [^51]: The football player and instinctive reactions: In the book Sources of Power: How People Make Decisions, Gary Klein describes how most complex decisions are made based on the first impulse that came to mind and not conscious thought. Eerily, the first impulse is usually right. When it is wrong, however, it can be disastrous. The joke about the football player is funny because it rings true—we recognize something about how the brain works in it.
 
 [^52]: 足球运动员和本能反应：加里·克莱因在《力量之源：人们如何做决定》一书中描述了大多数复杂的决定是如何根据脑海中的第一冲动而不是有意识的思考做出的。令人震惊的是，第一反应通常是正确的。然而，当它是错误的时候，就会带来灾难性的后果。关于足球运动员的笑话很有趣，因为它是真实的——我们从中认识到了大脑是如何工作的。
+
+[^53]: Deepening my knowledge: This is also an expression of information theory. In 1948, Claude Shannon developed the basics of information theory, proposing the notion that you could regard an information stream as a chain of probability events. Assume a limited set of symbols (like, say, the alphabet). When you get one given symbol in a sequence (like, say, the letter Q), you can reduce the possible symbols that might come next (like, say, to just the letter U) because you know enough about the symbolic system within which Q and U exist. You're not likely to pick K, but you might think of E for Q.E.D. or A for Qatar. Music happens to be a highly ordered and fairly limited formal system, and so as you develop a "musical vocabulary," you are also developing a sense of the shape of the entire problem domain, even though a few new letters in the alphabet (such as tremolo on the mandolin) might be new to you.
+
+[^54]: 深化我的知识：这也是信息论的一种表现形式。1948 年，克劳德·香农建立了信息论的基本原理，提出了可以将信息流视为一连串概率事件的概念。假设有一组有限的符号（比如字母表）。当你在一个序列中得到一个给定的符号（比如说字母 Q）时，你可以减少接下来可能出现的符号（比如说只剩下字母 U），因为你对 Q 和 U 所在的符号系统有足够的了解。你不可能选择 K，但你可能会想到证毕（Q.E.D. 是拉丁语 Quod Erat Demonstrandum 的缩写，意为“这就证明了”，数学家经常把它放在证明的结尾，表示证明完毕/证毕/证讫）中的 E 或 卡塔尔（Qatar） 中的 A。音乐恰好是一个高度有序且相当有限的形式系统，因此，在你建立“音乐词汇”的同时，你也在建立对整个问题领域结构的感知，尽管这个字母表中的几个新字母（如曼陀林的颤音）对你来说可能是新的。
+
+[^55]: Practice: Alan Turing, better known as the father of modern computing, is also the creator of something called "Turing's Halting Problem." We know that you can get a computer to tackle incredibly difficult problems. However, we do not know how long it will take for the answers to be returned; no predictive method works. This is because of the Church-Turing thesis, which simply states that you can compute anything that has already been computed, but problems we haven't computed yet are unknown territory. Only experience tells us the scope of a problem. In short, we only really learn things by experiencing them.
+
+[^56]: 实践：现代计算机之父艾伦·图灵也是“图灵停机问题”的创造者。我们知道，你可以让计算机解决令人难以置信的难题。但是，我们不知道需要多长时间才能得到答案；没有一种预测方法是有效的。这是因为丘奇·图灵理论，它简单地指出你可以计算任何已经计算过的问题，但我们尚未计算过的问题是未知领域。只有经验才能告诉我们问题的范围。简而言之，只有亲身经历，我们才能真正学到东西。
+
+[^57]: Mental practice: This is called "mental imagery," and it is widely used in sports training. One study by Anne Isaac in 1992 showed that mental imagery helps an athlete improve in a skill. Other studies have found that autonomic nervous system responses are triggered by detailed mental imagery. It's important to note that actual practice is still better than just imagining yourself doing something—the mental images have to be highly detailed and specific to provide a benefit. One of the most famous examples of mental imagery in the last 100 years is shown in the film The Pianist, where Wladyslaw Szpilman, played by Adrien Brody, “plays” piano while hovering his fingers above the keys, so as to avoid detection by the Nazis.
+
+[^58]: 心理练习：这被称为“心理想象”，在体育训练中被广泛使用。安妮·艾萨克在 1992 年进行的一项研究表明，心理想象有助于运动员提高技能。其他研究发现，详细的心理想象会引发自主神经系统的反应。值得注意的是，实际练习仍比想象自己在做某事要好——心理想象必须非常详细和具体，才能带来益处。在电影《钢琴师》中，阿德里安·布罗迪扮演的弗拉迪斯拉夫·席皮尔曼一边“弹钢琴”，一边将手指悬停在琴键上方，以避免被纳粹发现。
