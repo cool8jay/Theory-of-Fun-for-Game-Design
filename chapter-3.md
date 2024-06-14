@@ -85,6 +85,31 @@ Fun comes from ["richly interpretable" situations](#user-content-fn-7)[^7]. Game
 
 (如果说这对游戏有什么安慰的话，那就是博弈论往往也会失败的地方——心理学往往不那么适合数学）。
 
+This finally brings us to the title of the book and the fundamental question: What is fun?
+
+这最终引出了本书的标题和根本问题：什么是乐趣？
+
+If you dig into the origins of the word, you’ll find that it comes either from "fonne," which is "fool" in Middle English, or from "fonn," which means "pleasure" in Gaelic. Either way, fun is defined as "a source of enjoyment." This can happen via physical stimuli, aesthetic appreciation, or direct chemical manipulation.
+
+如果你仔细研究这个词的起源，就会发现它要么来自“fonne”，在中古英语中是“傻瓜”的意思，要么来自“fonn”，在盖尔语中是“快乐”的意思。无论哪种说法，“乐趣”都被定义为“享受的源泉”。这可以通过物理刺激、审美鉴赏或直接化学操纵来实现。
+
+Fun is all about our brains feeling good—the release of [endorphins](#user-content-fn-11)[^11] into our system. There are a variety of complex cocktails of chemicals that result in different sensations. Science has shown that the pleasurable chills that we get down the spine after exceptionally powerful music or a really great book are caused by the same sorts of chemicals we get when we have cocaine, an orgasm, or chocolate. Basically, our brains are on drugs pretty much all the time.
+
+乐趣就是让我们的大脑感觉良好——[内啡肽](#user-content-fn-12)[^12]释放到我们的身体中。各种复杂的化学物质混合在一起，会产生不同的感觉。科学表明，我们在听了特别震撼的音乐或读了一本非常棒的书之后，脊背会感到阵阵凉意，这与我们吸食可卡因、达到性高潮或吃巧克力时产生的化学物质是一样的。基本上，我们的大脑无时无刻不在吸毒。
+
+One of the releases of chemicals triggering good feelings is at that moment of triumph when we learn something or master a task. This almost always causes us to [break out into a smile](#user-content-fn-13)[^13]. After all, it is important to the survival of the species that we learn—therefore our bodies reward us for it with moments of pleasure. There are many ways we find fun in games, and I will talk about the
+others. But learning is the one I believe to be the most important.
+
+当我们学到某样东西或掌握了某项任务时，释放出的化学物质会引发美好的感觉。这几乎总是会让我们[绽放笑容](#user-content-fn-14)[^14]。毕竟，学习对人类的生存非常重要，因此我们的身体会用快乐的时刻来奖励我们。我们在游戏中找到乐趣的方式有很多，下面我将谈谈其他方式。但我认为学习是最重要的。
+
+Fun from games arises out of mastery. It arises out of comprehension. It is the act of solving puzzles that makes games fun.
+
+游戏的乐趣源于掌握。它源于理解。正是解谜行为让游戏充满乐趣。
+
+In other words, with games, [learning is the drug](#user-content-fn-15)[^15].
+
+换句话说，在游戏中，[学习就是毒品](#user-content-fn-16)[^16]。
+
 [^1]: Our perception of reality is basically abstraction: An important paper called "What the Frog's Eye Tells the Frog's Brain," by Lettvin, Maturana, McCulloch, and Pitts, described the fact that what the brain "sees" as output from the eyes is not even vaguely close to the literal visual image. A significant amount of processing turns the literal input of light and shadow into something that the brain copes with. In a very real sense, we do not see the world—we see what our brain tells us we see. Solipsism is five blocks down and to the left.
 
 [^2]: 我们对现实的感知基本上是抽象的：莱特文、马图拉纳、麦克库洛赫和皮茨的一篇重要论文《青蛙的眼睛告诉青蛙的大脑什么》描述了这样一个事实：大脑从眼睛中“看到”的输出与字面上的视觉图像相差甚远。大量的处理过程将光影的直接输入转化为大脑可以应对的东西。从真正意义上说，我们看到的不是世界，而是大脑告诉我们看到了什么。唯我论就在左下方五个街区的地方。
@@ -104,3 +129,15 @@ Fun comes from ["richly interpretable" situations](#user-content-fn-7)[^7]. Game
 [^9]: The limitations of rules: This is a game-specific way of explaining Gödel’s Theorem. Kurt Gödel, in his 1931 paper "On Formally Undecidable Propositions in Principia Mathematica and Related Systems," proved that there are always propositions that lie outside the boundaries of a given formal system. No formal system can describe itself fully. The "magic circle" is basically an attempt to protect the integrity of a model, in the same way that Hilbert’s view of mathematics attempted to fully define a system. The truly long-lived rigidly defined games have tended to be those presenting truly difficult mathematical problems to their players – games that fall into the NP-hard complexity category. For more on this, I refer you to my conference presentation "Games Are Math," given at GDCO in 2009: [http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/](http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/).
 
 [^10]: 规则的局限性：这是解释哥德尔定理的一种特定游戏方式。库尔特·哥德尔在 1931 年发表的论文《论数学原理及相关体系中形式上不可判定的命题》中证明，总有一些命题处于特定形式系统的边界之外。任何形式系统都无法完全描述自身。“魔法阵”基本上是试图保护模型的完整性，就像希尔伯特的数学观试图完全定义一个系统一样。真正长寿的严格定义的游戏往往是那些给玩家带来真正困难的数学问题的游戏——属于 NP 困难 复杂性类别的游戏。关于这方面的更多信息，请参阅我在 2009 年 GDCO 大会上的演讲《游戏即数学》：[http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/](http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/)。
+
+[^11]: Endorphins: "Endorphin" is abbreviated from "endogenous morphine." I'm not kidding when I say we're on drugs when we're having fun! Endorphins are an opiate. The "chill down the spine" effect is often explained as the release of endorphins into the spinal fluid. Pleasure is not the only thing that gives us this effect, of course—adrenaline rushes caused by fear provide a similar sensation.
+
+[^12]: 内啡肽：“内啡肽”是“内源性吗啡”的缩写。当我说我们在玩乐时会嗑药时，我不是在开玩笑！内啡肽是一种鸦片制剂。“脊柱发凉”的效果通常被解释为内啡肽释放到脊髓液中。当然，给我们带来这种效果的不仅仅是快乐，恐惧导致的肾上腺素激增也会带来类似的感觉。
+
+[^13]: Break out in a smile: There's good evidence that the smile can cause us to be happy and not just the other way around. For more reading on emotions, I recommend the work of Paul Ekman.
+
+[^14]: 绽放笑容：有充分证据表明，微笑能让我们快乐，而不仅仅是相反。关于情绪的更多阅读，我推荐保罗·艾克曼的著作。
+
+[^15]: Learning is the drug: "Fun is the emotional response to learning." - Chris Crawford, March 2004. Also, Biederman and Vessel's research shows that curiosity itself is inherently pleasurable.
+
+[^16]: 学习是毒品：“快乐是学习的情绪反应。” - 克里斯·克劳福德，2004 年 3 月。此外，比德曼和维塞尔的研究表明，好奇心本身就是一种快乐。
