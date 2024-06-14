@@ -1,9 +1,7 @@
 # Chapter 2 How the brain works? 第二章 大脑如何工作？
 
 <div align="center">
-
-<img src="images/2.0.png" alt="">
-
+<img src="images/2.0.png">
 </div>
 
 There are a lot of definitions of "game" out there.
@@ -27,9 +25,7 @@ None of these help designers find "fun," though.
 但这些都无助于设计者找到“乐趣”。
 
 <div align="center">
-
-<img src="images/2.1.png" alt="">
-
+<img src="images/2.1.png">
 </div>
 
 > People are amazing pattern matching machines.
@@ -65,7 +61,7 @@ When you watch kids learn, you see there's a recognizable pattern to what they d
 当你观察孩子们学习时，你会发现他们的行为有一个可识别的模式。他们尝试一次——看起来孩子们不能仅仅通过被教导来学习。他们必须自己犯错误。他们挑战极限，测试极限，看看极限能弯曲到什么程度。他们一遍又一遍又一遍又一遍又一遍地观看同一个视频……
 
 <div align="center">
-<img src="images/2.2.png" alt="">
+<img src="images/2.2.png">
 </div>
 
 > Look at the places we can find a face.
@@ -93,9 +89,7 @@ Assumptions are what the brain is best at. Some days, I suspect that makes us de
 大脑最擅长的就是假设。有些时候，我怀疑这让我们感到绝望。
 
 <div align="center">
-
-<img src="images/2.3.png" alt="">
-
+<img src="images/2.3.png">
 </div>
 
 > In fact, we tend to see patterns where there aren't any.
@@ -135,9 +129,7 @@ Chunking is something we do all the time.
 分块是我们经常做的事情。
 
 <div align="center">
-
-<img src="images/2.4.png" alt="">
-
+<img src="images/2.4.png">
 </div>
 
 > When we grasp a pattern, we usually get bored with it and iconify it.
@@ -157,9 +149,7 @@ Whatever "thinking" means.
 不管“思考”是什么意思。
 
 <div align="center">
-
-<img src="images/2.5.png" alt="">
-
+<img src="images/2.5.png">
 </div>
 
 > Humans are really good at doing this -- we can drive barely seeing the road.
@@ -183,9 +173,7 @@ That we live in a world of chunking is fascinating. Maybe you're reading this an
 我们生活在一个分块的世界里，这一点令人着迷。也许你在读这篇文章时，会对自己是否真的在读这篇文章感到不安。但我真正想说的是，分块和常规是如何建立起来的。
 
 <div align="center">
-
-<img src="images/2.6.png" alt="">
-
+<img src="images/2.6.png">
 </div>
 
 > This can mess us up when something changes and isn't in the icon.
@@ -209,9 +197,7 @@ There's some highly ordered music that doesn't appeal to most of us, though. A l
 [即使是雪花屏也有模式](#user-content-fn-36)[^36]。如果小黑点和小白点是随机数的输出，那么它们就具有随机数发生器输出的模式——虽然模式复杂，但仍然是一种模式。如果你碰巧知道生成数字的算法，以及算法的起始种子，你就可以精确地复现那个雪花点画面。在可见的宇宙中，几乎没有什么是没有模式的。如果我们把某些东西视为噪音，那很可能是我们自己的失败，而不是宇宙的失败。
 
 <div align="center">
-
-<img src="images/2.7.png" alt="">
-
+<img src="images/2.7.png">
 </div>
 
 > When we meet noise, and fail to see a pattern in it, we get frustrated, and give up.
@@ -239,9 +225,7 @@ Congratulations, you just chunked up jazz. (Hmm, I hope that doesn't sound too d
 {% endhint %}
 
 <div align="center">
-
-<img src="images/2.8.png" alt="">
-
+<img src="images/2.8.png">
 </div>
 
 > But once we see a pattern we delight in tracing it and seeing it reoccur.
@@ -265,9 +249,7 @@ The second level of the brain is really slow. It's integrative, associative, and
 大脑的第二个层次非常缓慢。它具有整合性、联想性和直觉性。它能将没有多大意义的事物联系起来。这部分大脑会将事物打包并分块。这部分思考方式我们无法直接获取——它不使用语言。它也经常出错。它是“常识”的来源，而“常识”往往是自相矛盾的（“三思而后行，但是，当断不断，反受其乱"）。它是构建[现实的近似](#user-content-fn-48)[^48]的那部分功能。
 
 <div align="center">
-
-<img src="images/2.9.png" alt="">
-
+<img src="images/2.9.png">
 </div>
 
 > We call this "practicing," and the more we do it,
@@ -303,9 +285,7 @@ OK, sick joke aside, it illustrates that we're not just talking about muscle mem
 好了，撇开这个恶心的笑话不谈，这说明我们谈论的不仅仅是肌肉记忆，而是我们[本能地](#user-content-fn-52)[^52]做出的一整套决定。
 
 <div align="center">
-
-<img src="images/2.10.png" alt="">
-
+<img src="images/2.10.png">
 </div>
 
 > the less we have to think about what we're doing.
@@ -333,22 +313,27 @@ When our brain is really into practicing something, we'll dream about it. This i
 当我们的大脑真正投入到练习某件事时，我们会梦见它。这是大脑的直觉部分在我们的大脑中燃烧神经通路，努力将新掌握的模式转变为能融入我们已知的一切知识体系的东西。最终目标是将它变成一种常规。坦白说，我的感觉是，大脑并不特别想再次处理这个事。
 
 <div align="center">
-<img src="images/2.11.png" alt="">
+<img src="images/2.11.png">
 </div>
 
 > Dream
+> 
 > 做梦
 > 
 > Drive
+> 
 > 开车
 > 
 > Daily Bread
+> 
 > 吃饭
 > 
 > Distraction
+> 
 > 消遣
 > 
 > Doom
+> 
 > 毁灭
 
 [^1]: Game theory: A field of mathematics that studies decision making in formal models. Most games can be interpreted as formal models, but game theory (like economics) tends to run afoul of real-world data when the mathematical hypotheses are tested, largely because game theory is based on optimal strategies. Most people aren't optimal all the time. Game theory doesn't always help you design a better game, but it can help explain why people make certain choices in a game.

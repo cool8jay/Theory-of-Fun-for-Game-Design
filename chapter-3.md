@@ -20,12 +20,12 @@ The world is full of systems that we can choose to approach as games, and by app
 这个世界充满了各种系统，我们可以选择把它们当作游戏来处理，通过这样的处理方式，我们把它们变成了游戏。游戏是待解决的谜题，就像我们在生活中遇到的其他事情一样。它们与学习驾驶汽车、弹曼陀林或计算 7 乘以 7 的顺序相同。我们学习其基本模式，完全领悟它们，并将它们归档，以便在需要时重新运行。游戏与现实的唯一真正区别在于，游戏的风险较低。
 
 <div align="center">
-<img src="images/3.1.png" alt="">
+<img src="images/3.1.png">
 </div>
 
-> Games are puzzles.
+> Games are puzzles
 > 
-> 游戏是谜题。
+> 游戏是谜题
 
 Games are something special and unique. They are concentrated chunks ready for our brains to chew on. Since they are abstracted and iconic, they are readily absorbed. Since they are formal systems, they exclude distracting extra details. Usually, our brains have to do hard work to turn messy reality into something as clear as a game is.
 
@@ -48,7 +48,7 @@ Consider the key difference between something like a book and different kinds of
 考虑一下像书这样的东西与不同种类的游戏之间的主要区别。一本书可以很好地完成大脑的逻辑意识部分。而真正优秀的读者有能力将这些信息直接吸收到潜意识、直觉思维中。但书永远无法做到的是，像游戏那样加速理解过程，因为你无法[用一本书来实践某种模式和运行模式的各种变化组合](#user-content-fn-4)[^4]，然后让书做出反馈。
 
 <div align="center">
-<img src="images/3.2.png" alt="">
+<img src="images/3.2.png">
 </div>
 
 > cog.ni.tion
