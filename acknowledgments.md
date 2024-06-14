@@ -2,7 +2,7 @@
   <img src="images/acknowledgments.png"/>
 </p>
 
-> Hey, Who wrote on me? 
+> Hey, who wrote on me? 
 > 
 > 嘿，谁在我身上写字？
 
