@@ -29,11 +29,11 @@ In other words, games serve as very fundamental and powerful learning tools. It'
 
 The distinctions between toys and games, or between play and sport, start to seem a bit picky and irrelevant when you look at them in this light. There's been a lot of hay made over how play is non-goal-oriented and games tend to have goals; over how toys are aimed at pointless play rather than being games; about how make-believe is a form of play and not a game.
 
-从这个角度看，玩具与游戏、游戏与运动之间的区别就开始显得有些挑剔和无关紧要了。游戏是非目标导向的，而游戏往往是有目标的；玩具的目的是无意义的游戏，而不是游戏；虚构是游戏的一种形式，而不是游戏。
+从这个角度看，玩具与游戏之间，或玩耍与体育之间的区别开始显得有些吹毛求疵和无关紧要。人们对此有很多争论，比如玩耍是非目标导向的，而游戏往往有明确的目标；玩具旨在促进无目的的玩耍，而非成为游戏的一部分；假装是一种玩耍形式，而非游戏。
 
 A game designer might find those distinctions useful because they provide helpful guideposts. But all these things are the same at their most fundamental level. Perhaps this is the reason why language hasn't done a very good job of making distinctions between "play,” "game,” and "sport.” Playing a goal-oriented game involves simply recognizing a particular sort of pattern; playing make-believe is recognizing another one. Both deservedly belong in the same category of "iconified representations of human experience that we can practice with and learn patterns from.”
 
-游戏设计师可能会觉得这些区别很有用，因为它们提供了有益的指导。但所有这些东西在最根本的层面上都是一样的。也许这就是为什么语言没有很好地区分 “游戏”、“游戏 ”和 “运动 ”的原因。玩一种以目标为导向的游戏，只涉及识别一种特定的模式；而玩 “虚幻 ”游戏则是识别另一种模式。两者当之无愧地属于同一类 “人类经验的图标化表征，我们可以从中练习和学习模式”。
+游戏设计师可能会觉得这些区别很有用，因为它们提供了有益的指导。但所有这些东西在最根本的层面上都是一样的。也许这就是为什么语言没有很好地区分“玩耍”、“游戏”和“运动”的原因。玩一种以目标为导向的游戏，只涉及识别一种特定的模式；而玩“假装”游戏则是识别另一种模式。两者当之无愧地属于同一类“人类经验的图标化表征，我们可以从中练习和学习模式”。
 
 Consider the key difference between something like a book and different kinds of games. A book can do the logical conscious part of the brain pretty well. And really good readers have an ability to slurp that info directly into the subconscious, intuitive mind. But what a book will never be able to do is accelerate the grokking process to the degree that games do, because you cannot practice a pattern and run permutations on it with a book, and have the book respond with feedback. *
 
