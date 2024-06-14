@@ -65,9 +65,7 @@ When you watch kids learn, you see there's a recognizable pattern to what they d
 当你观察孩子们学习时，你会发现他们的行为有一个可识别的模式。他们尝试一次——看起来孩子们不能仅仅通过被教导来学习。他们必须自己犯错误。他们挑战极限，测试极限，看看极限能弯曲到什么程度。他们一遍又一遍又一遍又一遍又一遍地观看同一个视频……
 
 <div align="center">
-
 <img src="images/2.2.png" alt="">
-
 </div>
 
 > Look at the places we can find a face.
@@ -333,6 +331,25 @@ Building up this library is what we call "[practice](#user-content-fn-55)[^55]."
 When our brain is really into practicing something, we'll dream about it. This is the intuitive part of the brain burning neural pathways into our brain, working on turning newly grasped patterns into something that fits within the context of everything else we know. The ultimate goal is to turn it into a routine. Frankly, my impression is that the brain doesn't particularly want to have to deal with it again.
 
 当我们的大脑真正投入到练习某件事时，我们会梦见它。这是大脑的直觉部分在我们的大脑中燃烧神经通路，努力将新掌握的模式转变为能融入我们已知的一切知识体系的东西。最终目标是将它变成一种常规。坦白说，我的感觉是，大脑并不特别想再次处理这个事。
+
+<div align="center">
+<img src="images/2.11.png" alt="">
+</div>
+
+> Dream
+> 做梦
+> 
+> Drive
+> 开车
+> 
+> Daily Bread
+> 吃饭
+> 
+> Distraction
+> 消遣
+> 
+> Doom
+> 毁灭
 
 [^1]: Game theory: A field of mathematics that studies decision making in formal models. Most games can be interpreted as formal models, but game theory (like economics) tends to run afoul of real-world data when the mathematical hypotheses are tested, largely because game theory is based on optimal strategies. Most people aren't optimal all the time. Game theory doesn't always help you design a better game, but it can help explain why people make certain choices in a game.
 
