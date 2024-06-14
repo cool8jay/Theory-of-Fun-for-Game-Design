@@ -85,6 +85,30 @@ Fun comes from ["richly interpretable" situations](#user-content-fn-7)[^7]. Game
 
 (如果说这对游戏有什么安慰的话，那就是博弈论往往也会失败的地方——心理学往往不那么适合数学）。
 
+<div align="center">
+<img src="images/3.3.png">
+</div>
+
+> Constant motion @ 3 pixels/second
+> 
+> 匀速运动 @ 3 像素/秒
+> 
+> Bullet vertical vector @ 20 pixels per second
+> 
+> 子弹垂直矢量 @ 20 像素/秒
+> 
+> Ideal firing trajectory for interception.
+> 
+> 理想的拦截射击弹道。
+> 
+> Max acceleration 5 pixels/sec.
+> 
+> 最大加速度为 5 像素/秒。
+> 
+> When you're play a game, it exercises your brain.
+> 
+> 当你玩游戏时，它能锻炼你的大脑。
+
 This finally brings us to the title of the book and the fundamental question: What is fun?
 
 这最终引出了本书的标题和根本问题：什么是乐趣？
