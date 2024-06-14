@@ -2,7 +2,9 @@
   <img src="images/acknowledgments.png"/>
 </p>
 
-Who wrote on me? 谁在我身上写字？
+> Hey, Who wrote on me? 
+> 
+> 嘿，谁在我身上写字？
 
 Special thanks to all those who have helped me clarify the thoughts that went into this book, through their writing and direct conversation and by challenging my assumptions. The following are in no particular order:
 
