@@ -144,11 +144,11 @@ In other words, with games, [learning is the drug](#user-content-fn-15)[^15].
 
 Boredom is the opposite of learning. When a game stops teaching us, we feel bored. Boredom is the brain casting about for new information. It is the feeling you get when there are no new visible patterns to absorb. When a book is dull and fails to lead you on to the next chapter, it is failing to exhibit a captivating pattern. When you feel a piece of music is repetitive or derivative, it grows boring because it presents no cognitive challenge. And of course, it could arise when a pattern is present but "going over our heads."
 
-无聊是学习的反面。当游戏不再教我们时，我们就会感到无聊。无聊是大脑在寻找新信息。当没有新的可见模式可供吸收时，你就会有这种感觉。当一本书枯燥乏味，无法引导你进入下一章时，它就没有展现出吸引人的模式。当你觉得一首音乐是重复的或衍生的，它就会变得乏味，因为它没有给你带来认知上的挑战。当然，当一种模式存在但 "越过我们的头脑 "时，也可能出现这种情况。
+无聊是学习的反面。当一个游戏不再教我们任何东西时，我们会感到无聊。无聊是大脑在寻找新信息。当没有新的可见模式可供吸收时，你就会有这种感觉。当一本书枯燥乏味，无法引导你进入下一章时，它就没有展现出吸引人的模式。当你觉得一首音乐是重复或模仿时，它就会变得乏味，因为它没有给你带来认知上的挑战。当然，当一种模式存在但“超出我们的理解范围”时，也可能产生这种感觉。
 
 We shouldn't underestimate the brain's desire to learn. If you put a person in a sensory deprivation chamber, he or she will get very unhappy very quickly. The brain craves stimuli. At all times, the brain is casting about trying to learn something, trying to integrate information into its worldview. It is insatiable in that way.
 
-我们不应低估大脑的学习欲望。如果你把一个人放在感官剥夺室里，他或她很快就会变得非常不开心。大脑渴望刺激。无论何时，大脑都在努力学习，试图将信息融入自己的世界观。在这方面，它是贪得无厌的。
+我们不应该低估大脑的学习欲望。如果你把一个人放在感官剥夺室里，他或她很快就会变得非常不开心。大脑渴望刺激。无论何时，大脑都在努力学习，试图将信息融入它的世界观。在这方面，它是贪得无厌的。
 
 This doesn't mean it necessarily craves new experiences—mostly, it just craves new data. New data is all it needs to flesh out a pattern. A new experience might force a whole new system on the brain, and often the brain doesn't like that. It's disruptive. The brain doesn't like to do more work than it has to. That's why it chunks in the first place. That's why we have the term "sensory overload,"* as an opposite to "sensory deprivation."
 
