@@ -1,6 +1,6 @@
 Which brings us, finally, to games.
 
-最后，我们来谈谈游戏。
+这最终把我们引向游戏。
 
 If you review those definitions of "game" I presented earlier, you'll see that they have some elements in common. They all present games as if they exist within a world of their own. They describe games as a simulation, a formal system, or as Huizinga put it, a "magic circle" that is disconnected from reality. They all talk about how choices or rules are important, as well as conflict. Finally, a lot of
 them define games as objects that aren't real, things for pretending with.
