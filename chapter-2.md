@@ -36,16 +36,16 @@ Game designers themselves offer a bewildering and often contradictory set of def
 
 游戏设计师们自己给出了一系列令人困惑、往往自相矛盾的定义：
 
-*   To [Chris Crawford](#user-content-fn-9)[^9], outspoken designer and theorist, games are a subset of entertainment limited to conflicts in which players work to foil each other's goals, just one of many leaves off a tree that includes playthings, toys, challenges, stories, competitions, and a lot more.\
+* To [Chris Crawford](#user-content-fn-9)[^9], outspoken designer and theorist, games are a subset of entertainment limited to conflicts in which players work to foil each other's goals, just one of many leaves off a tree that includes playthings, toys, challenges, stories, competitions, and a lot more.\
     对[克里斯·克劳福德](#user-content-fn-10)[^10]这位直言不讳的设计师和理论家来说，游戏是娱乐的一个子集，仅限于玩家之间相互妨碍对方目标达成的冲突中，这只是包括玩物，玩具、挑战、故事、比赛等众多事物的大树上的一片叶子。
     
-*   [Sid Meier](#user-content-fn-11)[^11], designer of the classic Civilization computer games, gave a famous definition of "a series of meaningful choices."\
+* [Sid Meier](#user-content-fn-11)[^11], designer of the classic Civilization computer games, gave a famous definition of "a series of meaningful choices."\
     经典电脑游戏《文明》的设计师[席德·梅尔](#user-content-fn-12)[^12]给出了一个著名的定义：“一系列有意义的选择。”
     
-*   Ernest Adams and Andrew Rollings, authors of [Andrew Rollings and Ernest Adams on Game Design](#user-content-fn-13)[^13], narrow this further to "one or more causally linked series of challenges in a simulated environment."\
+* Ernest Adams and Andrew Rollings, authors of [Andrew Rollings and Ernest Adams on Game Design](#user-content-fn-13)[^13], narrow this further to "one or more causally linked series of challenges in a simulated environment."\
     [《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》](#user-content-fn-14)[^14]一书的作者欧内斯特·亚当斯和安德鲁·罗林斯将这一定义进一步缩小为“模拟环境中一个或多个因果联系的系列挑战。”
     
-*   [Katie Salen and Eric Zimmerman say in their book Rules of Play](#user-content-fn-15)[^15] that a game is "a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome."\
+* [Katie Salen and Eric Zimmerman say in their book Rules of Play](#user-content-fn-15)[^15] that a game is "a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome."\
     [凯蒂·萨伦和埃里克·齐默尔曼在《游戏规则》](#user-content-fn-16)[^16]一书中称，游戏是“一个系统，在这个系统中，玩家参与由规则定义的人为冲突，并产生可量化的结果。”
 
 This feels like a quick way to get sucked into quibbling over the classification of individual games. Many simple things can be made complex when you dig into them, but having fun is something so fundamental that surely we can find a more basic concept?

@@ -162,6 +162,28 @@ This means that it's easy for the player to get bored before the end of the game
 
 这意味着玩家很容易在游戏结束前感到厌倦。毕竟，人们非常善于进行模式匹配，并消除不符合他们心目中模式的噪音和沉默。
 
+Here are some ways in which boredom might strike, killing the pleasurable learning experience that games are supposed to provide:
+
+以下是一些让人感到无聊的方式，它们会扼杀游戏本应带来的愉悦的学习体验：
+
+* The player might grok how the game works from just the first five minutes, and then the game will be dismissed as trivial, just as an adult dismisses tic-tac-toe. This doesn't mean the player actually solved the game; she may have just arrived at a good-enough strategy or heuristic that lets her get by. "Too easy," might be the remark the player makes.\
+    玩家可能在游戏开始的五分钟内就明白了游戏的玩法，然后就会把游戏当成小事一桩，就像成年人不屑于玩井字游戏一样。这并不意味着玩家真的解决了这个游戏；她可能只是找到了一个足够好的策略或启发式方法，让她能够过关。玩家可能会说：“太简单了。”
+
+* The player might grok that there's a ton of depth to the possible permutations in a game, but conclude that these permutations are below their level of interest—sort of like saying, "Yeah, there's a ton of depth in baseball, but memorizing the RBI stats for the past 20 years is not all that useful to me."\
+    玩家可能会认为游戏中可能出现的排列组合有很大的深度，但得出的结论是这些排列组合低于他们的兴趣水平——有点像在说：“是的，棒球有很大的深度，但记住过去 20 年的 RBI 统计对我来说并没有什么用。”
+
+* The player might fail to see any patterns whatsoever, and nothing is more boring than noise. "This is too hard."\
+    玩家可能看不到任何模式，而没有什么比噪音更无聊了。“这太难了。”
+
+* The game might unveil new variations in the pattern too slowly, in which case the game may be dismissed as trivial too early, even though it does have depth. "The difficulty ramps too slowly."\
+    游戏揭示模式新变化的速度可能太慢，在这种情况下，尽管游戏确实有深度，但玩家可能会过早地将其视为微不足道。“难度提升太慢。”
+
+* The game might also unveil the variations too quickly, which then leads to players losing control of the pattern and giving up because it looks like noise again. "This got too hard too fast," they'll say.\
+    游戏也可能过快地揭示出图案的变化，从而导致玩家失去对模式的控制并放弃游戏，因为它看起来又像是噪音。他们会说“这太难了，太快了。”
+    
+* The player might master everything in the pattern. He has exhausted the fun, consumed it all. "I beat it."\
+    玩家可能掌握了模式中的所有内容。他已经耗尽了乐趣，享受完了所有。“我征服了它。”
+
 [^1]: Our perception of reality is basically abstraction: An important paper called "What the Frog's Eye Tells the Frog's Brain," by Lettvin, Maturana, McCulloch, and Pitts, described the fact that what the brain "sees" as output from the eyes is not even vaguely close to the literal visual image. A significant amount of processing turns the literal input of light and shadow into something that the brain copes with. In a very real sense, we do not see the world—we see what our brain tells us we see. Solipsism is five blocks down and to the left.
 
 [^2]: 我们对现实的感知基本上是抽象的：莱特文、马图拉纳、麦克库洛赫和皮茨的一篇重要论文《青蛙的眼睛告诉青蛙的大脑什么》描述了这样一个事实：大脑从眼睛中“看到”的输出与字面上的视觉图像相差甚远。大量的处理过程将光影的直接输入转化为大脑可以应对的东西。从真正意义上说，我们看到的不是世界，而是大脑告诉我们看到了什么。唯我论就在左下方五个街区的地方。
@@ -201,3 +223,7 @@ This means that it's easy for the player to get bored before the end of the game
 [^19]: Scylla and Charybdis: In Greek myth, these two monsters sat on opposite sides of a narrow strait. Sailors wishing to pass inevitably ran too close to one or the other.
 
 [^20]: 斯库拉和卡律布狄斯：在希腊神话中，这两只怪兽分居狭窄海峡的两岸。想要通过的水手不可避免地会过于靠近其中之一。
+
+[^21]: RBI: "Runs batted in" in baseball. This statistic is tracked per player and is incremented by one each time a run is scored as a result of the player's turn at bat, no matter who actually scores the run, provided it wasn’t the result of an opponent error or the cause of a forced double play.
+
+[^22]: RBI：棒球中的“打数”。这项统计是按球员追踪的，每当该球员轮到击球而得分时，无论实际得分的是谁，只要不是对手失误或被迫双杀的结果，都会增加 1 分。
