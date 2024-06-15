@@ -162,6 +162,14 @@ This means that it's easy for the player to get bored before the end of the game
 
 这意味着玩家很容易在游戏结束前感到厌倦。毕竟，人们非常善于进行模式匹配，并消除不符合他们心目中模式的噪音和沉默。
 
+<div align="center">
+<img src="images/3.5.png">
+</div>
+
+> Once you've mastered it -- or realized you can't get any better --
+> 
+> 一旦你掌握了它——或者意识到你已经不能再好了——
+
 Here are some ways in which boredom might strike, killing the pleasurable learning experience that games are supposed to provide:
 
 以下是一些让人感到无聊的方式，它们会扼杀游戏本应带来的愉悦的学习体验：
@@ -169,8 +177,8 @@ Here are some ways in which boredom might strike, killing the pleasurable learni
 * The player might grok how the game works from just the first five minutes, and then the game will be dismissed as trivial, just as an adult dismisses tic-tac-toe. This doesn't mean the player actually solved the game; she may have just arrived at a good-enough strategy or heuristic that lets her get by. "Too easy," might be the remark the player makes.\
     玩家可能在游戏开始的五分钟内就明白了游戏的玩法，然后就会把游戏当成小事一桩，就像成年人不屑于玩井字游戏一样。这并不意味着玩家真的解决了这个游戏；她可能只是找到了一个足够好的策略或启发式方法，让她能够过关。玩家可能会说：“太简单了。”
 
-* The player might grok that there's a ton of depth to the possible permutations in a game, but conclude that these permutations are below their level of interest—sort of like saying, "Yeah, there's a ton of depth in baseball, but memorizing the RBI stats for the past 20 years is not all that useful to me."\
-    玩家可能会认为游戏中可能出现的排列组合有很大的深度，但得出的结论是这些排列组合低于他们的兴趣水平——有点像在说：“是的，棒球有很大的深度，但记住过去 20 年的 RBI 统计对我来说并没有什么用。”
+* The player might grok that there's a ton of depth to the possible permutations in a game, but conclude that these permutations are below their level of interest—sort of like saying, "Yeah, there's a ton of depth in baseball, but memorizing the [RBI stats](#user-content-fn-21)[^21] for the past 20 years is not all that useful to me."\
+    玩家可能会认为游戏中可能出现的排列组合有很大的深度，但得出的结论是这些排列组合低于他们的兴趣水平——有点像在说：“是的，棒球有很大的深度，但记住过去 20 年的 [RBI 统计](#user-content-fn-22)[^22]对我来说并没有什么用。”
 
 * The player might fail to see any patterns whatsoever, and nothing is more boring than noise. "This is too hard."\
     玩家可能看不到任何模式，而没有什么比噪音更无聊了。“这太难了。”
@@ -183,6 +191,14 @@ Here are some ways in which boredom might strike, killing the pleasurable learni
     
 * The player might master everything in the pattern. He has exhausted the fun, consumed it all. "I beat it."\
     玩家可能掌握了模式中的所有内容。他已经耗尽了乐趣，享受完了所有。“我征服了它。”
+
+<div align="center">
+<img src="images/3.6.png">
+</div>
+
+> the game becomes boring.
+> 
+> 游戏就会变得无聊乏味。
 
 [^1]: Our perception of reality is basically abstraction: An important paper called "What the Frog's Eye Tells the Frog's Brain," by Lettvin, Maturana, McCulloch, and Pitts, described the fact that what the brain "sees" as output from the eyes is not even vaguely close to the literal visual image. A significant amount of processing turns the literal input of light and shadow into something that the brain copes with. In a very real sense, we do not see the world—we see what our brain tells us we see. Solipsism is five blocks down and to the left.
 
