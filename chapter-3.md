@@ -134,6 +134,34 @@ In other words, with games, [learning is the drug](#user-content-fn-15)[^15].
 
 换句话说，在游戏中，[学习就是毒品](#user-content-fn-16)[^16]。
 
+<div align="center">
+<img src="images/3.4.png">
+</div>
+
+> but you'll only play it until you master the pattern.
+>
+> 但你只能玩到掌握模式为止。
+
+Boredom is the opposite of learning. When a game stops teaching us, we feel bored. Boredom is the brain casting about for new information. It is the feeling you get when there are no new visible patterns to absorb. When a book is dull and fails to lead you on to the next chapter, it is failing to exhibit a captivating pattern. When you feel a piece of music is repetitive or derivative, it grows boring because it presents no cognitive challenge. And of course, it could arise when a pattern is present but "going over our heads."
+
+无聊是学习的反面。当游戏不再教我们时，我们就会感到无聊。无聊是大脑在寻找新信息。当没有新的可见模式可供吸收时，你就会有这种感觉。当一本书枯燥乏味，无法引导你进入下一章时，它就没有展现出吸引人的模式。当你觉得一首音乐是重复的或衍生的，它就会变得乏味，因为它没有给你带来认知上的挑战。当然，当一种模式存在但 "越过我们的头脑 "时，也可能出现这种情况。
+
+We shouldn't underestimate the brain's desire to learn. If you put a person in a sensory deprivation chamber, he or she will get very unhappy very quickly. The brain craves stimuli. At all times, the brain is casting about trying to learn something, trying to integrate information into its worldview. It is insatiable in that way.
+
+我们不应低估大脑的学习欲望。如果你把一个人放在感官剥夺室里，他或她很快就会变得非常不开心。大脑渴望刺激。无论何时，大脑都在努力学习，试图将信息融入自己的世界观。在这方面，它是贪得无厌的。
+
+This doesn't mean it necessarily craves new experiences—mostly, it just craves new data. New data is all it needs to flesh out a pattern. A new experience might force a whole new system on the brain, and often the brain doesn't like that. It's disruptive. The brain doesn't like to do more work than it has to. That's why it chunks in the first place. That's why we have the term "sensory overload,"* as an opposite to "sensory deprivation."
+
+这并不意味着它一定渴望新体验--主要是渴望新数据。它需要新数据来充实模式。新的体验可能会给大脑带来全新的系统，而大脑往往不喜欢这样。这具有破坏性。大脑不喜欢做比它必须做的更多的工作。这就是为什么它首先要分块。这就是为什么我们有 "感官超载 "这个词，* 作为 "感官剥夺 "的反义词。
+
+Games grow boring when they fail to unfold new niceties in the puzzles they present. But they have to navigate between the Scylla and Charybdis* of deprivation and overload, of excessive order and excessive chaos, of silence and noise.
+
+当游戏无法在谜题中展现新的乐趣时，游戏就会变得枯燥乏味。但游戏必须在剥夺感官和超负荷感官、过度秩序和过度混乱、寂静和嘈杂的Scylla和Charybdis*之间游刃有余。
+
+This means that it's easy for the player to get bored before the end of the game. After all, people are really good at pattern-matching and dismissing noise and silence that doesn't fit the pattern they have in mind.
+
+这意味着玩家很容易在游戏结束前感到厌倦。毕竟，人们非常善于进行模式匹配，并摒弃不符合他们心目中模式的噪音和寂静。
+
 [^1]: Our perception of reality is basically abstraction: An important paper called "What the Frog's Eye Tells the Frog's Brain," by Lettvin, Maturana, McCulloch, and Pitts, described the fact that what the brain "sees" as output from the eyes is not even vaguely close to the literal visual image. A significant amount of processing turns the literal input of light and shadow into something that the brain copes with. In a very real sense, we do not see the world—we see what our brain tells us we see. Solipsism is five blocks down and to the left.
 
 [^2]: 我们对现实的感知基本上是抽象的：莱特文、马图拉纳、麦克库洛赫和皮茨的一篇重要论文《青蛙的眼睛告诉青蛙的大脑什么》描述了这样一个事实：大脑从眼睛中“看到”的输出与字面上的视觉图像相差甚远。大量的处理过程将光影的直接输入转化为大脑可以应对的东西。从真正意义上说，我们看到的不是世界，而是大脑告诉我们看到了什么。唯我论就在左下方五个街区的地方。
