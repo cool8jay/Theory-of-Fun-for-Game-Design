@@ -23,12 +23,15 @@ My kids were leading me, without my quite knowing it, towards a theory of fun. A
 </p>
 
 > My kids are learning tic-tac-toe these days.
+> 
 > 我的孩子们最近在学习井字游戏。
 > 
 > age 5.
+> 
 > 5岁。
 > 
 > age 7.
+> 
 > 7岁。
 
 [^1]: Tic-tac-toe: Also known as noughts and crosses. Tic-tac-toe, and its cousins go-moku (a game where the board is variously 13x13 or 15x15 and you have to get five in a row) and Qubic (a 4x4x4 cube) are all amenable to mathematical analysis. Tic-tac-toe in particular is fairly trivial, since there are only 125,168 possible games, and the vast majority of the possibility space collapses the moment you regard the board as having rotational symmetry. If both players employ the optimal strategy, the game will always end in a draw.
