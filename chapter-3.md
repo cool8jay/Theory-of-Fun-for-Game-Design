@@ -200,4 +200,4 @@ This means that it's easy for the player to get bored before the end of the game
 
 [^19]: Scylla and Charybdis: In Greek myth, these two monsters sat on opposite sides of a narrow strait. Sailors wishing to pass inevitably ran too close to one or the other.
 
-[^20]: Scylla 和 Charybdis：在希腊神话中，这两只怪兽分居狭窄海峡的两岸。想要通过的水手不可避免地会过于靠近其中之一。
+[^20]: 斯库拉和卡律布狄斯：在希腊神话中，这两只怪兽分居狭窄海峡的两岸。想要通过的水手不可避免地会过于靠近其中之一。
