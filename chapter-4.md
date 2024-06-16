@@ -146,11 +146,11 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^17]: A tennis court could be both: Tennis has two separate spaces divided by a net, and can therefore be looked at either way. Were we to graph it using nodes, we might say that there are four nodes: two halves of the court, and the out of bounds area at each extreme. The game is about getting the ball from your node to the out of bounds area on the opposite side. But of course, it is also a game played in a traditional coordinate space. Player position within a node is actually where most of the strategy lies.
 
-[^18]: 笛卡尔坐标空间： 这是由勒内-笛卡尔（René Descartes）提出的经典方法，即在两个正交轴所定义的网格上确定二维空间中某一点的位置。它是大部分代数（以及大部分计算机制图）的基础。这往往是我们对空间如何 "成形 "的默认假设，但在图论中，还有许多其他类型的空间是可能的。
+[^18]: 笛卡尔坐标空间：这是由勒内·笛卡尔提出的经典方法，即在两个正交轴所定义的网格上确定二维空间中某一点的位置。它是大部分代数（以及大部分计算机制图）的基础。这往往是我们对空间如何“成形”的默认假设，但在图论中，还有许多其他类型的空间是可能的。
 
-[^19]: 有向图 有向图是指点或节点由线（数学术语为顶点和边）连接，但线是有方向的。想想经典的儿童棋盘游戏 "滑槽和梯子"：棋盘上的滑槽和梯子是棋盘上各点之间的有向连接。在滑道上只能单向移动。这是一个不使用笛卡尔空间的游戏；点与点之间的最短距离与棋盘上的物理距离无关，而是与到达指定地点所需的移动次数有关。所有的 "轨道 "游戏，如大富翁，实际上都是有向图。
+[^19]: 有向图：有向图是指点或节点由线（数学术语为顶点和边）连接，但线是有方向的。想想经典的儿童棋盘游戏“滑梯和梯子”：棋盘上的滑梯和梯子是棋盘上各点之间的有向连接。在滑道上只能单向移动。这是一个不使用笛卡尔空间的游戏；点与点之间的最短距离与棋盘上的物理距离无关，而是与到达指定地点所需的移动次数有关。所有的“轨道”游戏，如大富翁，实际上都是有向图。
 
-[^20]: 网球场可以两者兼而有之： 网球场有两个独立的空间，由球网分割开来，因此可以从两个方面来看。如果用节点来表示，我们可以说有四个节点：两个半场和两端的出界区。比赛就是要把球从你的节点带到对面的出界区。当然，这也是一场在传统坐标空间中进行的比赛。玩家在节点内的位置实际上是大部分策略的所在。
+[^20]: 网球场可以两者兼而有之：网球场有两个独立的空间，由球网分割开来，因此可以从两个方面来看。如果用节点来表示，我们可以说有四个节点：两个半场和两端的出界区。比赛就是要把球从你的节点带到对面的出界区。当然，这也是一场在传统坐标空间中进行的比赛。玩家在节点内的位置实际上是大部分策略的所在。
 
 [^21]: Games where things fit together physically: My favorites include Tetris, Blokus, and Rumis.
 
@@ -160,6 +160,6 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^24]: 游戏中的事物通过物理方式结合在一起： 我最喜欢的游戏包括俄罗斯方块、Blokus 和 Rumis。
 
-[^25]: 从概念上将事物组合在一起的游戏： 扑克可能是最明显的例子，但许多纸牌游戏都是如此，许多铺瓷砖游戏（如卡卡颂）也是如此。
+[^25]: 从概念上将事物组合在一起的游戏：扑克可能是最明显的例子，但许多纸牌游戏都是如此，许多铺瓷砖游戏（如卡卡颂）也是如此。
 
 [^26]: 分类游戏 Uno 和 Go Fish！等纸牌游戏，甚至是记忆游戏，都依赖于将事物分类成套。
