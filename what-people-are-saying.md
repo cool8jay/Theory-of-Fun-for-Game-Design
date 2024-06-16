@@ -108,7 +108,7 @@ One of the "Five Books You Should Read About Game Design"
 
 “科斯特在《趣味理论》一书中勾勒出了一个令人信服的宣言，说明了为什么人们在游戏中玩得开心或不开心。他还让我们觉得自己非常非常不聪明。”
 
--《Game Informer》杂志
+——《Game Informer》杂志
 
 <hr>
 
@@ -248,7 +248,7 @@ One of the "Five Books You Should Read About Game Design"
 
 “精妙绝伦，却没有一丝矫揉造作，晦涩难懂。”
 
--迈克尔·费尔德斯坦，纽约州立大学学习网络
+——迈克尔·费尔德斯坦，纽约州立大学学习网络
 
 <hr>
 
@@ -426,7 +426,7 @@ One of the "Five Books You Should Read About Game Design"
 
 —Slashdot
 
-“拉斐-科斯特（Raph Koster）的《游戏设计趣味理论》以有趣的方式探讨了一个在某些方面被其他作者过于严肃对待的主题。这本书也很有思想，为讨论游戏作为学习工具、艺术和社会塑造者提供了基础……”
+“拉斐·科斯特的《游戏设计趣味理论》以有趣的方式探讨了一个在某些方面被其他作者过于严肃对待的主题。这本书也很有思想，为讨论游戏作为学习工具、艺术和社会塑造者提供了基础……”
 
 ——Slashdot
 
