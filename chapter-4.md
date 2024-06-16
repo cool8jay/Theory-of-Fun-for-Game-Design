@@ -126,7 +126,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson’s blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost’s critique ["Gamification is Bullshit,](http://bit.ly/gamification-bogost-atlantic) published in The Atlantic.
 
-[^8]: 游戏化： 玛格丽特·罗伯逊的博客文章[《点数化 》](http://bit.ly/cant-play-wont-play)和伊恩·博格斯特在《大西洋月刊》发表的批评文章[《游戏化是胡扯》](http://bit.ly/gamification-bogost-atlantic)，是对这种做法的两个有力批判。
+[^8]: 游戏化：玛格丽特·罗伯逊的博客文章[《点数化 》](http://bit.ly/cant-play-wont-play)和伊恩·博格斯特在《大西洋月刊》发表的批评文章[《游戏化是胡扯》](http://bit.ly/gamification-bogost-atlantic)，是对这种做法的两个有力批判。
 
 [^9]: Games with informal rule sets: Many theorists have established a spectrum from "game" to "play." Bruno Bettelheim, the child psychologist, defined forms of play as make-believe (solo or cooperative), joint storytelling, community building, and play with toys. He saw games as team-based, or individual competitions against other people or against self-imposed marker thresholds. Of course, joint storytelling or social tie-building proceed by concrete if unspoken rules. I'd argue that what we tend to think of as "play" or "informal" games may have more rules than the classic definition of game.
 
@@ -158,8 +158,8 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^23]: Games of classification or taxonomy: Card games such as Uno and Go Fish!, and even memory games, rely on classifying things into sets.
 
-[^24]: 游戏中的事物通过物理方式结合在一起： 我最喜欢的游戏包括俄罗斯方块、Blokus 和 Rumis。
+[^24]: 游戏中的事物通过物理方式结合在一起：我最喜欢的游戏包括俄罗斯方块、Blokus 和 Rumis。
 
 [^25]: 从概念上将事物组合在一起的游戏：扑克可能是最明显的例子，但许多纸牌游戏都是如此，许多铺瓷砖游戏（如卡卡颂）也是如此。
 
-[^26]: 分类游戏 Uno 和 Go Fish！等纸牌游戏，甚至是记忆游戏，都依赖于将事物分类成套。
+[^26]: 分类游戏：Uno 和 Go Fish！等纸牌游戏，甚至是记忆游戏，都依赖于将事物分类成套。
