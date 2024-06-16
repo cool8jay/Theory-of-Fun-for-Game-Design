@@ -22,6 +22,22 @@ The population that uses games as learning tools the most effectively is the you
 > 
 > 我们不应该对此感到惊讶——毕竟，所有物种的年轻人都在玩耍。
 
+We don't actually put away the notion of "having fun," as far as I can tell. We migrate it into other contexts. Many claim that work is fun, for example (me included). Just getting together with friends can be enough to give us the little burst of endorphins we crave.
+
+据我所知，我们实际上并没有抛弃“玩得开心”的概念。我们将其迁移到其他语境中。例如，许多人声称工作是一种乐趣（包括我在内）。与朋友相聚就足以让我们获得渴望的内啡肽。
+
+We also don't put aside the notion of constructing abstract models of reality in order to practice with them. We practice our speeches in front of mirrors, run fire drills, go through training programs, and role-play in therapy sessions. There are games all around us. We just don't call them that.
+
+我们也不会抛开构建抽象的现实模型的概念，以便用它们进行练习。我们对着镜子练习演讲，进行消防演习，参加培训项目，在治疗过程中进行角色扮演。游戏就在我们身边。只是我们不这样称呼它们。
+
+As we age, we think that things are more serious and that we must leave frivolous things behind. Is that a value judgment on games or is it a value judgment on the content of a given game? Do we avoid the notion of fun because we view the content of the fire drill as being of greater import?
+
+随着年龄的增长，我们认为事情变得更加严肃，必须抛开无聊的事情。这是对游戏的价值判断，还是对特定游戏内容的价值判断？我们是否因为认为消防演习的内容更重要而回避了趣味的念头？
+
+Most importantly, would fire drills be more effective if they were fun activities? There is a design practice called "gamification" which attempts to use the trappings of games (reward structures, points, etc.) to make people engage more with product offerings. Does it miss the point of games? It is often layered on top of systems that lack the rich interpretability of a good game. A reward structure alone does not a [game make](#user-content-fn-7)[^7].
+
+最重要的是，如果消防演习是有趣的活动，它们会更有效吗？有一种设计实践被称为“游戏化”，它试图利用游戏的外在特征（奖励结构、积分等）让人们更多地参与到产品中来。这种做法是否忽略了游戏的本质？游戏化经常被添加到那些缺乏优质游戏丰富解读性的系统上。单凭奖励结构并不能[构成游戏](#user-content-fn-8)[^8]。
+
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach page: [www.igda.org/academia/](www.igda.org/academia/).
 
 [^2]: 针对游戏设计师的大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广页面：[www.igda.org/academia/](www.igda.org/academia/)。
@@ -37,4 +53,8 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^6]: 哥林多前书：引用的是《哥林多前书》13:11。以下内容出自《圣经》詹姆士王版本：`我作孩子的时候，说话像孩子，心思像孩子，意念像小孩子。既成了人，就把孩子的事丢弃了。
 我们如今仿佛对着镜子观看，模糊不清；到那时就要面对面了。我如今所知道的有限，到那时就全知道，如同主知道我一样。
-如今常存的有信，有望，有爱；这三样，其中最大的是爱。`
+如今常存的有信，有望，有爱；这三样，其中最大的是爱。
+
+[^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson’s blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost’s critique ["Gamification is Bullshit,](http://bit.ly/gamification-bogost-atlantic) published in The Atlantic.
+
+[^8]: 游戏化： 玛格丽特·罗伯逊的博客文章[《点数化 》](http://bit.ly/cant-play-wont-play)和伊恩·博格斯特在《大西洋月刊》发表的批评文章[《游戏化是胡扯》](http://bit.ly/gamification-bogost-atlantic)，是对这种做法的两个有力批判。
