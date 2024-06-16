@@ -38,6 +38,14 @@ Most importantly, would fire drills be more effective if they were fun activitie
 
 最重要的是，如果消防演习是有趣的活动，它们会更有效吗？有一种设计实践被称为“游戏化”，它试图利用游戏的外在特征（奖励结构、积分等）让人们更多地参与到产品中来。这种做法是否忽略了游戏的本质？游戏化经常被添加到那些缺乏优质游戏丰富解读性的系统上。单凭奖励结构并不能[构成游戏](#user-content-fn-8)[^8]。
 
+<div align="center">
+<img src="images/4.2.png">
+</div>
+
+> With age, some games turn serious.
+> 
+> 随着年龄的增长，有些游戏会变得严肃起来。
+
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach page: [www.igda.org/academia/](www.igda.org/academia/).
 
 [^2]: 针对游戏设计师的大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广页面：[www.igda.org/academia/](www.igda.org/academia/)。
