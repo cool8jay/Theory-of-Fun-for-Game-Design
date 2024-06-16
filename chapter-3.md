@@ -200,6 +200,38 @@ Here are some ways in which boredom might strike, killing the pleasurable learni
 > 
 > 游戏就会变得无聊乏味。
 
+Any of these will result in the player stating that she is bored. In reality, some of these are boredom+frustration, and some are boredom+triumph, and so on. If your goal is to keep things fun (read as "keep the player learning"), boredom is always the signal to let you know you have failed.
+
+任何一种情况都会让玩家表示自己很无聊。实际上，有些是无聊+挫败，有些是无聊+胜利，等等。如果你的目标是保持游戏的趣味性（可以理解为“让玩家不断学习”），那么“无聊”永远是让你知道自己失败了的信号。
+
+The definition of a good game is therefore "one that teaches everything it has to offer before the player stops playing."
+
+因此，好游戏的定义就是“能在玩家停止游戏之前教会他所有东西的游戏。”
+
+That's what games are, in the end. Teachers. [Fun is just another word for learning](#user-content-fn-23)[^23]. Games teach you how aspects of reality work, how to understand yourself, how to understand the actions of others, and how to imagine.
+
+这就是游戏的本质。老师。[乐趣只是学习的另一种说法](#user-content-fn-24)[^24]。游戏教会你现实的方方面面如何运作，如何理解自己，如何理解他人的行为，以及如何想象。
+
+One wonders, then, why learning is so damn boring to so many people. It's almost certainly because the method of transmission is wrong. We praise good teachers by saying that they "make learning fun." Games are very good teachers...of something. The question is, what do they teach?
+
+那么，我们不禁要问，为什么对这么多人来说，学习是如此该死的无聊呢？这几乎可以肯定是因为传授的方法不对。我们称赞好老师，说他们"让学习变得有趣"。游戏是很好的老师……在某些方面。问题是，游戏能教什么？
+
+Either way, I have an answer for my late grandfather, and it looks like what I do fits right alongside the upstanding professions of my various aunts and uncles. Fireman, carpenter, and…teacher.
+
+无论如何，我已经为我已故的祖父找到了答案，而且看起来我所从事的工作与我的叔叔阿姨们的正直职业是相吻合的。消防员，木匠，还有……老师。
+
+<div align="center">
+<img src="images/3.7.png">
+</div>
+
+> This game sucks!
+> 
+> 这游戏烂透了！
+> 
+> Basically, all games are edutainment.
+> 
+> 基本上，所有游戏都是寓教于乐的。
+
 [^1]: Our perception of reality is basically abstraction: An important paper called "What the Frog's Eye Tells the Frog's Brain," by Lettvin, Maturana, McCulloch, and Pitts, described the fact that what the brain "sees" as output from the eyes is not even vaguely close to the literal visual image. A significant amount of processing turns the literal input of light and shadow into something that the brain copes with. In a very real sense, we do not see the world—we see what our brain tells us we see. Solipsism is five blocks down and to the left.
 
 [^2]: 我们对现实的感知基本上是抽象的：莱特文、马图拉纳、麦克库洛赫和皮茨的一篇重要论文《青蛙的眼睛告诉青蛙的大脑什么》描述了这样一个事实：大脑从眼睛中“看到”的输出与字面上的视觉图像相差甚远。大量的处理过程将光影的直接输入转化为大脑可以应对的东西。从真正意义上说，我们看到的不是世界，而是大脑告诉我们看到了什么。唯我论就在左下方五个街区的地方。
@@ -243,3 +275,7 @@ Here are some ways in which boredom might strike, killing the pleasurable learni
 [^21]: RBI: "Runs batted in" in baseball. This statistic is tracked per player and is incremented by one each time a run is scored as a result of the player's turn at bat, no matter who actually scores the run, provided it wasn’t the result of an opponent error or the cause of a forced double play.
 
 [^22]: RBI：棒球中的“打数”。这项统计是按球员追踪的，每当该球员轮到击球而得分时，无论实际得分的是谁，只要不是对手失误或被迫双杀的结果，都会增加 1 分。
+
+[^23]: Fun is another word for learning: The theoretician of play Brian Sutton-Smith called this just one of the "rhetorics of play." He identified several more in his book The Ambiguity of Play, including using games of chance to determine your fate, or using games to determine the fate of nations. I tend to regard almost all of the rhetorics he identifies as differing sources of learning and practice, and the balance (such as the two I just mentioned) as more like alternative uses of games. More recently, designer Craig Perko has written a series of articles identifying what he calls "aesthetics of play," once again identifying learning and mastery as just two possible things to value within a game structure. “Play” can be taken in a Derridean sense to mean "movement" or "freedom," as several games academics have pointed out (Salen, Zimmerman, and Bogost). In my definition of fun, the sort of learning we are doing is essentially mapping the space of that movement.
+
+[^24]: 乐趣是学习的另一个词：游戏理论家布赖恩·萨顿·史密斯称这只是“游戏修辞”之一。他在《游戏的歧义》一书中还指出了其他几种游戏修辞，包括用机会游戏来决定你的命运，或用游戏来决定国家的命运。我倾向于把他指出的几乎所有修辞方法都看作是学习和实践的不同来源，而其余的（比如我刚才提到的两种）更像是游戏的其他用途。最近，设计师克雷格·佩尔科撰写了一系列文章，指出了他所谓的"游戏美学"，并再次指出学习和掌握只是游戏结构中两种可能的价值。正如几位游戏学者（萨伦，齐默尔曼和博格斯特）所指出的，“游戏”在德里达意义上可以理解为“运动”或“自由”。在我对“乐趣”的定义中，我们正在进行的学习本质上就是在映射这种运动的空间。
