@@ -61,8 +61,8 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^6]: 哥林多前书：引用的是《哥林多前书》13:11。以下内容出自《圣经》詹姆士王版本：
 `我作孩子的时候，说话像孩子，心思像孩子，意念像小孩子。既成了人，就把孩子的事丢弃了。
-<br/>我们如今仿佛对着镜子观看，模糊不清；到那时就要面对面了。我如今所知道的有限，到那时就全知道，如同主知道我一样。
-<br/>如今常存的有信，有望，有爱；这三样，其中最大的是爱。`
+我们如今仿佛对着镜子观看，模糊不清；到那时就要面对面了。我如今所知道的有限，到那时就全知道，如同主知道我一样。
+如今常存的有信，有望，有爱；这三样，其中最大的是爱。`
 
 [^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson’s blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost’s critique ["Gamification is Bullshit,](http://bit.ly/gamification-bogost-atlantic) published in The Atlantic.
 
