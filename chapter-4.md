@@ -64,7 +64,28 @@ Sadly, reflecting mathematical structures is also the only thing many games do. 
 
 Given that we're basically [hierarchical and strongly tribal primates](#user-content-fn-11)[^11],  it's not surprising that so many of the basic lessons taught by our early childhood play are about power and status. Think about how important these lessons still are within society, regardless of your particular culture. Games almost always teach us tools for being the top monkey or tribe of monkeys.
 
-鉴于我们基本上是[等级森严、部落色彩浓厚的灵长类动物](#user-content-fn-12)[^12]，我们幼年游戏所教授的许多基本课程都与权力和地位有关，这并不奇怪。想想看，无论你的文化如何，这些课程在社会中仍然是多么重要。游戏几乎总是教我们如何成为最顶尖的猴子或猴子部落。
+鉴于我们基本上是[等级森严且热衷抱团的灵长类动物](#user-content-fn-12)[^12]，很多我们儿时游戏中学到的基本课程都与权力和地位有关也就不足为奇。想想看，无论你的文化背景如何，这些道理在社会中都至关重要。游戏几乎总是教我们如何成为最顶尖的猴子或猴群。
+
+<div align="center">
+<img src="images/4.3.png">
+</div>
+
+> ...uh...
+> 
+> ……嗯……
+> 
+> gratuitous penguin
+> 
+> 无谓的企鹅
+> 
+> ...oh well...
+> 
+> ……好吧……
+> 
+> The very phrase "it's just a game" implies that playing a game is a form of PRACTICE for a real-life challenge.
+> 
+> “这只是个游戏”这句话本身就意味着，玩游戏是对现实挑战的一种练习。
+
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach page: [www.igda.org/academia/](www.igda.org/academia/).
 
