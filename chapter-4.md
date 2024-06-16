@@ -46,11 +46,31 @@ Most importantly, would fire drills be more effective if they were fun activitie
 > 
 > 随着年龄的增长，有些游戏会变得严肃起来。
 
+If games are essentially models of reality, then the things that games teach us must reflect on reality.
+
+如果游戏本质上是现实的模型，那么游戏教给我们的东西就必须反映现实。
+
+My first thought was that games are models of hypothetical realities, since they often bear no resemblance to any reality I know.
+
+我首先想到的是，游戏是假设现实的模型，因为它们往往与我所知道的任何现实都毫无相似之处。
+
+As I looked deeper, though, I found that even whacked-out abstract games do reflect underlying reality. The guys who told me these games were all about vertices were correct. Since formal rule sets are basically mathematical constructs, they always end up reflecting forms of mathematical truth, at the very least. (Formal rule sets are the basis for most games, but not all—there are classes of [games with informal rule sets](#user-content-fn-9)[^9], but you can bet that little kids will cry "no fair" when someone violates an unstated assumption in their tea party.)
+
+但随着我的深入研究，我发现即使是古怪抽象的游戏也确实反映了潜在的现实。那些告诉我这些游戏都是关于顶点的人是对的。由于形式规则集基本上是数学构造，因此它们最终总会反映出数学真理的形式，至少是这样。(正式规则集是大多数游戏的基础，但并不是所有游戏的基础——有一些[游戏的规则集是非正式的](#user-content-fn-10)[^10]，但你可以放心，当有人在他们的茶话会上违反了一个未说明的假设时，小孩子们一定会大叫“不公平”。）
+
+Sadly, reflecting mathematical structures is also the only thing many games do. The real-life challenges that games prepare us for are almost exclusively ones based on the calculation of odds. They teach us how to predict events. A huge number of games simulate forms of combat. Even games ostensibly about building are usually framed competitively.
+
+可悲的是，反映数学结构也是许多游戏唯一能做的事情。游戏让我们为现实生活中的挑战做好准备，而这些挑战几乎都是基于几率计算的。它们教我们如何预测事件。大量游戏模拟了各种形式的战斗。即使是表面上是关于建设的游戏，通常也是以竞争为框架的。
+
+Given that we're basically [hierarchical and strongly tribal primates](#user-content-fn-11)[^11],  it's not surprising that so many of the basic lessons taught by our early childhood play are about power and status. Think about how important these lessons still are within society, regardless of your particular culture. Games almost always teach us tools for being the top monkey or tribe of monkeys.
+
+鉴于我们基本上是[等级森严、部落色彩浓厚的灵长类动物](#user-content-fn-12)[^12]，我们幼年游戏所教授的许多基本课程都与权力和地位有关，这并不奇怪。想想看，无论你的文化如何，这些课程在社会中仍然是多么重要。游戏几乎总是教我们如何成为最顶尖的猴子或猴子部落。
+
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach page: [www.igda.org/academia/](www.igda.org/academia/).
 
 [^2]: 针对游戏设计师的大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广页面：[www.igda.org/academia/](www.igda.org/academia/)。
 
-[^3]: Pinochle: A game of cards. You play with a slightly different deck than the standard 52-card deck used for poker or bridge. Points are scored based on the number of particular combinations of cards (called “melds”) that you hold in your hand, which is similar to poker, but you also bid for “trumps” (naming a suit higher ranking than all other suits), similar to bridge.
+[^3]: Pinochle: A game of cards. You play with a slightly different deck than the standard 52-card deck used for poker or bridge. Points are scored based on the number of particular combinations of cards (called "melds") that you hold in your hand, which is similar to poker, but you also bid for "trumps" (naming a suit higher ranking than all other suits), similar to bridge.
 
 [^4]: 1 Corinthians: The citation is 1 Corinthians 13:11. The following is from the King James version of the Bible:
 `When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.
@@ -67,3 +87,11 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson’s blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost’s critique ["Gamification is Bullshit,](http://bit.ly/gamification-bogost-atlantic) published in The Atlantic.
 
 [^8]: 游戏化： 玛格丽特·罗伯逊的博客文章[《点数化 》](http://bit.ly/cant-play-wont-play)和伊恩·博格斯特在《大西洋月刊》发表的批评文章[《游戏化是胡扯》](http://bit.ly/gamification-bogost-atlantic)，是对这种做法的两个有力批判。
+
+[^9]: Games with informal rule sets: Many theorists have established a spectrum from "game" to "play." Bruno Bettelheim, the child psychologist, defined forms of play as make-believe (solo or cooperative), joint storytelling, community building, and play with toys. He saw games as team-based, or individual competitions against other people or against self-imposed marker thresholds. Of course, joint storytelling or social tie-building proceed by concrete if unspoken rules. I'd argue that what we tend to think of as "play" or "informal" games may have more rules than the classic definition of game.
+
+[^10]: 具有非正式规则集的游戏：许多理论家建立了一个从“游戏”到“玩耍”的谱系。儿童心理学家布鲁诺·贝特尔海姆把游戏的形式定义为虚构（独自或合作）、共同讲故事、社区建设和玩玩具。他认为游戏是以团队为基础的，或者是个人与他人的竞争，或者是与自我设定的标记阈值的竞争。当然，共同讲故事或建立社会纽带的游戏是根据具体的规则进行的。我认为，我们通常认为的“游戏”或“非正式”游戏可能比游戏的经典定义有更多的规则。
+
+[^11]: Hierarchical and strongly tribal primates: For marvelous insight into the tribal and animalistic nature of human societies, I highly recommend the work of Jared Diamond, particularly The Third Chimpanzee (Harper, 2006) and Guns, Germs, and Steel (W.W. Norton and Company, 1999).
+
+[^12]: 等级森严、部落性极强的灵长类动物：我强烈推荐贾雷德·戴蒙德的作品，尤其是《第三只黑猩猩》（哈珀出版社，2006 年）和《枪炮、病菌和钢铁》（W.W. Norton and Company, 1999 年），其中对人类社会的部落和兽性有深刻的见解。
