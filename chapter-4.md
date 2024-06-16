@@ -86,6 +86,25 @@ Given that we're basically [hierarchical and strongly tribal primates](#user-con
 > 
 > “这只是个游戏”这句话本身就意味着，玩游戏是对现实挑战的一种练习。
 
+Games also teach us how to examine the environment, or space, around us[^13]. From games where we fit together odd shapes to games where we learn to see the invisible lines of power projection across a grid, much effort is spent in teaching us about territory. That is what tic-tac-toe is essentially all about.
+
+游戏还教会我们如何审视周围的环境或空间。从拼凑奇形怪状的游戏，到让我们学会看清权力投射的无形线条的游戏，都在教我们认识领地方面花费了大量精力。这也是井字游戏的本质所在。
+
+Spatial relationships are, of course, critically important to us. Some animals might be able to navigate the world using the Earth’s magnetic field, but not us. Instead, we use maps and we use them to map all sorts of things, not just space. Learning to interpret symbols on a map, assess distance, assess risk, and remember caches must have been a critically important survival skill when we were nomadic tribesmen. Most games incorporate some element of spatial reasoning. The space may be a [Cartesian coordinate space](#user-content-fn-15)[^15], like what we see on a soccer field, or it may be a [directed graph](#user-content-fn-16)[^16] like we see in "racetrack" board games. Mathematicians might even point out that something like [a tennis court could be both](#user-content-fn-17)[^17] at the same time. Classifying, collating, and exercising power over the contents of a space is one of the fundamental lessons of all kinds of gameplay.
+
+当然，空间关系对我们来说至关重要。有些动物也许可以利用地球磁场来导航，但我们不行。相反，我们使用地图，而且我们用地图来描绘各种事物，而不仅仅是空间。当我们还是游牧部落的人时，学会解释地图上的符号、评估距离、评估风险和记住藏匿地点一定是一项极其重要的生存技能。大多数游戏都包含一些空间推理元素。空间可能是[笛卡尔坐标空间](#user-content-fn-18)[^18]，就像我们在足球场上看到的那样；也可能是[有向图](#user-content-fn-19)[^19]，就像我们在“赛道”棋类游戏中看到的那样。数学家甚至会指出，像网球场这样的东西可以同时是这[两种空间](#user-content-fn-20)[^20]。对空间内容进行分类、整理和行使权力，是各种游戏的基本课程之一。
+
+Examining space also fits into our nature as toolmakers. We learn how things [fit together](#user-content-fn-21)[^21]. We often abstract this a lot—we play games where things fit together not only physically, but [conceptually](#user-content-fn-22)[^22] as well. We map things like temperature. We map social relationships (as graphs of edges and vertices, in fact). We map things over time. By playing [games of classification and taxonomy](#user-content-fn-23)[^23], we extend mental maps of relationships between objects. With these maps, we can extrapolate behaviors of these objects.
+
+研究空间也符合我们作为工具制造者的天性。我们学习如何将[事物组合](#user-content-fn-24)[^24]在一起。我们经常把这一点抽象化——在我们玩的游戏中，事物不仅是物理上的结合，也是[概念上的结合](#user-content-fn-25)[^25]。我们将温度等事物绘制成图。我们绘制社会关系图（实际上是边和顶点的图）。我们绘制事物的时间图。通过[玩分类游戏](#user-content-fn-26)[^26]，我们扩展了物体间关系的心理地图。有了这些地图，我们就能推断出这些物体的行为。
+
+<div align="center">
+<img src="images/4.4.png">
+</div>
+
+> Some games teach spatial relationships.
+> 
+> 有些游戏教授空间关系。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach page: [www.igda.org/academia/](www.igda.org/academia/).
 
@@ -116,3 +135,31 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^11]: Hierarchical and strongly tribal primates: For marvelous insight into the tribal and animalistic nature of human societies, I highly recommend the work of Jared Diamond, particularly The Third Chimpanzee (Harper, 2006) and Guns, Germs, and Steel (W.W. Norton and Company, 1999).
 
 [^12]: 等级森严、部落性极强的灵长类动物：我强烈推荐贾雷德·戴蒙德的作品，尤其是《第三只黑猩猩》（哈珀出版社，2006 年）和《枪炮、病菌和钢铁》（W.W. Norton and Company, 1999 年），其中对人类社会的部落和兽性有深刻的见解。
+
+[^13]: Examining the space around us: A lot of games can be treated as problems in graph theory—and this is where those guys saying that the game was all vertices were right. These were people who had essentially "leveled up" in how they viewed space; they were practiced enough in territory problems that they were able to abstract any given territory game into a graph and discern patterns that I, stuck in my perception of it, was unable to see.
+
+[^14]: 审视我们周围的空间 很多游戏都可以被视为图论中的问题--这也是那些说游戏都是顶点的人说对了的地方。这些人在看待空间方面基本上已经 "升级 "了；他们在领地问题上已经练得足够好，能够将任何给定的领地游戏抽象成图形，并找出我无法看到的模式，而我却还停留在对它的认知上。
+
+[^15]: Cartesian coordinate space: This is the classic method, developed by René Descartes, of locating a point in 2-D space on a grid defined by two orthogonal axes. It serves as the basis of much of algebra (as well as most of computer graphics). This tends to be our default assumption for how space is "shaped," but within graph theory many other types of spaces are possible.
+
+[^16]: Directed graph: A directed graph is one where you have points or nodes connected by lines (vertices and edges, in mathematics lingo) but the lines have direction. Think of the classic children’s board game Chutes and Ladders; the chutes and ladders on the board are directed links between points on the board. You can only move one way on a chute. It is a game that does not use Cartesian space; the shortest distances between points have nothing to do with the physical distances on the board, but rather with the number of moves it takes to get to a given spot. All of the "track" games such as Monopoly are in effect directed graphs.
+
+[^17]: A tennis court could be both: Tennis has two separate spaces divided by a net, and can therefore be looked at either way. Were we to graph it using nodes, we might say that there are four nodes: two halves of the court, and the out of bounds area at each extreme. The game is about getting the ball from your node to the out of bounds area on the opposite side. But of course, it is also a game played in a traditional coordinate space. Player position within a node is actually where most of the strategy lies.
+
+[^18]: 笛卡尔坐标空间： 这是由勒内-笛卡尔（René Descartes）提出的经典方法，即在两个正交轴所定义的网格上确定二维空间中某一点的位置。它是大部分代数（以及大部分计算机制图）的基础。这往往是我们对空间如何 "成形 "的默认假设，但在图论中，还有许多其他类型的空间是可能的。
+
+[^19]: 有向图 有向图是指点或节点由线（数学术语为顶点和边）连接，但线是有方向的。想想经典的儿童棋盘游戏 "滑槽和梯子"：棋盘上的滑槽和梯子是棋盘上各点之间的有向连接。在滑道上只能单向移动。这是一个不使用笛卡尔空间的游戏；点与点之间的最短距离与棋盘上的物理距离无关，而是与到达指定地点所需的移动次数有关。所有的 "轨道 "游戏，如大富翁，实际上都是有向图。
+
+[^20]: 网球场可以两者兼而有之： 网球场有两个独立的空间，由球网分割开来，因此可以从两个方面来看。如果用节点来表示，我们可以说有四个节点：两个半场和两端的出界区。比赛就是要把球从你的节点带到对面的出界区。当然，这也是一场在传统坐标空间中进行的比赛。玩家在节点内的位置实际上是大部分策略的所在。
+
+[^21]: Games where things fit together physically: My favorites include Tetris, Blokus, and Rumis.
+
+[^22]: Games where things fit together conceptually: Poker is probably the most obvious example, but many card games work this way, as do many tile-laying games such as Carcassonne.
+
+[^23]: Games of classification or taxonomy: Card games such as Uno and Go Fish!, and even memory games, rely on classifying things into sets.
+
+[^24]: 游戏中的事物通过物理方式结合在一起： 我最喜欢的游戏包括俄罗斯方块、Blokus 和 Rumis。
+
+[^25]: 从概念上将事物组合在一起的游戏： 扑克可能是最明显的例子，但许多纸牌游戏都是如此，许多铺瓷砖游戏（如卡卡颂）也是如此。
+
+[^26]: 分类游戏 Uno 和 Go Fish！等纸牌游戏，甚至是记忆游戏，都依赖于将事物分类成套。
