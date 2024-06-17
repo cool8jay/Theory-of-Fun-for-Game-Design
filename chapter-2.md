@@ -254,7 +254,7 @@ The second level of the brain is really slow. It's integrative, associative, and
 
 > We call this "practicing," and the more we do it,
 >
-> 我们称之为 "练习"，而且越练越多，
+> 我们称之为 "练习"，而且练得越多，
 >
 > HELP WANTED
 >
