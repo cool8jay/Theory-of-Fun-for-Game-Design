@@ -16,9 +16,9 @@ Looking up "game" in the dictionary isn't that helpful. Once you leave out the d
 
 在字典里查找“游戏”一词并没有什么帮助。一旦撇开有关狩猎的定义，它们就会到处乱窜。消遣或娱乐与竞赛混为一谈。有趣的是，没有一个定义倾向于认为乐趣是必要条件：娱乐或消遣充其量只是必要条件。
 
-Those few academics who have tried to define "game" have offered up everything from [Roger Caillois](#user-content-fn-3)[^3]' "activity which is…voluntary…uncertain, unproductive, governed by rules, make-believe" to [Johan Huizinga](#user-content-fn-5)[^5]'s "free activity…outside 'ordinary' life…" to [Jesper Juul](#user-content-fn-7)[^7]'s more contemporary and precise take: "A game is a rule-based formal system with a variable and quantifiable outcome, where different outcomes are assigned different values, the player exerts effort in order to influence the outcome, the player feels attached to the outcome, and the consequences of the activity are optional and negotiable."
+Those few academics who have tried to define "game" have offered up everything from [Roger Caillois](#user-content-fn-3)[^3]' "activity which is…voluntary…uncertain, unproductive, governed by rules, make-believe" to [Johan Huizinga](#user-content-fn-4)[^4]'s "free activity…outside 'ordinary' life…" to [Jesper Juul](#user-content-fn-5)[^5]'s more contemporary and precise take: "A game is a rule-based formal system with a variable and quantifiable outcome, where different outcomes are assigned different values, the player exerts effort in order to influence the outcome, the player feels attached to the outcome, and the consequences of the activity are optional and negotiable."
 
-那些尝试定义“游戏”的少数学者们提出了各种定义，从[罗杰·卡尤瓦](#user-content-fn-4)[^4]的“自愿的……不确定的，无产出的，受规则制约的，虚构的活动”到[约翰·赫伊津哈](#user-content-fn-6)[^6]的“自由活动……在‘普通’生活之外……”到[杰斯珀·尤尔](#user-content-fn-8)[^8]的更现代和精确的看法：“游戏是一个基于规则的形式系统，具有可变和可量化的结果，在其中不同的结果被赋予不同的价值，玩家付出努力以影响结果，玩家对结果有归属感，并且该活动的后果是可选择和可协商的。”
+那些尝试定义“游戏”的少数学者们提出了各种定义，从[罗杰·卡尤瓦](#user-content-fn-6)[^6]的“自愿的……不确定的，无产出的，受规则制约的，虚构的活动”到[约翰·赫伊津哈](#user-content-fn-7)[^7]的“自由活动……在‘普通’生活之外……”到[杰斯珀·尤尔](#user-content-fn-8)[^8]的更现代和精确的看法：“游戏是一个基于规则的形式系统，具有可变和可量化的结果，在其中不同的结果被赋予不同的价值，玩家付出努力以影响结果，玩家对结果有归属感，并且该活动的后果是可选择和可协商的。”
 
 None of these help designers find "fun," though.
 
@@ -120,9 +120,9 @@ We now know that when you ask someone to draw something, he is far more likely t
 
 我们现在知道，当你让一个人画某样东西时，他画出自己脑中保存的该物体的概括性图标版本的可能性要远远大于画出眼前的实际物体。事实上，用我们有意识的思维去看实际存在的东西真的很难做到，而且大多数人永远也学不会！_大脑在积极地向我们隐藏真实的世界_。
 
-These things fall under the rubric of "[cognitive theory](#user-content-fn-25)[^25]," a fancy way of saying "how we think we know what we think we know." Most of them are examples of a concept called "[chunking](#user-content-fn-27)[^27]."
+These things fall under the rubric of "[cognitive theory](#user-content-fn-25)[^25]," a fancy way of saying "how we think we know what we think we know." Most of them are examples of a concept called "[chunking](#user-content-fn-26)[^26]."
 
-这些都属于“[认知理论](#user-content-fn-26)[^26]”范畴，是“我们如何认为我们知道我们认为我们知道的东西”的一种花哨说法。其中大部分都是“[分块](#user-content-fn-28)[^28]”概念的例子。
+这些都属于“[认知理论](#user-content-fn-27)[^27]”范畴，是“我们如何认为我们知道我们认为我们知道的东西”的一种花哨说法。其中大部分都是“[分块](#user-content-fn-28)[^28]”概念的例子。
 
 Chunking is something we do all the time.
 
@@ -304,9 +304,9 @@ The reason isn't just muscle memory; that just accounts for some of my ability t
 
 原因不仅仅是肌肉记忆；肌肉记忆只是我手指在指板上快速移动的部分能力，但不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年了，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多晦涩难懂的东西，加深对音符之间的音程、节奏的掌握以及和声进程的[理解](#user-content-fn-54)[^54]。
 
-Building up this library is what we call "[practice](#user-content-fn-55)[^55]." Studies have shown that you don't even have to do it physically. You can just think about doing it and it'll get you much of the way there. This is strong evidence that [the brain is doing the work, not the muscles](#user-content-fn-57)[^57].
+Building up this library is what we call "[practice](#user-content-fn-55)[^55]." Studies have shown that you don't even have to do it physically. You can just think about doing it and it'll get you much of the way there. This is strong evidence that [the brain is doing the work, not the muscles](#user-content-fn-56)[^56].
 
-建立这个库就是我们所说的“[练习](#user-content-fn-56)[^56]”。研究表明，你甚至不必身体力行。你只需想着去做，就能在很大程度上达到目的。这有力地证明了[大脑在做功，而不是肌肉](#user-content-fn-58)[^58]。
+建立这个库就是我们所说的“[练习](#user-content-fn-57)[^57]”。研究表明，你甚至不必身体力行。你只需想着去做，就能在很大程度上达到目的。这有力地证明了[大脑在做功，而不是肌肉](#user-content-fn-58)[^58]。
 
 When our brain is really into practicing something, we'll dream about it. This is the intuitive part of the brain burning neural pathways into our brain, working on turning newly grasped patterns into something that fits within the context of everything else we know. The ultimate goal is to turn it into a routine. Frankly, my impression is that the brain doesn't particularly want to have to deal with it again.
 
@@ -342,13 +342,13 @@ When our brain is really into practicing something, we'll dream about it. This i
 
 [^3]: Roger Caillois: An anthropologist who wrote a book called Man, Play and Games in 1958. In it, he also categorized games into four types, based on chance, competition, make-believe or pretense, and vertigo. He saw games primarily as tools of acculturation.
 
-[^4]: 罗杰·卡尤瓦：人类学家，1958 年著有《人、玩和游戏》一书。在这本书中，他还将游戏分为四种类型，分别基于机会、竞争、虚构或伪装以及眩晕。他认为游戏主要是文化适应的工具。
+[^4]: Johan Huizinga: Author of Homo Ludens (1938), a book primarily focusing on the importance of play in human culture. Huizinga defines the concept of the "magic circle" within which play takes place as a protected and even sacred space that must not be violated.
 
-[^5]: Johan Huizinga: Author of Homo Ludens (1938), a book primarily focusing on the importance of play in human culture. Huizinga defines the concept of the "magic circle" within which play takes place as a protected and even sacred space that must not be violated.
+[^5]: Jesper Juul: An academic who is a leader of the relatively recent "ludology" movement. His website is [https://www.jesperjuul.net](https://www.jesperjuul.net). I recommend his book Half-Real (MIT Press, 2011) for an introduction to ludology.
 
 [^6]: 约翰·赫伊津哈：《游戏的人》（1938 年）的作者，该书主要关注玩乐在人类文化中的重要性。赫伊津哈提出了“魔法圈”的概念，认为游戏是一个受保护的、甚至是神圣的、不可侵犯的空间。
 
-[^7]: Jesper Juul: An academic who is a leader of the relatively recent "ludology" movement. His website is [https://www.jesperjuul.net](https://www.jesperjuul.net). I recommend his book Half-Real (MIT Press, 2011) for an introduction to ludology.
+[^7]: 罗杰·卡尤瓦：人类学家，1958 年著有《人、玩和游戏》一书。在这本书中，他还将游戏分为四种类型，分别基于机会、竞争、虚构或伪装以及眩晕。他认为游戏主要是文化适应的工具。
 
 [^8]: 杰斯珀·尤尔：最近兴起的 “游戏学”（ludology）运动的领军学者。他的网站是 [https://www.jesperjuul.net](https://www.jesperjuul.net)。我推荐他的《半真实》（麻省理工学院出版社，2011 年）一书，以介绍游戏学。
 
@@ -386,9 +386,9 @@ When our brain is really into practicing something, we'll dream about it. This i
 
 [^25]: Cognitive theory: The field of cognition breaks down into several different areas. Cognitive psychology, the mainstream tradition of the field, is mostly abstract, and doesn't reference biology very much, whereas the relatively new field of cognitive neuroscience attempts to relate information flow to how the brain works. This latter field is relatively new, and it is what most of the commentary in this book references.
 
-[^26]: 认知理论：认知领域细分为几个不同的区域。认知心理学是这一领域的主流传统，主要是抽象的，并不太涉及到生物学，而相对较新的认知神经科学领域则试图将信息流与大脑如何工作联系起来。后一领域相对较新，本书的大部分评论都参考了这一领域。
+[^26]: Chunking: According to G. A. Miller's influential 1958 paper "The Magical Number Seven, Plus or Minus Two," our short-term memory (which you can think of as our "scratch pad" for doing mental work) can only handle around seven units of information. If you overload your short-term memory, you'll forget some of the items. Each unit of information can be fairly complex, as long as we are capable of reducing it down to a "chunk," or a collected unit of information with a single easy-to-remember label. This has important implications for a number of fields, including linguistics, interface design, and of course, games—it helps explain why adding more numbers to keep track of in a game will very quickly make the game too hard. Only short-term memory has this limitation; the brain itself is capable of far more. The classic example is to ask you to memorize a sequence of seemingly jumbled numbers and letters. When these turn out to have associations to previously mastered patterns, it becomes far easier. Try it yourself at http://www.youramazingbrain.org.uk/yourmemory/chunk01.htm.
 
-[^27]: Chunking: According to G. A. Miller's influential 1958 paper "The Magical Number Seven, Plus or Minus Two," our short-term memory (which you can think of as our "scratch pad" for doing mental work) can only handle around seven units of information. If you overload your short-term memory, you'll forget some of the items. Each unit of information can be fairly complex, as long as we are capable of reducing it down to a "chunk," or a collected unit of information with a single easy-to-remember label. This has important implications for a number of fields, including linguistics, interface design, and of course, games—it helps explain why adding more numbers to keep track of in a game will very quickly make the game too hard. Only short-term memory has this limitation; the brain itself is capable of far more. The classic example is to ask you to memorize a sequence of seemingly jumbled numbers and letters. When these turn out to have associations to previously mastered patterns, it becomes far easier. Try it yourself at http://www.youramazingbrain.org.uk/yourmemory/chunk01.htm.
+[^27]: 认知理论：认知领域细分为几个不同的区域。认知心理学是这一领域的主流传统，主要是抽象的，并不太涉及到生物学，而相对较新的认知神经科学领域则试图将信息流与大脑如何工作联系起来。后一领域相对较新，本书的大部分评论都参考了这一领域。
 
 [^28]: 分块记忆：根据 G. A. 米勒在 1958 年发表的极具影响力的论文《神奇的数字七，正负二》，我们的短期记忆（你可以把它想象成我们进行脑力劳动的“便签本”）只能处理大约七个信息单元。如果你的短期记忆超过上限，你就会忘记其中的一些项目。每个信息单元可以相当复杂，只要我们能够将其简化为一个“块”，或一个带有单一易记标签的信息集合单元。这对语言学、界面设计和游戏等多个领域都有重要影响，当然还有游戏——这有助于解释为什么在游戏中添加更多需要记录的数字很快就会让游戏变得太难。只有短期记忆才有这种局限性，而大脑本身的能力要大得多。最典型的例子就是要求你记住一串看似杂乱无章的数字和字母。当发现这些数字和字母与之前掌握的模式有关联时，记忆就会变得容易得多。请在 [http://www.youramazingbrain.org.uk/yourmemory/chunk01.htm](http://www.youramazingbrain.org.uk/yourmemory/chunk01.htm) 上亲自尝试一下。
 
@@ -446,8 +446,8 @@ When our brain is really into practicing something, we'll dream about it. This i
 
 [^55]: Practice: Alan Turing, better known as the father of modern computing, is also the creator of something called "Turing's Halting Problem." We know that you can get a computer to tackle incredibly difficult problems. However, we do not know how long it will take for the answers to be returned; no predictive method works. This is because of the Church-Turing thesis, which simply states that you can compute anything that has already been computed, but problems we haven't computed yet are unknown territory. Only experience tells us the scope of a problem. In short, we only really learn things by experiencing them.
 
-[^56]: 实践：现代计算机之父艾伦·图灵也是“图灵停机问题”的创造者。我们知道，你可以让计算机解决令人难以置信的难题。但是，我们不知道需要多长时间才能得到答案；没有一种预测方法是有效的。这是因为丘奇·图灵理论，它简单地指出你可以计算任何已经计算过的问题，但我们尚未计算过的问题是未知领域。只有经验才能告诉我们问题的范围。简而言之，只有亲身经历，我们才能真正学到东西。
+[^56]: Mental practice: This is called "mental imagery," and it is widely used in sports training. One study by Anne Isaac in 1992 showed that mental imagery helps an athlete improve in a skill. Other studies have found that autonomic nervous system responses are triggered by detailed mental imagery. It's important to note that actual practice is still better than just imagining yourself doing something—the mental images have to be highly detailed and specific to provide a benefit. One of the most famous examples of mental imagery in the last 100 years is shown in the film The Pianist, where Wladyslaw Szpilman, played by Adrien Brody, “plays” piano while hovering his fingers above the keys, so as to avoid detection by the Nazis.
 
-[^57]: Mental practice: This is called "mental imagery," and it is widely used in sports training. One study by Anne Isaac in 1992 showed that mental imagery helps an athlete improve in a skill. Other studies have found that autonomic nervous system responses are triggered by detailed mental imagery. It's important to note that actual practice is still better than just imagining yourself doing something—the mental images have to be highly detailed and specific to provide a benefit. One of the most famous examples of mental imagery in the last 100 years is shown in the film The Pianist, where Wladyslaw Szpilman, played by Adrien Brody, “plays” piano while hovering his fingers above the keys, so as to avoid detection by the Nazis.
+[^57]: 实践：现代计算机之父艾伦·图灵也是“图灵停机问题”的创造者。我们知道，你可以让计算机解决令人难以置信的难题。但是，我们不知道需要多长时间才能得到答案；没有一种预测方法是有效的。这是因为丘奇·图灵理论，它简单地指出你可以计算任何已经计算过的问题，但我们尚未计算过的问题是未知领域。只有经验才能告诉我们问题的范围。简而言之，只有亲身经历，我们才能真正学到东西。
 
 [^58]: 心理练习：这被称为“心理想象”，在体育训练中被广泛使用。安妮·艾萨克在 1992 年进行的一项研究表明，心理想象有助于运动员提高技能。其他研究发现，详细的心理想象会引发自主神经系统的反应。值得注意的是，实际练习仍比想象自己在做某事要好——心理想象必须非常详细和具体，才能带来益处。在电影《钢琴师》中，阿德里安·布罗迪扮演的弗拉迪斯拉夫·席皮尔曼一边“弹钢琴”，一边将手指悬停在琴键上方，以避免被纳粹发现。

@@ -10,9 +10,9 @@ Kids are playing everywhere, all the time, and often playing games that we do no
 
 孩子们无处不在、无时无刻不在玩耍，而且经常玩一些我们不太理解的游戏。他们以惊人的速度玩耍和学习。我们看到的统计数字表明，孩子们一天能吸收多少单词，他们的运动控制能力发展得有多快，他们掌握了多少生活的基本方面——坦率地说，这些方面是如此微妙，以至于我们甚至忘记了自己是如何学会的——我们通常没有意识到这是多么了不起的壮举。
 
-Consider how hard it is to learn a language, and yet children all over the world do it routinely. A first language. They are doing it without assigning [cognates](#user-content-fn-1)[^1] in their native tongue and without translating in their heads. Much attention has been paid to some very special [deaf kids in Nicaragua](#user-content-fn-3)[^3], who have managed to invent a fully functional sign language in just a few generations. Many believe this shows language is built into the brain, and that there's something in our wiring that guides us inexorably towards language.
+Consider how hard it is to learn a language, and yet children all over the world do it routinely. A first language. They are doing it without assigning [cognates](#user-content-fn-1)[^1] in their native tongue and without translating in their heads. Much attention has been paid to some very special [deaf kids in Nicaragua](#user-content-fn-2)[^2], who have managed to invent a fully functional sign language in just a few generations. Many believe this shows language is built into the brain, and that there's something in our wiring that guides us inexorably towards language.
 
-想想看，学习一门语言有多难，但全世界的孩子都能照常学习。第一语言。他们是在没有指定母语中的[同源词](#user-content-fn-2)[^2]，也没有在头脑中进行翻译的情况下完成学习的。[尼加拉瓜一些非常特殊的聋哑儿童](#user-content-fn-4)[^4]备受关注，他们在短短几代人的时间里就发明了一种功能齐全的手语。许多人认为，这表明语言是内置于大脑中的，我们大脑的某些结构不可抗拒地引导我们走向语言。
+想想看，学习一门语言有多难，但全世界的孩子都能照常学习。第一语言。他们是在没有指定母语中的[同源词](#user-content-fn-3)[^3]，也没有在头脑中进行翻译的情况下完成学习的。[尼加拉瓜一些非常特殊的聋哑儿童](#user-content-fn-4)[^4]备受关注，他们在短短几代人的时间里就发明了一种功能齐全的手语。许多人认为，这表明语言是内置于大脑中的，我们大脑的某些结构不可抗拒地引导我们走向语言。
 
 <p align="center">
   <img src="images/1.1.png"/>
@@ -82,9 +82,9 @@ From everything I hear, this feeling is likely to increase as I age. More and mo
 > 
 > 水。真的。
 
-When I work on games that are more my speed, I can still crush them ([mu ha ha ha](#user-content-fn-9)[^9]). We read all the time about people who play Scrabble or other mentally challenging games delaying the onset of [Alzheimer's](#user-content-fn-11)[^11]. Surely keeping the mind active keeps it flexible and keeps you young?
+When I work on games that are more my speed, I can still crush them ([mu ha ha ha](#user-content-fn-9)[^9]). We read all the time about people who play Scrabble or other mentally challenging games delaying the onset of [Alzheimer's](#user-content-fn-10)[^10]. Surely keeping the mind active keeps it flexible and keeps you young?
 
-当我玩那些更适合我的游戏时，我仍然可以碾压他们（[哞哈哈哈](#user-content-fn-10)[^10]）。我们经常读到关于玩拼字游戏或其他智力挑战游戏的人会延缓[老年痴呆症](#user-content-fn-12)[^12]发病的报道。当然，保持思维活跃可以保持头脑灵活，让你永葆青春？
+当我玩那些更适合我的游戏时，我仍然可以碾压他们（[哞哈哈哈](#user-content-fn-11)[^11]）。我们经常读到关于玩拼字游戏或其他智力挑战游戏的人会延缓[老年痴呆症](#user-content-fn-12)[^12]发病的报道。当然，保持思维活跃可以保持头脑灵活，让你永葆青春？
 
 Games don't last forever, though. There just comes a point where you say, "You know, I think I've seen most everything that this game has to offer." This happened to me most recently with a typing game I found on the Internet—it was a cute game where I played a diver and sharks were trying to eat me. Each shark had a word on its side, and as I typed the words in, the sharks went belly-up.
 
@@ -140,9 +140,9 @@ I also find it curious that as parents, we'll insist that kids be given the time
 
 [^1]: Cognates: Words that derive from a common root and are similar in meaning, even though they are in a different language. Languages frequently borrow words from one another, and thus similar words in different languages can be found. Often the meaning, pronunciation, or spelling can diverge to the point of being unrecognizable.
 
-[^2]: 源于共同词根、意义相似的词，尽管它们使用的是不同的语言。语言之间经常会相互借词，因此不同语言中也会出现类似的词。通常情况下，词义、发音或拼写会出现偏差，以至于无法辨认。
+[^2]: Deaf children in Nicaragua: Many articles have been written on Nicaraguan Sign Language, also called NSL or ISN (after the initials of the phrase in Spanish). Deaf children in Nicaragua did not have access to each other, nor to training in sign language, until 1979, when schools for the deaf began to be opened. Over a few generations, the children developed a fully functional sign language that enabled them to communicate. This is believed to be the first time in history that scientists have been able to observe a language spontaneously created (as opposed to created intentionally, like Esperanto). A good overview of the story can be found at www.nytimes.com/library/magazine/home/19991024mag-sign-language.html.
 
-[^3]: Deaf children in Nicaragua: Many articles have been written on Nicaraguan Sign Language, also called NSL or ISN (after the initials of the phrase in Spanish). Deaf children in Nicaragua did not have access to each other, nor to training in sign language, until 1979, when schools for the deaf began to be opened. Over a few generations, the children developed a fully functional sign language that enabled them to communicate. This is believed to be the first time in history that scientists have been able to observe a language spontaneously created (as opposed to created intentionally, like Esperanto). A good overview of the story can be found at www.nytimes.com/library/magazine/home/19991024mag-sign-language.html.
+[^3]: 源于共同词根、意义相似的词，尽管它们使用的是不同的语言。语言之间经常会相互借词，因此不同语言中也会出现类似的词。通常情况下，词义、发音或拼写会出现偏差，以至于无法辨认。
 
 [^4]: 尼加拉瓜的聋哑儿童：关于尼加拉瓜手语（又称 NSL 或 ISN，取自西班牙语中该词组的首字母）的文章很多。尼加拉瓜的聋哑儿童没有机会相互交流，也没有机会接受手语培训，直到 1979 年才开始开设聋哑学校。经过几代人的努力，聋哑儿童发展出了一种功能齐全的手语，使他们能够进行交流。这被认为是历史上科学家第一次观察到一种自发创造的语言（而不是像世界语那样有意创造的语言）。有关该故事的精彩概述，请访问 www.nytimes.com/library/magazine/home/19991024mag-sign-language.html。
 
@@ -156,9 +156,9 @@ I also find it curious that as parents, we'll insist that kids be given the time
 
 [^9]: Mu ha ha ha: A common gloat heard in Internet gaming.
 
-[^10]: 哞哈哈哈：网络游戏中常见的得意洋洋的笑声。
+[^10]: Mentally challenging games and Alzheimer's : A study in the New England Journal of Medicine in June 2003 indicated that mental challenges such as games retarded the development of Alzheimer's. Games weren't the only mental challenge studied; playing musical instruments, learning new languages, and dancing also had similar effects. Another study performed in 2013, called the Iowa Healthy and Active Minds Study, showed that certain videogames could have positive effects on overall cognitive function, while crossword puzzles did not (results were published in PLOS ONE, http://bit.y/plos-one-random).
 
-[^11]: Mentally challenging games and Alzheimer's : A study in the New England Journal of Medicine in June 2003 indicated that mental challenges such as games retarded the development of Alzheimer's. Games weren't the only mental challenge studied; playing musical instruments, learning new languages, and dancing also had similar effects. Another study performed in 2013, called the Iowa Healthy and Active Minds Study, showed that certain videogames could have positive effects on overall cognitive function, while crossword puzzles did not (results were published in PLOS ONE, http://bit.y/plos-one-random).
+[^11]: 哞哈哈哈：网络游戏中常见的得意洋洋的笑声。
 
 [^12]: 智力挑战游戏与阿尔茨海默氏症：2003 年 6 月，《新英格兰医学杂志》上的一项研究表明，游戏等智力挑战可延缓阿尔茨海默氏症的发展。游戏并不是研究中唯一的智力挑战，演奏乐器、学习新语言和跳舞也有类似的效果。2013年进行的另一项名为“爱荷华州健康和活跃思维研究”的研究表明，某些电子游戏对整体认知功能有积极影响，而填字游戏则没有（研究结果发表在《PLOS ONE》上，http://bit.y/plos-one-random）。
 
