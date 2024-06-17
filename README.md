@@ -1,3 +1,11 @@
+阅读地址：[GitBook](https://cool8jay.gitbook.io/Theory-of-Fun-for-Game-Design)
+
+<hr>
+
+源文件地址：[GitHub](https://cool8jay.gitbook.io/theory-of-fun-for-game-design)
+
+<hr>
+
 <p align="center">
   <img src="images/cover.png"/>
 </p>
