@@ -2,15 +2,12 @@
 
 <hr>
 
+<!--
+
 源文件地址：[GitHub](https://cool8jay.gitbook.io/theory-of-fun-for-game-design)
 
 <hr>
 
-<p align="center">
-  <img src="images/cover.png"/>
-</p>
+如果你在阅读时发现任何问题，请在[这里](https://github.com/cool8jay/Andrew-Rollings-and-Ernest-Adams-on-Game-Design/issues)提出，我会立即修正，感激不尽。
 
-A theory of fun for game design · 2nd Edition · 10th Anniversary · Raph Koster · Foreword by Will Wright
-
-游戏设计的趣味理论·第 2 版·10 周年纪念·拉菲·科斯特【著】·威尔·莱特【序】
-
+-->

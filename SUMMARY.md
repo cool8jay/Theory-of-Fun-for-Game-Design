@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cover](README.md)
+* [Cover 封面](cover.md)
 * [What people are saying! 人们的评价！](what-people-are-saying.md)
 * [About the author 关于作者](about-the-author.md)
 * [Dedication 致谢](dedication.md)

@@ -194,17 +194,17 @@ By contrast, literature can tackle all of the above and more. Over time, languag
 
 相比之下，文学作品可以解决上述所有问题，甚至更多。随着时间的推移，以语言为基础的媒体所涉及的主题越来越广泛。难道游戏系统就像音乐一样，比文学作品更有局限性吗？
 
-Pure systems probably cannot convey the same breadth of content that literature can. That said, games are capable of modeling situations of greater richness and complexity than many assume. Games like Diplomacy* are evidence that remarkably subtle interactions can be modeled within the confines of a rule set, and traditional role-playing can reach the same heights as literature in the right hands. * But it is an uphill battle for the medium nonetheless, simply because games, at their core, are about teaching us survival skills. As we all know, when you're worried about subsistence and survival, more refined things tend to fall by the wayside.
+Pure systems probably cannot convey the same breadth of content that literature can. That said, games are capable of modeling situations of greater richness and complexity than many assume. Games like [Diplomacy](#user-content-fn-53)[^53] are evidence that remarkably subtle interactions can be modeled within the confines of a rule set, and traditional [role-playing](#user-content-fn-54)[^54]  can reach the same heights as literature in the right hands. But it is an uphill battle for the medium nonetheless, simply because games, at their core, are about teaching us survival skills. As we all know, when you're worried about subsistence and survival, more refined things tend to fall by the wayside.
 
-纯粹的系统可能无法像文学作品那样传达广泛的内容。尽管如此，游戏还是能够模拟比许多人想象的更加丰富和复杂的情况。像《外交》*这样的游戏就证明，在规则设定的范围内，可以模拟出非常微妙的互动，而传统的角色扮演游戏在合适的人手中也可以达到与文学作品同样的高度。* 但是，对于游戏媒介来说，这是一场艰苦的战斗，因为游戏的核心是教会我们生存技能。众所周知，当你为温饱和生存发愁时，更高雅的东西往往会被抛到一边。
+纯粹的系统可能无法像文学作品那样传达广泛的内容。尽管如此，游戏还是能够模拟比许多人想象的更加丰富和复杂的情况。像[《外交》](#user-content-fn-55)[^55]这样的游戏就证明，在规则设定的范围内，可以模拟出非常微妙的互动，而传统的[角色扮演](#user-content-fn-56)[^56]游戏在合适的人手中也可以达到与文学作品同样的高度。* 但是，对于游戏媒介来说，这是一场艰苦的战斗，因为游戏的核心是教会我们生存技能。众所周知，当你为温饱和生存发愁时，更高雅的东西往往会被抛到一边。
 
 Of course, games are a "compound" medium, and can have stories, artwork, and music all working alongside the game system. And at that point, games can have an incredible expressive breadth, with potential that has not yet been fulfilled.
 
 当然，游戏是一种“复合”媒体，可以有故事、艺术作品和音乐与游戏系统并行不悖。在这一点上，游戏的表现力可以达到令人难以置信的广度，其潜力尚未得到发挥。 
 
-[^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach page: [www.igda.org/academia/](www.igda.org/academia/).
+[^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
-[^2]: 针对游戏设计师的大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广页面：[www.igda.org/academia/](www.igda.org/academia/)。
+[^2]: 针对游戏设计师的大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广[页面](www.igda.org/academia/)。
 
 [^3]: Pinochle: A game of cards. You play with a slightly different deck than the standard 52-card deck used for poker or bridge. Points are scored based on the number of particular combinations of cards (called "melds") that you hold in your hand, which is similar to poker, but you also bid for "trumps" (naming a suit higher ranking than all other suits), similar to bridge.
 
@@ -220,7 +220,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 我们如今仿佛对着镜子观看，模糊不清；到那时就要面对面了。我如今所知道的有限，到那时就全知道，如同主知道我一样。
 如今常存的有信，有望，有爱；这三样，其中最大的是爱。`
 
-[^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson's blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost's critique ["Gamification is Bullshit,](http://bit.ly/gamification-bogost-atlantic) published in The Atlantic.
+[^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson's blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost's critique ["Gamification is Bullshit,](https://www.theatlantic.com/technology/archive/2011/08/gamification-is-bullshit/243338/) published in The Atlantic.
 
 [^8]: 游戏化：玛格丽特·罗伯逊的博客文章[《点数化 》](http://bit.ly/cant-play-wont-play)和伊恩·博格斯特在《大西洋月刊》发表的批评文章[《游戏化是胡扯》](http://bit.ly/gamification-bogost-atlantic)，是对这种做法的两个有力批判。
 
@@ -296,7 +296,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^44]: 通过虚拟枪支射击进行训练：在训练关系到生死存亡的职业中，训练的设计要尽可能与真实情况相吻合。鼠标或在屏幕上点击并不能传达后坐力、质量、大小或人类在不同位置被击中时的反应等真实情况。操作坦克或客机等交通工具也是如此。界面非常重要。
 
-[^45]: Games about rationing: The specific game was called simply Ration Board Game and was made by the Jay-line Mfg. Co. Inc., in 1943. The wonderful BoardGameGeek website has an entry on it: http://boardgamegeek.com/boardgame/27313/ration-board.
+[^45]: Games about rationing: The specific game was called simply Ration Board Game and was made by the Jay-line Mfg. Co. Inc., in 1943. The wonderful BoardGameGeek website has an [entry](http://boardgamegeek.com/boardgame/27313/ration-board) on it:.
 
 [^46]: 关于配给的游戏：具体的游戏名为《配给委员会》，由 Jay-line 制造公司于 1943 年制作。精彩的 BoardGameGeek 网站上有一个关于它的[条目](http://boardgamegeek.com/boardgame/27313/ration-board)。
 
@@ -308,6 +308,14 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^50]: 《曼卡拉》：这个游戏家族有很多名字，包括曼卡拉、奥瓦、瓦里等等。它们都是在棋盘上的凹槽中移动种子或鹅卵石。不能让对手没有种子的变体叫做播棋，在非洲广为流传。这个名字的字面意思是 "他/她结婚"。
 
-[^51]: Modern games about farming: There are a number of these, including Euro games like Agricola, social games like Farmville, and card games like Bohnanza. However, none of them encode the same set of social practices as mancala does.
+[^51]: Modern games about farming: There are a number of these, including Euro games like [Agricola](https://en.wikipedia.org/wiki/Agricola_(board_game)), social games like [Farmville](https://en.wikipedia.org/wiki/FarmVille), and card games like [Bohnanza](https://en.wikipedia.org/wiki/Bohnanza). However, none of them encode the same set of social practices as mancala does.
 
-[^52]: 现代农耕游戏：这类游戏有很多，包括欧洲游戏（如《农家乐》）、社交游戏（如《农场小镇》）和纸牌游戏（如《种豆》）。不过，这些游戏都没有像《曼卡拉》那样包含了相同的社会实践。
+[^52]: 现代农耕游戏：这类游戏有很多，包括欧洲游戏（如[《农家乐》](https://en.wikipedia.org/wiki/Agricola_(board_game))）、社交游戏（如[《农场小镇》](https://en.wikipedia.org/wiki/FarmVille)）和纸牌游戏（如[《种豆》](https://en.wikipedia.org/wiki/Bohnanza)）。不过，这些游戏都没有像《曼卡拉》那样包含了相同的社会实践。
+
+[^53]: [Diplomacy](https://en.wikipedia.org/wiki/Diplomacy_(game)): A classic board game of interpersonal strategy, Diplomacy requires that players make deals with one another and then proceed to double-cross each other, all in the context of a board representing a map of the world.
+
+[^54]: Role-playing: Generally speaking, role-playing games are ones where the player takes on an alternate identity. Traditional pen-and-paper role-playing is like a special form of collaborative acting, but the computerized versions tend to put a much heavier emphasis on increasing the statistical definition of your character. A game with role-playing elements is typically one where the character you play can become more powerful over time.
+
+[^55]: [《外交》](https://en.wikipedia.org/wiki/Diplomacy_(game))：是一款经典的人际策略棋盘游戏，要求玩家在一个代表世界地图的棋盘上相互交易，然后再相互出卖。
+
+[^56]: 角色扮演：一般来说，角色扮演游戏是指玩家扮演另一个身份的游戏。传统的纸笔角色扮演游戏就像是一种特殊形式的合作表演，但电脑版的角色扮演游戏往往更强调增加角色的统计定义。具有角色扮演元素的游戏通常会让玩家扮演的角色随着时间的推移变得更加强大。
