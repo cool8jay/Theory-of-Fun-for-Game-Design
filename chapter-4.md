@@ -96,7 +96,7 @@ Spatial relationships are, of course, critically important to us. Some animals m
 
 Examining space also fits into our nature as toolmakers. We learn how things [fit together](#user-content-fn-21)[^21]. We often abstract this a lot—we play games where things fit together not only physically, but [conceptually](#user-content-fn-22)[^22] as well. We map things like temperature. We map social relationships (as graphs of edges and vertices, in fact). We map things over time. By playing [games of classification and taxonomy](#user-content-fn-23)[^23], we extend mental maps of relationships between objects. With these maps, we can extrapolate behaviors of these objects.
 
-研究空间也符合我们作为工具制造者的天性。我们学习如何将[事物组合](#user-content-fn-24)[^24]在一起。我们经常把这一点抽象化——在我们玩的游戏中，事物不仅是物理上的结合，也是[概念上的结合](#user-content-fn-25)[^25]。我们将温度等事物绘制成图。我们绘制社会关系图（实际上是边和顶点的图）。我们绘制事物的时间图。通过[玩分类游戏](#user-content-fn-26)[^26]，我们扩展了物体间关系的心理地图。有了这些地图，我们就能推断出这些物体的行为。
+研究空间也符合我们作为工具制造者的天性。我们学习如何将[事物组合](#user-content-fn-24)[^24]在一起。我们经常把这一点抽象化——在我们玩的游戏中，事物不仅是物理上的组合，也是[概念上的组合](#user-content-fn-25)[^25]。我们将温度等事物绘制成图。我们绘制社会关系图（实际上是边和顶点的图）。我们绘制事物的时间图。通过[玩分类游戏](#user-content-fn-26)[^26]，我们扩展了物体间关系的心理地图。有了这些地图，我们就能推断出这些物体的行为。
 
 <div align="center">
 <img src="images/4.4.png">
@@ -148,18 +148,18 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^18]: 笛卡尔坐标空间：这是由勒内·笛卡尔提出的经典方法，即在两个正交轴所定义的网格上确定二维空间中某一点的位置。它是大部分代数（以及大部分计算机制图）的基础。这往往是我们对空间如何“成形”的默认假设，但在图论中，还有许多其他类型的空间是可能的。
 
-[^19]: 有向图：有向图是指点或节点由线（数学术语为顶点和边）连接，但线是有方向的。想想经典的儿童棋盘游戏“滑梯和梯子”：棋盘上的滑梯和梯子是棋盘上各点之间的有向连接。在滑道上只能单向移动。这是一个不使用笛卡尔空间的游戏；点与点之间的最短距离与棋盘上的物理距离无关，而是与到达指定地点所需的移动次数有关。所有的“轨道”游戏，如大富翁，实际上都是有向图。
+[^19]: 有向图：有向图是指点或节点由线（数学术语为顶点和边）连接，但线是有方向的。想想经典的儿童棋盘游戏“滑梯和梯子”：棋盘上的滑梯和梯子是棋盘上各点之间的有向连接。在滑梯上只能单向移动。这是一个不使用笛卡尔空间的游戏；点与点之间的最短距离与棋盘上的物理距离无关，而是与到达指定地点所需的移动次数有关。所有的“轨道”游戏，如大富翁，实际上都是有向图。
 
-[^20]: 网球场可以两者兼而有之：网球场有两个独立的空间，由球网分割开来，因此可以从两个方面来看。如果用节点来表示，我们可以说有四个节点：两个半场和两端的出界区。比赛就是要把球从你的节点带到对面的出界区。当然，这也是一场在传统坐标空间中进行的比赛。玩家在节点内的位置实际上是大部分策略的所在。
+[^20]: 网球场可以两者兼而有之：网球场有两个独立的空间，由球网分割开来，因此可以从任意一个方面来看。如果用节点来表示，我们可以说有四个节点：两个半场和两端的出界区。比赛就是要把球从你的节点打到对面的出界区。当然，这也是一场在传统坐标空间中进行的比赛。球员在节点内的位置实际上是大部分策略的所在。
 
-[^21]: Games where things fit together physically: My favorites include Tetris, Blokus, and Rumis.
+[^21]: Games where things fit together physically: My favorites include Tetris, [Blokus](https://en.wikipedia.org/wiki/Blokus), and [Rumis](https://en.wikipedia.org/wiki/Rumis).
 
-[^22]: Games where things fit together conceptually: Poker is probably the most obvious example, but many card games work this way, as do many tile-laying games such as Carcassonne.
+[^22]: Games where things fit together conceptually: Poker is probably the most obvious example, but many card games work this way, as do many tile-laying games such as [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game)).
 
-[^23]: Games of classification or taxonomy: Card games such as Uno and Go Fish!, and even memory games, rely on classifying things into sets.
+[^23]: Games of classification or taxonomy: Card games such as [Uno](https://en.wikipedia.org/wiki/Uno_(card_game)) and [Go Fish!](https://en.wikipedia.org/wiki/Go_Fish), and even memory games, rely on classifying things into sets.
 
-[^24]: 游戏中的事物通过物理方式结合在一起：我最喜欢的游戏包括俄罗斯方块、Blokus 和 Rumis。
+[^24]: 在物理意义上进行组合的游戏：我最喜欢的游戏包括俄罗斯方块、[Blokus](https://en.wikipedia.org/wiki/Blokus) 和 [Rumis](https://en.wikipedia.org/wiki/Rumis)。
 
-[^25]: 从概念上将事物组合在一起的游戏：扑克可能是最明显的例子，但许多纸牌游戏都是如此，许多铺瓷砖游戏（如卡卡颂）也是如此。
+[^25]: 在概念上进行组合的游戏：扑克可能是最明显的例子，但许多纸牌游戏都是如此，许多铺瓷砖游戏（如[卡卡颂](https://en.wikipedia.org/wiki/Carcassonne_(board_game))）也是如此。
 
-[^26]: 分类游戏：Uno 和 Go Fish！等纸牌游戏，甚至是记忆游戏，都依赖于将事物分类成套。
+[^26]: 分类游戏：[Uno](https://en.wikipedia.org/wiki/Uno_(card_game)) 和 [Go Fish!](https://en.wikipedia.org/wiki/Go_Fish) 等纸牌游戏，甚至是记忆游戏，都依赖于将事物分类成套。
