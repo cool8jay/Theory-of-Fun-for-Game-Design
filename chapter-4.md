@@ -64,7 +64,7 @@ Sadly, reflecting mathematical structures is also the only thing many games do. 
 
 Given that we're basically [hierarchical and strongly tribal primates](#user-content-fn-11)[^11],  it's not surprising that so many of the basic lessons taught by our early childhood play are about power and status. Think about how important these lessons still are within society, regardless of your particular culture. Games almost always teach us tools for being the top monkey or tribe of monkeys.
 
-鉴于我们基本上是[等级森严且热衷抱团的灵长类动物](#user-content-fn-12)[^12]，很多我们儿时游戏中学到的基本课程都与权力和地位有关也就不足为奇。想想看，无论你的文化背景如何，这些道理在社会中都至关重要。游戏几乎总是教我们如何成为最顶尖的猴子或猴群。
+鉴于我们基本上是[等级森严且热衷抱团的灵长类动物](#user-content-fn-12)[^12]，很多我们儿时游戏中学到的基本课程都与权力和地位有关也就不足为奇。想想看，无论你的文化背景如何，这些课程在社会中都至关重要。游戏几乎总是教我们如何成为最顶尖的猴子或猴群。
 
 <div align="center">
 <img src="images/4.3.png">
@@ -122,9 +122,21 @@ Exploring a possibility space is the only way to learn about it. Most games repe
 
 探索可能性空间是了解它的唯一途径。大多数游戏都会反复向你抛出不断演变的空间，让你探索其中符号的反复出现。现代电子游戏会给你一些工具来浏览一个复杂的空间，当你完成后，游戏会给你另一个空间，再一个，再一个。
 
-Some of the really important parts of exploration involve memory. A huge number of games involve recalling and managing very long and complex chains of information. (Think about counting cards in blackjack* or playing competitive dominoes. *) Many games involve thoroughly exploring the possibility space as part of their victory condition.
+Some of the really important parts of exploration involve memory. A huge number of games involve recalling and managing very long and complex chains of information. (Think about counting cards in [blackjack](#user-content-fn-31)[^31] or playing competitive [dominoes](#user-content-fn-32)[^32].) Many games involve thoroughly exploring the possibility space as part of their victory condition.
 
-一些真正重要的探索部分涉及记忆。大量的游戏都需要回忆和管理很长很复杂的信息链。(想想二十一点中的算牌*或玩多米诺骨牌竞技*）许多游戏的胜利条件之一就是彻底探索可能性空间。
+一些真正重要的探索部分涉及记忆。大量的游戏都需要回忆和管理很长很复杂的信息链。(想想[二十一点](#user-content-fn-33)[^33]中的算牌或玩竞技性[多米诺骨牌](#user-content-fn-34)[^34]）许多游戏的胜利条件之一就是彻底探索可能性空间。
+
+In the end, most games have something to do with power. Even the innocuous games of childhood tend to have violence lurking in their heart of hearts. Playing "house" is about jockeying for social status. It is richly multileveled, as kids position themselves in authority (or not) over other kids. They play-act at using the authority that their parents exercise over them. (There's this idealized picture of young girls as being all sweetness and light, but there are few more viciously status-driven groups on earth. *)
+
+归根结底，大多数游戏都与权力有关。即使是童年时无害的游戏，在它的核心深处也往往潜藏着暴力。玩“过家家”游戏是为了争夺社会地位。它具有丰富的多层次性，因为孩子们把自己放在其他孩子的权威之上（或者之下）。他们扮演模仿使用父母对他们行使的权威。(有一种理想化的印象，认为年轻女孩都是甜美可人的，但世界上很少有比它更激烈地追求地位的群体。）
+
+Consider the games that get all the attention lately: [shooters](#user-content-fn-37)[^37], [fighting games](#user-content-fn-38)[^38], and war games. They are not subtle about their love of power. The gap between these games and cops and robbers is small as far as the players are concerned. They are all about reaction times, tactical awareness, assessing the weaknesses of an opponent, and judging when to strike. Just as my playing guitar was in fact preparing me for playing mandolin by teaching me skills beyond basic guitar fretting, these games teach many skills that are relevant in a corporate setting. It is easy to pay attention to the obvious nature of a particular game and miss the subtler point; be it cops and robbers or [CounterStrike](#user-content-fn-39)[^39], the real lessons are about teamwork and not about aiming. In fact, the [training provided by shooting a virtual gun](#user-content-fn-40)[^40] is worse than useless in teaching you how to shoot a real one.
+
+看看最近备受关注的游戏：[射击游戏](#user-content-fn-41)[^41]、[格斗游戏](#user-content-fn-42)[^42]、战争游戏。它们对权力的热爱毫不掩饰。就玩家而言，这些游戏与《警察抓小偷》之间的差距很小。他们玩的都是反应速度、战术意识、评估对手的弱点以及判断何时出手。就像我弹吉他实际上是在为弹曼陀林做准备，因为我学到了吉他基本指法以外的技能，这些游戏也教给我许多与公司环境相关的技能。人们很容易只注意到某款游戏的明显性质，而忽略了更微妙的一点；无论是《警察抓强盗》还是[《反恐精英》](#user-content-fn-43)[^43]，真正的课程都是关于团队合作，而不是瞄准。事实上，[通过射击虚拟枪支所提供的训练](#user-content-fn-44)[^44]，在教你如何射击真枪方面毫无用处。
+
+Think about it: teamwork is a far deadlier tool than sharpshooting.
+
+想想看：团队合作是比神枪手更致命的工具。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach page: [www.igda.org/academia/](www.igda.org/academia/).
 
@@ -190,4 +202,32 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^29]: You didn't learn the lesson (games of chance): Some wags have called gambling "a tax on the math-impaired." Probability is one of those areas where the human mind just seems to have trouble. The classic example is the repeated coin toss—there are only two possibilities, heads or tails. If you throw a coin and it lands on heads seven times in a row, what are the odds that it will land on tails next? The answer is still 50 percent because of how the question is phrased. If you ask, "What are the odds that eight consecutive throws will land on heads?" the answer is very different (1 in 2<sup>8</sup>). Playing on this weakness has been a classic tool of marketers and con men. Unfortunately, this inherent inability to properly assess probability leads our brain to treat it as a "richly interpretable" situation, resulting in positive feedback for gambling even though the house always wins in the long run.
 
-[^30]: 你没有学到教训（机会游戏）：有些人把赌博称为“对数学障碍者的征税”。概率是人类思维似乎有问题的领域之一。最典型的例子就是反复抛掷硬币——只有两种可能，正面或反面。如果你扔硬币，连续七次都是正面，那么下一次是反面的概率是多少？答案仍然是 50%，因为问题的措辞是这样的。如果你问：“连续八次掷出正面的概率是多少？”答案就大不相同了（1/2<sup>8</sup>）。利用这一弱点一直是营销人员和骗子的经典手段。不幸的是，这种天生无法正确评估概率的情况导致我们的大脑将其视为一种“可解释性很强”的情况，从而为赌博带来正反馈，尽管从长远来看，庄家总是赢家。
+[^30]: 你没有学到课程（机会游戏）：有些人把赌博称为“对数学障碍者的征税”。概率是人类思维似乎有问题的领域之一。最典型的例子就是反复抛掷硬币——只有两种可能，正面或反面。如果你扔硬币，连续七次都是正面，那么下一次是反面的概率是多少？答案仍然是 50%，因为问题的措辞是这样的。如果你问：“连续八次掷出正面的概率是多少？”答案就大不相同了（1/2<sup>8</sup>）。利用这一弱点一直是营销人员和骗子的经典手段。不幸的是，这种天生无法正确评估概率的情况导致我们的大脑将其视为一种“可解释性很强”的情况，从而为赌博带来正反馈，尽管从长远来看，庄家总是赢家。
+
+[^31]: Blackjack card counting: Card counting is based on rough statistical analysis to determine what the odds are of receiving a card of the right value next. This is possible because the game is played with a finite deck of known configuration. A detailed explanation of card counting methods can be found at [here](http://en.wikipedia.org/wiki/Card_counting).
+
+[^32]: Dominoes: Because a line of dominoes can only fork when a "double" is played (a domino with the same value on both squares), you can count how many times a given value has been played, and how many are likely to be in players’ hands, in order to determine whether it will be possible to play a given number in the future. Assuming the other players are playing optimally to remove the highest-value dominoes from their hand, you can determine which particular dominoes they are likely to have in their hands based on what play choices they make.
+
+[^33]: 二十一点算牌：算牌是基于粗略的统计分析来确定接下来得到一张合适数值的牌的几率。之所以能做到这一点，是因为游戏使用的是有限且已知配置的牌组。有关算牌方法的详细解释，请访问[这里](http://en.wikipedia.org/wiki/Card_counting)。
+
+[^34]: 多米诺骨牌：因为一排多米诺骨牌只有在打出“双牌”（两个方格上的点数相同）时才能分叉，所以你可以计算给定点数的骨牌被打出的次数，以及玩家手中可能有的骨牌数量，从而确定未来是否有可能打出给定数字的骨牌。假设其他玩家的最佳策略是从手中打出点数最高的多米诺骨牌，你可以根据他们的出牌选择来判定他们手中可能会有哪些特定的多米诺骨牌。
+
+[^35]: Young girls as status driven: An excellent glimpse into this world can be found in Queen Bees and Wannabes: Helping Your Daughter Survive Cliques, Gossip, Boyfriends, and Other Realities of Adolescence by Rosalind Wiseman.
+
+[^36]: 受地位驱使的年轻女孩：罗莎琳德·怀斯曼所著的《蜂后与崇拜者：帮助你的女儿度过拉帮结派、流言蜚语、男朋友和青春期的其他现实问题》一书中对这一世界进行了精彩的描述。
+
+[^37]: Shooters: A class of video games where you fire projectiles at targets in order to score points. Usually divided into first-person shooters and 2-D shooters.
+
+[^38]: Fighting games: A specific genre of video game wherein players take control of a martial artist. Typically, these games involve pressing particular button combinations in order to execute a particular kick or blow, or to dodge or deflect attacks. These games usually mimic one-on-one battles.
+
+[^39]: CounterStrike: A team-based first-person shooter where players play one of two teams: terrorists or counterinsurgents. Each team has a slightly different goal, and the game is fought within a time limit. A very high degree of team coordination is required in order to be successful. CounterStrike was the most popular online action game in the world for many years.
+
+[^40]: Training provided by shooting a virtual gun: In professions where training is a matter of life and death, training is designed to match the real circumstances as closely as possible. A mouse or a tap on a screen does not convey the realities of recoil, mass, size, or how humans react to being hit in various locations. The same is true for operating vehicles, such as tanks or airliners. Interfaces matter tremendously.
+
+[^41]: 射击游戏：向目标发射弹丸以获取分数的一类电子游戏。通常分为第一人称射击游戏和 2-D 射击游戏。
+
+[^42]: 格斗游戏：一种特殊类型的视频游戏，玩家在游戏中控制一名武术家。通常，这些游戏涉及按特定的组合键来执行特定的踢或击，或躲避或抵挡攻击。这些游戏通常模仿一对一的战斗。
+
+[^43]: 反恐精英：这是一款以团队为基础的第一人称射击游戏，玩家可从两支队伍中选择一支：恐怖分子或反叛乱分子。每支队伍的目标略有不同，游戏有时间限制。要想取得成功，需要高度的团队协作。多年来，《反恐精英》一直是世界上最受欢迎的在线动作游戏。
+
+[^44]: 通过虚拟枪支射击进行训练：在训练关系到生死存亡的职业中，训练的设计要尽可能与真实情况相吻合。鼠标或在屏幕上点击并不能传达后坐力、质量、大小或人类在不同位置被击中时的反应等真实情况。操作坦克或客机等交通工具也是如此。界面非常重要。
