@@ -2,6 +2,10 @@
   <img src="images/acknowledgments.png"/>
 </p>
 
+> Acknowledgements
+> 
+> 致谢
+> 
 > Hey, who wrote on me? 
 > 
 > 嘿，谁在我身上写字？
