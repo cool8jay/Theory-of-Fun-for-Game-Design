@@ -220,7 +220,7 @@ By contrast, literature can tackle all of the above and more. Over time, languag
 
 Pure systems probably cannot convey the same breadth of content that literature can. That said, games are capable of modeling situations of greater richness and complexity than many assume. Games like [Diplomacy](#user-content-fn-53)[^53] are evidence that remarkably subtle interactions can be modeled within the confines of a rule set, and traditional [role-playing](#user-content-fn-54)[^54]  can reach the same heights as literature in the right hands. But it is an uphill battle for the medium nonetheless, simply because games, at their core, are about teaching us survival skills. As we all know, when you're worried about subsistence and survival, more refined things tend to fall by the wayside.
 
-纯粹的系统可能无法像文学作品那样传达广泛的内容。尽管如此，游戏还是能够模拟比许多人想象的更加丰富和复杂的情况。像[《外交》](#user-content-fn-55)[^55]这样的游戏就证明，在规则设定的范围内，可以模拟出非常微妙的互动，而传统的[角色扮演](#user-content-fn-56)[^56]游戏在合适的人手中也可以达到与文学作品同样的高度。* 但是，对于游戏媒介来说，这是一场艰苦的战斗，因为游戏的核心是教会我们生存技能。众所周知，当你为温饱和生存发愁时，更高雅的东西往往会被抛到一边。
+纯粹的系统可能无法像文学作品那样传达广泛的内容。尽管如此，游戏还是能够模拟比许多人想象的更加丰富和复杂的情况。像[《外交》](#user-content-fn-55)[^55]这样的游戏就证明，在规则设定的范围内，可以模拟出非常微妙的互动，而传统的[角色扮演](#user-content-fn-56)[^56]游戏在合适的人手中也可以达到与文学作品同样的高度。但是，对于游戏媒介来说，这是一场艰苦的战斗，因为游戏的核心是教会我们生存技能。众所周知，当你为温饱和生存发愁时，更高雅的东西往往会被抛到一边。
 
 Of course, games are a "compound" medium, and can have stories, artwork, and music all working alongside the game system. And at that point, games can have an incredible expressive breadth, with potential that has not yet been fulfilled.
 
@@ -278,6 +278,22 @@ Of course, games are a "compound" medium, and can have stories, artwork, and mus
 > When you get right down to it, most games are teaching us about only a few things,
 > 
 > 说到底，大多数游戏只教我们几件事，
+
+It's worth asking ourselves what skills are more commonly needed today. Games should be evolving towards teaching us those skills.
+
+我们应该扪心自问，当今社会更需要哪些技能。游戏应该朝着教会我们这些技能的方向发展。
+
+The entire spread of games for children is fairly limited, and hasn’t changed much over time. The basic skills needed by children are the same. Perhaps we need a few more games about using touchscreens, but that's about it. Adults, on the other hand, could use new games that teach more relevant skills. Most of us no longer hunt our own food, and we no longer live in danger every moment of our lives. It's still valuable to train ourselves in some of the caveman traits, but we need to adapt.
+
+儿童游戏的整个传播范围相当有限，而且随着时间的推移变化不大。儿童需要的基本技能是一样的。也许我们需要更多关于使用触摸屏的游戏，但也仅此而已。另一方面，成年人则需要新游戏来传授更多相关技能。我们中的大多数人不再自己捕猎食物，也不再每时每刻都生活在危险之中。训练自己的一些穴居人特征仍然很有价值，但我们需要适应。
+
+Some traits are relevant but need to change because conditions have changed. Interesting research has been done into what people find disgusting, for example. [Disgust](#user-content-fn-57)[^57] is a survival trait that points us away from grayish-green, mucousy, slimy things.It does so because that was the most likely vector for illness.
+
+有些特质是有意义的，但需要改变，因为条件已经改变。例如，人们对什么感到恶心进行了有趣的研究。[恶心](#user-content-fn-58)[^58]是一种生存特征，它让我们远离灰绿色、粘液状、黏糊糊的东西。之所以如此，是因为那是最有可能致病的媒介。
+
+Today it might be the electric blue fluid that is the real risk—don't drink any drain cleaner—and we have no inborn revulsion towards it. In fact, it's made electric blue to make it seem aseptic and clean. That's a case where we should supplement our instincts with training, since I doubt there's anything I can drink under my kitchen sink.
+
+如今，真正危险的可能是电光蓝的液体——不要喝任何下水道清洁剂——但我们对它并没有天生的反感。事实上，为了让它看起来无菌、干净，我们把它做成了电光蓝色。在这种情况下，我们应该通过培训来补充我们的直觉，因为我怀疑厨房水槽下方的东西没有一样是可以喝的。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
@@ -396,3 +412,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^55]: [《外交》](https://en.wikipedia.org/wiki/Diplomacy_(game))：是一款经典的人际策略棋盘游戏，要求玩家在一个代表世界地图的棋盘上相互交易，然后再相互出卖。
 
 [^56]: 角色扮演：一般来说，角色扮演游戏是指玩家扮演另一个身份的游戏。传统的纸笔角色扮演游戏就像是一种特殊形式的合作表演，但电脑版的角色扮演游戏往往更强调增加角色的统计定义。具有角色扮演元素的游戏通常会让玩家扮演的角色随着时间的推移变得更加强大。
+
+[^57]: Disgust: A quick online quiz where you can test your own disgust levels with various substances is available at [here](www.bbc.co.uk/science/humanbody/mind/surveys/disgust/). This quiz is part of a study developed by Dr. Val Curtis of the London School of Hygiene and Tropical Medicine.
+
+[^58]: 恶心：你可以在[网站](www.bbc.co.uk/science/humanbody/mind/surveys/disgust/)上进行快速在线测验，测试自己对各种物质的厌恶程度。该测验是伦敦卫生与热带医学学院瓦尔·柯蒂斯博士所做研究的一部分。
