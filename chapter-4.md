@@ -86,11 +86,11 @@ Given that we're basically [hierarchical and strongly tribal primates](#user-con
 > 
 > “这只是个游戏”这句话本身就意味着，玩游戏是对现实挑战的一种练习。
 
-Games also teach us how to examine the environment, or space, around us[^13]. From games where we fit together odd shapes to games where we learn to see the invisible lines of power projection across a grid, much effort is spent in teaching us about territory. That is what tic-tac-toe is essentially all about.
+Games also teach us how to [examine the environment, or space, around us](#user-content-fn-13)[^13]. From games where we fit together odd shapes to games where we learn to see the invisible lines of power projection across a grid, much effort is spent in teaching us about territory. That is what tic-tac-toe is essentially all about.
 
-游戏还教会我们如何审视周围的环境或空间。从拼凑奇形怪状的游戏，到让我们学会看清权力投射的无形线条的游戏，都在教我们认识领地方面花费了大量精力。这也是井字游戏的本质所在。
+游戏还教会我们如何[审视周围的环境或空间](#user-content-fn-14)[^14]。从拼凑奇形怪状的游戏，到让我们学会看清权力投射的无形线条的游戏，都在教我们认识领地方面花费了大量精力。这也是井字游戏的本质所在。
 
-Spatial relationships are, of course, critically important to us. Some animals might be able to navigate the world using the Earth’s magnetic field, but not us. Instead, we use maps and we use them to map all sorts of things, not just space. Learning to interpret symbols on a map, assess distance, assess risk, and remember caches must have been a critically important survival skill when we were nomadic tribesmen. Most games incorporate some element of spatial reasoning. The space may be a [Cartesian coordinate space](#user-content-fn-15)[^15], like what we see on a soccer field, or it may be a [directed graph](#user-content-fn-16)[^16] like we see in "racetrack" board games. Mathematicians might even point out that something like [a tennis court could be both](#user-content-fn-17)[^17] at the same time. Classifying, collating, and exercising power over the contents of a space is one of the fundamental lessons of all kinds of gameplay.
+Spatial relationships are, of course, critically important to us. Some animals might be able to navigate the world using the Earth's magnetic field, but not us. Instead, we use maps and we use them to map all sorts of things, not just space. Learning to interpret symbols on a map, assess distance, assess risk, and remember caches must have been a critically important survival skill when we were nomadic tribesmen. Most games incorporate some element of spatial reasoning. The space may be a [Cartesian coordinate space](#user-content-fn-15)[^15], like what we see on a soccer field, or it may be a [directed graph](#user-content-fn-16)[^16] like we see in "racetrack" board games. Mathematicians might even point out that something like [a tennis court could be both](#user-content-fn-17)[^17] at the same time. Classifying, collating, and exercising power over the contents of a space is one of the fundamental lessons of all kinds of gameplay.
 
 当然，空间关系对我们来说至关重要。有些动物也许可以利用地球磁场来导航，但我们不行。相反，我们使用地图，而且我们用地图来描绘各种事物，而不仅仅是空间。当我们还是游牧部落的人时，学会解释地图上的符号、评估距离、评估风险和记住藏匿地点一定是一项极其重要的生存技能。大多数游戏都包含一些空间推理元素。空间可能是[笛卡尔坐标空间](#user-content-fn-18)[^18]，就像我们在足球场上看到的那样；也可能是[有向图](#user-content-fn-19)[^19]，就像我们在“赛道”棋类游戏中看到的那样。数学家甚至会指出，像网球场这样的东西可以同时是这[两种空间](#user-content-fn-20)[^20]。对空间内容进行分类、整理和行使权力，是各种游戏的基本课程之一。
 
@@ -105,6 +105,26 @@ Examining space also fits into our nature as toolmakers. We learn how things [fi
 > Some games teach spatial relationships.
 > 
 > 有些游戏教授空间关系。
+
+Exploring conceptual spaces is critical to our success in life. Merely understanding a space and how the rules make it work isn't enough, though. We also need to understand how it will react to change to exercise power over it. This is why games progress over time. There are almost no games that take just [one turn](#user-content-fn-27)[^27].
+
+探索概念空间是我们人生成功的关键。不过，仅仅了解一个空间以及它的运行规则还不够。我们还需要了解它对变化的反应，才能对它行使权力。这就是为什么游戏会随着时间的推移而进步。几乎没有游戏是只进行[一轮](#user-content-fn-28)[^28]的。
+
+Let's consider "games of chance" that use a six-sided die. Here we have a possibility space—values labeled 1 through 6. If you roll dice against someone, the game you are playing might seem to end very quickly. You also might feel you don't have much control over the outcome. You might think an activity like this shouldn't be called a game. It certainly seems like a game you can play in one turn.
+
+让我们考虑一下使用六面骰子的“机会游戏”。这里我们有一个可能性空间——标有 1 到 6 的数值。如果你和别人掷骰子，你所玩的游戏似乎很快就会结束。你也可能会觉得自己无法控制结果。你可能会认为这样的活动不应该叫做游戏。当然，这似乎是一个你可以一局玩完的游戏。
+
+But I suggest gambling games like this are actually designed to teach us about odds. You usually don't just play for one turn, and with each turn you try to learn more about how odds work. (Unfortunately, you often prove you didn't learn the lesson—especially if you are [gambling for money](#user-content-fn-29)[^29].) We know from experiments that probability is something our brains have serious trouble grasping.
+
+但我认为，这样的赌博游戏实际上是为了让我们了解赔率而设计的。你通常不会只玩一局，每一局你都会试图了解更多关于赔率如何运作的知识。(不幸的是，你往往会证明自己并没有学到这门课——尤其是如果你是[为了钱而赌博](#user-content-fn-30)[^30]的话。) 我们从实验中得知，概率是我们大脑很难掌握的东西。
+
+Exploring a possibility space is the only way to learn about it. Most games repeatedly throw evolving spaces at you so that you can explore the recurrence of symbols within them. A modern video game will give you tools to navigate a complicated space, and when you finish, the game will give you another space, and another, and another.
+
+探索可能性空间是了解它的唯一途径。大多数游戏都会反复向你抛出不断演变的空间，让你探索其中符号的反复出现。现代电子游戏会给你一些工具来浏览一个复杂的空间，当你完成后，游戏会给你另一个空间，再一个，再一个。
+
+Some of the really important parts of exploration involve memory. A huge number of games involve recalling and managing very long and complex chains of information. (Think about counting cards in blackjack* or playing competitive dominoes. *) Many games involve thoroughly exploring the possibility space as part of their victory condition.
+
+一些真正重要的探索部分涉及记忆。大量的游戏都需要回忆和管理很长很复杂的信息链。(想想二十一点中的算牌*或玩多米诺骨牌竞技*）许多游戏的胜利条件之一就是彻底探索可能性空间。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach page: [www.igda.org/academia/](www.igda.org/academia/).
 
@@ -124,7 +144,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 我们如今仿佛对着镜子观看，模糊不清；到那时就要面对面了。我如今所知道的有限，到那时就全知道，如同主知道我一样。
 如今常存的有信，有望，有爱；这三样，其中最大的是爱。`
 
-[^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson’s blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost’s critique ["Gamification is Bullshit,](http://bit.ly/gamification-bogost-atlantic) published in The Atlantic.
+[^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson's blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost's critique ["Gamification is Bullshit,](http://bit.ly/gamification-bogost-atlantic) published in The Atlantic.
 
 [^8]: 游戏化：玛格丽特·罗伯逊的博客文章[《点数化 》](http://bit.ly/cant-play-wont-play)和伊恩·博格斯特在《大西洋月刊》发表的批评文章[《游戏化是胡扯》](http://bit.ly/gamification-bogost-atlantic)，是对这种做法的两个有力批判。
 
@@ -134,15 +154,15 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^11]: Hierarchical and strongly tribal primates: For marvelous insight into the tribal and animalistic nature of human societies, I highly recommend the work of Jared Diamond, particularly The Third Chimpanzee (Harper, 2006) and Guns, Germs, and Steel (W.W. Norton and Company, 1999).
 
-[^12]: 等级森严、部落性极强的灵长类动物：我强烈推荐贾雷德·戴蒙德的作品，尤其是《第三只黑猩猩》（哈珀出版社，2006 年）和《枪炮、病菌和钢铁》（W.W. Norton and Company, 1999 年），其中对人类社会的部落和兽性有深刻的见解。
+[^12]: 等级森严且热衷抱团的灵长类动物：我强烈推荐贾雷德·戴蒙德的作品，尤其是《第三只黑猩猩》（哈珀出版社，2006 年）和《枪炮、病菌和钢铁》（W.W. Norton and Company, 1999 年），其中对人类社会的部落和兽性有深刻的见解。
 
 [^13]: Examining the space around us: A lot of games can be treated as problems in graph theory—and this is where those guys saying that the game was all vertices were right. These were people who had essentially "leveled up" in how they viewed space; they were practiced enough in territory problems that they were able to abstract any given territory game into a graph and discern patterns that I, stuck in my perception of it, was unable to see.
 
-[^14]: 审视我们周围的空间 很多游戏都可以被视为图论中的问题--这也是那些说游戏都是顶点的人说对了的地方。这些人在看待空间方面基本上已经 "升级 "了；他们在领地问题上已经练得足够好，能够将任何给定的领地游戏抽象成图形，并找出我无法看到的模式，而我却还停留在对它的认知上。
+[^14]: 审视我们周围的空间：很多游戏都可以被视为图论中的问题——这也是那些说游戏都是顶点的人说对了的地方。这些人在看待空间方面基本上已经“升级”了；他们在领地问题上已经练得足够好，能够将任何给定的领地游戏抽象成图形，并找出我无法看到的模式，而我却还停留在对它的认知上。
 
 [^15]: Cartesian coordinate space: This is the classic method, developed by René Descartes, of locating a point in 2-D space on a grid defined by two orthogonal axes. It serves as the basis of much of algebra (as well as most of computer graphics). This tends to be our default assumption for how space is "shaped," but within graph theory many other types of spaces are possible.
 
-[^16]: Directed graph: A directed graph is one where you have points or nodes connected by lines (vertices and edges, in mathematics lingo) but the lines have direction. Think of the classic children’s board game Chutes and Ladders; the chutes and ladders on the board are directed links between points on the board. You can only move one way on a chute. It is a game that does not use Cartesian space; the shortest distances between points have nothing to do with the physical distances on the board, but rather with the number of moves it takes to get to a given spot. All of the "track" games such as Monopoly are in effect directed graphs.
+[^16]: Directed graph: A directed graph is one where you have points or nodes connected by lines (vertices and edges, in mathematics lingo) but the lines have direction. Think of the classic children's board game Chutes and Ladders; the chutes and ladders on the board are directed links between points on the board. You can only move one way on a chute. It is a game that does not use Cartesian space; the shortest distances between points have nothing to do with the physical distances on the board, but rather with the number of moves it takes to get to a given spot. All of the "track" games such as Monopoly are in effect directed graphs.
 
 [^17]: A tennis court could be both: Tennis has two separate spaces divided by a net, and can therefore be looked at either way. Were we to graph it using nodes, we might say that there are four nodes: two halves of the court, and the out of bounds area at each extreme. The game is about getting the ball from your node to the out of bounds area on the opposite side. But of course, it is also a game played in a traditional coordinate space. Player position within a node is actually where most of the strategy lies.
 
@@ -163,3 +183,11 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^25]: 在概念上进行组合的游戏：扑克可能是最明显的例子，但许多纸牌游戏都是如此，许多铺瓷砖游戏（如[卡卡颂](https://en.wikipedia.org/wiki/Carcassonne_(board_game))）也是如此。
 
 [^26]: 分类游戏：[Uno](https://en.wikipedia.org/wiki/Uno_(card_game)) 和 [Go Fish!](https://en.wikipedia.org/wiki/Go_Fish) 等纸牌游戏，甚至是记忆游戏，都依赖于将事物分类成套。
+
+[^27]: Games that take one turn: We might think of ro-sham-bo when used as a decision-making tool (“Let's do rock-paper-scissors to see who pays the bill.”), or the mathematical game of [Nomic](http://en.wikipedia.org/wiki/Nomic), or the parodic “non-game” of [Mornington Crescent](https://en.wikipedia.org/wiki/Mornington_Crescent_(game)) from the UK.
+
+[^28]: 一局定胜负的游戏：我们可能会想到用剪刀石头布作为决策工具（“我们来玩剪刀石头布，看谁买单”），或者数学游戏 [Nomic](http://en.wikipedia.org/wiki/Nomic)，或者英国的讽刺性“非游戏” [Mornington Crescent](https://en.wikipedia.org/wiki/Mornington_Crescent_(game))。
+
+[^29]: You didn't learn the lesson (games of chance): Some wags have called gambling "a tax on the math-impaired." Probability is one of those areas where the human mind just seems to have trouble. The classic example is the repeated coin toss—there are only two possibilities, heads or tails. If you throw a coin and it lands on heads seven times in a row, what are the odds that it will land on tails next? The answer is still 50 percent because of how the question is phrased. If you ask, "What are the odds that eight consecutive throws will land on heads?" the answer is very different (1 in 2<sup>8</sup>). Playing on this weakness has been a classic tool of marketers and con men. Unfortunately, this inherent inability to properly assess probability leads our brain to treat it as a "richly interpretable" situation, resulting in positive feedback for gambling even though the house always wins in the long run.
+
+[^30]: 你没有学到教训（机会游戏）：有些人把赌博称为“对数学障碍者的征税”。概率是人类思维似乎有问题的领域之一。最典型的例子就是反复抛掷硬币——只有两种可能，正面或反面。如果你扔硬币，连续七次都是正面，那么下一次是反面的概率是多少？答案仍然是 50%，因为问题的措辞是这样的。如果你问：“连续八次掷出正面的概率是多少？”答案就大不相同了（1/2<sup>8</sup>）。利用这一弱点一直是营销人员和骗子的经典手段。不幸的是，这种天生无法正确评估概率的情况导致我们的大脑将其视为一种“可解释性很强”的情况，从而为赌博带来正反馈，尽管从长远来看，庄家总是赢家。
