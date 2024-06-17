@@ -126,17 +126,57 @@ Some of the really important parts of exploration involve memory. A huge number 
 
 一些真正重要的探索部分涉及记忆。大量的游戏都需要回忆和管理很长很复杂的信息链。(想想[二十一点](#user-content-fn-33)[^33]中的算牌或玩竞技性[多米诺骨牌](#user-content-fn-34)[^34]）许多游戏的胜利条件之一就是彻底探索可能性空间。
 
-In the end, most games have something to do with power. Even the innocuous games of childhood tend to have violence lurking in their heart of hearts. Playing "house" is about jockeying for social status. It is richly multileveled, as kids position themselves in authority (or not) over other kids. They play-act at using the authority that their parents exercise over them. (There's this idealized picture of young girls as being all sweetness and light, but there are few more viciously status-driven groups on earth. *)
+In the end, most games have something to do with power. Even the innocuous games of childhood tend to have violence lurking in their heart of hearts. Playing "house" is about jockeying for social status. It is richly multileveled, as kids position themselves in authority (or not) over other kids. They play-act at using the authority that their parents exercise over them. (There's this idealized picture of [young girls](#user-content-fn-35)[^35] as being all sweetness and light, but there are few more viciously status-driven groups on earth.)
 
-归根结底，大多数游戏都与权力有关。即使是童年时无害的游戏，在它的核心深处也往往潜藏着暴力。玩“过家家”游戏是为了争夺社会地位。它具有丰富的多层次性，因为孩子们把自己放在其他孩子的权威之上（或者之下）。他们扮演模仿使用父母对他们行使的权威。(有一种理想化的印象，认为年轻女孩都是甜美可人的，但世界上很少有比它更激烈地追求地位的群体。）
+归根结底，大多数游戏都与权力有关。即使是童年时无害的游戏，在它的核心深处也往往潜藏着暴力。玩“过家家”游戏是为了争夺社会地位。它具有丰富的多层次性，因为孩子们把自己放在其他孩子的权威之上（或者之下）。他们扮演模仿使用父母对他们行使的权威。(有一种理想化的印象，认为[年轻女孩](#user-content-fn-36)[^36]都是甜美可人的，但世界上很少有比它更激烈地追求地位的群体。）
 
 Consider the games that get all the attention lately: [shooters](#user-content-fn-37)[^37], [fighting games](#user-content-fn-38)[^38], and war games. They are not subtle about their love of power. The gap between these games and cops and robbers is small as far as the players are concerned. They are all about reaction times, tactical awareness, assessing the weaknesses of an opponent, and judging when to strike. Just as my playing guitar was in fact preparing me for playing mandolin by teaching me skills beyond basic guitar fretting, these games teach many skills that are relevant in a corporate setting. It is easy to pay attention to the obvious nature of a particular game and miss the subtler point; be it cops and robbers or [CounterStrike](#user-content-fn-39)[^39], the real lessons are about teamwork and not about aiming. In fact, the [training provided by shooting a virtual gun](#user-content-fn-40)[^40] is worse than useless in teaching you how to shoot a real one.
 
-看看最近备受关注的游戏：[射击游戏](#user-content-fn-41)[^41]、[格斗游戏](#user-content-fn-42)[^42]、战争游戏。它们对权力的热爱毫不掩饰。就玩家而言，这些游戏与《警察抓小偷》之间的差距很小。他们玩的都是反应速度、战术意识、评估对手的弱点以及判断何时出手。就像我弹吉他实际上是在为弹曼陀林做准备，因为我学到了吉他基本指法以外的技能，这些游戏也教给我许多与公司环境相关的技能。人们很容易只注意到某款游戏的明显性质，而忽略了更微妙的一点；无论是《警察抓强盗》还是[《反恐精英》](#user-content-fn-43)[^43]，真正的课程都是关于团队合作，而不是瞄准。事实上，[通过射击虚拟枪支所提供的训练](#user-content-fn-44)[^44]，在教你如何射击真枪方面毫无用处。
+看看最近备受关注的游戏：[射击游戏](#user-content-fn-41)[^41]、[格斗游戏](#user-content-fn-42)[^42]、战争游戏。它们对权力的热爱毫不掩饰。就玩家而言，这些游戏与警察抓小偷之间的差距很小。他们玩的都是反应速度、战术意识、评估对手的弱点以及判断何时出手。就像我弹吉他实际上是在为弹曼陀林做准备，因为我学到了吉他基本指法以外的技能，这些游戏也教给我许多与公司环境相关的技能。人们很容易只注意到某款游戏的明显性质，而忽略了更微妙的一点；无论是《警察抓强盗》还是[《反恐精英》](#user-content-fn-43)[^43]，真正的课程都是关于团队合作，而不是瞄准。事实上，[通过射击虚拟枪支所提供的训练](#user-content-fn-44)[^44]，在教你如何射击真枪方面毫无用处。
 
 Think about it: teamwork is a far deadlier tool than sharpshooting.
 
 想想看：团队合作是比神枪手更致命的工具。
+
+> Some games teach you how to aim precisely.
+> 
+> 有些游戏会教你如何精确瞄准。
+
+Many games, particularly those that have evolved into the classic Olympian sports, can be directly traced back to the needs of primitive humans to survive under very difficult conditions. Many things we have fun doing are in fact training us to be better cavemen. We learn skills that are antiquated. Most folks never need to shoot something with an arrow to eat, and nowadays we run marathons or other long races mostly to raise funds for charities.
+
+许多游戏，特别是那些演变成经典奥林匹克运动的游戏，可以直接追溯到原始人类在非常困难的条件下生存的需要。我们所做的许多有趣的事情实际上是在训练我们成为更好的穴居人。我们学习的是过时的技能。大多数人从来不需要箭射抓东西吃，如今，我们参加马拉松或其他长跑比赛，主要是为了给慈善机构筹款。
+
+Many games have become obsolete and are no longer played. During World War II, there were [games about rationing supplies](#user-content-fn-45)[^45].
+
+许多游戏已经过时，不再玩了。在第二次世界大战期间，有一些[关于物资配给的游戏](#user-content-fn-46)[^46]。
+
+Nonetheless, we have fun mostly to improve our life skills. And while there may be something deep in our reptile brains that wants us to continue practicing aiming or sentry-posting, we do in fact evolve games that are more suited to our modern lives.
+
+尽管如此，我们享受乐趣主要是为了提升我们的生存技能。而且，尽管我们大脑深处可能有一种原始的本能，驱使我们不断练习瞄准或站岗，但我们确实发展出了更适合现代生活的游戏。
+
+> From cops and robbers to playing house, play trains skills that provide an evolutionary advantage...
+> 
+> 从“警察抓小偷“到”过家家“，游戏训练的技能为进化提供了优势……
+
+For example, there are many games in my collection that relate to large-scale network building. Building railway lines or aqueducts wasn't exactly a caveman activity. As humans have evolved, we've changed around our games. In early versions of chess, [queens](#user-content-fn-47)[^47] weren't nearly as powerful a piece as they are today.
+
+例如，我收藏的许多游戏都与大型网络建设有关。建造铁路或沟渠并不是穴居人的活动。随着人类的进化，我们的游戏也发生了变化。在早期的国际象棋中，[皇后](#user-content-fn-48)[^48]并不像今天这样强大。
+
+Farming used to be a much bigger part of the typical person's life than it is in industrialized societies. In the ancient [mancala](#user-content-fn-49)[^49] family of games, players "sow seeds," and rotate them through "houses." In some variants, you are not supposed to leave your opponent without any seeds.
+
+与工业化社会相比，农耕曾经是普通人生活中更重要的一部分。在古老的[《曼卡拉》](#user-content-fn-50)[^50]游戏家族中，玩家“播种种子”，并在“房子”之间轮流播种。在某些变体中，你不应该让对手没有任何种子。
+
+For a long time, we had few new games about farming, perhaps because there was no need to model an activity that one participated in every day. When they did return in force in the form of casual online games, they were really games about running a business, not about crop rotation and cooperation. Today's [farming games](#user-content-fn-51)[^51] won't actually help you feed yourself from crops.
+
+长期以来，我们很少有关于农耕的新游戏，也许是因为没有必要模拟一项人们每天都要参与的活动。当它们以休闲在线游戏的形式重新强势回归时，它们实际上是关于经营的游戏，而不是关于作物轮作和合作的游戏。如今的[农耕游戏](#user-content-fn-52)[^52]实际上不会帮助你用农作物养活自己。
+
+In general, the level of mathematical sophistication required by games has risen dramatically over the course of human history, as common people learned how to do sums. Word games were once restricted to the elite, but today they are enjoyed by the masses.
+
+一般来说，随着普通人学会算术，游戏所要求的数学复杂程度在人类历史进程中大幅提高。文字游戏曾经仅限于精英阶层，但如今大众都喜欢玩。
+
+Games do adapt, but perhaps not as fast as we might wish, since almost all of these games are still, at their core, about the same activities even though they may involve different skill sets: resource allocation, force projection, territory control, and so on.
+
+游戏确实在适应环境，但也许并没有我们希望的那么快，因为几乎所有这些游戏的核心仍然是相同的活动，尽管它们可能涉及不同的技能组合：资源分配、武力投射、领土控制等等。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach page: [www.igda.org/academia/](www.igda.org/academia/).
 
@@ -231,3 +271,19 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^43]: 反恐精英：这是一款以团队为基础的第一人称射击游戏，玩家可从两支队伍中选择一支：恐怖分子或反叛乱分子。每支队伍的目标略有不同，游戏有时间限制。要想取得成功，需要高度的团队协作。多年来，《反恐精英》一直是世界上最受欢迎的在线动作游戏。
 
 [^44]: 通过虚拟枪支射击进行训练：在训练关系到生死存亡的职业中，训练的设计要尽可能与真实情况相吻合。鼠标或在屏幕上点击并不能传达后坐力、质量、大小或人类在不同位置被击中时的反应等真实情况。操作坦克或客机等交通工具也是如此。界面非常重要。
+
+[^45]: Games about rationing: The specific game was called simply Ration Board Game and was made by the Jay-line Mfg. Co. Inc., in 1943. The wonderful BoardGameGeek website has an entry on it: http://boardgamegeek.com/boardgame/27313/ration-board.
+
+[^46]: 关于配给的游戏：具体的游戏名为《配给委员会》，由 Jay-line 制造公司于 1943 年制作。精彩的 BoardGameGeek 网站上有一个关于它的[条目](http://boardgamegeek.com/boardgame/27313/ration-board)。
+
+[^47]: Chess and queens: Chess most likely originated in India 1400 years ago. The most mobile piece is the queen, which is allowed to move any distance it likes across the board, be it horizontally, diagonally, or vertically. This mobility only arrived in the game in the fifteenth century, and some argue that it arose as a result of the increasing presence of queens as heads of state in European politics.
+
+[^48]: 国际象棋和皇后：国际象棋很可能起源于 1400 年前的印度。皇后是移动性最强的棋子，它可以在棋盘上任意移动，无论是横向、斜向还是纵向。这种移动性直到 15 世纪才出现在国际象棋中，有人认为它的出现是由于皇后作为国家元首在欧洲政治中的作用越来越大。
+
+[^49]: Mancala: This family of games goes under many names including mancala, oware, wari, and many more. They all involve moving seeds or pebbles through wells on a board. The variant where you are not supposed to leave the opponent with no seeds is called oware, and is widely played in Africa. The name literally means "he/she marries."
+
+[^50]: 《曼卡拉》：这个游戏家族有很多名字，包括曼卡拉、奥瓦、瓦里等等。它们都是在棋盘上的凹槽中移动种子或鹅卵石。不能让对手没有种子的变体叫做播棋，在非洲广为流传。这个名字的字面意思是 "他/她结婚"。
+
+[^51]: Modern games about farming: There are a number of these, including Euro games like Agricola, social games like Farmville, and card games like Bohnanza. However, none of them encode the same set of social practices as mancala does.
+
+[^52]: 现代农耕游戏：这类游戏有很多，包括欧洲游戏（如《农家乐》）、社交游戏（如《农场小镇》）和纸牌游戏（如《种豆》）。不过，这些游戏都没有像《曼卡拉》那样包含了相同的社会实践。
