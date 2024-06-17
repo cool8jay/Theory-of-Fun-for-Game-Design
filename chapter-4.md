@@ -283,7 +283,7 @@ It's worth asking ourselves what skills are more commonly needed today. Games sh
 
 我们应该扪心自问，当今社会更需要哪些技能。游戏应该朝着教会我们这些技能的方向发展。
 
-The entire spread of games for children is fairly limited, and hasn’t changed much over time. The basic skills needed by children are the same. Perhaps we need a few more games about using touchscreens, but that's about it. Adults, on the other hand, could use new games that teach more relevant skills. Most of us no longer hunt our own food, and we no longer live in danger every moment of our lives. It's still valuable to train ourselves in some of the caveman traits, but we need to adapt.
+The entire spread of games for children is fairly limited, and hasn't changed much over time. The basic skills needed by children are the same. Perhaps we need a few more games about using touchscreens, but that's about it. Adults, on the other hand, could use new games that teach more relevant skills. Most of us no longer hunt our own food, and we no longer live in danger every moment of our lives. It's still valuable to train ourselves in some of the caveman traits, but we need to adapt.
 
 儿童游戏的整个传播范围相当有限，而且随着时间的推移变化不大。儿童需要的基本技能是一样的。也许我们需要更多关于使用触摸屏的游戏，但也仅此而已。另一方面，成年人则需要新游戏来传授更多相关技能。我们中的大多数人不再自己捕猎食物，也不再每时每刻都生活在危险之中。训练自己的一些穴居人特征仍然很有价值，但我们需要适应。
 
@@ -294,6 +294,58 @@ Some traits are relevant but need to change because conditions have changed. Int
 Today it might be the electric blue fluid that is the real risk—don't drink any drain cleaner—and we have no inborn revulsion towards it. In fact, it's made electric blue to make it seem aseptic and clean. That's a case where we should supplement our instincts with training, since I doubt there's anything I can drink under my kitchen sink.
 
 如今，真正危险的可能是电光蓝的液体——不要喝任何下水道清洁剂——但我们对它并没有天生的反感。事实上，为了让它看起来无菌、干净，我们把它做成了电光蓝色。在这种情况下，我们应该通过培训来补充我们的直觉，因为我怀疑厨房水槽下方的东西没有一样是可以喝的。
+
+<div align="center">
+<img src="images/4.10.png">
+</div>
+
+> and mostly, they are things that were useful to us in the early evolution of our species.
+> 
+> 它们大多是在人类早期进化过程中对我们有用的东西。
+
+Some of the new patterns we need to learn in our brave new world run contrary to our instinctive behaviors. For example, humans are tribal creatures. We not only fall readily into [groups run by outsize personalities](#user-content-fn-59)[^59],but we'll often subsume our better judgment in doing so. We also seem to have an [inbred dislike of groups not our own](#user-content-fn-60)[^60]. It is very easy to get humans to regard a different tribe as less than human, particularly if they look or act differently in some way.
+
+在我们这个勇敢的新世界中，我们需要学习的一些新模式与我们的本能行为背道而驰。例如，人类是部落性生物。我们不仅容易加入由[强势人物领导的群体](#user-content-fn-61)[^61]，而且在这样做时往往会削弱自己的判断力。我们还似乎[天生厌恶不属于我们自己的群体](#user-content-fn-62)[^62]。人类很容易把不同的部族视为低人一等，尤其是当他们的外表或行为在某些方面与我们不同的时候。
+
+Maybe this was a survival trait at one time, but it's not now. Our world grows ever more interdependent; if a currency collapse occurs on the other side of the world, the price of milk at our local grocery could be affected. A lack of empathy and understanding of different tribes and xenophobic hatred can really work against us.
+
+也许这曾经是一种生存特征，但现在不是了。我们的世界越来越相互依存；如果世界另一端发生货币崩溃，我们当地杂货店的牛奶价格就会受到影响。对不同部落缺乏同情和理解以及仇外心理真的会对我们不利。
+
+Most games encourage "othering" the opponent, treating him as "not like us," teaching a sort of ruthlessness that is a proven survival trait. But historically, we're not likely to need or want the scorched-earth victory, despite legends of ["sowing salt"](#user-content-fn-63)[^63] over conquered cities. * Can we create games that instead offer us greater insight into how the modern world works?
+
+大多数游戏都鼓励将对手“另类化”，将其视为“与我们不一样的人”，教导一种被证明是生存特征的冷酷无情。但从历史上看，尽管有在被征服的城市[“撒盐”](#user-content-fn-64)[^64]的传说，我们可能并不需要或想要焦土胜利。* 我们能否创造一些游戏，让我们更深入地了解现代世界是如何运作的？
+
+If I were to identify other basic human traits that game designs currently tend to reinforce, and that may be obsolete legacies of our heritage, I might call out traits like:
+
+如果让我找出游戏设计目前倾向于强化的其他人类基本特征，而这些特征可能是我们传统中过时的遗产，我可能会指出以下特征：
+
+* **[Blind obedience](#user-content-fn-65)[^65] to leaders and cultism:** We're willing to do things in games simply because "those are the rules."\
+**[盲目服从](#user-content-fn-66)[^66]领导和邪教：** 我们愿意在游戏中做事，只是因为“这是规则”。
+
+* **Rigid hierarchies or binary thinking:** Games, because they are simplified, quantized models, usually reinforce notions about class, jobs, identity, and other fluid concepts.\
+**僵化的等级制度或二元思维：** 游戏是一种简化、量化的模式，通常会强化阶级、工作、身份和其他不固定的概念。
+
+* **The use of force to resolve problems:** We don't tend to see a way to form a treaty with our opponent in chess.\
+**使用武力解决问题：** 在国际象棋中，我们往往看不到与对手缔结条约的方法。
+
+* **Like seeking like, and its converse, xenophobia:** Seen in countless role-playing games where we slaughter endless orcs.\
+**物以类聚，人以群分：** 在无数的角色扮演游戏中，我们屠杀着无穷无尽的兽人。
+
+<div align="center">
+<img src="images/4.11.png">
+</div>
+
+> It's not surprising that games boil down to so few basic patterns.
+> 
+> 游戏归结为几种基本模式并不奇怪。
+> 
+> danger, danger, danger, danger, danger
+> 
+> 危险，危险，危险，危险，危险
+> 
+> After all, as cavemen, we needed to be able to recognize food or danger under widely varying circumstances.
+> 
+> 毕竟，作为穴居人，我们需要能够在千差万别的环境中识别食物或危险。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
@@ -363,7 +415,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^31]: Blackjack card counting: Card counting is based on rough statistical analysis to determine what the odds are of receiving a card of the right value next. This is possible because the game is played with a finite deck of known configuration. A detailed explanation of card counting methods can be found at [here](http://en.wikipedia.org/wiki/Card_counting).
 
-[^32]: Dominoes: Because a line of dominoes can only fork when a "double" is played (a domino with the same value on both squares), you can count how many times a given value has been played, and how many are likely to be in players’ hands, in order to determine whether it will be possible to play a given number in the future. Assuming the other players are playing optimally to remove the highest-value dominoes from their hand, you can determine which particular dominoes they are likely to have in their hands based on what play choices they make.
+[^32]: Dominoes: Because a line of dominoes can only fork when a "double" is played (a domino with the same value on both squares), you can count how many times a given value has been played, and how many are likely to be in players' hands, in order to determine whether it will be possible to play a given number in the future. Assuming the other players are playing optimally to remove the highest-value dominoes from their hand, you can determine which particular dominoes they are likely to have in their hands based on what play choices they make.
 
 [^33]: 二十一点算牌：算牌是基于粗略的统计分析来确定接下来得到一张合适数值的牌的几率。之所以能做到这一点，是因为游戏使用的是有限且已知配置的牌组。有关算牌方法的详细解释，请访问[这里](http://en.wikipedia.org/wiki/Card_counting)。
 
@@ -416,3 +468,19 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^57]: Disgust: A quick online quiz where you can test your own disgust levels with various substances is available at [here](www.bbc.co.uk/science/humanbody/mind/surveys/disgust/). This quiz is part of a study developed by Dr. Val Curtis of the London School of Hygiene and Tropical Medicine.
 
 [^58]: 恶心：你可以在[网站](www.bbc.co.uk/science/humanbody/mind/surveys/disgust/)上进行快速在线测验，测试自己对各种物质的厌恶程度。该测验是伦敦卫生与热带医学学院瓦尔·柯蒂斯博士所做研究的一部分。
+
+[^59]: Groups run by outsize personalities: For more on the many vulnerabilities of the human mind to persuasion, I recommend the wonderful book Influence: The Psychology of Persuasion by Robert Cialdini.
+
+[^60]: Inbred dislike of groups not our own: There are many studies in the history of sociology and psychology that demonstrate this, but perhaps the most chilling is the Stanford Prison Experiment.
+
+[^61]: 强势人物领导的群体：如果想了解更多关于人的心理在说服方面的弱点，我推荐罗伯特·西亚迪尼所著的《影响力》一书。
+
+[^62]: 天生厌恶不属于我们自己的群体：社会学和心理学史上有许多研究证明了这一点，但最令人不寒而栗的可能是斯坦福监狱实验。
+
+[^63]: "Sowing salt": There isn't any historical evidence that this ever happened at Carthage. While it probably did happen in a ritual manner among the Hittites and Assyrians, historically populations were much less mobile than today, and ruining cropland would be a foolhardy move. Shifting alliances meant that today's enemy would be tomorrow's ally.
+
+[^64]: “撒盐”：没有任何历史证据表明迦太基发生过这种情况。虽然在赫梯人和亚述人中可能以仪式的方式发生过，但历史上人口的流动性远不如今天，毁坏耕地是一种愚蠢的举动。联盟的变化意味着今天的敌人会成为明天的盟友。
+
+[^65]: Blind obedience: This tension in games is at the center of the powerful series of games entitled "The Mechanic is the Message," by Brenda Romero. In particular, the board game [Train](http://romero.com/analog/) is about the complicity of players in performing terrible deeds (or finding ways to subvert the system).
+
+[^66]: 盲目服从：游戏中的这种紧张关系正是布伦达·罗梅罗所著的《机械即信息》系列游戏的核心。尤其是棋盘游戏[《火车》](http://romero.com/analog/)，它讲述的是玩家在实施可怕行为（或找到颠覆系统的方法）时的同谋关系。
