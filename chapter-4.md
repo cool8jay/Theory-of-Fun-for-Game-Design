@@ -104,7 +104,7 @@ Examining space also fits into our nature as toolmakers. We learn how things [fi
 
 > Some games teach spatial relationships.
 > 
-> 有些游戏教授空间关系。
+> 有些游戏教你空间关系。
 
 Exploring conceptual spaces is critical to our success in life. Merely understanding a space and how the rules make it work isn't enough, though. We also need to understand how it will react to change to exercise power over it. This is why games progress over time. There are almost no games that take just [one turn](#user-content-fn-27)[^27].
 
@@ -126,6 +126,18 @@ Some of the really important parts of exploration involve memory. A huge number 
 
 一些真正重要的探索部分涉及记忆。大量的游戏都需要回忆和管理很长很复杂的信息链。(想想[二十一点](#user-content-fn-33)[^33]中的算牌或玩竞技性[多米诺骨牌](#user-content-fn-34)[^34]）许多游戏的胜利条件之一就是彻底探索可能性空间。
 
+<div align="center">
+<img src="images/4.5.png">
+</div>
+
+> Some games teach you to explore.
+> 
+> WELCOME TO WARP ZONE!
+> 
+> 有些游戏教你探索。
+> 
+> 欢迎来到传送区！
+
 In the end, most games have something to do with power. Even the innocuous games of childhood tend to have violence lurking in their heart of hearts. Playing "house" is about jockeying for social status. It is richly multileveled, as kids position themselves in authority (or not) over other kids. They play-act at using the authority that their parents exercise over them. (There's this idealized picture of [young girls](#user-content-fn-35)[^35] as being all sweetness and light, but there are few more viciously status-driven groups on earth.)
 
 归根结底，大多数游戏都与权力有关。即使是童年时无害的游戏，在它的核心深处也往往潜藏着暴力。玩“过家家”游戏是为了争夺社会地位。它具有丰富的多层次性，因为孩子们把自己放在其他孩子的权威之上（或者之下）。他们扮演模仿使用父母对他们行使的权威。(有一种理想化的印象，认为[年轻女孩](#user-content-fn-36)[^36]都是甜美可人的，但世界上很少有比它更激烈地追求地位的群体。）
@@ -137,6 +149,10 @@ Consider the games that get all the attention lately: [shooters](#user-content-f
 Think about it: teamwork is a far deadlier tool than sharpshooting.
 
 想想看：团队合作是比神枪手更致命的工具。
+
+<div align="center">
+<img src="images/4.6.png">
+</div>
 
 > Some games teach you how to aim precisely.
 > 
@@ -153,6 +169,10 @@ Many games have become obsolete and are no longer played. During World War II, t
 Nonetheless, we have fun mostly to improve our life skills. And while there may be something deep in our reptile brains that wants us to continue practicing aiming or sentry-posting, we do in fact evolve games that are more suited to our modern lives.
 
 尽管如此，我们享受乐趣主要是为了提升我们的生存技能。而且，尽管我们大脑深处可能有一种原始的本能，驱使我们不断练习瞄准或站岗，但我们确实发展出了更适合现代生活的游戏。
+
+<div align="center">
+<img src="images/4.7.png">
+</div>
 
 > From cops and robbers to playing house, play trains skills that provide an evolutionary advantage...
 > 
@@ -178,7 +198,11 @@ Games do adapt, but perhaps not as fast as we might wish, since almost all of th
 
 游戏确实在适应环境，但也许并没有我们希望的那么快，因为几乎所有这些游戏的核心仍然是相同的活动，尽管它们可能涉及不同的技能组合：资源分配、武力投射、领土控制等等。
 
-> Some of which might be usefull in modern life, and some of which might not.
+<div align="center">
+<img src="images/4.8.png">
+</div>
+
+> Some of which might be useful in modern life, and some of which might not.
 > 
 > 其中有些在现代生活中可能有用，有些可能没用。
 > 
@@ -201,6 +225,59 @@ Pure systems probably cannot convey the same breadth of content that literature 
 Of course, games are a "compound" medium, and can have stories, artwork, and music all working alongside the game system. And at that point, games can have an incredible expressive breadth, with potential that has not yet been fulfilled.
 
 当然，游戏是一种“复合”媒体，可以有故事、艺术作品和音乐与游戏系统并行不悖。在这一点上，游戏的表现力可以达到令人难以置信的广度，其潜力尚未得到发挥。 
+
+<div align="center">
+<img src="images/4.9.png">
+</div>
+
+> timing
+> 
+> 时机
+> 
+> hunting
+> 
+> 狩猎
+> 
+> 3...
+> 2...
+> 1...
+> ollie
+> ollie
+> oxen
+> free!
+> ...
+> or
+> whatever...
+> 
+> 3……
+> 2……
+> 1……
+> ……
+> 都出来吧
+> …… 
+> 随便吧……
+> 
+> ollie ollie oxen free是捉迷藏的用语，大意是：躲藏的玩家可以出来露面而不会被抓住。
+> 
+> atari!
+> 
+> 叫吃！（围棋用语）
+> 
+> territory
+> 
+> 领地
+> 
+> aiming
+> 
+> 瞄准
+> 
+> projecting power
+> 
+> 投射权力
+> 
+> When you get right down to it, most games are teaching us about only a few things,
+> 
+> 说到底，大多数游戏只教我们几件事，
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
