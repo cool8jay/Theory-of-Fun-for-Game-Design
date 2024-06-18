@@ -311,19 +311,19 @@ Maybe this was a survival trait at one time, but it's not now. Our world grows e
 
 也许这曾经是一种生存特征，但现在不是了。我们的世界越来越相互依存；如果世界另一端发生货币崩溃，我们当地杂货店的牛奶价格就会受到影响。对不同部落缺乏同情和理解以及仇外心理真的会对我们不利。
 
-Most games encourage "othering" the opponent, treating him as "not like us," teaching a sort of ruthlessness that is a proven survival trait. But historically, we're not likely to need or want the scorched-earth victory, despite legends of ["sowing salt"](#user-content-fn-63)[^63] over conquered cities. * Can we create games that instead offer us greater insight into how the modern world works?
+Most games encourage "othering" the opponent, treating him as "not like us," teaching a sort of ruthlessness that is a proven survival trait. But historically, we're not likely to need or want the scorched-earth victory, despite legends of ["sowing salt"](#user-content-fn-63)[^63] over conquered cities. Can we create games that instead offer us greater insight into how the modern world works?
 
-大多数游戏都鼓励将对手“另类化”，将其视为“与我们不一样的人”，教导一种被证明是生存特征的冷酷无情。但从历史上看，尽管有在被征服的城市[“撒盐”](#user-content-fn-64)[^64]的传说，我们可能并不需要或想要焦土胜利。* 我们能否创造一些游戏，让我们更深入地了解现代世界是如何运作的？
+大多数游戏都鼓励将对手“另类化”，将其视为“异己”，教导一种被证明是生存特征的冷酷无情。但从历史上看，尽管有在被征服的城市[“撒盐”](#user-content-fn-64)[^64]的传说，我们可能并不需要或想要焦土胜利。我们能否创造一些游戏，让我们更深入地了解现代世界是如何运作的？
 
 If I were to identify other basic human traits that game designs currently tend to reinforce, and that may be obsolete legacies of our heritage, I might call out traits like:
 
 如果让我找出游戏设计目前倾向于强化的其他人类基本特征，而这些特征可能是我们传统中过时的遗产，我可能会指出以下特征：
 
 * **[Blind obedience](#user-content-fn-65)[^65] to leaders and cultism:** We're willing to do things in games simply because "those are the rules."\
-**[盲目服从](#user-content-fn-66)[^66]领导和邪教：** 我们愿意在游戏中做事，只是因为“这是规则”。
+**[盲目服从](#user-content-fn-66)[^66]领导和偶像：** 我们愿意在游戏中做事，只是因为“这是规则”。
 
 * **Rigid hierarchies or binary thinking:** Games, because they are simplified, quantized models, usually reinforce notions about class, jobs, identity, and other fluid concepts.\
-**僵化的等级制度或二元思维：** 游戏是一种简化、量化的模式，通常会强化阶级、工作、身份和其他不固定的概念。
+**僵化的等级制度或二元思维：** 游戏是一种简化、量化的模型，通常会强化阶级、工作、身份和其他流动概念的观念。
 
 * **The use of force to resolve problems:** We don't tend to see a way to form a treaty with our opponent in chess.\
 **使用武力解决问题：** 在国际象棋中，我们往往看不到与对手缔结条约的方法。
@@ -346,6 +346,32 @@ If I were to identify other basic human traits that game designs currently tend 
 > After all, as cavemen, we needed to be able to recognize food or danger under widely varying circumstances.
 > 
 > 毕竟，作为穴居人，我们需要能够在千差万别的环境中识别食物或危险。
+
+For better or worse, games have been ringing changes on the same few subjects. There's probably something deep in the reptile brain that is deeply satisfied by jumping puzzles, * but you'd think that by now we would have jumped over everything in every possible way.
+
+不管是好是坏，游戏一直在同样的几个主题上不断变化。在爬行动物的大脑深处，跳跃谜题可能会让它们深感满足，*但你可能会认为，现在我们已经用各种可能的方式跳过了一切。
+
+When I first started playing games, everything was tile-based, * meaning that you moved in discrete squares, as if you were popping from tile to tile on a tiled floor. Nowadays you move in a much freer way, but what has changed is the fidelity of the simulation, not what we're simulating. The skills required are perhaps closer to being what they are in reality, and yet an improvement in the simulation of crossing a pond full of alligators is not necessarily a real improvement in what the game teaches us.
+
+我刚开始玩游戏的时候，一切都以瓷砖为基础，*也就是说，你在离散的方格中移动，就像在瓷砖地板上从一块瓷砖跳到另一块瓷砖一样。如今，你的移动方式要自由得多，但改变的是模拟的逼真度，而不是我们在模拟什么。所需的技能也许更接近于现实中的技能，然而在模拟穿越满是鳄鱼的池塘方面的改进并不一定是游戏教给我们的东西的真正改进。
+
+The mathematical field of studying shape, and the way in which apparent shapes can change but remain fundamentally the same, is called topology. * It can be helpful to think of games in terms of their topology.
+
+研究形状的数学领域，以及研究表面形状变化但本质上保持不变的方式，被称为拓扑学。* 从拓扑学的角度来思考游戏可能会有所帮助。
+
+Early platform videogames* followed a few basic gameplay paradigms:
+
+早期的平台电子游戏*遵循一些基本的游戏模式：
+
+* "Get to the other side" games: Frogger, * Donkey Kong, * Kangaroo.* These are not really very dissimilar. Some of these featured a time limit, some didn't.\
+“到达另一边”的游戏：《青蛙过河》、《大金刚》、《袋鼠》。这些游戏本质上并没有太大的区别，其中有些有时间限制，有些则没有。
+
+* "Visit every location" games: Probably the best-known early platformer like this was Miner 2049er. * Pac-Man and Q*Bert* also made use of this mechanic. The most cerebral of these were probably Lode Runner and Apple Panic, * where the map traversal could get very complex, given the fact that you could modify the map to a degree.\
+“访问每个地点”的游戏：最著名的早期平台游戏可能是《矿工 2049》。* 吃豆人和 Q*Bert* 也使用了这种机制。其中最有创意的可能是《淘金者》和《Apple Panic》，*由于可以在一定程度上修改地图，因此地图的穿越可以变得非常复杂。
+
+Games started to meld these two styles, then they added scrolling environments. Eventually designers added playing in 3-D on rails, * and finally made the leap to true 3-D* with Mario 64.
+
+游戏开始融合这两种风格，然后又加入了滚动环境。最后，设计师们又加入了固定轨道三维游戏，*最终在《马里奥 64》中实现向真正的三维游戏的飞跃。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
