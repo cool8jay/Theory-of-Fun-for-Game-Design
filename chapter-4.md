@@ -766,15 +766,15 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^106]: 量化：量化是在数据中提取连续值，并迫使数据符合某种模式的行为；例如，将一幅有无限灰度的图片变成一幅有 256 级灰度的图片，或者将不太符合节拍的音乐强迫其符合完美的数学节奏。
 
-[^107]: Five fighting games: I realize this is a controversial statement to make! The five I would identify are: * Rock-paper-scissors, where players do not physically move, have three moves, and each attack is a one-hit kill. * Early fighting games such as [Karate Champ](https://en.wikipedia.org/wiki/Karate_Champ) by Epyx. This allowed players to move towards and away from each other. * A family split off here, with fighting games where the player fought through a series of opponents while moving sideways through the world—[Karateka](https://en.wikipedia.org/wiki/Karateka_(video_game)) and other games fall in this category. * Even once technology allowed 3D graphics, early 3D fighting games such as [Virtua Fighter](https://en.wikipedia.org/wiki/Virtua_Fighter) were still players locked on an axis facing each other. It wasn't until [Battle Arena Toshinden](https://en.wikipedia.org/wiki/Battle_Arena_Toshinden) that we saw that axis be broken; it was the first fighting game I can recall where you could end up facing not just away from your opponent, but at an arbitrary angle. * True free roaming 3D fighting games arrived with [Bushido Blade](https://en.wikipedia.org/wiki/Bushido_Blade_(video_game)), and arguably there hasn't been a mechanically new one since.
+[^107]: Five fighting games: I realize this is a controversial statement to make! The five I would identify are: * Rock-paper-scissors, where players do not physically move, have three moves, and each attack is a one-hit kill. * Early fighting games such as [Karate Champ](https://en.wikipedia.org/wiki/Karate_Champ) by Epyx. This allowed players to move towards and away from each other. * A family split off here, with fighting games where the player fought through a series of opponents while moving sideways through the world—[Karateka](https://en.wikipedia.org/wiki/Karateka_(video_game)) and other games fall in this category. * Even once technology allowed 3D graphics, early 3D fighting games such as [Virtua Fighter](https://en.wikipedia.org/wiki/Virtua_Fighter) were still players locked on an axis facing each other. It wasn't until [Battle Arena Toshinden](https://en.wikipedia.org/wiki/Battle_Arena_Toshinden) that we saw that axis be broken; it was the first fighting game I can recall where you could end up facing not just away from your opponent, but at an arbitrary angle.* True free roaming 3D fighting games arrived with [Bushido Blade](https://en.wikipedia.org/wiki/Bushido_Blade_(video_game)), and arguably there hasn't been a mechanically new one since.
 
 [^108]: Combos: Many games reward players for executing a series of moves correctly. Often they give a bonus for doing so, such as extra damage when attacking.
 
 [^109]: 五款格斗游戏：我意识到这是一个有争议的说法！我认为有以下五种：
-* 剪刀石头布，玩家身体不动，有三个动作，每次攻击都是一击必杀。
-* 早期的格斗游戏，如 Epyx 的[《空手道冠军》](https://en.wikipedia.org/wiki/Karate_Champ)。这种游戏允许玩家相互靠近或远离。
-* 格斗游戏在这里分出了一个家族，玩家在世界中横向移动的同时，还要与一系列对手进行格斗——[《空手道》](https://en.wikipedia.org/wiki/Karateka_(video_game))和其他游戏就属于这一类。
-* 即使技术允许使用 3D 图形，早期的 3D 格斗游戏，如[《VR 战士》](https://en.wikipedia.org/wiki/Virtua_Fighter)，仍然是将玩家锁定在一条轴线上面对面。直到[斗神传](https://en.wikipedia.org/wiki/Battle_Arena_Toshinden)，我们才看到轴线被打破；在我的印象中，这是第一款不仅可以远离对手，还可以任意角度对峙的格斗游戏。
-* 真正的自由漫游 3D 格斗游戏出现在[《武士道之刃》](https://en.wikipedia.org/wiki/Bushido_Blade_(video_game))中，可以说从那时起就再也没有一款机械上新颖的格斗游戏了。
+    * 剪刀石头布，玩家身体不动，有三个动作，每次攻击都是一击必杀。
+    * 早期的格斗游戏，如 Epyx 的[《空手道冠军》](https://en.wikipedia.org/wiki/Karate_Champ)。这种游戏允许玩家相互靠近或远离。
+    * 格斗游戏在这里分出了一个家族，玩家在世界中横向移动的同时，还要与一系列对手进行格斗——[《空手道》](https://en.wikipedia.org/wiki/Karateka_(video_game))和其他游戏就属于这一类。
+    * 即使技术允许使用 3D 图形，早期的 3D 格斗游戏，如[《VR 战士》](https://en.wikipedia.org/wiki/Virtua_Fighter)，仍然是将玩家锁定在一条轴线上面对面。直到[斗神传](https://en.wikipedia.org/wiki/Battle_Arena_Toshinden)，我们才看到轴线被打破；在我的印象中，这是第一款不仅可以远离对手，还可以任意角度对峙的格斗游戏。
+    * 真正的自由漫游 3D 格斗游戏出现在[《武士道之刃》](https://en.wikipedia.org/wiki/Bushido_Blade_(video_game))中，可以说从那时起就再也没有一款机械上新颖的格斗游戏了。
 
 [^110]: 连击：许多游戏都会奖励正确执行一系列动作的玩家。通常，他们会为这样做提供奖励，例如攻击时的额外伤害。
