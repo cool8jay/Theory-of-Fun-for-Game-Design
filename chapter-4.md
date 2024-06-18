@@ -516,6 +516,38 @@ This is not to say that many of the classic fighting games didn't bring signific
 > 
 > 有时我们会要求你做得更彻底。
 
+Consider the evolution of the 2-D shooter or "shmup." Space Invaders offered a single screen with enemies that marched predictably. After that came Galaxian, which had no defenses and enemies that attacked a bit more aggressively.
+
+请看二维射击游戏或“清版射击游戏”的演变。《太空入侵者》只有一个屏幕，敌人的行进速度可已预测。之后又出现了《小蜜蜂》，这款游戏没有防御措施，敌人的攻击更加猛烈。
+
+Simple topological variants then ensued: Gyruss and Tempest are just Galaxian in a circle. Gorf and others added scrolling, and also had an end boss and stages that changed in nature as you progressed. Zaxxon added verticality, which was then quickly thrown away in the development of the genre. Centipede gave you some room to maneuver at the bottom, and a charming setting, but isn't really that different from Galaxian and Space Invaders. Asteroids is an inverted circle: you're in the middle, and the enemies come from outside.
+
+随后又出现了简单的拓扑变体：《Gyruss》和《暴风雨》只是在一个圆圈中的《小蜜蜂》。《Gorf》和其他游戏增加了滚动功能，也有终结 头目和随着游戏进程而改变性质的阶段。《Zaxxon》增加了垂直性，但在该类型游戏的发展过程中很快就被抛弃了。《蜈蚣》在底部给了你一些操作空间和迷人的设置，但其实与《银河战士》和《太空侵略者》并无太大区别。《小行星》是一个倒置的圆圈：你在中间，敌人来自外面。
+
+Galaga was probably the most influential of all of these, because it added bonus levels and the power-up, a concept that has become standard in every shmup since. Xevious and Vanguard added alternate modes of fire (bombs and firing in other directions). Robotron and Defender are special cases. Both have the element of rescuing. This has been pretty much abandoned today (sadly—though Choplifter was a wonderful sidetrack there).
+
+《大蜜蜂》可能是所有这些游戏中最具影响力的，因为它增加了奖励关卡和强化道具，而这一概念在之后的所有清版射击游戏中都成为了标配。《铁板阵》和《先遣部队》增加了其他射击模式（投弹和向其他方向射击）。《机器人战争》和《防卫者》是特例。这两款游戏都有救援元素。时至今日，这种玩法已基本被抛弃了（虽然《救援直升机》是一个精彩的分支，但令人遗憾）。
+
+Now, I don't know what the first 2-D shooter to have power-ups and scrolling and bosses at the end of stages was, but a case can be made that there hasn't been a 2-D shooter with a different "shape" since then. Unsurprisingly, the shooter genre has stagnated and lost market share. After all, we learned that mechanic a long time ago, and everything since has been learning patterns that we know to be artificial and unlikely to be repeated anywhere.
+
+现在，我不知道第一款在阶段末尾设置了能量加成、滚动和关卡头目的 2-D 射击游戏是什么，但可以说，从那时起，再也没有一款 2-D 射击游戏拥有不同的“外形”。不出所料，射击游戏的发展停滞不前，市场份额不断下降。毕竟，我们在很久以前就学会了这种机制，此后的所有游戏都是在学习模式，而我们知道这些模式都是人为的，不可能在任何地方重复。
+
+This offers a possible algorithm for innovation: find a new dimension to add to the gameplay. We saw this in the way that puzzle games evolved after Tetris: people started trying to do it with hexagons,  with three dimensions, and eventually, pattern matching of colors became the thing that replaced spatial analysis. If we really want to innovate on puzzle games, how about exploring puzzle games based on time rather than space, for example?
+
+这就为创新提供了一种可能的算法：找到一种新的维度来增加游戏性。我们可以从俄罗斯方块之后益智游戏的发展过程中看到这一点：人们开始尝试用六边形、三维空间来进行游戏，最终，颜色模式匹配取代了空间分析。如果我们真的想在益智游戏上有所创新，比如探索基于时间而非空间的益智游戏如何？
+
+<div align="center">
+<img src="images/4.16.png">
+</div>
+
+> In fact, when we design games, we often start with a previous game and change just one element in it.
+> 
+> 事实上，我们在设计游戏时，往往会从以前的游戏开始，只改变其中的一个元素。
+> 
+> EVOLUTION OF THE 2-D SHOOTER
+> 
+> 二维射击游戏的演变
+
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
 [^2]: 针对游戏设计师的大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广[页面](www.igda.org/academia/)。
