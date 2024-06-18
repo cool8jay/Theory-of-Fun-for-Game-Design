@@ -224,7 +224,7 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 <img src="images/3.7.png">
 </div>
 
-> This game sucks!
+> THIS GAME SUCKS!
 > 
 > 这游戏烂透了！
 > 

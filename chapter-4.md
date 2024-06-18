@@ -381,27 +381,27 @@ Games started to meld these two styles, then they added scrolling environments. 
 > 
 > 事实上，大多数游戏都是选取一个主题，然后进行一系列变化。
 > 
-> Jumping through the ages exhibit sponsored by the Int'l assoc for alligator advancement
+> JUMPING through THE AGES exhibit sponsored by the Int'l Assoc for Alligator Advancement
 > 
 > 由国际鳄鱼发展协会赞助的“穿越时空”展览
 > 
-> Hopscotch
+> HOPSCOTCH
 > 
 > 跳房子
 > 
-> Jumping rope
+> JUMPING ROPE
 > 
 > 跳绳
 > 
-> Hurdles
+> HURDLES
 > 
 > 跨栏
 > 
-> 2-d platformer
+> 2-D PLATFORMER
 > 
 > 二维平台游戏
 > 
-> 3-d platformer
+> 3-D PLATFORMER
 > 
 > 三维平台游戏
 
@@ -434,6 +434,10 @@ This may sound bleak, but in fact, it's not. The skills needed around a meeting 
 
 这听起来似乎很凄凉，但事实上并非如此。毕竟，在会议室的会议桌上所需的技能和在部落会议上所需的技能并无太大区别。有很多类型的游戏都是关于勤俭节约、资源管理、后勤和谈判的。如果说有什么问题的话，那就是为什么最受欢迎的游戏都是那些教授过时技能的游戏，而那些教授更微妙技能的更复杂的游戏往往市场较小。
 
+<div align="center">
+<img src="images/4.13.png">
+</div>
+
 > Just like variations on a theme in music, these are basically training to recognize a pattern in a variety of situations.
 > 
 > 就像音乐中的主题变奏曲一样，这些基本上是在各种情况下识别模式的训练。
@@ -455,6 +459,18 @@ You don't tend to see "[time attack](#user-content-fn-99)[^99]" modes in strateg
 This whole approach is intended for learning by rote. When I was a kid, I had a game for the [Atari 2600](#user-content-fn-101)[^101] console called [Laser Blast](#user-content-fn-102)[^102]. I got to the point where I could get a million points at the maximum difficulty setting without ever dying. With my eyes closed. This is the same sort of training that we put our militaries through—the training of rote and reflex. It's not a very adaptable mode of training, but it is desirable in many cases.
 
 整个方法都是为了死记硬背。我小时候玩过一款[雅达利 2600](#user-content-fn-103)[^103]游戏机上的游戏，名叫[《激光爆炸》](#user-content-fn-104)[^104]。我玩到最高难度设置时，能得到一百万分而不死。而且是闭着眼睛。这与我们对军队进行的训练如出一辙——死记硬背和条件反射的训练。这不是一种适应性很强的训练模式，但在很多情况下是可取的。
+
+<div align="center">
+<img src="images/4.14.png">
+</div>
+
+> TIME ATTACK!
+> 
+> 时间挑战！
+> 
+> Sometimes we ask you to do a task faster.
+> 
+> 有时，我们会要求你加快完成任务的速度。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 

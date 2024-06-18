@@ -46,11 +46,11 @@ This isn't unfamiliar to most people. I do many things without fully understandi
 > 
 > 他们已经开始意识到井字游戏是一种愚蠢的游戏。
 > 
-> Nyaah! 6073 to 1!
+> NYAAH! 6073 to 1!
 > 
 > 哎呀！6073 比 1！
 > 
-> I'm never ever ever never playing with you for ever infinity, cheater!
+> I'M NEVER EVER EVER NEVER PLAYING WITH YOU FOR EVER INFINITY, CHEATER!
 > 
 > 我永远永远永远永远都不会和你玩了，骗子！
 
@@ -134,7 +134,7 @@ I also find it curious that as parents, we'll insist that kids be given the time
 > 
 > 为什么有些游戏好玩，有些游戏却很无聊？为什么有的游戏玩久了就开始无聊，而有的游戏却能玩很长时间？
 > 
-> Mister, wanna play with me?
+> MISTER, WANNA PLAY WITH ME?
 > 
 > 先生，想和我一起玩吗？
 
@@ -146,7 +146,7 @@ I also find it curious that as parents, we'll insist that kids be given the time
 
 [^4]: 尼加拉瓜的聋哑儿童：关于尼加拉瓜手语（又称 NSL 或 ISN，取自西班牙语中该词组的首字母）的文章很多。尼加拉瓜的聋哑儿童没有机会相互交流，也没有机会接受手语培训，直到 1979 年才开始开设聋哑学校。经过几代人的努力，聋哑儿童发展出了一种功能齐全的手语，使他们能够进行交流。这被认为是历史上科学家第一次观察到一种自发创造的语言（而不是像世界语那样有意创造的语言）。有关该故事的精彩概述，请访问 www.nytimes.com/library/magazine/home/19991024mag-sign-language.html。
 
-[^5]: NP-hard and NP-complete: These are terms from complexity theory, the field of mathematics that studies how hard it is to solve a given problem (as opposed to whether it can be solved at all, which is called “computability theory”). Other types of complexity include P, NP, PSPACE-complete, and EXPTIME-complete. Many abstract board games are classifiable as terms of their mathematical complexity in this way; for example, checkers is EXPTIME- complete, and Othello is PSPACE-complete. Rendering games obsolete is a favorite pastime of mathematicians. They have proven that for optimal players, the first player to move will always win games such as Connect Four and Pentominoes.
+[^5]: NP-hard and NP-complete: These are terms from complexity theory, the field of mathematics that studies how hard it is to solve a given problem (as opposed to whether it can be solved at all, which is called “computability theory”). Other types of complexity include P, NP, PSPACE-complete, and EXPTIME-complete. Many abstract board games are classifiable as terms of their mathematical complexity in this way; for example, checkers is EXPTIME-complete, and Othello is PSPACE-complete. Rendering games obsolete is a favorite pastime of mathematicians. They have proven that for optimal players, the first player to move will always win games such as Connect Four and Pentominoes.
 
 [^6]: NP 困难 和 NP 完全：这是复杂性理论中的术语，复杂性理论是研究解决一个给定问题有多难的数学领域（而不是研究这个问题是否能被解决，后者被称为“可计算性理论”）。其他复杂性类型包括 P、NP、PSPACE-complete 和 EXPTIME-complete。许多抽象棋类游戏都可以用这种方法按其数学复杂性进行分类；例如，跳棋是 EXPTIME-完备的，黑白棋是 PSPACE-完备的。让游戏过时是数学家们最喜欢的消遣。他们已经证明，对于最佳玩家来说，最先行动的玩家总是能赢得四子连环和五子棋等游戏。
 

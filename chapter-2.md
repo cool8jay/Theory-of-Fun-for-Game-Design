@@ -96,7 +96,7 @@ Assumptions are what the brain is best at. Some days, I suspect that makes us de
 >
 > 事实上，我们往往会在没有模式的地方看到模式。
 >
-> Blah, blah, blah...
+> BLAH, BLAH, BLAH...
 >
 > 吧啦，吧啦，吧啦……
 >
@@ -316,23 +316,23 @@ When our brain is really into practicing something, we'll dream about it. This i
 <img src="images/2.11.png">
 </div>
 
-> Dream
+> DREAM
 > 
 > 做梦
 > 
-> Drive
+> DRIVE
 > 
 > 开车
 > 
-> Daily Bread
+> DAILY BREAD
 > 
 > 吃饭
 > 
-> Distraction
+> DISTRACTION
 > 
 > 消遣
 > 
-> Doom
+> DOOM
 > 
 > 毁灭
 
