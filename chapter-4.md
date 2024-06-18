@@ -373,6 +373,10 @@ Games started to meld these two styles, then they added scrolling environments. 
 
 游戏开始融合这两种风格，然后又加入了滚动环境。最后，设计师们又加入了[轨道三维](#user-content-fn-89)[^89]游戏，最终在《马里奥 64》中实现向[真正的三维](#user-content-fn-90)[^90]游戏的飞跃。
 
+<div align="center">
+<img src="images/4.12.png">
+</div>
+
 > And in fact, most games pick on subject and then run a bunch of variations on it.
 > 
 > 事实上，大多数游戏都是选取一个主题，然后进行一系列变化。
@@ -433,6 +437,24 @@ This may sound bleak, but in fact, it's not. The skills needed around a meeting 
 > Just like variations on a theme in music, these are basically training to recognize a pattern in a variety of situations.
 > 
 > 就像音乐中的主题变奏曲一样，这些基本上是在各种情况下识别模式的训练。
+
+A lot of it can probably be traced to visceral appeal. Remember, we live most of our lives in the unconscious. Action games let us stay there, whereas games that demand careful consideration of logistics might require logical, conscious thought. So we play variations on old, often irrelevant challenges because, frankly, it's easier.
+
+其中很大一部分原因可能是内驱力。请记住，我们生活的大部分时间都是在无意识中度过的。动作游戏让我们停留在无意识状态，而那些需要仔细考虑后勤问题的游戏可能需要逻辑、有意识的思考。因此，我们玩的都是老游戏的变种，通常都是无关紧要的挑战，因为老实说，这更容易。
+
+很多（游戏的吸引力）可能可以追溯到内在的吸引力。记住，我们大部分的生活是在无意识中度过的。动作游戏让我们可以保持在这种状态，而那些要求仔细考虑后勤的游戏可能需要逻辑性的、有意识的思考。所以我们玩那些古老、通常不相关的挑战的变体，因为，坦率地说，这样更容易。
+
+We've evolved exquisite sensitivity to visceral challenges. A survey of games featuring jumping found that the games with the "best controls" all shared an important characteristic: when you hit the jump button, the character on screen spent almost exactly the same amount of [time](#user-content-fn-97)[^97] in the air. Games with "bad controls" violated this unspoken assumption. I'm pretty sure that if we went looking, we'd find that good jumping games have been unscientifically adhering to this unspoken rule for a couple of decades, without ever noticing its existence. That's hardly the only case of our adjusting our work to better target the unconscious mind. A very common feature of action games, for example, is to push you through a task faster and faster. This is purely intended to address the visceral reaction and the autonomic nervous system. When you learn any physical skill, you are told to do it slowly at first, and slowly increase the speed as you master the task. The reason is that developing speed without precision is not all that useful. Going slowly lets you practice the precision first, make it unconscious, and then work on the speed.
+
+我们已经进化出了对内在挑战的极度敏感。一项针对以跳跃为特色的游戏的调查发现，“最佳操控”的游戏都有一个共同的重要特征：当你按下跳跃键时，屏幕上的角色在空中停留的[时间](#user-content-fn-98)[^98]几乎完全相同。而“糟糕操控”的游戏则违反了这心再不宣的假设。我相当确信，如果我们去寻找，就会发现几十年来，优秀的跳跃游戏一直在不科学地遵守这一潜规则，却从未注意到它的存在。这并不是我们调整作品来更好地针对无意识思维的唯一案例。例如，动作游戏的一个非常普遍的特点就是让你越来越快地完成任务。这纯粹是为了应对内在反应和自主神经系统。当你学习任何体能技能时，都会被告知一开始要慢慢来，当你掌握了任务之后再慢慢提高速度。这是因为，只练速度而不练精度是没有用的。慢慢来可以让你先练习精确度，使其成为无意识，然后再提高速度。
+
+You don't tend to see "[time attack](#user-content-fn-99)[^99]" modes in strategy games for this same reason. The tasks in the strategic games are not about automatic responses, and therefore the training to execute at reflex levels of speed would be misguided. (If anything, a good strategy game will teach you not to get too familiar with the situation and will keep you on your toes.)
+
+出于同样的原因，在策略游戏中往往看不到“[时间挑战](#user-content-fn-100)[^100]”模式。战略游戏中的任务并不是无意识反应，因此训练以条件反射的速度执行任务是错误的。(如果有的话，好的策略游戏会教你不要对环境习以为常，并让你时刻保持警惕）。
+
+This whole approach is intended for learning by rote. When I was a kid, I had a game for the [Atari 2600](#user-content-fn-101)[^101] console called [Laser Blast](#user-content-fn-102)[^102]. I got to the point where I could get a million points at the maximum difficulty setting without ever dying. With my eyes closed. This is the same sort of training that we put our militaries through—the training of rote and reflex. It's not a very adaptable mode of training, but it is desirable in many cases.
+
+整个方法都是为了死记硬背。我小时候玩过一款[雅达利 2600](#user-content-fn-103)[^103]游戏机上的游戏，名叫[《激光爆炸》](#user-content-fn-104)[^104]。我玩到最高难度设置时，能得到一百万分而不死。而且是闭着眼睛。这与我们对军队进行的训练如出一辙——死记硬背和条件反射的训练。这不是一种适应性很强的训练模式，但在很多情况下是可取的。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
@@ -631,3 +653,19 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^95]: Whether or not the price of oil is going to rise: This game does exist in various forms, most famously as [World Without Oil](http://worldwithoutoil.org/), a serious game that invites players to collaboratively describe a global oil crisis.
 
 [^96]: 油价是否会上涨：这种游戏确实以各种形式存在，其中最著名的是[《没有石油的世界》](http://worldwithoutoil.org/)，这是一款严肃游戏，邀请玩家共同描述全球石油危机。
+
+[^97]: Jumping times: An article by Ben Cousins in Develop Magazine (August 2002) examined this. The author found that hit games with well-received gameplay had level lengths clustering around 1 minute and 10 seconds, characters that jump with an elapsed time in the air clustering around 0.7 seconds, and the elapsed time to perform three combat moves in succession clustered around 2 seconds. He suggests that these should be considered constants for good gameplay.
+
+[^98]: 跳跃时间：本·卡辛斯在《开发》杂志（2002 年 8 月）上发表的一篇文章对此进行了研究。作者发现，游戏性广受好评的热门游戏的关卡长度集中在 1 分 10 秒左右，角色在空中跳跃的时间集中在 0.7 秒左右，连续完成三个战斗动作的时间集中在 2 秒左右。他建议，这些应被视为良好游戏性的常量。
+
+[^99]: Time attack: A common tactic in many games, particularly platform games, is to ask you to do the same tasks you have done before but within tighter and tighter time limits.
+
+[^100]: 时间挑战：许多游戏（尤其是平台游戏）中的一个常见策略就是要求玩家在越来越短的时间内完成之前做过的相同任务。
+
+[^101]: Atari 2600: The first blockbuster success in the console industry, the Atari 2600's heyday was in the late 70s and early 80s.
+
+[^102]: Laser Blast: Designed by David Crane, this simple shooter from Activision features a flying saucer with a gun that can shoot at any one of five downward angles. On the terrain below are three tanks per screen. Shots are almost instantaneous, so this is a game of lining up the correct angle and firing before the tanks do.
+
+[^103]: 雅达利 2600：雅达利 2600 是游戏机行业中第一款大获成功的游戏机，其全盛时期是上世纪 70 年代末和 80 年代初。
+
+[^104]: [激光爆炸](https://en.wikipedia.org/wiki/Laser_Blast)：由大卫·克雷恩设计，动视公司推出的简单射击游戏。游戏中有一个配备枪械的飞碟，可以向五个向下的不同角度射击。在下面的地形上，每屏有三辆坦克。射击几乎是瞬间完成的，所以这是一个在坦克开火前对准正确角度并射击的游戏。
