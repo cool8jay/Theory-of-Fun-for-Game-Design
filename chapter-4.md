@@ -472,6 +472,50 @@ This whole approach is intended for learning by rote. When I was a kid, I had a 
 > 
 > 有时，我们会要求你加快完成任务的速度。
 
+A more interesting tactic that applies to a wider range of games is asking the player to be thorough. This is a broader survival skill. It requires patience, and a certain enjoyment in discovery. It also works against our inclination to work directly on the final goal.
+
+一种更有趣的战术适用于更广泛的游戏，那就是要求玩家做到彻底。这是一种更广泛的生存技能。它需要耐心，也需要某种探索的乐趣。这也与我们直接追求最终目标的倾向背道而驰。
+
+In many games, you are asked to find "secrets", or to explore an area completely. This teaches many interesting things, such as considering a problem from all angles, making sure that you have all the necessary information before you make a decision, and that thoroughness is often better than speed. Not to denigrate training by rote and reflex, but this is a much subtler and interesting set of skills to teach, and one that is more widely applicable to the modern world.
+
+在许多游戏中，玩家被要求寻找“秘密”，或彻底探索一个区域。这能教给你很多有趣的东西，比如从各个角度考虑问题，确保在做决定之前掌握所有必要的信息，以及全面往往胜于快速。我并不是要诋毁死记硬背和条件反射式的训练，但这是一套更微妙、更有趣的技能教学，而且更广泛地适用于现代社会。
+
+Games have these characteristics:
+
+游戏具有这些特点：
+
+* They present us with models of real things—often highly abstracted.\
+它们向我们展示了真实事物的模型——通常是高度抽象的模型。
+
+* They are generally quantified or even [quantized](#user-content-fn-105)[^105] models.\
+它们通常是量化的甚至是[量子化](#user-content-fn-106)[^106]的模型。
+
+* They primarily teach us things that we can absorb into the unconscious, as opposed to things designed to be tackled by the conscious, logical mind.\
+它们主要教给我们可以吸收到潜意识中的东西，而不是教给我们有意识的逻辑思维去处理的东西。
+
+* They mostly teach us things that are fairly primitive behaviors (but they don't have to).\
+它们教给我们的大多是相当原始的行为（但也并非必须如此）。
+
+Seen in this light, the evolution of the modern video game can largely be explained in terms of topology. Each generation of game can be described by a relatively minute alteration in the shape of the play space. For example, there have only really been around [five fighting games](#user-content-fn-107)[^107] in all of videogaming history. Significant advances have been limited to a few features like movement on a plane, movement in 3-D, and the addition of "[combos](#user-content-fn-108)[^108]" or sequences of moves. The games look different because of their content, not their underlying lessons.
+
+从这个角度来看，现代电子游戏的演变在很大程度上可以用拓扑学来解释。每一代游戏都可以用游戏空间形状相对微小的变化来描述。例如，在整个电子游戏史上，真正意义上的[格斗游戏只有五款](#user-content-fn-109)[^109]。显著的进步仅限于一些功能，如平面移动、三维移动以及增加“[连击](#user-content-fn-110)[^110]”或动作序列。这些游戏之所以看起来不同，是因为它们的内容不同，而不是它们所蕴含的基本课程不同。
+
+This is not to say that many of the classic fighting games didn't bring significant incremental advances. Of course they did. But did they effectively “add another hole to the donut”?
+
+这并不是说许多经典格斗游戏没有带来显著的进步。它们当然带来了进步。但它们是否真正“在甜甜圈上添加一个洞”呢？
+
+<div align="center">
+<img src="images/4.15.png">
+</div>
+
+> YOU FOUND 1 OF 15 SECRETS
+> 
+> 你找到了 15 个秘密中的 1 个
+> 
+> Sometimes we ask you to do it more thoroughly.
+> 
+> 有时我们会要求你做得更彻底。
+
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
 [^2]: 针对游戏设计师的大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广[页面](www.igda.org/academia/)。
@@ -490,7 +534,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 我们如今仿佛对着镜子观看，模糊不清；到那时就要面对面了。我如今所知道的有限，到那时就全知道，如同主知道我一样。
 如今常存的有信，有望，有爱；这三样，其中最大的是爱。`
 
-[^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson's blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost's critique ["Gamification is Bullshit,](https://www.theatlantic.com/technology/archive/2011/08/gamification-is-bullshit/243338/) published in The Atlantic.
+[^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson's blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost's critique ["Gamification is Bullshit,"](https://www.theatlantic.com/technology/archive/2011/08/gamification-is-bullshit/243338/) published in The Atlantic.
 
 [^8]: 游戏化：玛格丽特·罗伯逊的博客文章[《点数化 》](http://bit.ly/cant-play-wont-play)和伊恩·博格斯特在《大西洋月刊》发表的批评文章[《游戏化是胡扯》](http://bit.ly/gamification-bogost-atlantic)，是对这种做法的两个有力批判。
 
@@ -685,3 +729,25 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^103]: 雅达利 2600：雅达利 2600 是游戏机行业中第一款大获成功的游戏机，其全盛时期是上世纪 70 年代末和 80 年代初。
 
 [^104]: [激光爆炸](https://en.wikipedia.org/wiki/Laser_Blast)：由大卫·克雷恩设计，动视公司推出的简单射击游戏。游戏中有一个配备枪械的飞碟，可以向五个向下的不同角度射击。在下面的地形上，每屏有三辆坦克。射击几乎是瞬间完成的，所以这是一个在坦克开火前对准正确角度并射击的游戏。
+
+[^105]: Quantized: Quantizing is the act of taking continuous values in data and forcing the data to fit to a pattern; for example, turning a picture with infinite shades of gray into an image with 256 levels of gray, or taking music that isn't quite on the beat and forcing it to fit perfect mathematical rhythm.
+
+[^106]: 量化：量化是在数据中提取连续值，并迫使数据符合某种模式的行为；例如，将一幅有无限灰度的图片变成一幅有 256 级灰度的图片，或者将不太符合节拍的音乐强迫其符合完美的数学节奏。
+
+[^107]: Five fighting games: I realize this is a controversial statement to make! The five I would identify are:
+* Rock-paper-scissors, where players do not physically move, have three moves, and each attack is a one-hit kill.
+* Early fighting games such as [Karate Champ](https://en.wikipedia.org/wiki/Karate_Champ) by Epyx. This allowed players to move towards and away from each other.
+* A family split off here, with fighting games where the player fought through a series of opponents while moving sideways through the world—[Karateka](https://en.wikipedia.org/wiki/Karateka_(video_game)) and other games fall in this category.
+* Even once technology allowed 3D graphics, early 3D fighting games such as [Virtua Fighter](https://en.wikipedia.org/wiki/Virtua_Fighter) were still players locked on an axis facing each other. It wasn't until [Battle Arena Toshinden](https://en.wikipedia.org/wiki/Battle_Arena_Toshinden) that we saw that axis be broken; it was the first fighting game I can recall where you could end up facing not just away from your opponent, but at an arbitrary angle.
+* True free roaming 3D fighting games arrived with [Bushido Blade](https://en.wikipedia.org/wiki/Bushido_Blade_(video_game)), and arguably there hasn't been a mechanically new one since.
+
+[^108]: Combos: Many games reward players for executing a series of moves correctly. Often they give a bonus for doing so, such as extra damage when attacking.
+
+[^109]: 五款格斗游戏：我意识到这是一个有争议的说法！我认为有以下五种：
+* 剪刀石头布，玩家身体不动，有三个动作，每次攻击都是一击必杀。
+* 早期的格斗游戏，如 Epyx 的[《空手道冠军》](https://en.wikipedia.org/wiki/Karate_Champ)。这种游戏允许玩家相互靠近或远离。
+* 格斗游戏在这里分出了一个家族，玩家在世界中横向移动的同时，还要与一系列对手进行格斗——[《空手道》](https://en.wikipedia.org/wiki/Karateka_(video_game))和其他游戏就属于这一类。
+* 即使技术允许使用 3D 图形，早期的 3D 格斗游戏，如[《VR 战士》](https://en.wikipedia.org/wiki/Virtua_Fighter)，仍然是将玩家锁定在一条轴线上面对面。直到[斗神传](https://en.wikipedia.org/wiki/Battle_Arena_Toshinden)，我们才看到轴线被打破；在我的印象中，这是第一款不仅可以远离对手，还可以任意角度对峙的格斗游戏。
+* 真正的自由漫游 3D 格斗游戏出现在[《武士道之刃》](https://en.wikipedia.org/wiki/Bushido_Blade_(video_game))中，可以说从那时起就再也没有一款机械上新颖的格斗游戏了。
+
+[^110]: 连击：许多游戏都会奖励正确执行一系列动作的玩家。通常，他们会为这样做提供奖励，例如攻击时的额外伤害。
