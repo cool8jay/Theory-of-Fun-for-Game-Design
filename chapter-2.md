@@ -378,7 +378,7 @@ When our brain is really into practicing something, we'll dream about it. This i
 
 [^21]: The brain…: Steven Johnson's book Mind Wide Open (Scribner, 2004) is a wonderful excursion into the mysteries of the human mind.
 
-[^22]: 大脑……： 史蒂文·约翰逊的《大开眼界》（斯克里布纳出版社，2004 年）一书是探索人类思维奥秘的绝佳读物。
+[^22]: 大脑……：史蒂文·约翰逊的《大开眼界》（斯克里布纳出版社，2004 年）一书是探索人类思维奥秘的绝佳读物。
 
 [^23]: The large gorilla: The original Harvard study on this is whimsically titled "Gorillas in our midst: sustained inattentional blindness,” and was done by Simons and Chabris. It was published in Perception in 1999.
 

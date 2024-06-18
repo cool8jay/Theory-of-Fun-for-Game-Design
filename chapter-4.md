@@ -347,31 +347,31 @@ If I were to identify other basic human traits that game designs currently tend 
 > 
 > 毕竟，作为穴居人，我们需要能够在千差万别的环境中识别食物或危险。
 
-For better or worse, games have been ringing changes on the same few subjects. There's probably something deep in the reptile brain that is deeply satisfied by jumping puzzles, * but you'd think that by now we would have jumped over everything in every possible way.
+For better or worse, games have been ringing changes on the same few subjects. There's probably something deep in the reptile brain that is deeply satisfied by [jumping puzzles](#user-content-fn-67)[^67], but you'd think that by now we would have jumped over everything in every possible way.
 
-不管是好是坏，游戏一直在同样的几个主题上不断变化。在爬行动物的大脑深处，跳跃谜题可能会让它们深感满足，*但你可能会认为，现在我们已经用各种可能的方式跳过了一切。
+不管是好是坏，游戏一直在同样的几个主题上不断变化。在爬行动物的大脑深处，[跳跃谜题](#user-content-fn-68)[^68]可能会让它们深感满足，但你可能会认为，现在我们已经用各种可能的方式跳过了一切。
 
-When I first started playing games, everything was tile-based, * meaning that you moved in discrete squares, as if you were popping from tile to tile on a tiled floor. Nowadays you move in a much freer way, but what has changed is the fidelity of the simulation, not what we're simulating. The skills required are perhaps closer to being what they are in reality, and yet an improvement in the simulation of crossing a pond full of alligators is not necessarily a real improvement in what the game teaches us.
+When I first started playing games, everything was [tile-based](#user-content-fn-69)[^69], meaning that you moved in discrete squares, as if you were popping from tile to tile on a tiled floor. Nowadays you move in a much freer way, but what has changed is the fidelity of the simulation, not what we're simulating. The skills required are perhaps closer to being what they are in reality, and yet an improvement in the simulation of crossing a pond full of alligators is not necessarily a real improvement in what the game teaches us.
 
-我刚开始玩游戏的时候，一切都以瓷砖为基础，*也就是说，你在离散的方格中移动，就像在瓷砖地板上从一块瓷砖跳到另一块瓷砖一样。如今，你的移动方式要自由得多，但改变的是模拟的逼真度，而不是我们在模拟什么。所需的技能也许更接近于现实中的技能，然而在模拟穿越满是鳄鱼的池塘方面的改进并不一定是游戏教给我们的东西的真正改进。
+我刚开始玩游戏的时候，一切都[以瓷砖为基础](#user-content-fn-70)[^70]，也就是说，你在离散的方格中移动，就像在瓷砖地板上从一块瓷砖跳到另一块瓷砖一样。如今，你的移动方式要自由得多，但改变的是模拟的逼真度，而不是我们在模拟什么。所需的技能也许更接近于现实中的技能，然而在模拟穿越满是鳄鱼的池塘方面的改进并不一定是游戏教给我们的东西的真正改进。
 
-The mathematical field of studying shape, and the way in which apparent shapes can change but remain fundamentally the same, is called topology. * It can be helpful to think of games in terms of their topology.
+The mathematical field of studying shape, and the way in which apparent shapes can change but remain fundamentally the same, is called [topology](#user-content-fn-71)[^71]. It can be helpful to think of games in terms of their topology.
 
-研究形状的数学领域，以及研究表面形状变化但本质上保持不变的方式，被称为拓扑学。* 从拓扑学的角度来思考游戏可能会有所帮助。
+研究形状的数学领域，以及研究表面形状变化但本质上保持不变的方式，被称为[拓扑学](#user-content-fn-72)[^72]。从拓扑学的角度来思考游戏可能会有所帮助。
 
-Early platform videogames* followed a few basic gameplay paradigms:
+Early [platform videogames](#user-content-fn-73)[^73] followed a few basic gameplay paradigms:
 
-早期的平台电子游戏*遵循一些基本的游戏模式：
+早期的[平台电子游戏](#user-content-fn-74)[^74]遵循一些基本的游戏模式：
 
-* "Get to the other side" games: Frogger, * Donkey Kong, * Kangaroo.* These are not really very dissimilar. Some of these featured a time limit, some didn't.\
-“到达另一边”的游戏：《青蛙过河》、《大金刚》、《袋鼠》。这些游戏本质上并没有太大的区别，其中有些有时间限制，有些则没有。
+* "Get to the other side" games: [Frogger](#user-content-fn-75)[^75], [Donkey Kong](#user-content-fn-76)[^76], [Kangaroo](#user-content-fn-77)[^77]. These are not really very dissimilar. Some of these featured a time limit, some didn't.\
+“到达另一边”的游戏：[《青蛙过河》](#user-content-fn-78)[^78]、[《大金刚》](#user-content-fn-79)[^79]、[《袋鼠》](#user-content-fn-80)[^80]。这些游戏本质上并没有太大的区别，其中有些有时间限制，有些则没有。
 
-* "Visit every location" games: Probably the best-known early platformer like this was Miner 2049er. * Pac-Man and Q*Bert* also made use of this mechanic. The most cerebral of these were probably Lode Runner and Apple Panic, * where the map traversal could get very complex, given the fact that you could modify the map to a degree.\
-“访问每个地点”的游戏：最著名的早期平台游戏可能是《矿工 2049》。* 吃豆人和 Q*Bert* 也使用了这种机制。其中最有创意的可能是《淘金者》和《Apple Panic》，*由于可以在一定程度上修改地图，因此地图的穿越可以变得非常复杂。
+* "Visit every location" games: Probably the best-known early platformer like this was [Miner 2049er](#user-content-fn-81)[^81]. Pac-Man and [Q*Bert](#user-content-fn-82)[^82] also made use of this mechanic. The most cerebral of these were probably [Lode Runner and Apple Panic](#user-content-fn-83)[^83], where the map traversal could get very complex, given the fact that you could modify the map to a degree.\
+“访问每个地点”的游戏：最著名的早期平台游戏可能是[《矿工 2049》](#user-content-fn-84)[^84]。《吃豆人》和[《Q*伯特》](#user-content-fn-85)[^85] 也使用了这种机制。其中最有创意的可能是[《淘金者》和《Apple Panic》](#user-content-fn-86)[^86]，由于可以在一定程度上修改地图，因此地图的穿越可以变得非常复杂。
 
-Games started to meld these two styles, then they added scrolling environments. Eventually designers added playing in 3-D on rails, * and finally made the leap to true 3-D* with Mario 64.
+Games started to meld these two styles, then they added scrolling environments. Eventually designers added playing in [3-D on rails](#user-content-fn-87)[^87], and finally made the leap to [true 3-D](#user-content-fn-88)[^88] with Mario 64.
 
-游戏开始融合这两种风格，然后又加入了滚动环境。最后，设计师们又加入了固定轨道三维游戏，*最终在《马里奥 64》中实现向真正的三维游戏的飞跃。
+游戏开始融合这两种风格，然后又加入了滚动环境。最后，设计师们又加入了[轨道三维](#user-content-fn-89)[^89]游戏，最终在《马里奥 64》中实现向[真正的三维](#user-content-fn-90)[^90]游戏的飞跃。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
@@ -510,3 +510,51 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^65]: Blind obedience: This tension in games is at the center of the powerful series of games entitled "The Mechanic is the Message," by Brenda Romero. In particular, the board game [Train](http://romero.com/analog/) is about the complicity of players in performing terrible deeds (or finding ways to subvert the system).
 
 [^66]: 盲目服从：游戏中的这种紧张关系正是布伦达·罗梅罗所著的《机械即信息》系列游戏的核心。尤其是棋盘游戏[《火车》](http://romero.com/analog/)，它讲述的是玩家在实施可怕行为（或找到颠覆系统的方法）时的同谋关系。
+
+[^67]: Jumping puzzles: A challenge often found in games, jumping puzzles are sequences of jumps that must be performed with precise timing. They are often denigrated as a designer’s failure of imagination.
+
+[^68]: 跳跃谜题：游戏中常见的一种挑战，跳跃谜题是需要在精确时机执行的一系列跳跃动作。它们经常被批评为设计师想象力的失败。
+
+[^69]: Tile-based: A term for computer graphics that are based on drawing discrete squares, or tiles, each with an image on them. Generally, nothing in the game can straddle the boundary between two tiles.
+
+[^70]: 基于瓷砖的图形：这是一个计算机图形学术语，指基于绘制离散方格或瓷砖的图形，每个方格或瓷砖上都有一个图像。通常，游戏中的任何物体都不能跨越两个瓷砖之间的边界。
+
+[^71]: Topology: More specifically, the branch of geometry that is interested in the properties of shapes that do not change when you "squish" a shape. In theory, if you had a cube that you could squish all you wanted, you could shape it into a sphere. However, to change it into a donut, you have to punch a hole in it. The donut, however, can easily become a teapot; the hole becomes the handle. This is called a "continuous deformation," and we term shapes that can be squished into one another "homeomorphic." Quite often, we find that different game designs are more or less homeomorphic, too: the variances between them have more in common with the difference between a cube and a sphere than they do between a cube and a donut.
+
+[^72]: 拓扑学：更具体地说，是几何学的一个分支，研究的是“挤压”形状时不会改变的形状属性。从理论上讲，如果你有一个立方体，你可以随心所欲地挤压它，你可以把它捏成一个球体。但是，要把它变成一个甜甜圈，就必须在上面打一个洞。然而，甜甜圈可以很容易地变成茶壶；孔变成了把手。这就是所谓的 "连续变形"，我们把可以相互挤压的形状称为“同胚”"。很多时候，我们会发现不同的游戏设计也或多或少具有同胚性：它们之间的差异更像是立方体和球体之间的差异，而不是立方体和甜甜圈之间的差异。
+
+[^73]: Platform games: Any of a broad class of games where you attempt to traverse a landscape collecting objects or touching every space on the map. Platform games originally featured platforms as their setting, hence the name.
+
+[^74]: 平台游戏：平台游戏是一类游戏，游戏中玩家试图穿越一个场景，收集物品或触及地图上的每一个空间。平台游戏最初以平台为背景，因此得名。
+
+[^75]: [Frogger](https://en.wikipedia.org/wiki/Frogger): A simple space traversal game where you play as a frog attempting to reach one of five safe spaces on the other side of a busy road and a river. Both the road and the river present the same obstacle, but clever artwork makes them look like different play experiences.
+
+[^76]: [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong): One of the earliest arcade platformers, this game required you to play as Mario, a plumber who wanted to rescue his girlfriend, who was abducted by a giant ape. You had to walk up slanted platforms and jump over rolling barrels in order to reach the top.
+
+[^77]: [Kangaroo](https://en.wikipedia.org/wiki/Kangaroo_(video_game)): Another early arcade platformer. In this game, you played as a kangaroo mother trying to rescue her baby joey. Monkeys threw apples at you from the side of the screen as you tried to reach the top.
+
+[^78]: [《青蛙过河》](https://en.wikipedia.org/wiki/Frogger)：这是一款简单的空间穿越游戏，玩家扮演一只青蛙，试图到达繁忙道路和河流另一侧的五个安全空间之一。道路和河流都有相同的障碍，但巧妙的美术设计让它们看起来像是不同的游戏体验。
+
+[^79]: [《大金刚》](https://en.wikipedia.org/wiki/Donkey_Kong)：作为最早的街机平台游戏之一，这款游戏要求玩家扮演水管工马里奥，去营救被巨猿绑架的女友。你必须走上倾斜的平台，跳过滚动的木桶，才能到达顶端。
+
+[^80]: [《袋鼠》](https://en.wikipedia.org/wiki/Kangaroo_(video_game))：另一款早期的街机平台游戏。在这款游戏中，你扮演一位袋鼠妈妈，试图救出她的小宝宝。当你试图到达顶端时，猴子会从屏幕一侧向你扔苹果。
+
+[^81]: [Miner 2049er](https://en.wikipedia.org/wiki/Miner_2049er): An early platformer available on 8-bit computer systems, this game was actually very similar topologically to Pac-Man. You played as a miner who had to touch every spot on the map—as you walked over girders, they changed color to indicate that you had been there.
+
+[^82]: [Q*Bert](https://en.wikipedia.org/wiki/Q*bert): Another map traversal game, this game took place on a triangular grid of diamonds rather than in a traditional Cartesian space. It also featured a few spots where there were elements of a directed graph—you could jump onto a little disk that floated beside the map and be taken to the top of the triangle. Once again, the objective was to visit every node on the graph without colliding with an enemy.
+
+[^83]: [Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner) and [Apple Panic](https://en.wikipedia.org/wiki/Apple_Panic): Complex platformers for 8-bit computers where you were asked to collect all of a number of objects on the screen while not being caught by the enemies. Unlike other platformers, however, these let you actually change the map by dropping a substance that temporarily removed a segment of the floor. Enemies could fall in the floor and be trapped—if the floor was restored before they escaped, they would be removed from play. Often, objects you needed to retrieve would be hidden under deep floors that required you to tunnel down using this ability, thus risking death. The best levels were highly difficult puzzles.
+
+[^84]: [《矿工 2049》](https://en.wikipedia.org/wiki/Miner_2049er)：这是一款早期的平台游戏，可用于 8 位电脑系统，从拓扑结构上看，这款游戏与《吃豆人》非常相似。你扮演一名矿工，必须触碰到地图上的每一个点，当你走过大梁时，大梁就会变色，表示你曾经到过那里。
+
+[^85]: [《Q*伯特》](https://en.wikipedia.org/wiki/Q*bert)：这是另一款地图穿越游戏，游戏地点是由菱形组成的三角形网格，而不是传统的笛卡尔空间。游戏中还有一些有向图元素——你可以跳到漂浮在地图旁边的一个小圆盘上，然后被带到三角形的顶端。同样，游戏的目标是在不与敌人发生碰撞的情况下访问图上的每个节点。
+
+[^86]: [《淘金者》](https://en.wikipedia.org/wiki/Lode_Runner)和 [《苹果恐慌》](https://en.wikipedia.org/wiki/Apple_Panic)：8 位电脑上的复杂平台游戏，要求玩家收集屏幕上的所有物体，同时不被敌人抓住。但与其他平台游戏不同的是，这两款游戏可以通过投掷物质暂时移除一段地板来改变地图。敌人可能会掉进地板并被困住——如果在他们逃脱之前地板被恢复，他们就会被移出游戏。通常情况下，你需要取回的物品会藏在很深的地板下，这就要求你使用这种能力向下挖隧道，从而冒着死亡的危险。最好的关卡都是高难度的谜题。
+
+[^87]: 3-D on rails: A term used to refer to games that have a 3-D representation but do not permit you to move freely through the environment.
+
+[^88]: True 3-D: A term used to refer to games that use both 3-D rendering and a 3-D space in which the player can move.
+
+[^89]: 轨道三维：指的是有 3-D 呈现但不允许在环境中自由移动的游戏。
+
+[^90]: 真正的三维：指同时使用 3-D 渲染和玩家可以移动的 3-D 空间的游戏。
