@@ -373,6 +373,34 @@ Games started to meld these two styles, then they added scrolling environments. 
 
 游戏开始融合这两种风格，然后又加入了滚动环境。最后，设计师们又加入了[轨道三维](#user-content-fn-89)[^89]游戏，最终在《马里奥 64》中实现向[真正的三维](#user-content-fn-90)[^90]游戏的飞跃。
 
+> And in fact, most games pick on subject and then run a bunch of variations on it.
+> 
+> 事实上，大多数游戏都是选取一个主题，然后进行一系列变化。
+> 
+> Jumping through the ages exhibit sponsored by the Int'l assoc for alligator advancement
+> 
+> 由国际鳄鱼发展协会赞助的“穿越时空”展览
+> 
+> Hopscotch
+> 
+> 跳房子
+> 
+> Jumping rope
+> 
+> 跳绳
+> 
+> Hurdles
+> 
+> 跨栏
+> 
+> 2-d platformer
+> 
+> 二维平台跳跃
+> 
+> 3-d platformer
+> 
+> 三维平台跳跃
+
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
 [^2]: 针对游戏设计师的大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广[页面](www.igda.org/academia/)。
