@@ -395,11 +395,44 @@ Games started to meld these two styles, then they added scrolling environments. 
 > 
 > 2-d platformer
 > 
-> 二维平台跳跃
+> 二维平台游戏
 > 
 > 3-d platformer
 > 
-> 三维平台跳跃
+> 三维平台游戏
+
+A modern platformer makes use of all of these dimensions:
+
+现代平台游戏会利用所有这些维度：
+
+• "Get to the other side" is still the basic paradigm.\
+“到达另一边”仍然是基本范式。
+
+• "Visit all the map" is handled by a "[secrets](#user-content-fn-91)[^91]" system.\
+“访问所有地图”由“[秘密](#user-content-fn-92)[^92]”系统处理。
+
+• Time limits add another dimension of challenge.\
+时间限制增加了挑战的另一个维度。
+
+Since the original Donkey Kong, players have been able to [pick up](#user-content-fn-93)[^93] a hammer to use as a weapon. One of the most common signs of incremental innovation in game design is designers simply adding more of a given element, rather than adding a new element. Hence, today we have a bewildering array of weapons.
+
+从最初的《大金刚》开始，玩家就可以[拾取](#user-content-fn-94)[^94]锤子作为武器。在游戏设计中，渐进式创新最常见的表现之一就是设计者只是简单地增加某种元素的数量，而不是增加一种新元素。因此，今天我们有了一系列令人眼花缭乱的武器。
+
+Platformers have now covered all the dimensions. They have started pulling in elements of racing and flying games as well as fighters and shooters. They have built in secret discovery, time limits, and power-ups. Recent games have included more robust stories, and even elements from role-playing games. Are there more dimensions on which to expand?
+
+现在，平台游戏已经涵盖了所有层面。它们开始引入赛车和飞行游戏以及战斗机和射击游戏的元素。它们还加入了秘密探索、时间限制和强化道具等元素。最近的游戏还加入了更丰富的故事，甚至还有角色扮演游戏的元素。还有更多的维度可以拓展吗？
+
+Going from [Pong](https://en.wikipedia.org/wiki/Pong) to a modern tennis game is not so large a leap. How odd that we've ended up in the recursive pattern of making games that model other games—it suggests that there's something that the real-life sport of tennis can teach that doesn't require running around on a court in a white outfit. Nonetheless, rather than teaching the skill of hurling rocks and judging trajectories, it would be nice if more games instead taught things like [whether or not the price of oil is going to rise](#user-content-fn-95)[^95] in response to signing or not signing a global warming treaty.
+
+从[《乓》](https://en.wikipedia.org/wiki/Pong)到现代网球游戏并不是一个很大的飞跃。奇怪的是，我们最终陷入了制作模拟其他游戏的游戏的递归模式——这说明现实生活中的网球运动可以教给人们一些东西，而这些东西并不需要穿着一身白衣在球场上奔跑。尽管如此，与其教授投掷石块和判断弹道的技巧，不如让更多的游戏教授[油价是否会因签署或不签署全球变暖条约而上涨](#user-content-fn-96)[^96]等问题。
+
+This may sound bleak, but in fact, it's not. The skills needed around a meeting room table and the skills needed at the tribal council are not so different, after all. There are whole genres of games that are about husbandry, resource management, logistics, and negotiation. If anything, the question to ask might be why the most popular games are the ones that teach obsolete skills, while the more sophisticated ones that teach subtler skills tend to reach smaller markets.
+
+这听起来似乎很凄凉，但事实上并非如此。毕竟，在会议室的会议桌上所需的技能和在部落会议上所需的技能并无太大区别。有很多类型的游戏都是关于勤俭节约、资源管理、后勤和谈判的。如果说有什么问题的话，那就是为什么最受欢迎的游戏都是那些教授过时技能的游戏，而那些教授更微妙技能的更复杂的游戏往往市场较小。
+
+> Just like variations on a theme in music, these are basically training to recognize a pattern in a variety of situations.
+> 
+> 就像音乐中的主题变奏曲一样，这些基本上是在各种情况下识别模式的训练。
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
@@ -539,7 +572,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^66]: 盲目服从：游戏中的这种紧张关系正是布伦达·罗梅罗所著的《机械即信息》系列游戏的核心。尤其是棋盘游戏[《火车》](http://romero.com/analog/)，它讲述的是玩家在实施可怕行为（或找到颠覆系统的方法）时的同谋关系。
 
-[^67]: Jumping puzzles: A challenge often found in games, jumping puzzles are sequences of jumps that must be performed with precise timing. They are often denigrated as a designer’s failure of imagination.
+[^67]: Jumping puzzles: A challenge often found in games, jumping puzzles are sequences of jumps that must be performed with precise timing. They are often denigrated as a designer's failure of imagination.
 
 [^68]: 跳跃谜题：游戏中常见的一种挑战，跳跃谜题是需要在精确时机执行的一系列跳跃动作。它们经常被批评为设计师想象力的失败。
 
@@ -586,3 +619,15 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 [^89]: 轨道三维：指的是有 3-D 呈现但不允许在环境中自由移动的游戏。
 
 [^90]: 真正的三维：指同时使用 3-D 渲染和玩家可以移动的 3-D 空间的游戏。
+
+[^91]: Secrets: A term for hidden objects scattered throughout a level of a game. Many games offer up the collection of secrets as an additional axis for success in order to reward thorough exploration.
+
+[^92]: 秘密：指散落在游戏关卡中的隐藏物品。许多游戏都将收集秘密作为衡量成功的额外维度，以奖励玩家的深入探索。
+
+[^93]: Pick-up: A generic term for a game object that grants new abilities to the player when collected. The classic early examples include the large dots in Pac-Man that make the player capable of eating ghosts and the hammer in Donkey Kong, which allows the player to destroy barrels.
+
+[^94]: 拾取：游戏物品的总称，玩家收集后可获得新的能力。早期的经典例子包括《吃豆人》中能让玩家吃鬼的大圆点，以及《大金刚》中能让玩家摧毁木桶的锤子。
+
+[^95]: Whether or not the price of oil is going to rise: This game does exist in various forms, most famously as [World Without Oil](http://worldwithoutoil.org/), a serious game that invites players to collaboratively describe a global oil crisis.
+
+[^96]: 油价是否会上涨：这种游戏确实以各种形式存在，其中最著名的是[《没有石油的世界》](http://worldwithoutoil.org/)，这是一款严肃游戏，邀请玩家共同描述全球石油危机。

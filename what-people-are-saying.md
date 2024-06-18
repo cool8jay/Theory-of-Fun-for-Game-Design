@@ -12,7 +12,7 @@
 
 <hr>
 
-"Does for games what Understanding Comics did for sequential art. Non-gamers: Buy this for the gamer in your life. Gamers: Buy this for the non-gamer in your life. You’ll never look at fun the same way again."
+"Does for games what Understanding Comics did for sequential art. Non-gamers: Buy this for the gamer in your life. Gamers: Buy this for the non-gamer in your life. You'll never look at fun the same way again."
 
 —Cory Doctorow, author of Little Brother and Pirate Cinema; co-editor of Boing Boing
 
@@ -42,7 +42,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"If you’re interested in game design, get it and read it."
+"If you're interested in game design, get it and read it."
 
 —Steve Jackson, designer of Munchkin and GURPS
 
@@ -102,7 +102,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"Koster outlines a convincing manifesto for why people do or don’t have a good time in games in A Theory of Fun. He also makes us feel very very not smart."
+"Koster outlines a convincing manifesto for why people do or don't have a good time in games in A Theory of Fun. He also makes us feel very very not smart."
 
 —Game Informer Magazine
 
@@ -232,7 +232,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"Raph Koster asks the important question about games: why are they fun, and what does that say about games and about us? [It is] a tour of the nature of consciousness, how games do and do not intersect with reality, the difference between games and stories, and the seven different kinds of fun. It's a tour you’ll be glad to take with him."
+"Raph Koster asks the important question about games: why are they fun, and what does that say about games and about us? [It is] a tour of the nature of consciousness, how games do and do not intersect with reality, the difference between games and stories, and the seven different kinds of fun. It's a tour you'll be glad to take with him."
 
 —Clay Shirky, NYU
 
@@ -252,7 +252,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"A Theory of Fun is a must read for anyone who wants to understand why games are so pervasive today, as it sheds new light into why fun matters in this world, and how ‘play’ makes us truly human."
+"A Theory of Fun is a must read for anyone who wants to understand why games are so pervasive today, as it sheds new light into why fun matters in this world, and how 'play' makes us truly human."
 
 —Dan Arey, designer on the Jak and Daxter series
 
@@ -282,7 +282,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"A delightful read. This book fills the ‘game apologist’ niche in my bookshelf."
+"A delightful read. This book fills the 'game apologist' niche in my bookshelf."
 
 —Dan Cook, game designer of Triple Town
 
@@ -312,7 +312,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"If there is a game designer lurking anywhere in your soul, this book may not be the Bible of game design, but I would certainly include it in the Apocrypha (the missing books of the Bible)... [E]ssential reading. I can’t imagine anyone in the game industry who would not profit from enjoying this delightful book."
+"If there is a game designer lurking anywhere in your soul, this book may not be the Bible of game design, but I would certainly include it in the Apocrypha (the missing books of the Bible)... [E]ssential reading. I can't imagine anyone in the game industry who would not profit from enjoying this delightful book."
 
 —Alan Emrich, Art Institute of California
 
@@ -332,7 +332,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"Well worth reading. It won’t take long to get through; and there is a great deal of thoughtfulness crammed into its few pages."
+"Well worth reading. It won't take long to get through; and there is a great deal of thoughtfulness crammed into its few pages."
 
 —Lee Sheldon, game designer
 
@@ -342,7 +342,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"Raph's book has the most important words of wisdom for our entire industry that I’ve read yet. He's spot on when talking about how our work, our craft can only be taken seriously if developers themselves start taking their work seriously and produce art."
+"Raph's book has the most important words of wisdom for our entire industry that I've read yet. He's spot on when talking about how our work, our craft can only be taken seriously if developers themselves start taking their work seriously and produce art."
 
 —Reid Kimball, game designer
 
@@ -392,7 +392,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"I’m a huge fan. I think I’ve handed out close to 15 copies of this book so far, including a copy to my mother. I love how I can use this book to spark an advanced design conversation but also use it to explain to my mom what the hell it is I do for a living and why all these games I play actually matter."
+"I'm a huge fan. I think I've handed out close to 15 copies of this book so far, including a copy to my mother. I love how I can use this book to spark an advanced design conversation but also use it to explain to my mom what the hell it is I do for a living and why all these games I play actually matter."
 
 —Paul Stephanouk, game designer
 
