@@ -458,7 +458,7 @@ You don't tend to see "[time attack](#user-content-fn-99)[^99]" modes in strateg
 
 This whole approach is intended for learning by rote. When I was a kid, I had a game for the [Atari 2600](#user-content-fn-101)[^101] console called [Laser Blast](#user-content-fn-102)[^102]. I got to the point where I could get a million points at the maximum difficulty setting without ever dying. With my eyes closed. This is the same sort of training that we put our militaries through—the training of rote and reflex. It's not a very adaptable mode of training, but it is desirable in many cases.
 
-整个方法都是为了死记硬背。我小时候玩过一款[雅达利 2600](#user-content-fn-103)[^103]游戏机上的游戏，名叫[《激光爆炸》](#user-content-fn-104)[^104]。我玩到最高难度设置时，能得到一百万分而不死。而且是闭着眼睛。这与我们对军队进行的训练如出一辙——死记硬背和条件反射的训练。这不是一种适应性很强的训练模式，但在很多情况下是可取的。
+整个方法都是为了死记硬背。我小时候玩过一款[雅达利 2600](#user-content-fn-103)[^103]游戏机上的游戏，名叫[《激光爆炸》](#user-content-fn-104)[^104]。我玩到最高难度设置时，能得到一百万分而不死。而且是闭着眼睛。这与我们对军队进行的训练如出一辙——死记硬背和条件反射的训练。这不是一种灵活变通的训练模式，但在很多情况下是可取的。
 
 <div align="center">
 <img src="images/4.14.png">
@@ -491,14 +491,14 @@ Games have these characteristics:
 它们通常是量化的甚至是[量子化](#user-content-fn-106)[^106]的模型。
 
 * They primarily teach us things that we can absorb into the unconscious, as opposed to things designed to be tackled by the conscious, logical mind.\
-它们主要教给我们可以吸收到潜意识中的东西，而不是教给我们有意识的逻辑思维去处理的东西。
+它们主要教给我们可以吸收到潜意识中的东西，而不是用有意识的逻辑思维处理的东西。
 
 * They mostly teach us things that are fairly primitive behaviors (but they don't have to).\
 它们教给我们的大多是相当原始的行为（但也并非必须如此）。
 
 Seen in this light, the evolution of the modern video game can largely be explained in terms of topology. Each generation of game can be described by a relatively minute alteration in the shape of the play space. For example, there have only really been around [five fighting games](#user-content-fn-107)[^107] in all of videogaming history. Significant advances have been limited to a few features like movement on a plane, movement in 3-D, and the addition of "[combos](#user-content-fn-108)[^108]" or sequences of moves. The games look different because of their content, not their underlying lessons.
 
-从这个角度来看，现代电子游戏的演变在很大程度上可以用拓扑学来解释。每一代游戏都可以用游戏空间形状相对微小的变化来描述。例如，在整个电子游戏史上，真正意义上的[格斗游戏只有五款](#user-content-fn-109)[^109]。显著的进步仅限于一些功能，如平面移动、三维移动以及增加“[连击](#user-content-fn-110)[^110]”或动作序列。这些游戏之所以看起来不同，是因为它们的内容不同，而不是它们所蕴含的基本课程不同。
+从这个角度来看，现代电子游戏的演变在很大程度上可以用拓扑学来解释。每一代游戏都可以用游戏空间形状相当微小的变化来描述。例如，在整个电子游戏史上，真正意义上的[格斗游戏只有五款](#user-content-fn-109)[^109]。显著的进步仅限于一些功能，如平面移动、三维移动以及增加“[连击](#user-content-fn-110)[^110]”或动作序列。这些游戏之所以看起来不同，是源于它们的内容，而不是它们所蕴含的基本课程。
 
 This is not to say that many of the classic fighting games didn't bring significant incremental advances. Of course they did. But did they effectively “add another hole to the donut”?
 
@@ -522,19 +522,19 @@ Consider the evolution of the 2-D shooter or "shmup." Space Invaders offered a s
 
 Simple topological variants then ensued: Gyruss and Tempest are just Galaxian in a circle. Gorf and others added scrolling, and also had an end boss and stages that changed in nature as you progressed. Zaxxon added verticality, which was then quickly thrown away in the development of the genre. Centipede gave you some room to maneuver at the bottom, and a charming setting, but isn't really that different from Galaxian and Space Invaders. Asteroids is an inverted circle: you're in the middle, and the enemies come from outside.
 
-随后又出现了简单的拓扑变体：《Gyruss》和《暴风雨》只是在一个圆圈中的《小蜜蜂》。《Gorf》和其他游戏增加了滚动功能，也有终结 头目和随着游戏进程而改变性质的阶段。《Zaxxon》增加了垂直性，但在该类型游戏的发展过程中很快就被抛弃了。《蜈蚣》在底部给了你一些操作空间和迷人的设置，但其实与《银河战士》和《太空侵略者》并无太大区别。《小行星》是一个倒置的圆圈：你在中间，敌人来自外面。
+随后又出现了简单的拓扑变体：《Gyruss》和《暴风雨》只是在一个圆圈中的《小蜜蜂》。《Gorf》和其他游戏增加了滚动屏幕，也有终结头目和随着游戏进程而改变性质的关卡。《Zaxxon》增加了垂直性，但在该类型游戏的发展过程中很快就被抛弃了。《蜈蚣》在底部给了你一些操作空间和迷人的设置，但其实与《银河战士》和《太空侵略者》并无太大区别。《小行星》是一个倒置的圆圈：你在中间，敌人来自外面。
 
 Galaga was probably the most influential of all of these, because it added bonus levels and the power-up, a concept that has become standard in every shmup since. Xevious and Vanguard added alternate modes of fire (bombs and firing in other directions). Robotron and Defender are special cases. Both have the element of rescuing. This has been pretty much abandoned today (sadly—though Choplifter was a wonderful sidetrack there).
 
-《大蜜蜂》可能是所有这些游戏中最具影响力的，因为它增加了奖励关卡和强化道具，而这一概念在之后的所有清版射击游戏中都成为了标配。《铁板阵》和《先遣部队》增加了其他射击模式（投弹和向其他方向射击）。《机器人战争》和《防卫者》是特例。这两款游戏都有救援元素。时至今日，这种玩法已基本被抛弃了（虽然《救援直升机》是一个精彩的分支，但令人遗憾）。
+《大蜜蜂》可能是所有这些游戏中最具影响力的，因为它增加了奖励关卡和强化道具，这一概念在之后的所有清版射击游戏中都成为了标配。《铁板阵》和《先遣部队》增加了其他射击模式（投弹和向其他方向射击）。《机器人战争》和《防卫者》是特例。这两款游戏都有救援元素。时至今日，这种玩法已基本被抛弃了（虽然《救援直升机》是一个精彩的分支，但令人遗憾）。
 
 Now, I don't know what the first 2-D shooter to have power-ups and scrolling and bosses at the end of stages was, but a case can be made that there hasn't been a 2-D shooter with a different "shape" since then. Unsurprisingly, the shooter genre has stagnated and lost market share. After all, we learned that mechanic a long time ago, and everything since has been learning patterns that we know to be artificial and unlikely to be repeated anywhere.
 
-现在，我不知道第一款在阶段末尾设置了能量加成、滚动和关卡头目的 2-D 射击游戏是什么，但可以说，从那时起，再也没有一款 2-D 射击游戏拥有不同的“外形”。不出所料，射击游戏的发展停滞不前，市场份额不断下降。毕竟，我们在很久以前就学会了这种机制，此后的所有游戏都是在学习模式，而我们知道这些模式都是人为的，不可能在任何地方重复。
+现在，我不知道第一款拥有强化道具、滚动屏幕和守关头目的二维射击游戏是什么，但可以说，从那时起，再也没有一款二维射击游戏拥有不同的“形状”。不出所料，射击游戏的发展已经停滞不前，市场份额不断下降。毕竟，我们在很久以前就学会了这种玩法机制，而从那时起，我们一直在学习那些我们知道是人为的、不太可能在任何地方重复出现的模式。
 
 This offers a possible algorithm for innovation: find a new dimension to add to the gameplay. We saw this in the way that puzzle games evolved after Tetris: people started trying to do it with hexagons,  with three dimensions, and eventually, pattern matching of colors became the thing that replaced spatial analysis. If we really want to innovate on puzzle games, how about exploring puzzle games based on time rather than space, for example?
 
-这就为创新提供了一种可能的算法：找到一种新的维度来增加游戏性。我们可以从俄罗斯方块之后益智游戏的发展过程中看到这一点：人们开始尝试用六边形、三维空间来进行游戏，最终，颜色模式匹配取代了空间分析。如果我们真的想在益智游戏上有所创新，比如探索基于时间而非空间的益智游戏如何？
+这提供了一种可能的创新算法：为游戏玩法添加一个新维度。我们可以从《俄罗斯方块》之后益智游戏的发展中看到这一点：人们开始尝试用六边形、三维空间来进行游戏，最终，颜色模式匹配取代了空间分析。如果我们真的想在益智游戏上有所创新，比如探索基于时间而非空间的益智游戏如何？
 
 <div align="center">
 <img src="images/4.16.png">
@@ -634,7 +634,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^40]: Training provided by shooting a virtual gun: In professions where training is a matter of life and death, training is designed to match the real circumstances as closely as possible. A mouse or a tap on a screen does not convey the realities of recoil, mass, size, or how humans react to being hit in various locations. The same is true for operating vehicles, such as tanks or airliners. Interfaces matter tremendously.
 
-[^41]: 射击游戏：向目标发射弹丸以获取分数的一类电子游戏。通常分为第一人称射击游戏和 2-D 射击游戏。
+[^41]: 射击游戏：向目标发射弹丸以获取分数的一类电子游戏。通常分为第一人称射击游戏和二维射击游戏。
 
 [^42]: 格斗游戏：一种特殊类型的视频游戏，玩家在游戏中控制一名武术家。通常，这些游戏涉及按特定的组合键来执行特定的踢或击，或躲避或抵挡攻击。这些游戏通常模仿一对一的战斗。
 
@@ -764,7 +764,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^105]: Quantized: Quantizing is the act of taking continuous values in data and forcing the data to fit to a pattern; for example, turning a picture with infinite shades of gray into an image with 256 levels of gray, or taking music that isn't quite on the beat and forcing it to fit perfect mathematical rhythm.
 
-[^106]: 量化：量化是在数据中提取连续值，并迫使数据符合某种模式的行为；例如，将一幅有无限灰度的图片变成一幅有 256 级灰度的图片，或者将不太符合节拍的音乐强迫其符合完美的数学节奏。
+[^106]: 量子化：量子化/离散化，是在数据中提取连续值，并迫使数据符合某种模式的行为；例如，将一幅有无限灰度的图片变成一幅有 256 级灰度的图片，或者将不太符合节拍的音乐强迫其符合完美的数学节奏。
 
 [^107]: Five fighting games: I realize this is a controversial statement to make! The five I would identify are:
     * Rock-paper-scissors, where players do not physically move, have three moves, and each attack is a one-hit kill.

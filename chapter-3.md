@@ -246,7 +246,7 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^7]: Deeply nested clauses: This is typically seen as an expression of G. A. Miller’s number cited in the endnote on "chunking" in Chapter Two: 7±2. In assessing a deeply nested sentence, it’s important to realize that each word is itself already being "chunked" from a collection of letters. The example sentence comes from Jane Robinson’s 1974 paper ["Performance Grammars"](http://www.sri.com/sites/default/files/uploads/publications/pdf/1384.pdf).
 
-[^8]: 深嵌套从句：这通常被视为第二章“分块”尾注中引用的G. A.米勒的数字：7±2。在评估一个深嵌套句子时，重要的是要意识到每个单词本身已经是从字母集合中“分块”出来的。例句来自简·罗宾逊 1974 年的论文[《表现语法》](http://www.sri.com/sites/default/files/uploads/publications/pdf/1384.pdf)。
+[^8]: 深嵌套从句：这通常被视为第二章“分块”尾注中引用的乔治·阿米蒂奇·米勒的数字：7±2。在评估一个深嵌套句子时，重要的是要意识到每个单词本身已经是从字母集合中“分块”出来的。例句来自简·罗宾逊 1974 年的论文[《表现语法》](http://www.sri.com/sites/default/files/uploads/publications/pdf/1384.pdf)。
 
 [^9]: Richly interpretable situations: This is not only my interpretation of the sorts of game patterns that humans find compelling, but also the phrase used by Biederman & Vessel in their research on endorphins and pleasurable feedback from the brain. For a discussion of the applicability of this to games, see Craig Perko’s blog at [http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html](http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html).
 
