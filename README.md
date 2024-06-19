@@ -1,4 +1,4 @@
-阅读地址：[GitBook](https://cool8jay.gitbook.io/Theory-of-Fun-for-Game-Design)
+阅读地址：[GitBook](https://cool8jay.gitbook.io/theory-of-fun-for-game-design)
 
 <hr>
 
