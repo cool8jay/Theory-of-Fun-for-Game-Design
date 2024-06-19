@@ -18,6 +18,39 @@ Games, by the very nature of what they teach, push towards this sort of understa
 
 游戏根据它们所教授的内容的本质，推动了这种理解的形成。由于它们的目的是教授底层模式，所以他们训练玩家忽略包裹这些模式的虚构元素。
 
+<div align="center">
+<img src="images/5.1.png">
+</div>
+
+> SPACE INVADERS
+> 
+> 太空侵略者
+> 
+> GALAXIAN
+> 
+> 小蜜蜂
+> 
+> TEMPEST
+> 
+> 暴风雨
+> 
+> SCROLLING SHMUP
+> 
+> 滚动射击清版游戏
+> 
+> player
+> 玩家
+> force projection
+> 力量投射
+> playfield
+> 游戏场地
+> enemies
+> 敌人
+> 
+> Games are largely about getting people to see past the variations and look instead at the underlying patterns. Because of this, gamers are very good at seeing past fiction.
+> 
+> 游戏在很大程度上是让玩家超越表面的变化，转而观察潜在的模式。正因为如此，游戏玩家非常擅长洞察超越虚构背后的真实。
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
