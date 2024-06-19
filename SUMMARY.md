@@ -9,5 +9,5 @@
 * [Chapter 1 Why Write This Book? 第一章 为什么要写这本书？](chapter-1.md)
 * [Chapter 2 How the Brain Works? 第二章 大脑如何工作？](chapter-2.md)
 * [Chapter 3 What Games Are? 第三章 游戏是什么？](chapter-3.md)
-* [Chapter 4 What Games Teach Us? 第四章 游戏教会了我们什么什么？](chapter-4.md)
+* [Chapter 4 What Games Teach Us? 第四章 游戏教会了我们什么？](chapter-4.md)
 
