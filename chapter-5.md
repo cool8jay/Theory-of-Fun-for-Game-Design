@@ -53,11 +53,11 @@ Games, by the very nature of what they teach, push towards this sort of understa
 
 Back in 1976, a company called Exidy scored a first in video game history: its game [Deathrace](#user-content-fn-5)[^5] was taken off the market because of public concerns about the game's violent nature. Deathrace was loosely based on a movie called [Deathrace 2000](#user-content-fn-6)[^6]. The premise involved driving a car to run over pedestrians for points.
 
-早在 1976 年，一家名为 Exidy 的公司创造了视频游戏史上的一个第一：其游戏[《亡命赛车》](#user-content-fn-7)[^7]因公众对游戏暴力性质的担忧而被下架。《亡命赛车》是根据一部名为[《亡命赛车 2000》](#user-content-fn-8)[^8]的电影改编的。游戏的前提是驾驶汽车碾压行人以获得分数。
+早在 1976 年，一家名为 Exidy 的公司创造了视频游戏史上的一个第一：其游戏[《死亡飞车》](#user-content-fn-7)[^7]因公众对游戏暴力性质的担忧而被下架。《死亡飞车》是根据一部名为[《死亡飞车 2000》](#user-content-fn-8)[^8]的电影改编的。游戏的前提是驾驶汽车碾压行人以获得分数。
 
 Mechanically, Deathrace was the same as any other game that involved catching objects moving around the screen. If you looked at this game today, with its crude pixelated graphics and its tiny iconic people, you wouldn't be particularly shocked. After all, countless other gore-fests have come along that make the game look quaint.
 
-从机制上讲，《亡命赛车》与其他任何涉及捕捉屏幕上移动物体的游戏一样。如果你今天来看看这款游戏，看看它粗糙的像素化画面和微小的标志性人物，你不会感到特别震惊。毕竟，无数其他血腥游戏的出现让这款游戏显得古色古香。
+从机制上讲，《死亡飞车》与其他任何涉及捕捉屏幕上移动物体的游戏一样。如果你今天来看看这款游戏，看看它粗糙的像素化画面和微小的标志性人物，你不会感到特别震惊。毕竟，无数其他血腥游戏的出现让这款游戏显得古色古香。
 
 I don't think debates about the suitability of violence in the media will disappear. Much evidence shows that [media have some effect on how we act](#user-content-fn-9)[^9]. If media didn't have an effect, we wouldn't spend so much effort on using them as teaching tools. But evidence also shows that media aren't mind-control devices (of course they aren't, or else we'd all behave like the people in the children's stories we read in elementary school).
 
@@ -103,18 +103,18 @@ But there's a very good reason why the gamers are incredulous.
 
 [^6]: Deathrace 2000: Movie released in 1975, starring David Carradine and Sylvester Stallone. It is about cross-country racing in the future; running over pedestrians scores points in the race, and some fans are crazed enough to throw themselves under the wheels of their favorite drivers to help them win.
 
-[^7]: 《亡命赛车》：这也是第一次将电影改编成游戏。
+[^7]: 《死亡飞车》：这也是第一次将电影改编成游戏。
 
-[^8]: 《亡命赛车 2000》：1975年上映的电影，由大卫·卡拉丁和西尔维斯特·史泰龙主演。影片讲述的是未来越野赛车的故事；碾压行人可在比赛中得分，一些车迷为了帮助自己喜欢的车手获胜，疯狂地将自己扔到车轮下。
+[^8]: 《死亡飞车 2000》：1975年上映的电影，由大卫·卡拉丁和西尔维斯特·史泰龙主演。影片讲述的是未来越野赛车的故事；碾压行人可在比赛中得分，一些车迷为了帮助自己喜欢的车手获胜，疯狂地将自己扔到车轮下。
 
-[^9]: Effects of media on violence: An ongoing debate among academics. Most of the evidence is limited to demonstrating a rise in aggressive behavior for a few minutes—hardly advanced mind control. Others feel that vicarious exploration of violence is natural and even a necessary part of development. For a representative look at this position, try Gerard Jones’s [Killing Monsters: Why Children Need Fantasy, Super Heroes, and Make-Believe Violence](https://www.amazon.com/dp/0465036953), published by Basic Books in 2003. In addition, the American Academy of Family Physicians determined that there was insufficient evidence to make a link between video games and violence, www.aafp.org/afp/20020401/tips/1.html. There have been [studies](http://www.international.ucla.edu/cms/files/dahl_dellaviga.pdf) showing that watching violent films may actually reduce real life violent activity.
+[^9]: Effects of media on violence: An ongoing debate among academics. Most of the evidence is limited to demonstrating a rise in aggressive behavior for a few minutes—hardly advanced mind control. Others feel that vicarious exploration of violence is natural and even a necessary part of development. For a representative look at this position, try Gerard Jones’s [Killing Monsters: Why Children Need Fantasy, Super Heroes, and Make-Believe Violence](https://www.amazon.com/dp/0465036953), published by Basic Books in 2003. In addition, the [American Academy of Family Physicians](https://www.aafp.org/pubs/afp/issues/2002/0401/p1436.html) determined that there was insufficient evidence to make a link between video games and violence. There have been [studies](https://www.nber.org/system/files/working_papers/w13718/w13718.pdf) showing that watching violent films may actually reduce real life violent activity.
 
-[^10]: 媒体对暴力的影响：学术界一直在争论这个问题。大多数证据仅限于证明攻击性行为会在几分钟内增加——这还算不上高级精神控制。另一些人则认为，对暴力的代入性探索是自然的，甚至是成长的必要组成部分。要了解这种观点的代表作，请阅读杰拉德·琼斯的[《杀死怪物：为什么儿童需要幻想、超级英雄和虚构的暴力》](https://www.amazon.com/dp/0465036953) ，该书于 2003 年由 Basic Books 出版。此外，美国家庭医生学会认为，没有足够的证据表明电子游戏与暴力之间存在联系，www.aafp.org/afp/20020401/tips/1.html。有[研究](http://www.international.ucla.edu/cms/files/dahl_dellaviga.pdf)表明，观看暴力电影实际上可以减少现实生活中的暴力活动。
+[^10]: 媒体对暴力的影响：学术界一直在争论这个问题。大多数证据仅限于证明攻击性行为会在几分钟内增加——这还算不上高级精神控制。另一些人则认为，对暴力的代入性探索是自然的，甚至是成长的必要组成部分。要了解这种观点的代表作，请阅读杰拉德·琼斯的[《杀死怪物：为什么儿童需要幻想、超级英雄和虚构的暴力》](https://www.amazon.com/dp/0465036953) ，该书于 2003 年由 Basic Books 出版。此外，[美国家庭医生学会](https://www.aafp.org/pubs/afp/issues/2002/0401/p1436.html)认为，没有足够的证据表明电子游戏与暴力之间存在联系。有[研究](https://www.nber.org/system/files/working_papers/w13718/w13718.pdf)表明，观看暴力电影实际上可以减少现实生活中的暴力活动。
 
 [^11]: School shootings: Several school shootings have been blamed on the effects of video games. There have also been cases of criminals claiming inspiration from acts of crime in video games. The industry’s position is that games are an art form and worthy of protection under the First Amendment, and that the responsibility for keeping violent media out of the hands of children rests with parents. In addition, several statistics can be cited to buttress the opinion that video games do not have a significant effect on violent crime; for example, the incidence of violent crime has fallen dramatically just as the popularity of video games has risen. Were there a causal link, one would expect the two to rise in tandem.
 
-[^12]: Murder simulators: The most outspoken advocate of the point of view that media and video games cause violent behavior is Lt. Col. Dave Grossman, the author of Stop Teaching Our Kids to Kill: A Call to Action Against TV, Movie and Video Game Violence, published by Crown Books in 1999. The term "murder simulators" is his.
+[^12]: Murder simulators: The most outspoken advocate of the point of view that media and video games cause violent behavior is Lt. Col. Dave Grossman, the author of [Stop Teaching Our Kids to Kill: A Call to Action Against TV, Movie and Video Game Violence](https://www.amazon.com/dp/0804139350), published by Crown Books in 1999. The term "murder simulators" is his.
 
 [^13]: 校园枪击案：多起校园枪击案被归咎于电子游戏的影响。也有罪犯声称从电子游戏中的犯罪行为中获得灵感。游戏业的立场是，游戏是一种艺术形式，值得受到第一修正案的保护，而不让儿童接触暴力媒体的责任在于家长。此外，还可以引用一些统计数据来证明电子游戏对暴力犯罪没有显著影响的观点；例如，随着电子游戏的普及，暴力犯罪的发生率急剧下降。如果两者之间存在因果关系，人们就会认为两者会同步上升。
 
-[^14]: 杀人模拟器：戴夫·格罗斯曼中校是媒体和电子游戏导致暴力行为这一观点最直率的倡导者，他是《停止教孩子杀人》一书的作者：该书由 Crown Books 于 1999 年出版。“谋杀模拟器”一词就是他提出的。
+[^14]: 谋杀模拟器：戴夫·格罗斯曼中校是媒体和电子游戏导致暴力行为这一观点最直率的拥护者，他是[《停止教孩子杀人：反对电视、电影和电子游戏暴力的行动呼吁》](https://www.amazon.com/dp/0804139350)的作者：该书由 Crown Books 于 1999 年出版。“谋杀模拟器”一词就是他提出的。
