@@ -107,6 +107,46 @@ Learning to see that division is important to our understanding of games, and I'
 
 学会看待这种划分对于我们理解游戏非常重要，我稍后会详细论述。现在，我只想说，游戏中最不为人所理解的部分是它的形式化抽象系统部分、数学部分、认知块部分。对游戏其他方面的攻击很可能会错过关键点——游戏的核心就是需要发展其自身的形式方面，才能不断进步。
 
+<div align="center">
+<img src="images/5.3.png">
+</div>
+
+> They see a power-up.
+> 
+> 它们看到一个强化道具。
+
+Alas, that isn't what we tend to focus on.
+
+可惜，这并不是我们关注的重点。
+
+The most common route these days for developing games involves grafting a story onto them. But most video game developers take a (usually mediocre) story and put little game obstacles all through it. It's as if we are requiring the player to solve a crossword puzzle in order to turn the page to get more of the novel. There is also a current of game design which unapologetically [puts story first](#user-content-fn-19)[^19]. These are often powerful emotional experiences with relatively shallow game mechanics. This isn't a flaw—it's a deliberate design choice—but it doesn't speak to the kind of learning we get from game systems.
+
+如今，开发游戏最常见的方式就是在游戏中嫁接故事。但大多数视频游戏开发商都是在一个（通常平庸无奇的）故事中设置一些小游戏障碍。这就好像我们要求玩家解开填字游戏谜题，才能翻开一页，获得更多的小说内容。还有一股游戏设计潮流，毫不掩饰地[将故事放在首位](#user-content-fn-20)[^20]。这些游戏通常具有强大的情感体验，但游戏机制却相对肤浅。这并不是一个缺陷，而是一种刻意的设计选择，但这并不符合我们从游戏系统中获得的学习体验。
+
+By and large, people don't play with game systems because of the stories. The stories that wrap the systems are usually side dishes for the brain. For one thing, it has been rare to see a game [story written by an actual writer](#user-content-fn-21)[^21]. As a result, they are usually around the high-school level of literary sophistication at best.
+
+总的来说，人们玩游戏系统并不是因为故事。包装游戏系统的故事通常只是大脑的配菜。首先，[由真正的作家撰写的游戏故事](#user-content-fn-22)[^22]已经很少见了。因此，这些故事的文学水平充其量只能达到高中水平。
+
+For another, since the games are generally about power, control, and those other primitive things, the stories tend to be as well. This means they tend to be power fantasies. That's generally considered a pretty juvenile sort of story.
+
+另外，由于游戏一般都与权力、控制和其他原始事物有关，故事也往往如此。这意味着它们往往是权力幻想。这通常被认为是一种非常幼稚的故事。
+
+The stories in many video games serve the same purpose as calling the über-checker a "king." It adds interesting shading to the game but the game at its core is unchanged. Often the story elements are reduced to being positive feedback to the player, to tell her that she is doing well. Remember—my background is as a writer, so this actually pisses me off. Story deserves better treatment than that.
+
+许多电子游戏中的故事与把超级跳棋称为“国王”的目的是一样的。它为游戏增添了有趣的色彩，但游戏的核心却没有改变。故事元素往往沦为对玩家的积极反馈，告诉玩家她做得很好。请记住，我的背景是作家，所以这实际上让我很生气。故事应该得到更好的处理。
+
+<div align="center">
+<img src="images/5.4.png">
+</div>
+
+> Story, setting, and backplot in games are nothing more than an attempt to give a side dish to the brain while it completes its challenges--sometimes the hope is that it makes up for an otherwise unremarkable game.
+> 
+> 游戏中的故事、设定和背景情节不过是在大脑完成挑战的同时为其提供的一道配菜——有时，人们希望它能弥补游戏中的不足之处。
+> 
+> SURE, IT'S ANOTHER FIRST-PERSON SHOOTER, BUT WITH THE MOVIE LICENSE, I AM SURE IT'LL BE A HIT...
+> 
+> 当然，这又是一款第一人称射击游戏，但有了电影授权，我相信它会大受欢迎......
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
@@ -142,3 +182,12 @@ Learning to see that division is important to our understanding of games, and I'
 [^17]: 昆比亚：一种哥伦比亚民间舞蹈风格，节奏为 4/4 拍，具有独特的“心跳”节奏。它已风靡全球，是最常见的拉丁音乐节奏之一。
 
 [^18]: 马里内拉：秘鲁民间舞蹈，具有独特的“嗒嗒”节拍。这是一种高度戏剧化的求爱舞蹈。
+
+[^19]: Games that put story first: some of the best examples come from the genre of interactive fiction, such as Galatea by Emily Short, or Photopia by Adam Cadre.
+
+[^20]: 把故事放在首位的游戏：一些最好的例子来自交互式小说类型，如艾米丽·肖特的《Galatea》，或亚当·卡德雷的《Photopica》。
+
+[^21]: Story written by an actual writer: Two good books on the subject are Lee Sheldon’s Character Development and Storytelling for Games (Cengage, 2004) and David Freeman’s Creating Emotions in Games (New Riders, 2003). We are also seeing, as of this writing in 2013, a rise in storytelling games where narrative elements are actually treated as tokens within a game system. These games include many of the latest developments in the game genre termed “interactive fiction,” as well as games such as Sleep is Death by Jason Rohrer or Daniel Benmergui’s Storyteller.
+
+[^22]: 由真正的作家撰写的故事：这方面有两本好书，一本是李·谢尔顿的《游戏角色开发与故事讲述》（Cengage，2004 年），另一本是大卫·弗里曼的《在游戏中创造情感》（New Riders，2003 年）。截至 2013 年撰写本文时，我们还看到了讲故事游戏的兴起，在这些游戏中，叙事元素实际上被视为游戏系统中的代币。这些游戏包括许多被称为“互动小说”的游戏类型的最新发展，以及杰森·罗勒的《睡眠即死亡》或丹尼尔·本默吉的《讲故事的人》等游戏。
+
