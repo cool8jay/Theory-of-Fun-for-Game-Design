@@ -740,7 +740,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^93]: Pick-up: A generic term for a game object that grants new abilities to the player when collected. The classic early examples include the large dots in Pac-Man that make the player capable of eating ghosts and the hammer in Donkey Kong, which allows the player to destroy barrels.
 
-[^94]: 拾取：游戏物品的总称，玩家收集后可获得新的能力。早期的经典例子包括《吃豆人》中能让玩家吃鬼的大圆点，以及《大金刚》中能让玩家摧毁木桶的锤子。
+[^94]: 拾取：游戏物品的总称，玩家收集后可获得新的能力。早期的经典例子包括《吃豆人》中能让玩家吃鬼的豆子，以及《大金刚》中能让玩家摧毁木桶的锤子。
 
 [^95]: Whether or not the price of oil is going to rise: This game does exist in various forms, most famously as [World Without Oil](http://worldwithoutoil.org/), a serious game that invites players to collaboratively describe a global oil crisis.
 
