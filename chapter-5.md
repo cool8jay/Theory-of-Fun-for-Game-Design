@@ -147,9 +147,9 @@ The stories in many video games serve the same purpose as calling the über-chec
 > 
 > 当然，这又是一款第一人称射击游戏，但有了电影授权，我相信它会大受欢迎......
 
-Games are not stories (though players can create stories from them). * It is interesting to make the comparison, though:
+Games are not stories (though [players can create stories](#user-content-fn-23)[^23] from them). It is interesting to make the comparison, though:
 
-游戏不是故事（尽管玩家可以从中创造故事）。* 不过，做这样的比较还是很有意思的：
+游戏不是故事（尽管玩家可以从中[创造故事](#user-content-fn-24)[^24]）。不过，做这样的比较还是很有意思的：
 
 * Games tend to be experiential teaching. Stories teach vicariously.\
     游戏倾向于体验式教学。故事则是替代性教学。
@@ -174,9 +174,9 @@ I don't think anyone would quarrel with the notion that stories are one of human
 
 我想没有人会反对故事是人类主要教学工具之一的观点。有人可能会争论说，游戏是另一种工具，而单纯的说教只能排在第三位。我也不认为有多少人会反对故事的艺术成就远远高于游戏的观点，尽管事实上游戏可能早于故事（毕竟，连动物都会玩，而故事则需要某种形式的语言）。
 
-Are stories superior? We often speak of wanting to make a game that makes players cry. The classic example is the text adventure game Planetfall, * where Floyd the robot sacrifices himself for you. But it happens outside of player control, so it isn't a challenge to overcome. It's grafted on, not part of the game. What does it say about games that the peak emotional moment usually cited actually involves cheating, rather than using game systems?
+Are stories superior? We often speak of wanting to make a game that makes players cry. The classic example is the text adventure game [Planetfall](#user-content-fn-25)[^25], where Floyd the robot sacrifices himself for you. But it happens outside of player control, so it isn't a challenge to overcome. It's grafted on, not part of the game. What does it say about games that the peak emotional moment usually cited actually involves cheating, rather than using game systems?
 
-故事优越吗？我们经常说要做一款让玩家流泪的游戏。最经典的例子就是文字冒险游戏《行星陨落》，机器人弗洛伊德为你牺牲了自己。但这是在玩家控制之外发生的，所以并不是一个需要克服的挑战。它是嫁接上去的，不是游戏的一部分。游戏中最激动人心的时刻通常涉及作弊，而不是利用游戏系统，这说明了什么？
+故事优越吗？我们经常说要做一款让玩家流泪的游戏。最经典的例子就是文字冒险游戏[《行星陨落》](#user-content-fn-26)[^26]，机器人弗洛伊德为你牺牲了自己。但这是在玩家控制之外发生的，所以并不是一个需要克服的挑战。它是嫁接上去的，不是游戏的一部分。游戏中最激动人心的时刻通常涉及作弊，而不是利用游戏系统，这说明了什么？
 
 Games do better at emotions that relate to mastery. Stories can provide these too, however. Getting these sorts of emotional effects out of games may be the wrong approach—perhaps a better question is whether stories can be fun in the way games can.
 
@@ -186,9 +186,9 @@ When we speak of enjoyment, we actually mean a constellation of different feelin
 
 当我们谈论享受时，我们实际上指的是一系列不同的感受。在外面吃一顿丰盛的晚餐可以是一种享受。坐过山车可以是一种乐趣。试穿新衣服可以是一种乐趣。赢乒乓球可以是一种乐趣。看着高中时讨厌的对手绊倒在泥潭里也是一种乐趣。把所有这些都归结为“乐趣”，这个词的用法模糊得令人发指。
 
-Different people have classified this differently. Game designer Marc LeBlanc* has defined eight types of fun: sense-pleasure, make-believe, drama, obstacle, social framework, discovery, self-discovery and expression, and surrender. Paul Ekman, * a researcher on emotions and facial expressions, has identified literally dozens of different emotions—it's interesting to see how many of them only exist in one language but not in others. Nicole Lazzaro did some studies watching people play games, and she arrived at four clusters of emotion represented by the facial expressions of the players: hard fun, easy fun, altered states, and the people factor.
+Different people have classified this differently. Game designer [Marc LeBlanc](#user-content-fn-27)[^27] has defined eight types of fun: sense-pleasure, make-believe, drama, obstacle, social framework, discovery, self-discovery and expression, and surrender. [Paul Ekman](#user-content-fn-28)[^28], a researcher on emotions and facial expressions, has identified literally dozens of different emotions—it's interesting to see how many of them only exist in one language but not in others. [Nicole Lazzaro](#user-content-fn-29)[^29] did some studies watching people play games, and she arrived at four clusters of emotion represented by the facial expressions of the players: hard fun, easy fun, altered states, and the people factor.
 
-不同的人对此有不同的分类。游戏设计师马克·勒布朗定义了八种乐趣：感官愉悦、虚构、戏剧、障碍、社会框架、发现、自我发现和表达以及投降。保罗·艾克曼是一位研究情绪和面部表情的学者，他发现了几十种不同的情绪--其中有很多情绪只存在于一种语言中，而在其他语言中却不存在，这很有意思。妮可·拉扎罗对人们玩游戏时的表情进行了研究，得出了玩家面部表情所代表的四种情绪：挑战乐趣、轻松乐趣、改变状态和人际因素。
+不同的人对此有不同的分类。游戏设计师[马克·勒布朗](#user-content-fn-30)[^30]定义了八种乐趣：感官愉悦、虚构、戏剧、障碍、社会框架、发现、自我发现和表达以及投降。[保罗·艾克曼](#user-content-fn-31)[^31]是一位研究情绪和面部表情的学者，他发现了几十种不同的情绪——其中有很多情绪只存在于一种语言中，而在其他语言中却不存在，这很有意思。[妮可·拉扎罗](#user-content-fn-32)[^32]对人们玩游戏时的表情进行了研究，得出了玩家面部表情所代表的四种情绪：挑战乐趣、轻松乐趣、改变状态和人际因素。
 
 My personal breakdown would look a lot like Lazzaro's:
 
