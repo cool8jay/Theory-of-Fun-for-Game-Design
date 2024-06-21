@@ -293,6 +293,38 @@ A lot of these feel good, but they aren't necessarily "fun."
 > 
 > 让我离开这里！
 
+Aesthetic appreciation is the most interesting form of enjoyment to me. Science fiction writers call it "[sensawunda](#user-content-fn-39)[^39]." It's awe, it's mystery, it's harmony. I call it delight. Aesthetic appreciation, like fun, is about patterns. The difference is that aesthetics is about recognizing patterns, not learning new ones.
+
+对我来说，审美欣赏是最有趣的享受形式。科幻小说家称之为“[惊奇感](#user-content-fn-40)[^40]”，是敬畏，是神秘，是和谐。我称之为愉悦。审美欣赏和乐趣一样，都是关于模式的。所不同的是，审美是识别模式，而不是学习新的模式。
+
+Delight strikes when we recognize patterns but are surprised by them. It's the moment at the end of Planet of the Apes when we see the Statue of Liberty. It's the thrill at the end of the mystery novel when everything falls into place. It's looking at the Mona Lisa and seeing that smile hovering at the edge of known expressions, and matching it to our hypothesis of what she's thinking. It's seeing a beautiful landscape and thinking all is right in the world.
+
+当我们认识到模式，却又为它的超乎意料的出现感到惊讶时，愉悦就会悄然而至。就像在《人猿星球》的结尾看到自由女神像的那一瞬间。就像在悬疑小说结尾，一切真相大白时的激动。就像看着蒙娜丽莎，看到那她在已知表情边缘徘徊的微笑，并将其与我们对她所思所想的假设相吻合。就像看到美丽的风景，觉得世界一切都很美好。
+
+Why does a beautiful landscape make us feel that way? Because it meets our expectations and exceeds them. We find things beautiful when they are very close to our idealized image of what they should be, but with an additional surprising wrinkle. A perfectly closed-off plot, with just a couple of loose threads. A picture of a farmhouse, but the paint is peeling. Music that comes back to the tonic note and then drops a whole step further to end on an unresolved minor seventh. These send us chasing off after new patterns.
+
+为什么美丽的景观会让我们有这种感觉？因为它符合我们的期望，而且超出了我们的期望。当事物非常接近我们理想中的样子，但又多了一个令人惊讶的皱褶时，我们就会觉得它很美。一个完美封闭的情节，却只有几条松散的线索。一幅农舍图，但油漆已经剥落。音乐回到了主音，然后又下降了一大步，以一个悬而未决的小七度结束。这些都让我们去追寻新的模式。
+
+Beauty is found in the tension between our expectation and the reality. It is only found in settings of extreme order. Nature is full of extremely ordered things. The flowerbed bursting its boundaries is expressing the order of growth, the order of how living things stretch beyond their boundaries, even as it is in tension with the order of the well-manicured walkway.
+
+美在于我们的期望与现实之间的张力之中。它只存在于极端有序的环境中。大自然中充满了极度有序的事物。突破界限的花坛表达了生长的秩序，表达了生物如何超越自身界限的秩序，即使它与修剪整齐的人行道的秩序相冲突。
+
+Delight, unfortunately, doesn't last. It's like the smile from a beautiful stranger in a stairwell—it's fleeting. It cannot be otherwise—recognition is not an extended process.
+
+遗憾的是，喜悦不会持久。它就像楼梯间美丽陌生人的微笑——转瞬即逝。不可能有其他的情况——认识不是一个漫长的过程。
+
+You can regain delight by staying away from the object that caused it previously, then returning. You'll get that recognition again. But it's not quite what I would call fun. It's something else—our brains rewarding us for having learned well. It is the epilogue to the story. The story itself is the fun of learning.
+
+你可以通过远离之前引起愉悦的对象，然后再回来，重新获得愉悦。你会再次获得这种认可。但这并不是我所说的乐趣。它是另一种东西--我们的大脑在奖励我们学得好。这是故事的尾声。故事本身才是学习的乐趣所在。
+
+<div align="center">
+<img src="images/5.8.png">
+</div>
+
+> Last, people often take DELIGHT in things that are not challenges.
+> 
+> 最后，人们常常会对一些并非挑战的事情感到高兴。
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
@@ -368,3 +400,7 @@ A lot of these feel good, but they aren't necessarily "fun."
 [^37]: Maneuvering for social status: there is a branch of evolutionary biology called "signaling theory" which argues that many of the choices we make in our lives are unconsciously aimed at presenting our qualifications as mates and tribespeople to others. For example, a green thumb is indicative of diligence and responsible behavior; a large library of bound books, of erudition; a somewhat messy appearance and "outsider" hairstyle, of creativity. A layman's introduction to this in the context of consumer behavior can be found in Spent: Sex, Evolution, and Consumer Behavior (Penguin, 2009), by Dr. Geoffrey Miller.
 
 [^38]: 争取社会地位：进化生物学中有一个分支叫做“信号理论”，它认为我们在生活中做出的许多选择都是无意识的，目的是向他人展示我们作为配偶和部落成员的资格。例如，园艺技艺高超代表勤奋和负责任的行为；收藏大量精装书籍代表博学；略显凌乱的外表和“局外人”的发型代表创造力。关于消费者行为的通俗介绍，可参阅《消费：性、进化与消费者行为》（企鹅出版社，2009 年），作者杰弗里·米勒博士。
+
+[^39]: Sensawunda: A term from science fiction criticism. It means, of course, "sense of wonder."
+
+[^40]: Sensawunda：科幻小说评论中的一个术语。当然，它的意思是“惊奇感(sense of wonder)”。
