@@ -250,6 +250,37 @@ All of these things make us feel good when we're successful at them, but lumping
 > 
 > (高排名的职业玩家）
 
+Physical challenges alone aren't fun. The feeling of triumph when you break a personal record is. Physical challenges can be approached as a game, the game of your own body. [Endurance running](#user-content-fn-33)[^33] or lifting weights can be immensely satisfying, but the high you get from vigorous exercise is not the same high as when you win a well-fought game of soccer thanks to your teamwork.
+
+单纯的体能挑战并不有趣。打破个人记录时的胜利感才是。体能挑战可以当作一场游戏，一场自己身体的游戏。[耐力跑](#user-content-fn-34)[^34]或举重会让人感到无比满足，但剧烈运动带来的兴奋感，与团队合作赢得一场精彩的足球比赛时的兴奋感是不同的。
+
+Similarly, autonomic responses aren't fun in and of themselves. You have them developed already, so the brain only rewards you for doing them in the context of a mental challenge. You don't get a high from just typing, you get it from typing while pondering what to say, or from typing during a typing game.
+
+同样，自主神经反应本身并不有趣。你已经开发了这些反应，所以大脑只会在你进行心智挑战时才会奖励你。你不会从单纯的打字中获得快感，你会从一边打字一边思考说什么或者在打字游戏中打字中获得快感。
+
+Social interactions of all sorts are often enjoyable as well. The constant maneuvering for social status that all humans engage in is a cognitive exercise, and therefore essentially a game. There is a constellation of positive emotions surrounding interpersonal interactions. Almost all of them are signals of either pushing someone else down, or pushing yourself up, on the social ladder. Some of the most notable include:
+
+各种社会交往通常也会让人感到愉快。全人类都在不断地争取社会地位，这是一种认知活动，因此本质上也是一种游戏。围绕着人际交往有一系列积极的情绪。几乎所有这些情绪都是在社会阶梯上将别人推下或将自己推上的信号。其中最显著的包括：
+
+* [Schadenfreude](#user-content-fn-35)[^35], the gloating feeling you get when a rival fails at something. This is, in essence, a put down.\
+	[幸灾乐祸](#user-content-fn-36)[^36]，当对手在某件事情上失败时，你心中暗自得意的感觉。这本质上是一种贬低。
+
+* Fiero, the expression of triumph when you have achieved a significant task (pumping your fist, for example). This is a signal to others that you are valuable.\
+	骄傲，当你完成一项重要任务时的胜利表达（例如，挥舞拳头）。这是向他人发出的一个信号，表明你很有价值。
+
+* Naches, the feeling you get when someone you mentor succeeds. This is a clear feedback mechanism for tribal continuance.\
+	欣慰，当你指导的人成功时你的感觉。这是部落延续的一个明确反馈机制。
+
+* Kvell, the emotion you feel when bragging about someone you mentor. This is also a signal that you are valuable.\
+	夸耀：当你向别人夸耀你指导的人时产生的情绪。这也是一个表明你有价值的信号。
+
+* Social behaviors, such as signals of intimacy, often representing relative [social status](#user-content-fn-37)[^37]. One example is feeding other people, which is a very important social signal in human societies.\
+	社交行为，如亲密的信号，通常代表相对的[社会地位](#user-content-fn-38)[^38]。给别人喂食就是一个例子，这在人类社会中是一个非常重要的社会信号。
+
+A lot of these feel good, but they aren't necessarily "fun."
+
+这些行为很多都让人感觉良好，但并不一定“有趣”。
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
@@ -296,7 +327,7 @@ All of these things make us feel good when we're successful at them, but lumping
 
 [^23]: Players can create stories: to be precise, there are three terms that are often used interchangeably, but which can also mean very distinct things: plot, story, and narrative. A plot is a sequence of causal events created by an author: "and then they broke up because of his indiscretion." A narrative is a sequence of events from a perspective: "and then this happened." We can build a narrative out of any experience at all, and it is very common to build narratives out of gameplay, either after the game is over or even while it is still going on. A story is basically the narrative constructed out of interacting with a plot. In game design circles, we often speak of the author's story and the player's story, because these can end up diverging widely.
 
-[^24]: 玩家可以创作故事：确切地说，有三个术语经常被互换使用，但它们也可以有非常不同的含义：情节、故事和叙事。情节是作者创作的一连串因果事件： "然后他们因为他的轻率而分手了"。叙事是从一个角度出发的一系列事件："然后就发生了这样的事"。我们可以从任何经历中构建叙事，而从游戏中构建叙事是非常常见的，可以是在游戏结束后，甚至是在游戏仍在进行时。故事基本上就是在与情节互动的过程中构建的叙事。在游戏设计圈子里，我们经常谈论作者的故事和玩家的故事，因为这两者最终可能会大相径庭。
+[^24]: 玩家可以创作故事：确切地说，有三个术语经常被互换使用，但它们也可以有非常不同的含义：情节、故事和叙事。情节是作者创作的一连串因果事件："然后他们因为他的轻率而分手了"。叙事是从一个角度出发的一系列事件："然后就发生了这样的事"。我们可以从任何经历中构建叙事，而从游戏中构建叙事是非常常见的，可以是在游戏结束后，甚至是在游戏仍在进行时。故事基本上就是在与情节互动的过程中构建的叙事。在游戏设计圈子里，我们经常谈论作者的故事和玩家的故事，因为这两者最终可能会大相径庭。
 
 [^25]: Planetfall: Designed by Steve Mereztky, Planetfall was a very funny text adventure game published by Infocom in 1983.
 
@@ -306,10 +337,22 @@ All of these things make us feel good when we're successful at them, but lumping
 
 [^28]: Paul Ekman: A pioneering researcher on facial expressions and emotions. You can read a good introduction to his research in his book Emotions Revealed, published by Times Books in 2003.
 
-[^29]: Nicole Lazzaro: Lazzaro’s studies were done by her company XEODesign and were presented at the 2004 Game Developers Conference as well as several other conferences. You can read an overview of the research at www.xeodesign.com/whyweplaygames/.
+[^29]: Nicole Lazzaro: Lazzaro's studies were done by her company XEODesign and were presented at the 2004 Game Developers Conference as well as several other conferences. You can read an overview of the research at www.xeodesign.com/whyweplaygames/.
 
 [^30]: 马克·勒布朗：著名设计师，同时也是 MDA 框架的联合开发者，该框架是一套从机制、动态和美学角度评估游戏的系统。他的游戏设计著作见 http://algorithmancy.8kindsoffun.com/。
 
-[^31]: 保罗·埃克曼：研究面部表情和情绪的先驱。您可以在他 2003 年由时代图书出版的《情感揭示》一书中读到他的研究简介。
+[^31]: 保罗·埃克曼：研究面部表情和情绪的先驱。你可以在他 2003 年由时代图书出版的《情感揭示》一书中读到他的研究简介。
 
-[^32]: 妮可·拉扎罗：拉扎罗的研究由她的公司 XEODesign 完成，并在 2004 年游戏开发者大会以及其他一些会议上进行了展示。您可以在 www.xeodesign.com/whyweplaygames/ 上阅读研究概述。
+[^32]: 妮可·拉扎罗：拉扎罗的研究由她的公司 XEODesign 完成，并在 2004 年游戏开发者大会以及其他一些会议上进行了展示。你可以在 www.xeodesign.com/whyweplaygames/ 上阅读研究概述。
+
+[^33]: Runner's high and cognitive puzzles: I'm doing a disservice here to long-distance running, for the sake of the argument. I ran track briefly as a kid, and in fact there are a lot of tough cognitive puzzles to solve when running, such as managing your breathing, the strategy of when to sprint and when to jog, judging stride length and how you plant your feet, and so on. Cognitive puzzles lurk in all sorts of places. My main point, however, stands: putting one foot after another to exhaustion isn't fun.
+
+[^34]: 跑步者的高潮和认知难题：在这里，为了论证，我可能对长跑有所不公。我小时候短暂地跑过田径，实际上在跑步时需要解决很多棘手的认知难题，比如如何管理你的呼吸，何时冲刺何时慢跑的策略，判断步幅长度以及你的脚如何落地等等。认知难题潜藏在各种地方。然而，我的主要观点依然成立：连续不断地把一只脚放在另一只脚前面直到筋疲力尽，这并不有趣。
+
+[^35]: Schadenfreude, fiero, naches, kvell: I am indebted to Nicole Lazzaro for introducing me to many of these wonderful words. Naches and kvell come from Yiddish; fiero is an adaptation of an Italian word, and schadenfreude is from German. Lazzaro's use of these terms in her research on emotions players feel while playing games has led to their being adopted by the game design community.
+
+[^36]: Schadenfreude，fireo，naches，kvell：感谢妮可·拉扎罗向我介绍了这些美妙的词语。Naches 和 kvell 来自意第绪语；fireo 是意大利语的改编词，schadenfreude 来自德语。拉扎罗在研究玩家玩游戏时的情绪时使用了这些词语，因此它们被游戏设计界所采用。
+
+[^37]: Maneuvering for social status: there is a branch of evolutionary biology called "signaling theory" which argues that many of the choices we make in our lives are unconsciously aimed at presenting our qualifications as mates and tribespeople to others. For example, a green thumb is indicative of diligence and responsible behavior; a large library of bound books, of erudition; a somewhat messy appearance and "outsider" hairstyle, of creativity. A layman's introduction to this in the context of consumer behavior can be found in Spent: Sex, Evolution, and Consumer Behavior (Penguin, 2009), by Dr. Geoffrey Miller.
+
+[^38]: 争取社会地位：进化生物学中有一个分支叫做“信号理论”，它认为我们在生活中做出的许多选择都是无意识的，目的是向他人展示我们作为配偶和部落成员的资格。例如，园艺技艺高超代表勤奋和负责任的行为；收藏大量精装书籍代表博学；略显凌乱的外表和“局外人”的发型代表创造力。关于消费者行为的通俗介绍，可参阅《消费：性、进化与消费者行为》（企鹅出版社，2009 年），作者杰弗里·米勒博士。
