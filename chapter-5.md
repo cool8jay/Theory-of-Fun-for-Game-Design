@@ -483,6 +483,6 @@ So fun isn't flow. You can find flow in countless activities, but they aren't al
 
 [^46]: 心流：这是米哈里·西克森特米哈伊创造的一个术语，用来描述注意力高度集中并在某项任务中发挥最大效能的心境。流的感觉似乎与多巴胺的释放增加有关，多巴胺是一种神经递质，显然能提高额叶皮层的注意力。越来越多的证据表明，多巴胺本身并不是提供正反馈的化学物质。如需了解这一概念，请阅读《心流：最佳体验心理学》（Flow: The Psychology of Optimal Experience），该书于 1991 年由 Perennial 出版社出版。
 
-[^47]: Zone of proximal development: originally described Lev Vygotsky, and since expanded into a wide swath of educational theory. Also important here is the concept of “scaffolding,” the notion that learning builds on learning. The way in which Super Mario taught you the unfolding power of jumping is often cited as the perfect way to teach a game, and it also lines up very well with the ideal of scaffolding.
+[^47]: Zone of proximal development: originally described Lev Vygotsky, and since expanded into a wide swath of educational theory. Also important here is the concept of "scaffolding," the notion that learning builds on learning. The way in which Super Mario taught you the unfolding power of jumping is often cited as the perfect way to teach a game, and it also lines up very well with the ideal of scaffolding.
 
 [^48]: 最近发展区：最初由列夫·维果茨基描述，后被广泛应用于教育理论中。同样重要的是“脚手架”的概念，即学习建立在学习之上的概念。超级马里奥教你跳跃的展开能力的方式经常被认为是完美的游戏教学方式，它也非常符合脚手架的理想。
