@@ -349,6 +349,48 @@ I think there's a good case to be made that having fun is a key evolutionary adv
 
 我认为有充分的理由证明，玩乐是一种关键的进化优势，其重要性仅次于对生拇指。如果我们的大脑中没有那种让我们喜欢学习新事物的化学反应，我们可能会更像世界上的鲨鱼和蚂蚁。
 
+<div align="center">
+<img src="images/5.9.png">
+</div>
+
+> But delight tends to wear thin very quickly. Real fun comes from challenges that are always at the margin of our ability.
+> 
+> 但快乐往往很快就会被消磨殆尽。真正的乐趣来自我们能力范围内的挑战。
+
+So how does it feel? Well, the moment a lot of players like to cite is "being in the zone." If you get academic about it, you might reference Csikszentmihalyi's concept of "[flow](#user-content-fn-45)[^45]." This is the state you enter when you are experiencing absolute concentration on a task. When you're in absolute control, the challenges that come at you are met precisely by your skills.
+
+感觉如何？嗯，很多球员喜欢引用的时刻是“进入状态”。如果你对此有学术研究，你可能会参考西克森特米哈伊的“[心流](#user-content-fn-46)[^46]”概念。这是当你绝对专注于某项任务时所进入的状态。当你处于绝对控制状态时，你的技能就能准确地应对各种挑战。
+
+Flow doesn't happen very often, but when it does it feels pretty darn wonderful. The problem is that precisely matching challenges to capability is incredibly hard. For one thing, the brain is churning away, and might make a conceptual breakthrough at any moment, rendering the rest of the challenge trivial. For another, an automated system isn't likely to be able to assess the player's shifting skill very well.
+
+心流并不经常发生，但当它发生时，感觉非常美妙。问题在于，将挑战与能力精确匹配是一件非常困难的事情。首先，大脑在不断运转，随时可能在概念上有所突破，从而使挑战的其余部分变得微不足道。另外，自动系统也不可能很好地评估玩家的技能变化。
+
+As we succeed in mastering patterns thrown at us, the brain gives us little jolts of pleasure. But if the flow of new patterns slows, then we won't get the jolts, and we'll start to feel boredom. If the flow of new patterns increases beyond our ability to resolve them, we won't get the jolts either because we're not making progress.
+
+当我们成功掌握抛给我们的模式时，大脑会给我们带来小小的快感。但如果新图案的出现速度减慢，我们就不会获得这种快感，从而开始感到无聊。如果新模式的增加超出了我们的解决能力，我们也不会得到快感，因为我们没有取得进展。
+
+The absence of flow doesn't preclude fun—it just means that instead of a steady drip-drip-drip of endorphins, you're getting occasional bits. And in fact, there can be flow that isn't fun; meditation induces similar brain waves, for example. Instead, fun tends to hit when bumping up at the top edge of flow.
+
+没有心流并不意味着没有乐趣——它只是意味着，你得到的不是稳定的、滴滴答答的内啡肽，而是偶尔的一点。事实上，心流也可以是没有乐趣的；例如，冥想也会诱发类似的脑电波。相反，乐趣往往是在达到心流的顶峰时才会出现。
+
+A more fruitful reference might be the educational concept of the "[zone of proximal development](#user-content-fn-47)[^47]." This is the idea that a given learner has things he can do without help, things he just cannot do, and things he can do with some help. Fun tends to come in this last one, and the help is provided by the game system.
+
+“[最近发展区](#user-content-fn-48)[^48]”这一教育概念可能是一个更有意义的参考。这个概念认为，一个特定的学习者在没有帮助的情况下可以做一些事情，他只是不能做一些事情，以及他在一些帮助下可以做一些事情。趣味往往属于最后一种，而帮助则是由游戏系统提供的。
+
+一个更有成效的参考可能是教育概念中的“最近发展区”。这个观点认为，一个学习者有他无需帮助就能做的事情，有他根本无法做到的事情，以及有他借助些许帮助就能做到的事情。乐趣往往出现在这最后一种情况中，而帮助是由游戏系统提供的。
+
+So fun isn't flow. You can find flow in countless activities, but they aren't all fun. Most of the cases where we typically cite flow relate to exercising mastery, not learning.
+
+所以，乐趣并不是心流。你可以在无数活动中找到心流，但它们并不都是有趣的。我们通常提到心流的大多数情况都与锻炼掌握有关，而不是学习。
+
+<div align="center">
+<img src="images/5.10.png">
+</div>
+
+> When the balance is really perfect, people often zone out.
+> 
+> 当平衡真正达到完美时，人们常常会进入一种忘我状态。
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
@@ -436,3 +478,11 @@ I think there's a good case to be made that having fun is a key evolutionary adv
 [^43]: Bernard Suits and lusory attitude: The term comes from his book The Grasshopper: Games, Life, and Utopia (Broadview Press, 1978). In it, he defines a game this way: "To play a game is to attempt to achieve a specific state of affairs [prelusory goal], using only means permitted by rules [lusory means], where the rules prohibit use of more efficient means in favor of less efficient means [constitutive rules], and where the rules are accepted just because they make possible such activity [lusory attitude]."
 
 [^44]: 伯纳德·苏伊茨和游戏的态度：这个词来自他的《蚱蜢：游戏、生活和乌托邦》（Broadview Press，1978 年）一书中。在书中，他是这样定义游戏的：“玩游戏就是试图达到一种特定的状态[前游戏目标]，只使用规则允许的手段[游戏手段]，规则禁止使用效率较高的手段，而使用效率较低的手段[构成性规则]，规则被接受只是因为它们使这种活动成为可能[游戏态度]"。
+
+[^45]: Flow: A term coined by Mihaly Csikszentmihalyi to describe the frame of mind characterized by intense attention and maximum performance on a task. The sensation of flow appears to be linked to increased release of dopamine, which is a neurotransmitter that apparently increases attention ability in the frontal cortex. Evidence seems to be mounting that dopamine is not, in itself, the chemical that provides positive feedback. For an introduction to the concept, try Flow: The Psychology of Optimal Experience, published in 1991 by Perennial.
+
+[^46]: 心流：这是米哈里·西克森特米哈伊创造的一个术语，用来描述注意力高度集中并在某项任务中发挥最大效能的心境。流的感觉似乎与多巴胺的释放增加有关，多巴胺是一种神经递质，显然能提高额叶皮层的注意力。越来越多的证据表明，多巴胺本身并不是提供正反馈的化学物质。如需了解这一概念，请阅读《心流：最佳体验心理学》（Flow: The Psychology of Optimal Experience），该书于 1991 年由 Perennial 出版社出版。
+
+[^47]: Zone of proximal development: originally described Lev Vygotsky, and since expanded into a wide swath of educational theory. Also important here is the concept of “scaffolding,” the notion that learning builds on learning. The way in which Super Mario taught you the unfolding power of jumping is often cited as the perfect way to teach a game, and it also lines up very well with the ideal of scaffolding.
+
+[^48]: 最近发展区：最初由列夫·维果茨基描述，后被广泛应用于教育理论中。同样重要的是“脚手架”的概念，即学习建立在学习之上的概念。超级马里奥教你跳跃的展开能力的方式经常被认为是完美的游戏教学方式，它也非常符合脚手架的理想。
