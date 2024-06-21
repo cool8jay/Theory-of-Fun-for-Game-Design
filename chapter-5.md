@@ -180,6 +180,22 @@ Are stories superior? We often speak of wanting to make a game that makes player
 
 Games do better at emotions that relate to mastery. Stories can provide these too, however. Getting these sorts of emotional effects out of games may be the wrong approach—perhaps a better question is whether stories can be fun in the way games can.
 
+<div align="center">
+<img src="images/5.5.png">
+</div>
+
+> I BEAT THE LAST LEVEL OF ULYSSES LAST NIGHT. I HAD TO USE GOD MODE FOR THE END BOSS. MOLLY IS REALLY TOUGH!
+> 
+> 我昨晚打通了《尤利西斯》的最后一关。我不得不用上帝模式来对付最后的头目。莫莉真的很难缠！
+> 
+> YES! YES! YES!
+> 
+> 是的！是的！是的！
+> 
+> Stories are powerful teaching tool in their own right, but games are not stories.
+> 
+> 故事本身是强有力的教学工具，但游戏不是故事。
+
 游戏更擅长于表达与掌握技能相关的情感。故事当然也能提供这些情感。从游戏中获取这类情感效果可能是个错误的方法——也许更好的问题是，故事是否能像游戏一样有趣。
 
 When we speak of enjoyment, we actually mean a constellation of different feelings. Having a nice dinner out can be fun. Riding a roller coaster can be fun. Trying on new clothes can be fun. Winning at table tennis can be fun. Watching your hated high school rival trip and fall in a puddle of mud can be fun. Lumping all of these under "fun" is a rather horribly vague use of the term.
@@ -194,21 +210,45 @@ My personal breakdown would look a lot like Lazzaro's:
 
 我个人的分解看起来很像拉扎罗的分解：
 
-* Fun is the act of mastering a problem mentally.\
-    乐趣是在头脑中掌握问题的行为。
+* **Fun** is the act of mastering a problem mentally.\
+    **乐趣**是在头脑中解决问题的行为。
 
-* Aesthetic appreciation isn't always fun, but it's certainly enjoyable.\
-    审美欣赏并不总是有趣的，但肯定是令人愉快的。
+* **Aesthetic appreciation** isn't always fun, but it's certainly enjoyable.\
+    **审美欣赏**并不总是有趣的，但肯定是令人愉快的。
 
-* Visceral reactions are generally physical in nature and relate to physical mastery of a problem.\
-    内在反应一般是身体反应，与身体对问题的掌握有关。
+* **Visceral reactions** are generally physical in nature and relate to physical mastery of a problem.\
+    **内在反应**一般是身体反应，与身体对问题的掌握有关。
 
-* Social status signals of various sorts are intrinsic to our self-image and our standing in a community.\
-    各种社会地位信号与我们的自我形象和社会地位息息相关。
+* **Social status signals** of various sorts are intrinsic to our self-image and our standing in a community.\
+    各种**社会地位信号**与我们的自我形象和社会地位息息相关。
 
 All of these things make us feel good when we're successful at them, but lumping them all together as "fun" just renders the word meaningless. So throughout this book, when I have referred to "fun," I've meant only the first one: mentally mastering problems. Often, the problems mastered are aesthetic, physical, or social, so fun can appear in any of those settings. That's because all of these are feedback mechanisms the brain gives us for successfully exercising survival tactics.
 
-当我们在这些方面取得成功时，所有这些都会让我们感觉良好，但把它们统统归结为“乐趣”只会让这个词失去意义。因此，在本书中，当我提到 “乐趣”时，我指的只是第一种：在精神上掌握问题。通常情况下，掌握的问题是审美、体能或社交方面的，所以乐趣可以出现在任何一种情况下。这是因为所有这些都是大脑为我们成功实施生存策略而提供的反馈机制。
+当我们在这些方面取得成功时，所有这些都会让我们感觉良好，但把它们统统归结为“乐趣”只会让这个词失去意义。因此，在本书中，当我提到“乐趣”时，我指的只是第一种：在智力上解决问题。通常，要解决的问题是涉及到审美、体能或社交方面的，所以乐趣可以出现在这些情景中的任何一种当中。那是因为，所有这些都是大脑在我们成功运用生存策略时给予我们的反馈机制。
+
+<div align="center">
+<img src="images/5.6.png">
+</div>
+
+> Of course, learning patterns is not the only thing that is entertaining. Humans enjoy primate dominance games, for example. You could argue that jockeying for status is also a challenge, of course.
+> 
+> 当然，学习模式并不是唯一具有娱乐性的事情。例如，人类喜欢灵长类动物的统治游戏。你可以说，争夺地位当然也是一种挑战。
+> 
+> (unranked amateur gamer)
+> 
+> (无排名的业余玩家）
+> 
+> schadenfreude
+> 
+> 幸灾乐祸
+> 
+> HA HA!
+> 
+> 哈哈！
+> 
+> (top-ranked pro gamer)
+> 
+> (高排名的职业玩家）
 
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
