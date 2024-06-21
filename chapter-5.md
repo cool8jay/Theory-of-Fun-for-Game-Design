@@ -188,7 +188,7 @@ When we speak of enjoyment, we actually mean a constellation of different feelin
 
 Different people have classified this differently. Game designer Marc LeBlanc* has defined eight types of fun: sense-pleasure, make-believe, drama, obstacle, social framework, discovery, self-discovery and expression, and surrender. Paul Ekman, * a researcher on emotions and facial expressions, has identified literally dozens of different emotions—it’s interesting to see how many of them only exist in one language but not in others. Nicole Lazzaro did some studies watching people play games, and she arrived at four clusters of emotion represented by the facial expressions of the players: hard fun, easy fun, altered states, and the people factor.
 
-不同的人对此有不同的分类。游戏设计师马克·勒布朗定义了八种乐趣：感官愉悦、虚构、戏剧、障碍、社会框架、发现、自我发现和表达以及投降。保罗·艾克曼是一位研究情绪和面部表情的学者，他发现了几十种不同的情绪--其中有很多情绪只存在于一种语言中，而在其他语言中却不存在，这很有意思。妮可·拉扎罗对人们玩游戏时的表情进行了研究，得出了玩家面部表情所代表的四种情绪：“玩得很开心”、“玩得很轻松”、“状态改变”和“人的因素”。
+不同的人对此有不同的分类。游戏设计师马克·勒布朗定义了八种乐趣：感官愉悦、虚构、戏剧、障碍、社会框架、发现、自我发现和表达以及投降。保罗·艾克曼是一位研究情绪和面部表情的学者，他发现了几十种不同的情绪--其中有很多情绪只存在于一种语言中，而在其他语言中却不存在，这很有意思。妮可·拉扎罗对人们玩游戏时的表情进行了研究，得出了玩家面部表情所代表的四种情绪：挑战乐趣、轻松乐趣、改变状态和人际因素。
 
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
