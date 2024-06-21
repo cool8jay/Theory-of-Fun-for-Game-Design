@@ -93,7 +93,7 @@ But there's a very good reason why the gamers are incredulous.
 
 Remember, game systems train us to see underlying mathematical patterns. The fact that I can describe Deathrace as being a game about picking up objects on a two-dimensional playing field is evidence that its "dressing" is largely irrelevant to what the game is about at its core. As you get more into a game, you'll most likely cut to the chase and examine the true underpinnings of the game, just as a music aficionado can cut past the lyrical content of different types of Latin music and determine whether a given song is a [cumbia](#user-content-fn-15)[^15] or a [marinera](#user-content-fn-16)[^16] or a salsa.
 
-记住，游戏系统会训练我们看到潜在的数学模式。我可以把《亡命赛车》描述成一款关于在二维游戏场地上拾取物体的游戏，这就证明了它的“外衣”与游戏的核心内容基本无关。随着你对游戏的深入了解，你很可能会直奔主题，研究游戏的真正基础，就像一个音乐发烧友可以绕过不同类型拉丁音乐的抒情内容，确定某首歌曲是[康比亚舞曲](#user-content-fn-17)[^17]*、[马里内拉舞曲](#user-content-fn-18)[^18]还是萨尔萨舞曲一样。
+记住，游戏系统会训练我们看到潜在的数学模式。我可以把《亡命赛车》描述成一款关于在二维游戏场地上拾取物体的游戏，这就证明了它的“外衣”与游戏的核心内容基本无关。随着你对游戏的深入了解，你很可能会直奔主题，研究游戏的真正基础，就像一个音乐发烧友可以绕过不同类型拉丁音乐的抒情内容，确定某首歌曲是[康比亚舞曲](#user-content-fn-17)[^17]、[马里内拉舞曲](#user-content-fn-18)[^18]还是萨尔萨舞曲一样。
 
 Running over pedestrians, killing people, fighting terrorists, and eating dots while running from ghosts are all just stage settings, convenient metaphors for what a game is actually teaching. Deathrace does not teach you to run over pedestrians any more than Pac-Man teaches you to eat dots and be scared of ghosts.
 
@@ -325,6 +325,30 @@ You can regain delight by staying away from the object that caused it previously
 > 
 > 最后，人们常常会对一些并非挑战的事情感到高兴。
 
+Fun, as I define it, is the feedback the brain gives us when we are absorbing patterns for learning purposes. Consider the basketball team that says, "We went out there to have fun tonight," versus the one that says, "We went out there to win." The latter team is approaching the game as no longer being practice. Fun is primarily about practicing and learning, not about exercising mastery. In fact, the fun often starts before the action does; [anticipating a solution](#user-content-fn-41)[^41] can be as exciting as applying one. Exercising mastery will give us some other feeling, because we are doing it for a reason, such as status enhancement or survival.
+
+根据我的定义，“乐趣”是大脑在我们为了学习而吸收模式时给予我们的反馈。想想一支篮球队说："我们今晚上场是为了玩得开心"，而另一支篮球队说：“我们上场是为了赢球。”后一支球队对待比赛的态度不再是练习。乐趣主要在于练习和学习，而不是锻炼掌握技巧。事实上，乐趣往往在行动之前就已经开始了；[期待一个解决方案](#user-content-fn-42)[^42]和应用一个解决方案一样令人兴奋。锻炼掌握技巧会给我们带来其他感觉，因为我们这样做是有原因的，比如提高地位或生存。
+
+The lesson here is that fun is contextual. The reasons why we are engaging in an activity matter a lot. Bernard Suits called this "approaching things with a [lusory attitude](#user-content-fn-43)[^43]," which in part means putting the activity into that "magic circle" of lack of consequence. School is not usually all that fun because we take it seriously—it's not practice, it's for real, and your grades, social standing, and clothing determine whether you are in the in-crowd, or whether you sit at the table close to the cafeteria kitchen.
+
+这里的教训是，乐趣是有背景的。我们从事一项活动的原因非常重要。伯纳德·苏伊茨将此称为“以一种[游戏的态度](#user-content-fn-44)[^44]对待事物”，这在一定程度上意味着将活动置于没有后果的“魔法圈”中。学校通常并不那么有趣，因为我们认真对待它——它不是练习，而是真实的，你的成绩、社会地位和衣着决定了你是圈内人，还是坐在靠近食堂厨房的桌子旁。
+
+It's very telling that when we lose a competition, we often say, "Well, I was just doing it for fun." The implication is that we are shrugging off the loss of social status inherent in a loss. Since it was merely a form of practice, perhaps we didn't put forth our best effort.
+
+很能说明问题的是，当我们输掉比赛时，我们经常会说：“好吧，我只是为了好玩。”言下之意，我们是在推卸输掉比赛所带来的社会地位的损失。因为这只是一种练习，也许我们并没有尽全力。
+
+We get positive feedback for climbing the social ladder. We're just tribal monkeys throwing feces at each other in order to own the top of the tree. But notice some of the subtleties there: climbing it while helping others (naches and kvell). Climbing it while pushing the boundaries of our knowledge (fun). Climbing it while strengthening our social networks, building communities and families that work together to improve everyone's lot (grooming, pairing, and feeding others).
+
+我们在社会阶梯上攀爬，得到的是积极的反馈。我们只是部落里的猴子，为了占据树顶而互相泼粪。但请注意其中的一些微妙之处：在帮助他人的同时攀登（欣慰和夸耀）。在挑战知识极限的同时攀登（乐趣）。一边攀爬，一边加强我们的社交网络，建立社区和家庭，共同改善每个人的命运（梳理、配对和喂养他人）。
+
+As monkeys go, that's pretty darn good. In the general run of animals, it's amazing. It's a lot better than being a shark that only gets feedback for eating.
+
+就猴子而言，这已经很不错了。在一般动物中，这已经很了不起了。这比鲨鱼只在吃东西时得到反馈要好得多。
+
+I think there's a good case to be made that having fun is a key evolutionary advantage right next to opposable thumbs in terms of importance. Without that little chemical twist in our brains that makes us enjoy learning new things, we might be more like the sharks and ants of the world.
+
+我认为有充分的理由证明，玩乐是一种关键的进化优势，其重要性仅次于对生拇指。如果我们的大脑中没有那种让我们喜欢学习新事物的化学反应，我们可能会更像世界上的鲨鱼和蚂蚁。
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
@@ -404,3 +428,11 @@ You can regain delight by staying away from the object that caused it previously
 [^39]: Sensawunda: A term from science fiction criticism. It means, of course, "sense of wonder."
 
 [^40]: Sensawunda：科幻小说评论中的一个术语。当然，它的意思是“惊奇感(sense of wonder)”。
+
+[^41]: Anticipating a solution: Dopamine, the neurotransmitter most often implicated in the feeling of "fun," has been shown to release in anticipation of successful outcomes. It also is associated with focus and learning. The work of Irving Biederman and Edward Vessel shows that "richly interpretable" experiences (to use their term) are rewarding in and of themselves, which of course suggests the sort of learning I am talking about in this book. That said, it is dangerous to try to draw too many conclusions from the neuroscience given the current knowledge; much is controversial.
+
+[^42]: 期待解决方案：多巴胺是最常与“有趣”的感觉有关的神经递质，已被证明在预期成功结果时会释放多巴胺。多巴胺还与注意力集中和学习有关。欧文·比德曼和爱德华·维塞尔的研究表明，“丰富的可解释的”体验（用他们的话说）本身就是一种奖赏，这当然也暗示了我在本书中所说的那种学习。尽管如此，鉴于目前的知识水平，试图从神经科学中得出太多结论是危险的，因为很多结论都是有争议的。
+
+[^43]: Bernard Suits and lusory attitude: The term comes from his book The Grasshopper: Games, Life, and Utopia (Broadview Press, 1978). In it, he defines a game this way: "To play a game is to attempt to achieve a specific state of affairs [prelusory goal], using only means permitted by rules [lusory means], where the rules prohibit use of more efficient means in favor of less efficient means [constitutive rules], and where the rules are accepted just because they make possible such activity [lusory attitude]."
+
+[^44]: 伯纳德·苏伊茨和游戏的态度：这个词来自他的《蚱蜢：游戏、生活和乌托邦》（Broadview Press，1978 年）一书中。在书中，他是这样定义游戏的：“玩游戏就是试图达到一种特定的状态[前游戏目标]，只使用规则允许的手段[游戏手段]，规则禁止使用效率较高的手段，而使用效率较低的手段[构成性规则]，规则被接受只是因为它们使这种活动成为可能[游戏态度]"。
