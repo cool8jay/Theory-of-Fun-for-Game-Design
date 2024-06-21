@@ -355,7 +355,7 @@ I think there's a good case to be made that having fun is a key evolutionary adv
 
 > But delight tends to wear thin very quickly. Real fun comes from challenges that are always at the margin of our ability.
 > 
-> 但快乐往往很快就会被消磨殆尽。真正的乐趣来自我们能力范围内的挑战。
+> 但快乐往往很快就会被消磨殆尽。真正的乐趣总是来自于我们能力边缘的挑战。
 
 So how does it feel? Well, the moment a lot of players like to cite is "being in the zone." If you get academic about it, you might reference Csikszentmihalyi's concept of "[flow](#user-content-fn-45)[^45]." This is the state you enter when you are experiencing absolute concentration on a task. When you're in absolute control, the challenges that come at you are met precisely by your skills.
 
