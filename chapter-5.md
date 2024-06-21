@@ -281,6 +281,18 @@ A lot of these feel good, but they aren't necessarily "fun."
 
 这些行为很多都让人感觉良好，但并不一定“有趣”。
 
+<div align="center">
+<img src="images/5.7.png">
+</div>
+
+> We also enjoy visceral experiences of various sorts--these are often challenges to ourselves.
+> 
+> 我们还喜欢各种内在体验——这些体验往往是对自己的挑战。
+> 
+> get me offa here!
+> 
+> 让我离开这里！
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
