@@ -186,9 +186,29 @@ When we speak of enjoyment, we actually mean a constellation of different feelin
 
 当我们谈论享受时，我们实际上指的是一系列不同的感受。在外面吃一顿丰盛的晚餐可以是一种享受。坐过山车可以是一种乐趣。试穿新衣服可以是一种乐趣。赢乒乓球可以是一种乐趣。看着高中时讨厌的对手绊倒在泥潭里也是一种乐趣。把所有这些都归结为“乐趣”，这个词的用法模糊得令人发指。
 
-Different people have classified this differently. Game designer Marc LeBlanc* has defined eight types of fun: sense-pleasure, make-believe, drama, obstacle, social framework, discovery, self-discovery and expression, and surrender. Paul Ekman, * a researcher on emotions and facial expressions, has identified literally dozens of different emotions—it’s interesting to see how many of them only exist in one language but not in others. Nicole Lazzaro did some studies watching people play games, and she arrived at four clusters of emotion represented by the facial expressions of the players: hard fun, easy fun, altered states, and the people factor.
+Different people have classified this differently. Game designer Marc LeBlanc* has defined eight types of fun: sense-pleasure, make-believe, drama, obstacle, social framework, discovery, self-discovery and expression, and surrender. Paul Ekman, * a researcher on emotions and facial expressions, has identified literally dozens of different emotions—it's interesting to see how many of them only exist in one language but not in others. Nicole Lazzaro did some studies watching people play games, and she arrived at four clusters of emotion represented by the facial expressions of the players: hard fun, easy fun, altered states, and the people factor.
 
 不同的人对此有不同的分类。游戏设计师马克·勒布朗定义了八种乐趣：感官愉悦、虚构、戏剧、障碍、社会框架、发现、自我发现和表达以及投降。保罗·艾克曼是一位研究情绪和面部表情的学者，他发现了几十种不同的情绪--其中有很多情绪只存在于一种语言中，而在其他语言中却不存在，这很有意思。妮可·拉扎罗对人们玩游戏时的表情进行了研究，得出了玩家面部表情所代表的四种情绪：挑战乐趣、轻松乐趣、改变状态和人际因素。
+
+My personal breakdown would look a lot like Lazzaro's:
+
+我个人的分解看起来很像拉扎罗的分解：
+
+* Fun is the act of mastering a problem mentally.\
+    乐趣是在头脑中掌握问题的行为。
+
+* Aesthetic appreciation isn't always fun, but it's certainly enjoyable.\
+    审美欣赏并不总是有趣的，但肯定是令人愉快的。
+
+* Visceral reactions are generally physical in nature and relate to physical mastery of a problem.\
+    内在反应一般是身体反应，与身体对问题的掌握有关。
+
+* Social status signals of various sorts are intrinsic to our self-image and our standing in a community.\
+    各种社会地位信号与我们的自我形象和社会地位息息相关。
+
+All of these things make us feel good when we're successful at them, but lumping them all together as "fun" just renders the word meaningless. So throughout this book, when I have referred to "fun," I've meant only the first one: mentally mastering problems. Often, the problems mastered are aesthetic, physical, or social, so fun can appear in any of those settings. That's because all of these are feedback mechanisms the brain gives us for successfully exercising survival tactics.
+
+当我们在这些方面取得成功时，所有这些都会让我们感觉良好，但把它们统统归结为“乐趣”只会让这个词失去意义。因此，在本书中，当我提到 “乐趣”时，我指的只是第一种：在精神上掌握问题。通常情况下，掌握的问题是审美、体能或社交方面的，所以乐趣可以出现在任何一种情况下。这是因为所有这些都是大脑为我们成功实施生存策略而提供的反馈机制。
 
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
@@ -241,3 +261,15 @@ Different people have classified this differently. Game designer Marc LeBlanc* h
 [^25]: Planetfall: Designed by Steve Mereztky, Planetfall was a very funny text adventure game published by Infocom in 1983.
 
 [^26]: 《行星陨落》：由史蒂夫·梅雷兹基设计的《行星陨落》是一款非常有趣的文字冒险游戏，于 1983 年由 Infocom 出版发行。
+
+[^27]: Marc LeBlanc: A noted designer, LeBlanc is also the co-developer of the MDA framework, a system for assessing games in terms of mechanics, dynamics, and aesthetics. His game design writings can be found at http://algorithmancy.8kindsoffun.com/.
+
+[^28]: Paul Ekman: A pioneering researcher on facial expressions and emotions. You can read a good introduction to his research in his book Emotions Revealed, published by Times Books in 2003.
+
+[^29]: Nicole Lazzaro: Lazzaro’s studies were done by her company XEODesign and were presented at the 2004 Game Developers Conference as well as several other conferences. You can read an overview of the research at www.xeodesign.com/whyweplaygames/.
+
+[^30]: 马克·勒布朗：著名设计师，同时也是 MDA 框架的联合开发者，该框架是一套从机制、动态和美学角度评估游戏的系统。他的游戏设计著作见 http://algorithmancy.8kindsoffun.com/。
+
+[^31]: 保罗·埃克曼：研究面部表情和情绪的先驱。您可以在他 2003 年由时代图书出版的《情感揭示》一书中读到他的研究简介。
+
+[^32]: 妮可·拉扎罗：拉扎罗的研究由她的公司 XEODesign 完成，并在 2004 年游戏开发者大会以及其他一些会议上进行了展示。您可以在 www.xeodesign.com/whyweplaygames/ 上阅读研究概述。
