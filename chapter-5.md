@@ -147,6 +147,49 @@ The stories in many video games serve the same purpose as calling the über-chec
 > 
 > 当然，这又是一款第一人称射击游戏，但有了电影授权，我相信它会大受欢迎......
 
+Games are not stories (though players can create stories from them). * It is interesting to make the comparison, though:
+
+游戏不是故事（尽管玩家可以从中创造故事）。* 不过，做这样的比较还是很有意思的：
+
+* Games tend to be experiential teaching. Stories teach vicariously.\
+    游戏倾向于体验式教学。故事则是替代性教学。
+    
+* Games are good at objectification. Stories are good at empathy.\
+    游戏擅长物化。故事善于移情。
+
+* Games tend to quantize, reduce, and classify. Stories tend to blur, deepen,and make subtle distinctions.\
+    游戏倾向于量化、缩小和分类。故事则倾向于模糊、深化和细微区分。
+
+* Games are external—they are about people's actions. Stories (good ones,anyway) are internal—they are about people's emotions and thoughts.\
+    游戏是外在的，是关于人的行为的。故事（至少好故事是这样）是内在的——它们关乎人们的情感和思想。
+
+* Games are generators of player narratives. Stories provide a narrative.\
+    游戏是玩家叙事的生成器。故事则提供了一种叙事方式。
+
+In both cases, when stories and games are good, you can come back to them repeatedly and keep learning something new. But we never speak of fully mastering a good story.
+
+在这两种情况下，如果故事和游戏都不错，你就可以反复回味，不断学到新东西。但我们从来没有说过要完全掌握一个好故事。
+
+I don't think anyone would quarrel with the notion that stories are one of humanity's chief teaching tools. One might quarrel with the notion that play is the other and that mere lecturing runs a distant third. I also don't think that many would quarrel with the notion that stories have achieved far greater artistic heights than games have, despite the fact that play probably predates story (after all, even animals play, whereas stories require some form of language).
+
+我想没有人会反对故事是人类主要教学工具之一的观点。有人可能会争论说，游戏是另一种工具，而单纯的说教只能排在第三位。我也不认为有多少人会反对故事的艺术成就远远高于游戏的观点，尽管事实上游戏可能早于故事（毕竟，连动物都会玩，而故事则需要某种形式的语言）。
+
+Are stories superior? We often speak of wanting to make a game that makes players cry. The classic example is the text adventure game Planetfall, * where Floyd the robot sacrifices himself for you. But it happens outside of player control, so it isn't a challenge to overcome. It's grafted on, not part of the game. What does it say about games that the peak emotional moment usually cited actually involves cheating, rather than using game systems?
+
+故事优越吗？我们经常说要做一款让玩家流泪的游戏。最经典的例子就是文字冒险游戏《行星陨落》，机器人弗洛伊德为你牺牲了自己。但这是在玩家控制之外发生的，所以并不是一个需要克服的挑战。它是嫁接上去的，不是游戏的一部分。游戏中最激动人心的时刻通常涉及作弊，而不是利用游戏系统，这说明了什么？
+
+Games do better at emotions that relate to mastery. Stories can provide these too, however. Getting these sorts of emotional effects out of games may be the wrong approach—perhaps a better question is whether stories can be fun in the way games can.
+
+游戏更擅长于表达与掌握技能相关的情感。故事当然也能提供这些情感。从游戏中获取这类情感效果可能是个错误的方法——也许更好的问题是，故事是否能像游戏一样有趣。
+
+When we speak of enjoyment, we actually mean a constellation of different feelings. Having a nice dinner out can be fun. Riding a roller coaster can be fun. Trying on new clothes can be fun. Winning at table tennis can be fun. Watching your hated high school rival trip and fall in a puddle of mud can be fun. Lumping all of these under "fun" is a rather horribly vague use of the term.
+
+当我们谈论享受时，我们实际上指的是一系列不同的感受。在外面吃一顿丰盛的晚餐可以是一种享受。坐过山车可以是一种乐趣。试穿新衣服可以是一种乐趣。赢乒乓球可以是一种乐趣。看着高中时讨厌的对手绊倒在泥潭里也是一种乐趣。把所有这些都归结为“乐趣”，这个词的用法模糊得令人发指。
+
+Different people have classified this differently. Game designer Marc LeBlanc* has defined eight types of fun: sense-pleasure, make-believe, drama, obstacle, social framework, discovery, self-discovery and expression, and surrender. Paul Ekman, * a researcher on emotions and facial expressions, has identified literally dozens of different emotions—it’s interesting to see how many of them only exist in one language but not in others. Nicole Lazzaro did some studies watching people play games, and she arrived at four clusters of emotion represented by the facial expressions of the players: hard fun, easy fun, altered states, and the people factor.
+
+不同的人对此有不同的分类。游戏设计师马克·勒布朗定义了八种乐趣：感官愉悦、虚构、戏剧、障碍、社会框架、发现、自我发现和表达以及投降。保罗·艾克曼是一位研究情绪和面部表情的学者，他发现了几十种不同的情绪--其中有很多情绪只存在于一种语言中，而在其他语言中却不存在，这很有意思。妮可·拉扎罗对人们玩游戏时的表情进行了研究，得出了玩家面部表情所代表的四种情绪：“玩得很开心”、“玩得很轻松”、“状态改变”和“人的因素”。
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
@@ -175,7 +218,7 @@ The stories in many video games serve the same purpose as calling the über-chec
 
 [^14]: 杀人模拟器：戴夫·格罗斯曼中校是媒体和电子游戏导致暴力行为这一观点最直率的倡导者，他是《停止教孩子杀人》一书的作者：该书由 Crown Books 于 1999 年出版。“谋杀模拟器”一词就是他提出的。
 
-[^15]: Cumbia: A Colombian folk dance style in 4/4 with a distinctive “heartbeat” rhythm. It has become popular worldwide and is one of the commonest Latin music rhythms heard.
+[^15]: Cumbia: A Colombian folk dance style in 4/4 with a distinctive "heartbeat" rhythm. It has become popular worldwide and is one of the commonest Latin music rhythms heard.
 
 [^16]: Marinera: A Peruvian folk dance with a distinctive rat-a-tat beat. It is a highly dramatized courtship dance.
 
@@ -187,7 +230,14 @@ The stories in many video games serve the same purpose as calling the über-chec
 
 [^20]: 把故事放在首位的游戏：一些最好的例子来自交互式小说类型，如艾米丽·肖特的《Galatea》，或亚当·卡德雷的《Photopica》。
 
-[^21]: Story written by an actual writer: Two good books on the subject are Lee Sheldon’s Character Development and Storytelling for Games (Cengage, 2004) and David Freeman’s Creating Emotions in Games (New Riders, 2003). We are also seeing, as of this writing in 2013, a rise in storytelling games where narrative elements are actually treated as tokens within a game system. These games include many of the latest developments in the game genre termed “interactive fiction,” as well as games such as Sleep is Death by Jason Rohrer or Daniel Benmergui’s Storyteller.
+[^21]: Story written by an actual writer: Two good books on the subject are Lee Sheldon's Character Development and Storytelling for Games (Cengage, 2004) and David Freeman's Creating Emotions in Games (New Riders, 2003). We are also seeing, as of this writing in 2013, a rise in storytelling games where narrative elements are actually treated as tokens within a game system. These games include many of the latest developments in the game genre termed "interactive fiction," as well as games such as Sleep is Death by Jason Rohrer or Daniel Benmergui's Storyteller.
 
 [^22]: 由真正的作家撰写的故事：这方面有两本好书，一本是李·谢尔顿的《游戏角色开发与故事讲述》（Cengage，2004 年），另一本是大卫·弗里曼的《在游戏中创造情感》（New Riders，2003 年）。截至 2013 年撰写本文时，我们还看到了讲故事游戏的兴起，在这些游戏中，叙事元素实际上被视为游戏系统中的代币。这些游戏包括许多被称为“互动小说”的游戏类型的最新发展，以及杰森·罗勒的《睡眠即死亡》或丹尼尔·本默吉的《讲故事的人》等游戏。
 
+[^23]: Players can create stories: to be precise, there are three terms that are often used interchangeably, but which can also mean very distinct things: plot, story, and narrative. A plot is a sequence of causal events created by an author: "and then they broke up because of his indiscretion." A narrative is a sequence of events from a perspective: "and then this happened." We can build a narrative out of any experience at all, and it is very common to build narratives out of gameplay, either after the game is over or even while it is still going on. A story is basically the narrative constructed out of interacting with a plot. In game design circles, we often speak of the author's story and the player's story, because these can end up diverging widely.
+
+[^24]: 玩家可以创作故事：确切地说，有三个术语经常被互换使用，但它们也可以有非常不同的含义：情节、故事和叙事。情节是作者创作的一连串因果事件： "然后他们因为他的轻率而分手了"。叙事是从一个角度出发的一系列事件："然后就发生了这样的事"。我们可以从任何经历中构建叙事，而从游戏中构建叙事是非常常见的，可以是在游戏结束后，甚至是在游戏仍在进行时。故事基本上就是在与情节互动的过程中构建的叙事。在游戏设计圈子里，我们经常谈论作者的故事和玩家的故事，因为这两者最终可能会大相径庭。
+
+[^25]: Planetfall: Designed by Steve Mereztky, Planetfall was a very funny text adventure game published by Infocom in 1983.
+
+[^26]: 《行星陨落》：由史蒂夫·梅雷兹基设计的《行星陨落》是一款非常有趣的文字冒险游戏，于 1983 年由 Infocom 出版发行。
