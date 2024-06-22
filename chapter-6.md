@@ -1,0 +1,3 @@
+We all know that people learn at different rates and in different ways. Some of these differences manifest at a very early age. Some people visualize things when they think of them; others are more verbal. Some people employ logic readily; others rely on leaps of intuition. We still wrestle with how to apply this knowledge to education. We're all familiar with the bell curve distribution of IQ, and we're also familiar with the fact that IQ tests do not measure all forms of intelligence. Howard Gardner said there were in fact seven forms:
+
+我们都知道，人们的学习速度和方式各不相同。有些差异在很小的时候就表现出来了。有些人在思考问题时会将其形象化；有些人则更善于口头表达。有些人善于运用逻辑思维，有些人则依靠跳跃式的直觉。我们仍在苦苦思索如何将这些知识应用到教育中。我们都很熟悉智商的钟形曲线分布，我们也很熟悉智商测试并不能衡量所有形式的智力这一事实。霍华德·加德纳说，实际上有七种形式：
