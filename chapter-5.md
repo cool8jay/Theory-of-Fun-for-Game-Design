@@ -415,6 +415,26 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 总结一下前面的内容：游戏不是故事。游戏与美或快乐无关。游戏不是为了争夺社会地位。游戏本身就具有令人难以置信的价值。乐趣在于在没有后果压力的环境中学习，这也是游戏重要的原因。
 
+<div align="center">
+<img src="images/5.11.png">
+</div>
+
+> PRACTICE
+> 
+> 实践
+> 
+> STROYTELLING
+> 
+> 讲故事
+> 
+> COMFORT
+> 
+> 舒适
+> 
+> MEDITATION
+> 
+> 冥想
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
