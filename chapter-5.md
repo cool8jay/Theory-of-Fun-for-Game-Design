@@ -391,6 +391,30 @@ So fun isn't flow. You can find flow in countless activities, but they aren't al
 > 
 > 当平衡真正达到完美时，人们常常会进入一种忘我状态。
 
+Fun isn't the only reason to play a game with a system, of course:
+
+当然，乐趣并不是玩系统游戏的唯一原因：
+
+* **Practice.** Practice is a very common thing to do with games. Studies have shown that mastering a field can take many hours of what is termed "[deliberate practice](#user-content-fn-49)[^49]," where the person practicing drills herself on challenging tasks, over and over. It is very hard work. In some sense games are "deliberate practice machines" that make this work easier.\
+    **练习。** 在游戏中，练习是一件非常常见的事情。研究表明，掌握一个领域需要很多小时的所谓“[刻意练习](#user-content-fn-50)[^50]”，即练习者一遍又一遍地练习自己完成具有挑战性的任务。这是一项非常艰苦的工作。从某种意义上说，游戏就是“刻意练习的机器”，让这项工作变得更轻松。
+
+* **Meditation.** Although meditation is poorly studied in the sciences, there are common elements that recur in various practices around the world: using a focus object of some sort, such as a mantra or breathing pattern, and engaging in repetitive behavior. Many games work well for this.\
+    **冥想。** 虽然科学界对冥想的研究不多，但世界各地的各种冥想练习都有一些共同的元素：使用某种专注对象，如咒语或呼吸模式，并进行重复行为。许多游戏在这方面都很有效。
+
+* **Storytelling.** Some games come with stories, and of course, a player can always construct a narrative of events after the fact. A given player might very well be more interested in these stories than in the game systems which accompany them. We can debate whether this is "gamelike" or not in some dry and technical sense, but why bother?\
+    **讲故事。** 有些游戏会附带故事，当然，玩家也可以在事后对事件进行叙述。玩家对这些故事的兴趣很可能超过对游戏系统的兴趣。我们可以从枯燥和技术性意义上争论这是否算是“游戏化”，但何必呢？
+
+* **Comfort.** The act of playing in a space which is fully understood, where one can exercise mastery with little risk, can provide a welcome break from a challenging life. Games offer this type of escape, much as a familiar well-loved book or film does when experienced over and over.\
+    **舒适。** 在一个完全被理解的空间里玩游戏，在几乎没有风险的情况下掌握技巧，可以让人从充满挑战的生活中解脱出来。游戏提供了这种逃避的方式，就像一本耳熟能详、深受喜爱的书籍或电影一样，让人反复体验。
+
+There is nothing wrong with using a game or a game system for these purposes! But many other things would also serve. So these qualities do not speak to what makes games unique and special.
+
+将游戏或游戏系统用于这些目的无可厚非！但是，许多其他事物也能起到同样的作用。因此，这些特质并不能说明游戏的独特和特别之处。
+
+To recap the preceding pages: Games aren't stories. Games aren't about beauty or delight. Games aren't about jockeying for social status. They stand, in their own right, as something incredibly valuable. Fun is about learning in a context where there is no pressure from consequence, and that is why games matter.
+
+总结一下前面的内容：游戏不是故事。游戏与美或快乐无关。游戏不是为了争夺社会地位。游戏本身就具有令人难以置信的价值。乐趣在于在没有后果压力的环境中学习，这也是游戏重要的原因。
+
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
 [^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
@@ -431,9 +455,9 @@ So fun isn't flow. You can find flow in countless activities, but they aren't al
 
 [^20]: 把故事放在首位的游戏：一些最好的例子来自交互式小说类型，如艾米丽·肖特的《Galatea》，或亚当·卡德雷的《Photopica》。
 
-[^21]: Story written by an actual writer: Two good books on the subject are Lee Sheldon's Character Development and Storytelling for Games (Cengage, 2004) and David Freeman's Creating Emotions in Games (New Riders, 2003). We are also seeing, as of this writing in 2013, a rise in storytelling games where narrative elements are actually treated as tokens within a game system. These games include many of the latest developments in the game genre termed "interactive fiction," as well as games such as Sleep is Death by Jason Rohrer or Daniel Benmergui's Storyteller.
+[^21]: Story written by an actual writer: Two good books on the subject are Lee Sheldon's [Character Development and Storytelling for Games](https://www.amazon.com/dp/1592003532) (Cengage, 2004) and David Freeman's [Creating Emotion in Games](https://www.amazon.com/dp/1592730078) (New Riders, 2003). We are also seeing, as of this writing in 2013, a rise in storytelling games where narrative elements are actually treated as tokens within a game system. These games include many of the latest developments in the game genre termed "interactive fiction," as well as games such as [Sleep is Death](https://libregamewiki.org/Sleep_Is_Death) by Jason Rohrer or Daniel Benmergui's [Storyteller](https://en.wikipedia.org/wiki/Storyteller_(video_game)).
 
-[^22]: 由真正的作家撰写的故事：这方面有两本好书，一本是李·谢尔顿的《游戏角色开发与故事讲述》（Cengage，2004 年），另一本是大卫·弗里曼的《在游戏中创造情感》（New Riders，2003 年）。截至 2013 年撰写本文时，我们还看到了讲故事游戏的兴起，在这些游戏中，叙事元素实际上被视为游戏系统中的代币。这些游戏包括许多被称为“互动小说”的游戏类型的最新发展，以及杰森·罗勒的《睡眠即死亡》或丹尼尔·本默吉的《讲故事的人》等游戏。
+[^22]: 由真正的作家撰写的故事：这方面有两本好书，一本是李·谢尔顿的[《游戏角色开发与故事讲述》](https://www.amazon.com/dp/1592003532)（Cengage，2004 年），另一本是大卫·弗里曼的[《在游戏中创造情感》](https://www.amazon.com/dp/1592730078)（New Riders，2003 年）。截至 2013 年撰写本文时，我们还看到了讲故事游戏的兴起，在这些游戏中，叙事元素实际上被视为游戏系统中的代币。这些游戏包括许多被称为“互动小说”的游戏类型的最新发展，以及杰森·罗勒的[《睡眠即死亡》](https://libregamewiki.org/Sleep_Is_Death)或丹尼尔·本默吉的[《讲故事的人》](https://en.wikipedia.org/wiki/Storyteller_(video_game))等游戏。
 
 [^23]: Players can create stories: to be precise, there are three terms that are often used interchangeably, but which can also mean very distinct things: plot, story, and narrative. A plot is a sequence of causal events created by an author: "and then they broke up because of his indiscretion." A narrative is a sequence of events from a perspective: "and then this happened." We can build a narrative out of any experience at all, and it is very common to build narratives out of gameplay, either after the game is over or even while it is still going on. A story is basically the narrative constructed out of interacting with a plot. In game design circles, we often speak of the author's story and the player's story, because these can end up diverging widely.
 
@@ -443,13 +467,13 @@ So fun isn't flow. You can find flow in countless activities, but they aren't al
 
 [^26]: 《行星陨落》：由史蒂夫·梅雷兹基设计的《行星陨落》是一款非常有趣的文字冒险游戏，于 1983 年由 Infocom 出版发行。
 
-[^27]: Marc LeBlanc: A noted designer, LeBlanc is also the co-developer of the MDA framework, a system for assessing games in terms of mechanics, dynamics, and aesthetics. His game design writings can be found at http://algorithmancy.8kindsoffun.com/.
+[^27]: Marc LeBlanc: A noted designer, LeBlanc is also the co-developer of the MDA framework, a system for assessing games in terms of mechanics, dynamics, and aesthetics. His game design writings can be found at http://www.8kindsoffun.com/.
 
 [^28]: Paul Ekman: A pioneering researcher on facial expressions and emotions. You can read a good introduction to his research in his book Emotions Revealed, published by Times Books in 2003.
 
 [^29]: Nicole Lazzaro: Lazzaro's studies were done by her company XEODesign and were presented at the 2004 Game Developers Conference as well as several other conferences. You can read an overview of the research at www.xeodesign.com/whyweplaygames/.
 
-[^30]: 马克·勒布朗：著名设计师，同时也是 MDA 框架的联合开发者，该框架是一套从机制、动态和美学角度评估游戏的系统。他的游戏设计著作见 http://algorithmancy.8kindsoffun.com/。
+[^30]: 马克·勒布朗：著名设计师，同时也是 MDA 框架的联合开发者，该框架是一套从机制、动态和美学角度评估游戏的系统。他的游戏设计著作见 http://www.8kindsoffun.com/。
 
 [^31]: 保罗·埃克曼：研究面部表情和情绪的先驱。你可以在他 2003 年由时代图书出版的《情感揭示》一书中读到他的研究简介。
 
@@ -463,9 +487,9 @@ So fun isn't flow. You can find flow in countless activities, but they aren't al
 
 [^36]: Schadenfreude，fireo，naches，kvell：感谢妮可·拉扎罗向我介绍了这些美妙的词语。Naches 和 kvell 来自意第绪语；fireo 是意大利语的改编词，schadenfreude 来自德语。拉扎罗在研究玩家玩游戏时的情绪时使用了这些词语，因此它们被游戏设计界所采用。
 
-[^37]: Maneuvering for social status: there is a branch of evolutionary biology called "signaling theory" which argues that many of the choices we make in our lives are unconsciously aimed at presenting our qualifications as mates and tribespeople to others. For example, a green thumb is indicative of diligence and responsible behavior; a large library of bound books, of erudition; a somewhat messy appearance and "outsider" hairstyle, of creativity. A layman's introduction to this in the context of consumer behavior can be found in Spent: Sex, Evolution, and Consumer Behavior (Penguin, 2009), by Dr. Geoffrey Miller.
+[^37]: Maneuvering for social status: there is a branch of evolutionary biology called "signaling theory" which argues that many of the choices we make in our lives are unconsciously aimed at presenting our qualifications as mates and tribespeople to others. For example, a green thumb is indicative of diligence and responsible behavior; a large library of bound books, of erudition; a somewhat messy appearance and "outsider" hairstyle, of creativity. A layman's introduction to this in the context of consumer behavior can be found in [Spent: Sex, Evolution, and Consumer Behavior](https://www.amazon.com/dp/0143117238) by Dr. Geoffrey Miller.
 
-[^38]: 争取社会地位：进化生物学中有一个分支叫做“信号理论”，它认为我们在生活中做出的许多选择都是无意识的，目的是向他人展示我们作为配偶和部落成员的资格。例如，园艺技艺高超代表勤奋和负责任的行为；收藏大量精装书籍代表博学；略显凌乱的外表和“局外人”的发型代表创造力。关于消费者行为的通俗介绍，可参阅《消费：性、进化与消费者行为》（企鹅出版社，2009 年），作者杰弗里·米勒博士。
+[^38]: 争取社会地位：进化生物学中有一个分支叫做“信号理论”，它认为我们在生活中做出的许多选择都是无意识的，目的是向他人展示我们作为配偶和部落成员的资格。例如，园艺技艺高超代表勤奋和负责任的行为；收藏大量精装书籍代表博学；略显凌乱的外表和“局外人”的发型代表创造力。关于消费者行为的通俗介绍，可参阅《消费：性、进化与消费者行为》，作者杰弗里·米勒博士。
 
 [^39]: Sensawunda: A term from science fiction criticism. It means, of course, "sense of wonder."
 
@@ -475,14 +499,18 @@ So fun isn't flow. You can find flow in countless activities, but they aren't al
 
 [^42]: 期待解决方案：多巴胺是最常与“有趣”的感觉有关的神经递质，已被证明在预期成功结果时会释放多巴胺。多巴胺还与注意力集中和学习有关。欧文·比德曼和爱德华·维塞尔的研究表明，“丰富的可解释的”体验（用他们的话说）本身就是一种奖赏，这当然也暗示了我在本书中所说的那种学习。尽管如此，鉴于目前的知识水平，试图从神经科学中得出太多结论是危险的，因为很多结论都是有争议的。
 
-[^43]: Bernard Suits and lusory attitude: The term comes from his book The Grasshopper: Games, Life, and Utopia (Broadview Press, 1978). In it, he defines a game this way: "To play a game is to attempt to achieve a specific state of affairs [prelusory goal], using only means permitted by rules [lusory means], where the rules prohibit use of more efficient means in favor of less efficient means [constitutive rules], and where the rules are accepted just because they make possible such activity [lusory attitude]."
+[^43]: Bernard Suits and lusory attitude: The term comes from his book [The Grasshopper: Games, Life, and Utopia](https://www.amazon.com/dp/1554812151). In it, he defines a game this way: "To play a game is to attempt to achieve a specific state of affairs [prelusory goal], using only means permitted by rules [lusory means], where the rules prohibit use of more efficient means in favor of less efficient means [constitutive rules], and where the rules are accepted just because they make possible such activity [lusory attitude]."
 
-[^44]: 伯纳德·苏伊茨和游戏的态度：这个词来自他的《蚱蜢：游戏、生活和乌托邦》（Broadview Press，1978 年）一书中。在书中，他是这样定义游戏的：“玩游戏就是试图达到一种特定的状态[前游戏目标]，只使用规则允许的手段[游戏手段]，规则禁止使用效率较高的手段，而使用效率较低的手段[构成性规则]，规则被接受只是因为它们使这种活动成为可能[游戏态度]"。
+[^44]: 伯纳德·苏伊茨和游戏的态度：这个词来自他的[《蚱蜢：游戏、生活与乌托邦》](https://www.amazon.com/dp/1554812151)一书中。在书中，他是这样定义游戏的：“玩游戏就是试图达到一种特定的状态[前游戏目标]，只使用规则允许的手段[游戏手段]，规则禁止使用效率较高的手段，而使用效率较低的手段[构成性规则]，规则被接受只是因为它们使这种活动成为可能[游戏态度]"。
 
-[^45]: Flow: A term coined by Mihaly Csikszentmihalyi to describe the frame of mind characterized by intense attention and maximum performance on a task. The sensation of flow appears to be linked to increased release of dopamine, which is a neurotransmitter that apparently increases attention ability in the frontal cortex. Evidence seems to be mounting that dopamine is not, in itself, the chemical that provides positive feedback. For an introduction to the concept, try Flow: The Psychology of Optimal Experience, published in 1991 by Perennial.
+[^45]: Flow: A term coined by Mihaly Csikszentmihalyi to describe the frame of mind characterized by intense attention and maximum performance on a task. The sensation of flow appears to be linked to increased release of dopamine, which is a neurotransmitter that apparently increases attention ability in the frontal cortex. Evidence seems to be mounting that dopamine is not, in itself, the chemical that provides positive feedback. For an introduction to the concept, try [Flow: The Psychology of Optimal Experience](https://www.amazon.com/dp/0061339202).
 
-[^46]: 心流：这是米哈里·西克森特米哈伊创造的一个术语，用来描述注意力高度集中并在某项任务中发挥最大效能的心境。流的感觉似乎与多巴胺的释放增加有关，多巴胺是一种神经递质，显然能提高额叶皮层的注意力。越来越多的证据表明，多巴胺本身并不是提供正反馈的化学物质。如需了解这一概念，请阅读《心流：最佳体验心理学》（Flow: The Psychology of Optimal Experience），该书于 1991 年由 Perennial 出版社出版。
+[^46]: 心流：这是米哈里·西克森特米哈伊创造的一个术语，用来描述注意力高度集中并在某项任务中发挥最大效能的心境。流的感觉似乎与多巴胺的释放增加有关，多巴胺是一种神经递质，显然能提高额叶皮层的注意力。越来越多的证据表明，多巴胺本身并不是提供正反馈的化学物质。如需了解这一概念，请阅读[《心流：最佳体验心理学》](https://www.amazon.com/dp/0061339202)。
 
 [^47]: Zone of proximal development: originally described Lev Vygotsky, and since expanded into a wide swath of educational theory. Also important here is the concept of "scaffolding," the notion that learning builds on learning. The way in which Super Mario taught you the unfolding power of jumping is often cited as the perfect way to teach a game, and it also lines up very well with the ideal of scaffolding.
 
 [^48]: 最近发展区：最初由列夫·维果茨基描述，后被广泛应用于教育理论中。同样重要的是“脚手架”的概念，即学习建立在学习之上的概念。超级马里奥教你跳跃的展开能力的方式经常被认为是完美的游戏教学方式，它也非常符合脚手架的理想。
+
+[^49]: Deliberate practice: This has popularized as the notion that it takes 10,000 hours of practice to get good at something, which is an inaccurate summary of the work of K. Anders Ericsson. What matters more is the quality of those hours. Ericsson describes the necessary characteristics of deliberate practice: it has to be designed to improve performance, repeated a lot, demanding of focus and concentration, hard (as in, off the top end of flow), and oriented around clear goals. Engaging in this sort of practice can let you get away with less practice time, ironically!
+
+[^50]: 刻意练习：这个概念因为一种观点而变得流行，即要在某件事上变得擅长需要练习10,000小时，这是对安德斯·爱立信的工作的不准确总结。更重要的是那些小时的质量。爱立信描述了刻意练习的必要特征：它必须是为了提高成绩而设计的，要多次重复练习，要求专注和集中注意力，难度大（就像心流的顶端之外），并且围绕着明确的目标。具有讽刺意味的是，进行这种练习可以让你减少练习时间！
