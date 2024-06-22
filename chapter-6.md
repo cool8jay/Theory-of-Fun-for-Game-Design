@@ -106,9 +106,9 @@ What does this all mean for game designers? Not only will a given game be unlike
 > 
 > 由于不同的大脑有不同的优劣势，不同的人也会有不同的理想游戏。
 
-This may indicate a fundamental limitation of game systems. Since they are formal abstract systems, they are by their very nature biased towards certain types of brains, just as books are biased. (Most book purchases in the U.S. are made by women, and half are made by individuals over the age of 45.)
+This may indicate a fundamental limitation of game systems. Since they are formal abstract systems, they are by their very nature biased towards certain types of brains, just as books are biased. (Most [book purchases](#user-content-fn-41)[^41] in the U.S. are made by women, and half are made by individuals over the age of 45.)
 
-这可能表明了游戏系统的根本局限性。由于游戏系统是形式化的抽象系统，其本质是偏向于某些类型的大脑，就像书籍一样。(在美国，大多数购买图书的人都是女性，其中一半是 45 岁以上的人。)
+这可能表明了游戏系统的根本局限性。由于游戏系统是形式化的抽象系统，其本质是偏向于某些类型的大脑，就像书籍一样。(在美国，大多数[购买图书](#user-content-fn-42)[^42]的人都是女性，其中一半是 45 岁以上的人。)
 
 For years, the video game industry struggled with the lack of appeal of games to the female audience. Many possible reasons have been advanced for this: the rampant sexism in video games, the lack of a distribution channel that reached the female demographic, the juvenile themes, the fact that there were relatively few female creators in the industry, the fact that the games focused on violence.
 
@@ -118,14 +118,14 @@ Perhaps the answer is simpler. Maybe games appealed to young males because they 
 
 也许答案更简单。也许游戏之所以吸引年轻男性，是因为他们的大脑能够很好地配合游戏的系统，而设计游戏的人也有同样的偏见。如果是这样，你就会看到以下情况：
 
-* Female players would gravitate toward games with simpler abstract systems, less spatial reasoning, and more emphasis on interpersonal relationships, narrative, and empathy. They would also prefer games with simpler spatial topologies.\
-    女性玩家会倾向于抽象系统较简单、空间推理较少、更强调人际关系、叙事和移情的游戏。她们也更喜欢空间拓扑结构更简单的游戏。
+* [Female players would gravitate toward games](#user-content-fn-43)[^43] with simpler abstract systems, less spatial reasoning, and more emphasis on interpersonal relationships, narrative, and empathy. They would also prefer games with simpler spatial topologies.\
+    [女性玩家会倾向](#user-content-fn-44)[^44]于抽象系统较简单、空间推理较少、更强调人际关系、叙事和移情的游戏。她们也更喜欢空间拓扑结构更简单的游戏。
 
-* There would be clear gender differences in play style between hardcore gamers of different genders. Males would focus on games emphasizing the projection of power and the control of territory, whereas females would select games that permit modeling behavior (such as multiplayer games) and do not demand strict hierarchies.\
-    不同性别的铁杆玩家在游戏风格上会有明显的性别差异。男性会专注于强调权力投射和领土控制的游戏，而女性则会选择允许模拟行为（如多人游戏）和不要求严格等级制度的游戏。
+* There would be clear gender differences in play style between [hardcore gamers of different genders](#user-content-fn-45)[^45]. Males would focus on games emphasizing the projection of power and the control of territory, whereas females would select games that permit modeling behavior (such as multiplayer games) and do not demand strict hierarchies.\
+    [不同性别的铁杆玩家](#user-content-fn-46)[^46]在游戏风格上会有明显的性别差异。男性会专注于强调权力投射和领土控制的游戏，而女性则会选择允许模拟行为（如多人游戏）和不要求严格等级制度的游戏。
 
-* As males aged, you'd expect them to slowly shift over to play styles similar to those of the women. Many of them might outright drop out of the gaming hobby. In contrast, older females likely wouldn't drop out of gaming; if anything, their interest in games might actually sharpen after menopause.\
-    随着男性年龄的增长，你会发现他们会慢慢转向与女性类似的游戏风格。他们中的许多人可能会彻底退出游戏爱好。与此相反，老年女性可能不会退出游戏；如果有的话，她们对游戏的兴趣在绝经后可能会更加浓厚。
+* As males [aged](#user-content-fn-47)[^47], you'd expect them to slowly shift over to play styles similar to those of the women. Many of them might outright drop out of the gaming hobby. In contrast, older females likely wouldn't drop out of gaming; if anything, their interest in games might actually sharpen after menopause.\
+    随着男性[年龄的增长](#user-content-fn-48)[^48]，你会发现他们会慢慢转向与女性类似的游戏风格。他们中的许多人可能会彻底退出游戏爱好。与此相反，老年女性可能不会退出游戏；如果有的话，她们对游戏的兴趣在绝经后可能会更加浓厚。
 
 * There would be fewer female gamers in general, since no matter what, games are still about formal abstract systems at heart.\
     一般来说，女性游戏玩家会越来越少，因为无论如何，游戏的本质还是形式上的抽象系统。
@@ -162,17 +162,17 @@ As it happens, we did see all of these in demographic data of game players (alon
 
 事实上，我们确实在游戏玩家的人口统计数据中看到了所有这些数据（还有更多数据）。游戏可能一直是 14 岁男孩的专利，因为那就是游戏的选择的群体。在过去的十年里，游戏的种类大大增加，现在女性玩家的数量略多于男性玩家。
 
-As games become more prevalent in society, we'll likely see more young girls using the amazing brain-rewiring abilities of games to train themselves up and become more comfortable with the kinds of games the boys always liked. There has been research showing that girls who play "boys' games," such as sports, tend to break out of traditional gender roles years later, whereas girls who stick to "girls' games" tend to adhere to the traditional stereotypes more strictly.
+As games become more prevalent in society, we'll likely see more young girls using the amazing brain-rewiring abilities of games to train themselves up and become more comfortable with the kinds of games the boys always liked. There has been research showing that girls who play "boys' games," such as sports, [tend to break out of traditional gender roles](#user-content-fn-49)[^49] years later, whereas girls who stick to "girls' games" tend to adhere to the traditional stereotypes more strictly.
 
-随着游戏在社会中的普及，我们很可能会看到更多的年轻女孩利用游戏惊人的大脑重连能力来锻炼自己，并更适应男孩们一直喜欢的游戏类型。有研究表明，玩体育等“男孩游戏”的女孩往往会在多年后打破传统的性别角色，而坚持玩“女孩游戏”的女孩往往会更严格地遵守传统的刻板印象。
+随着游戏在社会中的普及，我们很可能会看到更多的年轻女孩利用游戏惊人的大脑重连能力来锻炼自己，并更适应男孩们一直喜欢的游戏类型。有研究表明，玩体育等“男孩游戏”的[女孩往往会在多年后打破传统的性别角色](#user-content-fn-50)[^50]，而坚持玩“女孩游戏”的女孩往往会更严格地遵守传统的刻板印象。
 
 This argues pretty strongly that if people are to achieve their maximum potential, they need to do the hard work of playing the games they don't get, the games that don't appeal to their natures. Taking these on may serve as the nurture part of the equation, counterbalancing the brains that they were born with or culturally trained to have. The result would be people who move freely between worldviews, and who bring a wider array of skills to bear on a given problem.
 
 这就有力地证明，如果人们要发挥自己的最大潜能，就需要付出艰苦的努力，去玩那些他们不理解的游戏，那些对他们的天性没有吸引力的游戏。玩这些游戏可以作为等式中的培养部分，抵消他们与生俱来的或文化训练出来的大脑。这样，人们就能在各种世界观之间自由转换，并在解决特定问题时发挥更广泛的技能。
 
-The converse trick, of training boys up, might be harder for single-player games to achieve because it does not play to the strength of game systems as a medium. Nonetheless, games should try—perhaps with designs emphasizing social interaction, such as in Diplomacy or online virtual worlds. The thought that games could be limited because of their fundamentally mathematical nature is somewhat depressing; but it hasn't stopped music from being a highly emotional medium, and language manages to convey mathematical thoughts, so there is hope for games yet.
+The converse trick, of training boys up, might be harder for single-player games to achieve because it does not play to the strength of game systems as a medium. Nonetheless, games should try—perhaps with [designs emphasizing social interaction](#user-content-fn-51)[^51], such as in Diplomacy or online virtual worlds. The thought that games could be limited because of their fundamentally mathematical nature is somewhat depressing; but it hasn't stopped music from being a highly emotional medium, and language manages to convey mathematical thoughts, so there is hope for games yet.
 
-反之，单机游戏可能更难做到培养男孩，因为它没有发挥游戏系统作为媒介的优势。尽管如此，游戏还是应该尝试——或许可以设计一些强调社交互动的游戏，如《外交》或在线虚拟世界。游戏因其基本的数学性质而受到限制的想法有些令人沮丧；但这并不妨碍音乐成为一种高度情感化的媒介，语言也能传达数学思想，所以游戏还是有希望的。
+反之，单机游戏可能更难做到培养男孩，因为它没有发挥游戏系统作为媒介的优势。尽管如此，游戏还是应该尝试——或许可以设计一些[强调社交互动的游戏](#user-content-fn-52)[^52]，如《外交》或在线虚拟世界。游戏因其基本的数学性质而受到限制的想法有些令人沮丧；但这并不妨碍音乐成为一种高度情感化的媒介，语言也能传达数学思想，所以游戏还是有希望的。
 
 <div align="center">
 <img src="images/6.5.png">
@@ -261,3 +261,27 @@ The converse trick, of training boys up, might be harder for single-player games
 [^39]: Hormone effects on personality: Many hormones have been implicated in personality differences, but there are no clear-cut answers as to why exactly this happens, nor can it be helpfully used as a predictor. That said, as testosterone decreases in males over their lives, they tend towards reduced aggression. Men convicted of violent crimes show higher levels of testosterone than noncriminal men or men convicted of nonviolent crimes.
 
 [^40]: 荷尔蒙对性格的影响：许多激素都被认为与性格差异有关，但究竟为什么会出现这种情况，目前还没有明确的答案，也不能将其作为一种有用的预测指标。不过，随着男性体内睾丸激素的减少，他们的攻击性会降低。被判犯有暴力罪行的男性比未犯罪的男性或被判犯有非暴力罪行的男性显示出更高的睾酮水平。
+
+[^41]: Book purchases: The statistic on the ages of women book purchasers comes from the U.S. Census Bureau. For an impressive statistic regarding book purchases by women, consider that romance novels account for almost half of all paperback sales in America. Ninety-three percent of them sell to women.
+
+[^42]: 图书购买：关于女性购书者年龄的统计数据来自美国人口普查局。关于女性购书的一个令人印象深刻的统计数据是，爱情小说几乎占美国平装书销售总量的一半。其中 93% 卖给了女性。
+
+[^43]: Female preferences in games: The most popular game genres among women are puzzle and parlor games. This preference is so marked that despite a low penetration of single-player games into the female market, women playing games online make up 51 percent of the online marketplace. The bulk of this large audience is playing puzzle games.
+
+[^44]: 女性对游戏的偏好：最受女性欢迎的游戏类型是益智游戏和客厅游戏。这种偏好非常明显，尽管单机游戏对女性市场的渗透率很低，但玩在线游戏的女性占在线市场的 51%。在这一庞大的受众群体中，大部分都在玩益智游戏。
+
+[^45]: Hardcore players of different genders: The population of women in online role-playing games varies from 15 percent to 50 percent, depending on the game. In comparison, the female market for traditional single-player games sold in retail channels is more like 5 percent.
+
+[^46]: 不同性别的铁杆玩家：在线角色扮演游戏的女性玩家比例从 15% 到 50%不等，视游戏而定。相比之下，在零售渠道销售的传统单机游戏的女性市场比例仅为 5%。
+
+[^47]: Aging game players: Nick Yee was able to graph the differences in male and female behavior across ages after surveying a few thousand players of massively multiplayer online games, aka "MMOs." Younger males tended towards the more violent activities in the game, and older males tended to more closely match the behavior of females. The percentage of the respondents who were of a given gender showed markedly different distributions across age; there was a huge spike in younger males, whereas the number of females tended to remain relatively even across ages. Yee's Daedalus Project can be found [here](http://www.nickyee.com/daedalus/). We should not equate this to the theory of "dedifferentiation," which asserted that as we age, our cognitive strengths and weaknesses get "smoothed out." In 2003, the APA issued a press release about dedifferentiation stating that longitudinal studies had disproven it.
+
+[^48]: 老年游戏玩家：尼克·易在对几千名大型多人在线游戏（又称 "网络游戏"）玩家进行调查后，绘制出了不同年龄段的男女行为差异图。年轻男性倾向于游戏中更暴力的活动，而年长男性则更接近女性的行为。受访者中特定性别的比例在不同年龄段的分布明显不同；年轻男性的比例激增，而女性的比例在不同年龄段相对均衡。易的代达罗斯项目可在[这里](http://www.nickyee.com/daedalus/)找到。我们不应该把这等同于“去差异化”理论，该理论断言随着年龄的增长，我们的认知强项和弱项都会被“抹平”。2003 年，美国心理学会发布了一份关于“去差异化”的新闻稿，称纵向研究已经推翻了这一理论。
+
+[^49]: Girls breaking out of traditional gender roles: Reuters reported in September 2004 on a study performed at Penn State that showed that the games played by kids at age 10 had a significant correlation with their academic performance years later. Girls who played sports at age 10 became more interested in math at age 12 than girls who didn't do sports. Girls who spent time on stereotypically "girly" activities such as knitting, reading, dancing, and playing with dolls tended to perform better later in subjects such as English.
+
+[^50]: 女孩打破传统性别角色：路透社 2004 年 9 月报道了宾夕法尼亚州立大学进行的一项研究，该研究表明，孩子们 10 岁时玩的游戏与他们多年后的学习成绩有很大关系。与不参加体育运动的女孩相比，10 岁时参加体育运动的女孩 12 岁时对数学更感兴趣。把时间花在编织、阅读、跳舞和玩洋娃娃等刻板印象中的“少女”活动上的女孩，日后在英语等科目上的表现往往更好。
+
+[^51]: Designs emphasizing social interaction: (Also, see note in Chapter 4 on Diplomacy.) Virtually all games involving negotiation or collaborative storytelling or problem solving might fit the bill. Other examples could include Pandemic, any of the many tabletop role-playing games that de-emphasize combat, and socially-demanding online games such as massively multiplayer online role playing games (MMORPGs).
+
+[^52]: 强调社交互动的设计：（另见[第 4 章](chapter-4.md)“外交”中的注释）几乎所有涉及谈判、合作讲故事或解决问题的游戏都可能符合要求。其他例子还包括大流行、许多不强调战斗的桌面角色扮演游戏中的任何一种，以及大型多人在线角色扮演游戏（MMORPG）等需要社交的网络游戏。
