@@ -78,6 +78,97 @@ According to Baron-Cohen's theory, there are people who have high abilities in b
 > 
 > 数学家
 
+Another way to look at this is not in terms of intelligence but in terms of learning styles. Here again, gender shows itself. Men not only navigate space differently, but they tend to learn by trying, whereas women prefer to learn through modeling another's behavior. Recent research suggests that men and women may even see differently, which cannot help but lead to different learning styles.
+
+另一种方法不是从智力的角度，而是从学习风格的角度来看待这个问题。在这里，性别再次显现出来。男性不仅浏览空间的方式不同，而且他们倾向于通过尝试来学习，而女性则更喜欢通过模仿他人的行为来学习。最近的研究表明，男性和女性的视角甚至可能不同，这必然会导致不同的学习风格。
+
+The classic ways of looking at learning styles and personalities are the Keirsey Temperament Sorter and the Myers-Briggs personality type. These are the ones with the four letter codes like INTP, ENFJ, and so on. Of course, there’s also astrology, enneagrams, and lots of others. Virtually all of these lack scientific basis. But there is a model based on widespread surveys of individuals from around the world: the Five Factor Model. This model finds five big domains of personality: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
+
+观察学习风格和性格的经典方法是凯尔西性格分类器和迈尔斯-布里格斯性格类型指标。这些是带有像INTP、ENFJ等四字母代码的类型。当然，还有占星术、九型人格等许多其他方法。几乎所有这些都没有科学依据。但是，有一个基于对世界各地个体进行广泛调查的模型：五因素模型。这个模型发现了性格的五个大领域：开放性、责任心、外向性、宜人性和神经质。
+
+Anecdotally, players tend to prefer certain types of games in ways that seem to correspond to their personalities. There is an effort now by game designer Jason VandenBerghe to find hard data on correlations between the Five Factor Model and the types of games that people play. 
+
+据说，玩家倾向于偏好某些类型的游戏，这似乎与他们的性格相符。目前，游戏设计师贾森·范登博格正在努力寻找五因素模型与人们所玩游戏类型之间相关性的确凿数据。
+
+This may seem obvious, but different people bring different experiences to the table. This implies they will have differing levels of ability in solving specific types of problems. Even things that are more fundamental than that may change over time; for example, the levels of hormones such as estrogen and testosterone fluctuate pretty significantly over the course of a life, and it's been shown that these fluctuations affect personality. 
+
+这可能看起来很明显，但不同的人带来不同的经验。这意味着他们在解决特定类型问题时的能力水平各有不同。甚至比这更基本的事情也可能随时间而变化；例如，雌激素和睾酮等激素的水平在一生中会有相当大的波动，并且已经证明这些波动会影响性格。
+
+What does this all mean for game designers? Not only will a given game be unlikely to appeal to everyone, but it is probably impossible for it to do so. The difficulty ramp is almost certain to be wrong for many people, and the basic premises are likely to be uninteresting or too difficult for large segments of the population.
+
+这一切对游戏设计师意味着什么？一款游戏不仅不可能吸引所有人，而且很可能无法吸引所有人。对许多人来说，游戏的难度坡度几乎肯定是错误的，而游戏的基本前提很可能对大部分人来说是无趣或太难。
+
+<div align="center">
+<img src="images/6.3.png">
+</div>
+
+> Since different brains have different strengths and weaknesses, different people will have different ideal games.
+> 
+> 由于不同的大脑有不同的优劣势，不同的人也会有不同的理想游戏。
+
+This may indicate a fundamental limitation of game systems. Since they are formal abstract systems, they are by their very nature biased towards certain types of brains, just as books are biased. (Most book purchases in the U.S. are made by women, and half are made by individuals over the age of 45.)
+
+这可能表明了游戏系统的根本局限性。由于游戏系统是形式化的抽象系统，其本质是偏向于某些类型的大脑，就像书籍一样。(在美国，大多数购买图书的人都是女性，其中一半是 45 岁以上的人。)
+
+For years, the video game industry struggled with the lack of appeal of games to the female audience. Many possible reasons have been advanced for this: the rampant sexism in video games, the lack of a distribution channel that reached the female demographic, the juvenile themes, the fact that there were relatively few female creators in the industry, the fact that the games focused on violence.
+
+多年来，电子游戏行业一直在为游戏对女性观众缺乏吸引力而苦苦挣扎。对此，人们提出了许多可能的原因：电子游戏中充斥的性别歧视、缺乏覆盖女性人群的发行渠道、题材幼稚、行业中女性创作者相对较少、游戏以暴力为主。
+
+Perhaps the answer is simpler. Maybe games appealed to young males because they have the sort of brain that works well with the systems the games had, and they were designed by people with that same bias. If so, you'd expect to see the following:
+
+也许答案更简单。也许游戏之所以吸引年轻男性，是因为他们的大脑能够很好地配合游戏的系统，而设计游戏的人也有同样的偏见。如果是这样，你就会看到以下情况：
+
+* Female players would gravitate toward games with simpler abstract systems, less spatial reasoning, and more emphasis on interpersonal relationships, narrative, and empathy. They would also prefer games with simpler spatial topologies.\
+    女性玩家会倾向于抽象系统较简单、空间推理较少、更强调人际关系、叙事和移情的游戏。她们也更喜欢空间拓扑结构更简单的游戏。
+
+* There would be clear gender differences in play style between hardcore gamers of different genders. Males would focus on games emphasizing the projection of power and the control of territory, whereas females would select games that permit modeling behavior (such as multiplayer games) and do not demand strict hierarchies.\
+    不同性别的铁杆玩家在游戏风格上会有明显的性别差异。男性会专注于强调权力投射和领土控制的游戏，而女性则会选择允许模拟行为（如多人游戏）和不要求严格等级制度的游戏。
+
+* As males aged, you'd expect them to slowly shift over to play styles similar to those of the women. Many of them might outright drop out of the gaming hobby. In contrast, older females likely wouldn’t drop out of gaming; if anything, their interest in games might actually sharpen after menopause.\
+    随着男性年龄的增长，你会发现他们会慢慢转向与女性类似的游戏风格。他们中的许多人可能会彻底退出游戏爱好。与此相反，老年女性可能不会退出游戏；如果有的话，她们对游戏的兴趣在绝经后可能会更加浓厚。
+
+* There would be fewer female gamers in general, since no matter what, games are still about formal abstract systems at heart.\
+    一般来说，女性游戏玩家会越来越少，因为无论如何，游戏的本质还是形式上的抽象系统。
+
+You would also expect to see this change as the culture shifts towards greater equality in all things, and as games themselves do their work of teaching alternate ways of thinking.
+
+你也可以预见，随着文化向着更加平等的方向转变，游戏本身也会教给人们另一种思维方式，这种情况也会发生变化。
+
+<div align="center">
+<img src="images/6.4.png">
+</div>
+
+> Movies
+> 
+> 电影
+> 
+> BOOM
+> 
+> 爆炸
+> 
+> HEARTS in LOVE
+> 
+> 恋爱中的心
+> 
+> People will usually choose to play the games they are already good at, that reflect their strengths.
+> 
+> 人们通常会选择玩自己擅长的游戏，这反映了他们的优势。
+
+As it happens, we did see all of these in demographic data of game players (along with much more). Games may have been the province of 14-year-old boys because that's what games have selected for. Over the last ten years, far more kinds of games have been made, and there are now slightly more female players than male players.
+
+事实上，我们确实在游戏玩家的人口统计数据中看到了所有这些数据（还有更多数据）。游戏可能一直是 14 岁男孩的专利，因为这就是游戏的选择。在过去的十年里，游戏的种类大大增加，现在女性玩家的数量略多于男性玩家。
+
+As games become more prevalent in society, we'll likely see more young girls using the amazing brain-rewiring abilities of games to train themselves up and become more comfortable with the kinds of games the boys always liked. There has been research showing that girls who play "boys' games," such as sports, tend to break out of traditional gender roles years later, whereas girls who stick to "girls' games" tend to adhere to the traditional stereotypes more strictly.
+
+随着游戏在社会中的普及，我们很可能会看到更多的年轻女孩利用游戏惊人的大脑诱导能力来锻炼自己，并更适应男孩们一直喜欢的游戏类型。有研究表明，玩体育等 "男孩游戏 "的女孩往往会在多年后打破传统的性别角色，而坚持玩 "女孩游戏 "的女孩往往会更严格地遵守传统的刻板印象
+
+This argues pretty strongly that if people are to achieve their maximum potential, they need to do the hard work of playing the games they don't get, the games that don't appeal to their natures. Taking these on may serve as the nurture part of the equation, counterbalancing the brains that they were born with or culturally trained to have. The result would be people who move freely between worldviews, and who bring a wider array of skills to bear on a given problem.
+
+这就有力地证明，如果人们要发挥自己的最大潜能，就需要付出艰苦的努力，去玩那些他们玩不到的游戏，那些不符合他们天性的游戏。玩这些游戏可以作为等式中的 "培养 "部分，抵消他们与生俱来的或文化训练出来的大脑。这样，人们就能在各种世界观之间自由转换，并在解决特定问题时发挥更广泛的技能。
+
+The converse trick, of training boys up, might be harder for single-player games to achieve because it does not play to the strength of game systems as a medium. Nonetheless, games should try—perhaps with designs emphasizing social interaction, such as in Diplomacy or online virtual worlds. The thought that games could be limited because of their fundamentally mathematical nature is somewhat depressing; but it hasn't stopped music from being a highly emotional medium, and language manages to convey mathematical thoughts, so there is hope for games yet.
+
+反之，单机游戏可能更难做到培养男孩，因为它没有发挥游戏系统作为媒介的优势。尽管如此，游戏还是应该尝试--或许可以设计一些强调社交互动的游戏，如《外交》或在线虚拟世界。游戏因其基本的数学性质而受到限制的想法有些令人沮丧；但这并不妨碍音乐成为一种高度情感化的媒介，语言也能传达数学思想，所以游戏还是有希望的。
 
 [^1]: Differences manifest at a very early age: In particular, we see this in the developmental schedule of boys versus girls.
 
