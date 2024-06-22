@@ -284,4 +284,4 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^51]: Designs emphasizing social interaction: (Also, see note in Chapter 4 on Diplomacy.) Virtually all games involving negotiation or collaborative storytelling or problem solving might fit the bill. Other examples could include Pandemic, any of the many tabletop role-playing games that de-emphasize combat, and socially-demanding online games such as massively multiplayer online role playing games (MMORPGs).
 
-[^52]: 强调社交互动的设计：（另见[第 4 章](chapter-4.md)“外交”中的注释）几乎所有涉及谈判、合作讲故事或解决问题的游戏都可能符合要求。其他例子还包括大流行、许多不强调战斗的桌面角色扮演游戏中的任何一种，以及大型多人在线角色扮演游戏（MMORPG）等需要社交的网络游戏。
+[^52]: 强调社交互动的设计：（另见[第四章](chapter-4.md)“外交”中的注释）几乎所有涉及谈判、合作讲故事或解决问题的游戏都可能符合要求。其他例子还包括大流行、许多不强调战斗的桌面角色扮演游戏中的任何一种，以及大型多人在线角色扮演游戏（MMORPG）等需要社交的网络游戏。
