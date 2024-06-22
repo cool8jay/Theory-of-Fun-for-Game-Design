@@ -11,4 +11,4 @@
 * [Chapter 3 What Games Are? 第三章 游戏是什么？](chapter-3.md)
 * [Chapter 4 What Games Teach Us? 第四章 游戏教会了我们什么？](chapter-4.md)
 * [Chapter 5 What Games Aren't? 第五章 游戏不是什么？](chapter-5.md)
-* [Chapter 6 Different Fun for Different Folks 第六章 不同的人有不同的乐趣](chapter-5.md)
+* [Chapter 6 Different Fun for Different Folks 第六章 不同的人有不同的乐趣](chapter-6.md)
