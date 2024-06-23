@@ -1,9 +1,3 @@
-Hello world. {% sup %}superscript text!{% endsup %}
-
-And with a link. {% sup href="https://www.google.fr" %}4{% endsup %}
-
-And with markdown. {% sup %}**4**{% endsup %}
-
 Learning can be problematic. For one thing, it's kind of hard work. Our brains may unconsciously direct us to learn, but if we're pushed by parents, teachers, or even our own logical brains, we often resist most mightily.
 
 学习是个问题。首先，学习是一项艰苦的工作。我们的大脑可能会无意识地引导我们学习，但如果父母、老师，甚至我们自己的逻辑思维催促我们，我们往往会极力反抗。
@@ -12,13 +6,13 @@ When I was a kid taking math classes, teachers always made us write out proofs. 
 
 我小时候上数学课时，老师总是让我们写出证明。很多学生代数学得很好，他们可以看着一道题，看到答案，然后写下来，但这并不重要——老师让他们真正地去解决它：老师让他们真正算出来：
 
-x<sup>2</sup> + 5 = 30
+x^2 + 5 = 30
 
 We weren't allowed to just write x = 5. We had to write out:
 
-∴ x<sup>2</sup> = 30 – 5
+∴ x^2 = 30 – 5
 
-∴ x<sup>2</sup> = 25
+∴ x^2 = 25
 
 ∴ x = √25
 
