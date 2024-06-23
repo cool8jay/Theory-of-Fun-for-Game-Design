@@ -48,7 +48,7 @@ One of the "Five Books You Should Read About Game Design"
 
 “如果你对游戏设计感兴趣，那就赶紧买来读一读吧。”
 
-——史蒂夫·杰克逊，《GURPS》和卡片游戏《光明会》设计师
+——史蒂夫·杰克逊，《Munchkin》和《GURPS》的设计师
 
 <hr>
 
