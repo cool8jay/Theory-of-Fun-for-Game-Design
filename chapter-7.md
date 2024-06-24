@@ -342,11 +342,11 @@ In the end, that is both the glory of learning and its fundamental problem: once
 
 [^2]: 第一部有记载的兵书：这是孙子的建议。大多数情况下，这些规则旨在保护非战斗人员，但有时它们也是荣誉公约，例如不在夜间或埋伏地发动攻击。
 
-Cheating during a soccer match: On the flip side, if the referee fails to see that we are offside, we’ll take it and often say, “Them’s the breaks.” It is still a violation of the rules, but since the ref (who is part of the formal construct) is fallible, we accept the violation.
+Cheating during a soccer match: On the flip side, if the referee fails to see that we are offside, we'll take it and often say, “Them's the breaks.” It is still a violation of the rules, but since the ref (who is part of the formal construct) is fallible, we accept the violation.
 
-在足球比赛中作弊： 反过来说，如果裁判没有发现我们越位，我们也会接受，并经常说 "这就是休息"。这仍然是违反规则的行为，但由于裁判（他是正式结构的一部分）是易犯错的，所以我们接受这种违规行为。
+在足球比赛中作弊：反过来说，如果裁判没有发现我们越位，我们也会接受，并经常说 "这就是休息"。这仍然是违反规则的行为，但由于裁判（他是正式结构的一部分）是易犯错的，所以我们接受这种违规行为。
 
-Most games do not permit innovation and invention: There does exist a game, called Nomic, whose rules you rewrite as you play; it’s part of the game. It too has limits; you bump up against the physics of reality if you try to change too much. In Nomic’s case, the changing rules are themselves part of the pattern—but declaring atoms to be the size of Jupiter, or pulling out a gun and shooting another player, are still off-limits even if you make a rule allowing it. Nomic was designed by Peter Suber of the Philosophy Department at Earlham College.
+Most games do not permit innovation and invention: There does exist a game, called Nomic, whose rules you rewrite as you play; it's part of the game. It too has limits; you bump up against the physics of reality if you try to change too much. In Nomic's case, the changing rules are themselves part of the pattern—but declaring atoms to be the size of Jupiter, or pulling out a gun and shooting another player, are still off-limits even if you make a rule allowing it. Nomic was designed by Peter Suber of the Philosophy Department at Earlham College.
 
 大多数游戏都不允许创新和发明： 确实有一种游戏叫 "Nomic"，它的规则可以边玩边改写；这也是游戏的一部分。它也有限制；如果你试图改变太多，就会与现实的物理原理相冲突。在《Nomic》中，改变规则本身就是模式的一部分--但宣布原子有木星那么大，或掏出枪来射击其他玩家，即使你制定了允许这样做的规则，仍然是不允许的。Nomic 由厄勒姆学院哲学系的 Peter Suber 设计。
 
@@ -365,9 +365,9 @@ Games incorporate the following elements: This material on basic elements of gam
 
 • “A Grammar of Gameplay,” a presentation I delivered at GDC 2005: http://www.raphkoster.com/gaming/atof/grammarofgameplay.pdf
 - 游戏玩法的语法"，我在 2005 年 GDC 上发表的演讲：http://www.raphkoster.com/gaming/atof/grammarofgameplay.pdf
-• Dan Cook’s article “The Chemistry of Game Design,” found at http://www.lostgarden.com/2007/07/chemistry-of-game-design.html
+• Dan Cook's article “The Chemistry of Game Design,” found at http://www.lostgarden.com/2007/07/chemistry-of-game-design.html
 - 丹-库克（Dan Cook）的文章 "游戏设计的化学"，见 http://www.lostgarden.com/2007/07/chemistry-of-game-design.html
-• Stéphane Bura’s “A Game Grammar,” found at http://users.skynet.be/bura/diagrams/
+• Stéphane Bura's “A Game Grammar,” found at http://users.skynet.be/bura/diagrams/
 - Stéphane Bura 的 "游戏语法"，见 http://users.skynet.be/bura/diagrams/
 • The book Game Mechanics: Advanced Game Design (New Riders, 2012) by Ernest Adams and Joris Dormans.
 - Game Mechanics： Ernest Adams 和 Joris Dormans 合著的《游戏机制：高级游戏设计》（New Riders，2012 年）。
@@ -376,7 +376,7 @@ The Mastery Problem: This can be summarized as “the rich get richer.” It is 
 
 Opportunity cost: Since games are always sequences of challenges, the fact that you made a bad choice cannot simply be undone. At the very least, the fact that you could have chosen to do something else allows your opponent to make her own choice. In playing games, we only give “take-backs” to young children, and there exist a plethora of rules dictating when moves become irrevocable in board games (for example, you commit to a move in chess when you let go of the piece).
 
-Red Queen’s Race: In Lewis Carroll’s classic book Through the Looking Glass, Alice runs alongside the Red Queen in a landscape that is moving very quickly. So quickly, in fact, that they have to run to stand still. This situation has become known as the Red Queen’s Race.
+Red Queen's Race: In Lewis Carroll's classic book Through the Looking Glass, Alice runs alongside the Red Queen in a landscape that is moving very quickly. So quickly, in fact, that they have to run to stand still. This situation has become known as the Red Queen's Race.
 
 掌握问题：可以概括为“富者愈富”。它是迭代零和游戏的一种表现形式--在这种游戏中，赢家最终会比输家处于更有利的地位。如果一个高水平的玩家可以通过反复击败容易击败的目标来巩固自己的地位，那么最终他的地位将变得不可撼动。这本身并不是问题--它只会导致胜利。如果新手不可能成功，问题就出现了。
 
