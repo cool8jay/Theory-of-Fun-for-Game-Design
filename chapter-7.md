@@ -380,6 +380,5 @@ In the end, that is both the glory of learning and its fundamental problem: once
 
 [^17]: Red Queen's Race: In Lewis Carroll's classic book Through the Looking Glass, Alice runs alongside the Red Queen in a landscape that is moving very quickly. So quickly, in fact, that they have to run to stand still. This situation has become known as the Red Queen's Race.
 
-
 [^18]: 红皇后的赛跑：在刘易斯·卡罗尔的经典名著《镜中奇遇记》中，爱丽丝与红皇后在一片快速移动的风景中并肩奔跑。事实上，他们跑得太快了，以至于必须跑着才能站稳。这种情况被称为红皇后赛跑。
 
