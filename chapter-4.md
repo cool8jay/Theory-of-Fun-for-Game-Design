@@ -176,7 +176,7 @@ Nonetheless, we have fun mostly to improve our life skills. And while there may 
 
 > From cops and robbers to playing house, play trains skills that provide an evolutionary advantage...
 > 
-> 从“警察抓小偷“到”过家家“，游戏训练的技能为进化提供了优势……
+> 从“警察抓小偷”到“过家家”，游戏训练的技能为进化提供了优势……
 
 For example, there are many games in my collection that relate to large-scale network building. Building railway lines or aqueducts wasn't exactly a caveman activity. As humans have evolved, we've changed around our games. In early versions of chess, [queens](#user-content-fn-47)[^47] weren't nearly as powerful a piece as they are today.
 
@@ -500,7 +500,7 @@ Seen in this light, the evolution of the modern video game can largely be explai
 
 从这个角度来看，现代电子游戏的演变在很大程度上可以用拓扑学来解释。每一代游戏都可以用游戏空间形状相当微小的变化来描述。例如，在整个电子游戏史上，真正意义上的[格斗游戏只有五款](#user-content-fn-109)[^109]。显著的进步仅限于一些功能，如平面移动、三维移动以及增加“[连击](#user-content-fn-110)[^110]”或动作序列。这些游戏之所以看起来不同，是源于它们的内容，而不是它们所蕴含的基本课程。
 
-This is not to say that many of the classic fighting games didn't bring significant incremental advances. Of course they did. But did they effectively “add another hole to the donut”?
+This is not to say that many of the classic fighting games didn't bring significant incremental advances. Of course they did. But did they effectively "add another hole to the donut"?
 
 这并不是说许多经典格斗游戏没有带来显著的进步。它们当然带来了进步。但它们是否真正“在甜甜圈上添加一个洞”呢？
 
@@ -516,25 +516,25 @@ This is not to say that many of the classic fighting games didn't bring signific
 > 
 > 有时我们会要求你做得更彻底。
 
-Consider the evolution of the 2-D shooter or "shmup." Space Invaders offered a single screen with enemies that marched predictably. After that came Galaxian, which had no defenses and enemies that attacked a bit more aggressively.
+Consider the evolution of the 2-D shooter or "[shmup](#user-content-fn-111)[^111]." [Space Invaders](#user-content-fn-112)[^112] offered a single screen with enemies that marched predictably. After that came [Galaxian](#user-content-fn-113)[^113], which had no defenses and enemies that attacked a bit more aggressively.
 
-请看二维射击游戏或“清版射击游戏”的演变。《太空入侵者》只有一个屏幕，敌人的行进速度可已预测。之后又出现了《小蜜蜂》，这款游戏没有防御措施，敌人的攻击更加猛烈。
+请看二维射击游戏或“[清版射击游戏](#user-content-fn-114)[^114]”的演变。[《太空入侵者》](#user-content-fn-115)[^115]只有一个屏幕，敌人的行进速度可已预测。之后又出现了[《小蜜蜂》](#user-content-fn-116)[^116]，这款游戏没有防御措施，敌人的攻击更加猛烈。
 
-Simple topological variants then ensued: Gyruss and Tempest are just Galaxian in a circle. Gorf and others added scrolling, and also had an end boss and stages that changed in nature as you progressed. Zaxxon added verticality, which was then quickly thrown away in the development of the genre. Centipede gave you some room to maneuver at the bottom, and a charming setting, but isn't really that different from Galaxian and Space Invaders. Asteroids is an inverted circle: you're in the middle, and the enemies come from outside.
+Simple topological variants then ensued: [Gyruss](#user-content-fn-117)[^117] and [Tempest](#user-content-fn-118)[^118] are just [Galaxian](#user-content-fn-119)[^119] in a circle. [Gorf](#user-content-fn-120)[^120] and others added scrolling, and also had an end boss and stages that changed in nature as you progressed. [Zaxxon](#user-content-fn-121)[^121] added verticality, which was then quickly thrown away in the development of the genre. [Centipede](#user-content-fn-122)[^122] gave you some room to maneuver at the bottom, and a charming setting, but isn't really that different from Galaxian and Space Invaders. [Asteroids](#user-content-fn-123)[^123] is an inverted circle: you're in the middle, and the enemies come from outside.
 
-随后又出现了简单的拓扑变体：《Gyruss》和《暴风雨》只是在一个圆圈中的《小蜜蜂》。《Gorf》和其他游戏增加了滚动屏幕，也有终结头目和随着游戏进程而改变性质的关卡。《Zaxxon》增加了垂直性，但在该类型游戏的发展过程中很快就被抛弃了。《蜈蚣》在底部给了你一些操作空间和迷人的设置，但其实与《银河战士》和《太空侵略者》并无太大区别。《小行星》是一个倒置的圆圈：你在中间，敌人来自外面。
+随后又出现了简单的拓扑变体：[《Gyruss》](#user-content-fn-124)[^124]和[《暴风雨》](#user-content-fn-125)[^125]只是在一个圆圈中的[《小蜜蜂》](#user-content-fn-126)[^126]。[《Gorf》](#user-content-fn-127)[^127]和其他游戏增加了滚动屏幕，也有终结头目和随着游戏进程而改变性质的关卡。[《Zaxxon》](#user-content-fn-128)[^128]增加了垂直性，但在该类型游戏的发展过程中很快就被抛弃了。[《蜈蚣》](#user-content-fn-129)[^129]在底部给了你一些操作空间和迷人的设置，但其实与《银河战士》和《太空侵略者》并无太大区别。[《小行星》](#user-content-fn-130)[^130]是一个倒置的圆圈：你在中间，敌人来自外面。
 
-Galaga was probably the most influential of all of these, because it added bonus levels and the power-up, a concept that has become standard in every shmup since. Xevious and Vanguard added alternate modes of fire (bombs and firing in other directions). Robotron and Defender are special cases. Both have the element of rescuing. This has been pretty much abandoned today (sadly—though Choplifter was a wonderful sidetrack there).
+Galaga was probably the most influential of all of these, because it added bonus levels and the power-up, a concept that has become standard in every shmup since. Xevious and Vanguard added alternate modes of fire (bombs and firing in other directions). [Robotron](#user-content-fn-131)[^131] and [Defender](#user-content-fn-132)[^132] are special cases. Both have the element of rescuing. This has been pretty much abandoned today (sadly—though [Choplifter](#user-content-fn-133)[^133] was a wonderful sidetrack there).
 
-《大蜜蜂》可能是所有这些游戏中最具影响力的，因为它增加了奖励关卡和强化道具，这一概念在之后的所有清版射击游戏中都成为了标配。《铁板阵》和《先遣部队》增加了其他射击模式（投弹和向其他方向射击）。《机器人战争》和《防卫者》是特例。这两款游戏都有救援元素。时至今日，这种玩法已基本被抛弃了（虽然《救援直升机》是一个精彩的分支，但令人遗憾）。
+《大蜜蜂》可能是所有这些游戏中最具影响力的，因为它增加了奖励关卡和强化道具，这一概念在之后的所有清版射击游戏中都成为了标配。《铁板阵》和《先遣部队》增加了其他射击模式（投弹和向其他方向射击）。[《机器人战争》](#user-content-fn-134)[^134]和[《防卫者》](#user-content-fn-135)[^135]是特例。这两款游戏都有救援元素。时至今日，这种玩法已基本被抛弃了（虽然[《救援直升机》](#user-content-fn-136)[^136]是一个精彩的分支，但令人遗憾）。
 
-Now, I don't know what the first 2-D shooter to have power-ups and scrolling and bosses at the end of stages was, but a case can be made that there hasn't been a 2-D shooter with a different "shape" since then. Unsurprisingly, the shooter genre has stagnated and lost market share. After all, we learned that mechanic a long time ago, and everything since has been learning patterns that we know to be artificial and unlikely to be repeated anywhere.
+Now, I don't know what the first 2-D shooter to have power-ups and scrolling and [bosses](#user-content-fn-137)[^137] at the end of stages was, but a case can be made that there hasn't been a 2-D shooter with a different "shape" since then. Unsurprisingly, the shooter genre has stagnated and lost market share. After all, we learned that mechanic a long time ago, and everything since has been learning patterns that we know to be artificial and unlikely to be repeated anywhere.
 
-现在，我不知道第一款拥有强化道具、滚动屏幕和守关头目的二维射击游戏是什么，但可以说，从那时起，再也没有一款二维射击游戏拥有不同的“形状”。不出所料，射击游戏的发展已经停滞不前，市场份额不断下降。毕竟，我们在很久以前就学会了这种玩法机制，而从那时起，我们一直在学习那些我们知道是人为的、不太可能在任何地方重复出现的模式。
+现在，我不知道第一款拥有强化道具、滚动屏幕和守关[头目](#user-content-fn-138)[^138]的二维射击游戏是什么，但可以说，从那时起，再也没有一款二维射击游戏拥有不同的“形状”。不出所料，射击游戏的发展已经停滞不前，市场份额不断下降。毕竟，我们在很久以前就学会了这种玩法机制，而从那时起，我们一直在学习那些我们知道是人为的、不太可能在任何地方重复出现的模式。
 
-This offers a possible algorithm for innovation: find a new dimension to add to the gameplay. We saw this in the way that puzzle games evolved after Tetris: people started trying to do it with hexagons,  with three dimensions, and eventually, pattern matching of colors became the thing that replaced spatial analysis. If we really want to innovate on puzzle games, how about exploring puzzle games based on time rather than space, for example?
+This offers a possible algorithm for innovation: find a new dimension to add to the gameplay. We saw this in the way that puzzle games evolved after [Tetris](#user-content-fn-139)[^139]: people started trying to do it with [hexagons](#user-content-fn-140)[^140],  with [three dimensions](#user-content-fn-141)[^141], and eventually, pattern matching of colors became the thing that replaced spatial analysis. If we really want to innovate on puzzle games, how about exploring [puzzle games based on time](#user-content-fn-142)[^142] rather than space, for example?
 
-这提供了一种可能的创新算法：为游戏玩法添加一个新维度。我们可以从《俄罗斯方块》之后益智游戏的发展中看到这一点：人们开始尝试用六边形、三维空间来进行游戏，最终，颜色模式匹配取代了空间分析。如果我们真的想在益智游戏上有所创新，比如探索基于时间而非空间的益智游戏如何？
+这提供了一种可能的创新算法：为游戏玩法添加一个新维度。我们可以从[《俄罗斯方块》](#user-content-fn-143)[^143]之后益智游戏的发展中看到这一点：人们开始尝试用[六边形](#user-content-fn-144)[^144]、[三维空间](#user-content-fn-145)[^145]来进行游戏，最终，颜色模式匹配取代了空间分析。如果我们真的想在益智游戏上有所创新，比如探索[基于时间](#user-content-fn-146)[^146]而非空间的益智游戏如何？
 
 <div align="center">
 <img src="images/4.16.png">
@@ -606,7 +606,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^26]: 分类游戏：[Uno](https://en.wikipedia.org/wiki/Uno_(card_game)) 和 [Go Fish!](https://en.wikipedia.org/wiki/Go_Fish) 等纸牌游戏，甚至是记忆游戏，都依赖于将事物分类成套。
 
-[^27]: Games that take one turn: We might think of ro-sham-bo when used as a decision-making tool (“Let's do rock-paper-scissors to see who pays the bill.”), or the mathematical game of [Nomic](http://en.wikipedia.org/wiki/Nomic), or the parodic “non-game” of [Mornington Crescent](https://en.wikipedia.org/wiki/Mornington_Crescent_(game)) from the UK.
+[^27]: Games that take one turn: We might think of ro-sham-bo when used as a decision-making tool ("Let's do rock-paper-scissors to see who pays the bill."), or the mathematical game of [Nomic](http://en.wikipedia.org/wiki/Nomic), or the parodic "non-game" of [Mornington Crescent](https://en.wikipedia.org/wiki/Mornington_Crescent_(game)) from the UK.
 
 [^28]: 一局定胜负的游戏：我们可能会想到用剪刀石头布作为决策工具（“我们来玩剪刀石头布，看谁买单”），或者数学游戏 [Nomic](http://en.wikipedia.org/wiki/Nomic)，或者英国的讽刺性“非游戏” [Mornington Crescent](https://en.wikipedia.org/wiki/Mornington_Crescent_(game))。
 
@@ -783,3 +783,75 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
     * 真正的自由漫游 3D 格斗游戏出现在[《武士道之刃》](https://en.wikipedia.org/wiki/Bushido_Blade_(video_game))中，可以说从那时起就再也没有一款机械上新颖的格斗游戏了。
 
 [^110]: 连击：许多游戏都会奖励正确执行一系列动作的玩家。通常，他们会为这样做提供奖励，例如攻击时的额外伤害。
+
+[^111]: Shmup: Slang for "shoot 'em up." This term typically refers to a subgenre of shooter games, ones that embrace the limitations of 2-D graphics.
+
+[^112]: Space Invaders: The original shmup, Space Invaders by Taito featured a tank that moved along the bottom edge of the screen, some barriers that protected the tank but eroded as they were fired upon, and an army of aliens marching inexorably down the screen while firing. As you reduced the number of enemies approaching, the speed of their approach grew faster.
+
+[^113]: Galaxian: An elaboration of Space Invaders that featured some of the aliens leaving the formation and dive-bombing the player, rather than the formation moving down the screen.
+
+[^114]: Shmup：shoot them up，俚语，意为“射击游戏”。该词通常指射击游戏的一个分支，即那些接受 2-D 图形限制的游戏。
+
+[^115]: 《太空侵略者》：由 Taito 制作的《太空侵略者》是最原始的射击游戏，游戏中的坦克沿着屏幕下沿移动，一些障碍物保护着坦克，但在遭到射击时会被侵蚀，还有一支外星人大军一边射击一边顺着屏幕无情地前进。随着敌人数量的减少，他们接近的速度也越来越快。
+
+[^116]: 《小蜜蜂》：《太空入侵者》的改良版，一些外星人会离开队形俯冲轰炸玩家，而不是队形向屏幕下方移动。
+
+[^117]: Gyruss: A spin-off from Galaxian that distorted the playfield into a circle. The player moved along the outer rim, and enemies emerged in spirals from the center.
+
+[^118]: Tempest: An arcade game by Atari in which the player moved along the edge of various shapes, all of which effectively distorted the view of the playfield in what was a fairly standard shooter. Some of the playfields were topologically circular, and others were lines.
+
+[^119]: Galaga: This sequel to Galaxian introduced various key concepts such as bonus levels and power-ups (your ship could be captured and then recaptured so that you earned double firepower).
+
+[^120]: Gorf: A whimsical arcade shooter that featured notably different opponents on different levels, including a mothership as a final enemy for stages.
+
+[^121]: Zaxxon: Isometric scrolling shooters are not unheard of, but they are usually merely visual tricks to spice up a shooter that is truly a 2-D experience. Zaxxon, however, permitted movement along the vertical axis and had obstacles and targets at different heights. The perspective made it tricky to align the ship, but the graphics were amazing for its time. Very few other games made use of this style of gameplay, with the notable exception of Blue Max and its sequel, which set the gameplay in World War I and included the ability to bomb targets.
+
+[^122]: Centipede: One of the most charming shoot-'em-ups ever made, Centipede was notable for its extension of several key concepts from earlier games. It permitted full planar movement within a restricted area at the bottom of the screen, allowing enemies to inhabit the space behind the player. It made use of the same sort of barriers that Space Invaders had, only it characterized them as mushrooms and spread them across the entire screen. It had a wide assortment of enemies, some of which marched down the screen and some of which were dive-bombers. Finally, the control mechanism was a trackball, which gave players control over acceleration rather than just linear movement speed, employed by joystick-controlled shooters.
+
+[^123]: Asteroids: A shooter played on a toroidal field. The torus was never displayed to the user as such, of course; the player was presented with a stark black screen with asteroids drifting on it. The top and bottom edges wrapped around, as did the left and right edges. Every time you shot an asteroid, it broke into smaller pieces. Only the smaller pieces could be removed from play. You controlled your ship using a reasonable 2-D simulation of inertial physics. Most people chose not to move very much and instead played the game as a turret, as it was difficult to control your ship.
+
+[^124]: 《Gyruss》：《小蜜蜂》的衍生游戏，将游戏场地扭曲成一个圆形。玩家沿着外圈移动，敌人则从中心呈螺旋状出现。
+
+[^125]: 《暴风雨》：雅达利推出的一款街机游戏，在这款相当标准的射击游戏中，玩家沿着各种形状的边缘移动，所有这些都有效地扭曲了游戏场地的视角。有些游戏场地在拓扑上是圆形的，有些则是线形的。
+
+[^126]: 《大蜜蜂》：《小蜜蜂》的续作，引入了各种关键概念，如奖励关卡和能量升级（您的飞船可以被捕获，然后再夺回，这样您就能获得双倍火力）。
+
+[^127]: 《Gorf》：一款异想天开的街机射击游戏，在不同的关卡中会遇到明显不同的对手，包括作为各阶段最终敌人的母舰。
+
+[^128]: Zaxxon：等轴滚动射击游戏并非闻所未闻，但它们通常只是视觉上的小把戏，为真正的二维射击游戏增添色彩。然而，Zaxxon 允许沿垂直轴移动，并在不同高度设置障碍和目标。这种视角使飞船的对齐变得十分困难，但其画面在当时却是令人惊叹的。很少有其他游戏采用这种游戏方式，但《蓝色麦克斯》及其续集是个例外，该游戏将游戏背景设定在第一次世界大战，并加入了轰炸目标的功能。
+
+[^129]: 《蜈蚣》：《蜈蚣》是史上最有魅力的射击游戏之一，其显著特点是扩展了早期游戏的几个关键概念。它允许玩家在屏幕底部的限制区域内进行完全平面的移动，允许敌人居住在玩家身后的空间。它使用了《太空入侵者》中的障碍物，只是把它们描述成蘑菇，并把它们分布在整个屏幕上。游戏中的敌人种类繁多，有的沿着屏幕向下行进，有的则是俯冲轰炸机。最后，该游戏的控制装置是一个轨迹球，玩家可以控制加速度，而不仅仅是操纵杆控制的射击游戏所采用的线性移动速度。
+
+[^130]: 《小行星》：这是一款在环形场地上进行的射击游戏。当然，用户从未看到过环形场；玩家看到的是一个黑色的屏幕，上面漂浮着小行星。顶部和底部边缘环绕，左侧和右侧边缘也是如此。每击中一颗小行星，它就会碎成更小的碎片。只有较小的碎片才能从游戏中移除。你可以利用合理的二维惯性物理模拟来控制飞船。由于难以控制飞船，大多数人选择不做太多移动，而是把飞船当作炮塔来玩。
+
+[^131]: Robotron: One of several classic games developed by Williams during a very fertile period for game innovation there. In Robotron, control requires two joysticks, one for movement and another to fire in any of eight directions. The field is a simple rectangle filled with enemy robots and with humans you must try to save. Should a robot contact a human, the human is killed. Collecting the humans gave extra points, but advancing to the next level was based on slaying all the robots.
+
+[^132]: Defender: Another Williams game featuring rescue, Defender made the importance of protecting your humans even more critical. The gameplay field was a long wrapping ribbon, and players were able to move freely all the way around the surface of the ribbon. At the bottom of the ribbon were humans, and from the top descended a variety of aliens. Some sorts of aliens would attack you directly, but others would locate humans and carry them to the top of the screen. Once captured in this way, the humans became extremely dangerous enemies that hunted you down. Defender was famous for an extremely difficult control interface as well.
+
+[^133]: Choplifter: An 8-bit computer game developed by Broderbund. In Choplifter, you played a helicopter pilot on a long oblong field that scrolled in both directions. An enemy convoy marched from one end of the field to the other. In its path were buildings full of humans you had to fly out to, rescue, and return to your base at the other end. Although you could spend your time shooting the enemy, your score was based on your success at the humanitarian goal rather than the destructive one.
+
+[^134]: 机器人 威廉姆斯公司在游戏创新非常活跃的时期开发的几款经典游戏之一。在《机器人争霸》中，控制需要两个操纵杆，一个用于移动，另一个用于向八个方向中的任何一个方向开火。战场是一个简单的矩形，上面布满了敌人的机器人和你必须设法拯救的人类。如果机器人接触到人类，人类就会被杀死。收集人类可以获得额外分数，但进入下一关则要靠杀死所有机器人。
+
+[^135]: 保卫者 保卫者》是威廉姆斯公司的另一款以营救为主题的游戏，它让保护人类变得更加重要。游戏场地是一条长长的彩带，玩家可以在彩带表面自由移动。丝带的底部是人类，而从顶部则是各种外星人。有些外星人会直接攻击你，有些则会找到人类并把他们带到屏幕上方。一旦以这种方式捕获了人类，他们就会成为追杀你的极其危险的敌人。保卫者》还以极其困难的控制界面而闻名。
+
+[^136]: 《救援直升机》：一款由 Broderbund 开发的 8 位电脑游戏。在《救援直升机》中，你扮演一名直升机驾驶员，在一个向两个方向滚动的长方形场地上飞行。一支敌方车队从场地的一端向另一端行进。在车队前进的道路上，有一幢幢建筑物，里面住满了人，你必须飞过去营救他们，然后返回另一端的基地。虽然你可以花时间射击敌人，但你的得分是基于你在人道主义目标上的成功，而不是破坏性目标。
+
+[^137]: Bosses: A generic term for any enemy that is notably larger and more powerful than those that came before, typically placed at the end of a series of thematically linked levels.
+
+[^138]: 头目：泛指比前面的敌人明显更大、更强大的敌人，通常出现在一系列主题相连的关卡的最后。
+
+[^139]: Tetris: An abstract puzzle game designed by Alexei Pajitnov. Played on a grid that is taller than it is wide, this game features pieces composed of four smaller squares falling from the top of the field. The player is allowed to move the pieces from side to side as they fall and to rotate them in place. Should the pieces pile up to the top of the field, the game is over. When a full horizontal row is created, all the squares on that row are deleted and the pieces above fall down to take their place.
+
+[^140]: Hexagons: The Tetris variant with hexagons was, naturally enough, called Hextris. However, it did not make use of pieces with six hexagons and therefore didn't have the clever pun in the title of the original Tetris.
+
+[^141]: 3D Tetris: Many variants of 3D Tetris were created. The designer of Tetris, Alexey Pajitnov, created Welltris, which was really four separate games of Tetris played on a cross-shaped field (the pieces slid down the "sides" of a "well." There have also been true 3D variants, but they proved to be extraordinarily difficult to play and never garnered much acceptance.
+
+[^142]: Puzzle games based on time: since the original edition of this book, manipulation of time has become a far more common element in game design.
+
+[^143]: 《俄罗斯方块》：阿列克谢·帕吉特诺夫设计的一款抽象益智游戏。俄罗斯方块是一款抽象的益智游戏，由阿列克谢·帕吉特诺夫设计。游戏在一个高大于宽的网格上进行，棋子由四个较小的方格组成，从网格顶部落下。玩家可以在棋子落下时左右移动棋子，也可以在原地旋转棋子。如果棋子堆积到场地顶部，游戏就结束了。当棋子堆满一横排时，该横排上的所有方格都会被删除，而上面的棋子则会落下取而代之。
+
+[^144]: 《六边形》：俄罗斯方块的六边形变体自然被称为 Hextris。不过，它并没有使用六个六边形的棋子，因此没有原版俄罗斯方块标题中巧妙的双关语。
+
+[^145]: 《3D 俄罗斯方块》：3D 俄罗斯方块有许多变体。俄罗斯方块的设计者阿列克谢·帕吉特诺夫创造了“井”（Welltris）俄罗斯方块，实际上是在一个十字形的场地上玩四个独立的俄罗斯方块游戏（棋子从“井”的“两边”滑下）。此外，还有真正的 3D 变体，但事实证明它们非常难玩，从未获得广泛认可。
+
+[^146]: 基于时间的益智游戏：自本书初版以来，对时间的操控已成为游戏设计中更为常见的元素。
