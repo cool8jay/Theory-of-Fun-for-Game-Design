@@ -106,7 +106,7 @@ We can rectify this to a degree via good game design (and even better, we can ma
 <img src="images/7.3.png">
 </div>
 
-> They will try to make the gameplay as prdictable as possible.
+> They will try to make the gameplay as predictable as possible.
 > 
 > 他们会尽量让游戏变得可控。
 > 
