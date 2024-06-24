@@ -168,7 +168,7 @@ All of this happens because the human mind is goal-driven. We make pious stateme
 
 Rewards are one of the key components of a successful game activity; if there isn't a quantifiable advantage to doing something, the brain will often discard it out of hand. What are the other fundamental components of a game element, the "atoms" of games, so to speak? Game designer Ben Cousins calls these "ludemes," the basic units of gameplay. We've talked about several of them, such as "visit everywhere" and "get to the other side." There are many left to discover, we hope. In the end, though, games are almost always made up of the same elementary particles.
 
-奖励是游戏活动成功的关键要素之一；如果做某件事情没有可量化的好处，大脑往往会立刻放弃。游戏元素的其他基本要素是什么，可以说是游戏的“原子”吗？游戏设计师本·库辛斯将其称为“ludemes”，即游戏的基本单位。我们已经讨论过其中的几个，比如“到处游览”和“到达另一边”。我们希望还有更多的游戏等着我们去发现。不过归根结底，游戏几乎都是由相同的基本粒子组成的。
+奖励是游戏活动成功的关键要素之一；如果做某件事情没有可量化的好处，大脑往往会立刻放弃。游戏元素的其他基本要素是什么，可以说是游戏的“原子”吗？游戏设计师本·库辛斯将其称为“游戏元素”，即游戏的基本单位。我们已经讨论过其中的几个，比如“到处游览”和“到达另一边”。我们希望还有更多的游戏等着我们去发现。不过归根结底，游戏几乎都是由相同的基本粒子组成的。
 
 <div align="center">
 <img src="images/7.5.png">
@@ -242,7 +242,8 @@ There are also some features that should be present to make the experience a lea
 	失败必须付出代价。至少要付出机会成本，甚至更多。下一次尝试挑战时，你必须从头开始，没有“重来”的机会。下一次尝试，你可能会有不同的准备。
 
 Looking at these elementary particles that make up ludemes, it's easy to see why most games in history have been competitive head-to-head activities. It's the easiest way to constantly provide a new flow of challenges and content.
-看看这些构成“ludemes”的基本粒子，我们就不难理解为什么历史上大多数游戏都是正面交锋的竞技活动了。这是不断提供新挑战和新内容的最简单方法。
+
+看看这些构成“游戏元素”的基本粒子，我们就不难理解为什么历史上大多数游戏都是正面交锋的竞技活动了。这是不断提供新挑战和新内容的最简单方法。
 
 <div align="center">
 <img src="images/7.7.png">
@@ -254,14 +255,14 @@ Looking at these elementary particles that make up ludemes, it's easy to see why
 
 Historically, competitive game-playing of all sorts has tended to squeeze out the people who most need to learn the skills it provides, simply because they aren't up to the competition and they are eliminated in their first match. This is the essence of the Mastery Problem. Because of this, a lot of people prefer games that take no skill. These people are definitely failing to exercise their brains correctly. Not requiring skill from a player should be considered a cardinal sin in game design. At the same time, designers of games need to be careful not to make the game demand too much skill. They must keep in mind that players are always trying to reduce the difficulty of a task. The easiest way to do that is to not play.
 
-从历史上看，各种竞技游戏往往会挤掉最需要学习其所提供技能的人，原因很简单，因为他们不适应竞争，在第一场比赛中就被淘汰了。这就是 "掌握问题 "的本质。正因为如此，很多人更喜欢不需要技巧的游戏。这些人肯定没有正确锻炼自己的大脑。不要求玩家掌握技巧应被视为游戏设计中的大忌。同时，游戏设计者也需要注意，不要让游戏对玩家的技能要求过高。他们必须牢记，玩家总是试图降低任务的难度。最简单的方法就是不玩。
+从历史上看，各种竞技游戏往往会挤掉最需要学习其所提供技能的人，原因很简单，因为他们不适应竞争，在第一场比赛中就被淘汰了。这就是 “掌握问题”的本质。正因为如此，很多人更喜欢不需要技巧的游戏。这些人肯定没有正确锻炼自己的大脑。不要求玩家掌握技巧应被视为游戏设计中的大忌。同时，游戏设计者也需要注意，不要让游戏对玩家的技能要求过高。他们必须牢记，玩家总是试图降低任务的难度。最简单的方法就是不玩。
 
 This isn't an algorithm for fun, but it's a useful tool for checking for the absence of fun, because designers can identify systems that fail to meet all the criteria. It may also prove useful in terms of game critique. Simply check each system against this list:
 
 这并不是一种有趣的算法，但它却是检查游戏是否有趣的有用工具，因为设计者可以找出不符合所有标准的系统。在游戏评论方面，它也可能被证明是有用的。只需对照清单检查每个系统即可
 
 * Do you have to prepare before taking on the challenge?\
-	在接受挑战之前，您是否必须做好准备？
+	在接受挑战之前，你是否必须做好准备？
 
 * Can you prepare in different ways and still succeed?\
 	你能以不同的方式做好准备并取得成功吗？
@@ -282,7 +283,7 @@ This isn't an algorithm for fun, but it's a useful tool for checking for the abs
 	在高难度情况下，玩家是否必须使用多种能力来应对挑战？
 
 * Is there skill involved in using an ability? (If not, is this a fundamental "move" in the game, like moving one checker piece?)\
-	使用某种能力是否需要技巧？(如果没有，这是否是游戏中的基本 "移动"，就像移动跳棋棋子一样？）
+	使用某种能力是否需要技巧？(如果没有，这是否是游戏中的基本“移动”，就像移动跳棋棋子一样？）
 
 * Are there multiple success states to overcoming the challenge? (In other words, success should not have a single guaranteed result.)\
 	克服挑战是否有多种成功状态？(换句话说，成功不应该只有一个确定的结果）。
@@ -307,15 +308,15 @@ If your answer to any of the above questions is "no," then the game system is pr
 
 Game designers are caught in the Red Queen's Race, because challenges are meant to be surmounted. The result is that modern game designers have often taken the approach of piling more and more different types of challenges into one game. The number of ludemes reaches astronomical proportions. Consider that checkers consists of exactly two: "capture all the pieces" and "move one piece." Now compare that to the last console game you saw. Which do you think will still be played in a hundred years?
 
-游戏设计者陷入了 "红皇后竞赛 "的困境，因为挑战就是用来克服的。其结果是，现代游戏设计者经常采取的做法是，在一个游戏中堆砌越来越多不同类型的挑战。鲁迪姆的数量达到了天文数字。想想看，跳棋就只有两种：“吃掉所有棋子”和“移动一个棋子”。现在把它与你看到的上一款游戏机游戏进行比较。你认为哪个游戏在一百年后还能玩？
+游戏设计者陷入了“红皇后竞赛”的困境，因为挑战就是用来克服的。其结果是，现代游戏设计者经常采取的做法是，在一个游戏中堆砌越来越多不同类型的挑战。游戏元素的数量达到了天文数字。想想看，跳棋就只有两种：“吃掉所有棋子”和“移动一个棋子”。现在把它与你看到的上一款游戏机游戏进行比较。你认为哪个游戏在一百年后还能玩？
 
 Most classic games consist of relatively few systems that fit together elegantly. The entire genre of abstract strategy games is about elegant choice of ludemes. But in today's world, many of the lessons we might want to teach might require highly complex environments and many moving parts—online virtual worlds spring to mind as an obvious example.
 
-大多数经典游戏都由相对较少的系统组成，这些系统可以优雅地组合在一起。抽象策略游戏的整个流派都是关于如何优雅地选择 ludemes。但在当今世界，我们想要教授的许多课程可能都需要非常复杂的环境和许多活动部件--网络虚拟世界就是一个明显的例子。
+大多数经典游戏都由相对较少的系统组成，这些系统可以优雅地组合在一起。抽象策略游戏的整个流派都是关于如何优雅地选择游戏元素。但在当今世界，我们想要教授的许多课程可能都需要非常复杂的环境和许多活动部件——网络虚拟世界就是一个明显的例子。
 
 The lesson for designers is simple: a game is destined to become boring, automated, cheated, and exploited. Your sole responsibility is to know what the game is about and to ensure that the game teaches that thing. That one thing, the theme, the core, the heart of the game, might require many systems or it might require few. But no system should be in the game that does not contribute towards that lesson. It is the cynosure of all the systems; it is the moral of the story; it is the point.
 
-对于设计者来说，教训很简单：游戏注定会变得无聊、自动化、欺骗和被利用。你唯一的责任就是要知道游戏是关于什么的，并确保游戏教给人们的就是这件事。这一件事，即游戏的主题、核心和心脏，可能需要很多系统，也可能只需要很少系统。但游戏中的任何系统都不应该对这一课程无益。它是所有系统的核心；它是故事的寓意；它是重点。
+对于设计者来说，教训很简单：游戏注定会变得无聊、自动化、欺骗和被利用。你唯一的责任就是要知道游戏是关于什么的，并确保游戏教给人们的就是这件事。这一件事，即游戏的主题、核心和心脏，可能需要很多系统，也可能只需要很少系统。但游戏中的任何系统都应该对这一课程有益。它是所有系统的核心；它是故事的寓意；它是重点。
 
 In the end, that is both the glory of learning and its fundamental problem: once you learn something, it's over. You don't get to learn it again.
 
@@ -335,8 +336,50 @@ In the end, that is both the glory of learning and its fundamental problem: once
 > 
 > ...please, I want this job to cease to exist...Don't you want your daughter to be comfortable at industry events?
 > 
-> ......拜托，我希望这份工作不要再存在了......难道你不想让你的女儿在行业活动中感到舒适吗？
+> ……拜托，我希望这份工作消失……难道你不想让你的女儿在行业活动中感到舒适吗？
 
 [^1]: First recorded rules of war: These were a suggestion by Sun Tzu. Most often, these have been intended to protect non-combatants, but sometimes they have been conventions of honor, such as not attacking by night or from ambush.
 
-[^2]: 第一部有记载的战争规则：这是孙子的建议。大多数情况下，这些规则旨在保护非战斗人员，但有时它们也是荣誉公约，例如不在夜间或埋伏地发动攻击。
+[^2]: 第一部有记载的兵书：这是孙子的建议。大多数情况下，这些规则旨在保护非战斗人员，但有时它们也是荣誉公约，例如不在夜间或埋伏地发动攻击。
+
+Cheating during a soccer match: On the flip side, if the referee fails to see that we are offside, we’ll take it and often say, “Them’s the breaks.” It is still a violation of the rules, but since the ref (who is part of the formal construct) is fallible, we accept the violation.
+
+在足球比赛中作弊： 反过来说，如果裁判没有发现我们越位，我们也会接受，并经常说 "这就是休息"。这仍然是违反规则的行为，但由于裁判（他是正式结构的一部分）是易犯错的，所以我们接受这种违规行为。
+
+Most games do not permit innovation and invention: There does exist a game, called Nomic, whose rules you rewrite as you play; it’s part of the game. It too has limits; you bump up against the physics of reality if you try to change too much. In Nomic’s case, the changing rules are themselves part of the pattern—but declaring atoms to be the size of Jupiter, or pulling out a gun and shooting another player, are still off-limits even if you make a rule allowing it. Nomic was designed by Peter Suber of the Philosophy Department at Earlham College.
+
+大多数游戏都不允许创新和发明： 确实有一种游戏叫 "Nomic"，它的规则可以边玩边改写；这也是游戏的一部分。它也有限制；如果你试图改变太多，就会与现实的物理原理相冲突。在《Nomic》中，改变规则本身就是模式的一部分--但宣布原子有木星那么大，或掏出枪来射击其他玩家，即使你制定了允许这样做的规则，仍然是不允许的。Nomic 由厄勒姆学院哲学系的 Peter Suber 设计。
+
+The destiny of games: Many games, of course, seem to become more fun as you learn more about them. This has a lot to do with the nature of the challenge presented in those games; they tend to present problems of a certain complexity level that reveals more subtleties the deeper in you go.
+
+游戏的命运 当然，许多游戏似乎会随着你对它们了解的加深而变得更加有趣。这与这些游戏的挑战性质有很大关系；它们往往会提出具有一定复杂程度的问题，越深入越能发现其中的奥妙。
+
+Ludemes: As used here, a concept developed by Ben Cousins, a video game designer. An article about the concept appeared in the October 2004 issue of Develop Magazine. Ben has renamed the concept “primary elements,” but I like “ludemes” better, even though the word is already in use in a different context (see http://www.davidparlett.co.uk/gamester/ludemes.html for a history of the term by David Parlett). The idea also has a lot in common with the “choice molecules” described by Eric Zimmerman and Katie Salen in Rules of Play (MIT Press, 2003).
+
+Ludemes： 这里指的是视频游戏设计师 Ben Cousins 提出的概念。关于这一概念的文章刊登在《开发》杂志 2004 年 10 月刊上。本将这一概念改名为 "主要元素"，但我更喜欢 "Ludemes"，尽管这个词已经在不同的语境中使用过（参见 http://www.davidparlett.co.uk/gamester/ludemes.html，戴维-帕莱特撰写的该词历史）。这个想法与埃里克-齐默尔曼和凯蒂-萨伦在《游戏规则》（麻省理工学院出版社，2003 年）中描述的 "选择分子 "也有很多共同之处。
+
+Games incorporate the following elements: This material on basic elements of games is an extremely brief survey of “game grammar,” the idea that ludic structures have specific structural qualities that make them work. For more information on this idea, I recommend the following:
+
+
+游戏包含以下要素： 关于游戏基本要素的这些材料只是对 "游戏语法 "的一个极为简短的概述，"游戏语法 "的概念是，游戏结构具有特定的结构特质，这些特质使其能够发挥作用。关于这一观点的更多信息，我推荐阅读以下书籍：
+
+• “A Grammar of Gameplay,” a presentation I delivered at GDC 2005: http://www.raphkoster.com/gaming/atof/grammarofgameplay.pdf
+- 游戏玩法的语法"，我在 2005 年 GDC 上发表的演讲：http://www.raphkoster.com/gaming/atof/grammarofgameplay.pdf
+• Dan Cook’s article “The Chemistry of Game Design,” found at http://www.lostgarden.com/2007/07/chemistry-of-game-design.html
+- 丹-库克（Dan Cook）的文章 "游戏设计的化学"，见 http://www.lostgarden.com/2007/07/chemistry-of-game-design.html
+• Stéphane Bura’s “A Game Grammar,” found at http://users.skynet.be/bura/diagrams/
+- Stéphane Bura 的 "游戏语法"，见 http://users.skynet.be/bura/diagrams/
+• The book Game Mechanics: Advanced Game Design (New Riders, 2012) by Ernest Adams and Joris Dormans.
+- Game Mechanics： Ernest Adams 和 Joris Dormans 合著的《游戏机制：高级游戏设计》（New Riders，2012 年）。
+
+The Mastery Problem: This can be summarized as “the rich get richer.” It is an expression of iterative zero-sum games—games in which the winner ends up in a better position than the loser. If a high-level player can reinforce his position by repeatedly defeating easy targets, then eventually his position will become unassailable. This is not in itself a problem—it simply leads to victory. The problem arises when a novice coming to the game cannot possibly succeed.
+
+Opportunity cost: Since games are always sequences of challenges, the fact that you made a bad choice cannot simply be undone. At the very least, the fact that you could have chosen to do something else allows your opponent to make her own choice. In playing games, we only give “take-backs” to young children, and there exist a plethora of rules dictating when moves become irrevocable in board games (for example, you commit to a move in chess when you let go of the piece).
+
+Red Queen’s Race: In Lewis Carroll’s classic book Through the Looking Glass, Alice runs alongside the Red Queen in a landscape that is moving very quickly. So quickly, in fact, that they have to run to stand still. This situation has become known as the Red Queen’s Race.
+
+掌握问题：可以概括为“富者愈富”。它是迭代零和游戏的一种表现形式--在这种游戏中，赢家最终会比输家处于更有利的地位。如果一个高水平的玩家可以通过反复击败容易击败的目标来巩固自己的地位，那么最终他的地位将变得不可撼动。这本身并不是问题--它只会导致胜利。如果新手不可能成功，问题就出现了。
+
+机会成本：由于游戏总是一连串的挑战，因此你做出了错误的选择这一事实是无法简单挽回的。至少，你本可以选择做其他事情，这让你的对手可以做出自己的选择。在玩游戏时，我们只给年幼的孩子 "收回 "的机会，而在棋类游戏中，有大量的规则规定了何时走棋变得不可更改（例如，在国际象棋中，当你放开棋子时，你就承诺了走棋）。
+
+红皇后的赛跑：在刘易斯·卡罗尔的经典名著《透过望远镜》中，爱丽丝与红皇后在一片快速移动的风景中并肩奔跑。事实上，他们跑得太快了，以至于必须跑着才能站稳。这种情况被称为红皇后赛跑。
