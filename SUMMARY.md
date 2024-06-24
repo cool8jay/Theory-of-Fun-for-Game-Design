@@ -12,5 +12,5 @@
 * [Chapter 4 What Games Teach Us? 第四章 游戏教会了我们什么？](chapter-4.md)
 * [Chapter 5 What Games Aren't? 第五章 游戏不是什么？](chapter-5.md)
 * [Chapter 6 Different Fun for Different Folks 第六章 不同的人有不同的乐趣](chapter-6.md)
-* [Chapter 7 The Problem with learning 第七章 学习的问题](chapter-7.md)
-* 
+* [Chapter 7 The Problem with Learning 第七章 学习的问题](chapter-7.md)
+* [Chapter 8 The Problem with People 第八章 人的问题](chapter-8.md)
