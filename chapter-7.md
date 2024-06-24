@@ -152,11 +152,11 @@ The natural instinct of a game player is to make the game more predictable becau
 
 This leads to behaviors like "bottom-feeding," where a player will intentionally take on weaker opponents under the sensible logic that a bunch of sure wins is a better strategy than gambling it all on an iffy winner-take-all battle. Players running an easy level two hundred times to build up enough lives so that they can cruise through the rest of the game with little risk is the equivalent of stockpiling food for winter: it's just the smart thing to do.
 
-这就导致了 "抄底 "等行为，玩家会故意与较弱的对手较量，其合理的逻辑是，与把全部赌注都押在不确定的赢家通吃的战斗上相比，稳操胜券才是更好的策略。玩家把一个简单的关卡玩上两百次，积累足够的生命值，这样他们就能在几乎没有风险的情况下游览游戏的其余部分，这就相当于为冬天储备食物：这是明智之举。
+这就导致了“抄底”等行为，玩家会故意与较弱的对手较量，其合理的逻辑是，与把全部赌注都押在不确定的赢家通吃的战斗上相比，稳操胜券才是更好的策略。玩家把一个简单的关卡玩上两百次，积累足够的生命值，这样他们就能在几乎没有风险的情况下完成游戏的其余部分，这就相当于为冬天储备食物：这是明智之举。
 
 This is what games are for. They teach us things so that we can minimize risk and know what choices to make. Phrased another way, the destiny of games is to become boring, not to be fun. Those of us who want games to be fun are fighting a losing battle against the human brain because fun is a process and routine is its destination.
 
-这就是游戏的作用。游戏教会我们一些东西，这样我们就能把风险降到最低，并知道该做出怎样的选择。换一种说法，游戏的命运是变得无聊，而不是变得有趣。我们中那些希望游戏变得有趣的人，正在与人类大脑进行一场失败的战斗，因为有趣是一个过程，而常规才是它的目的。
+这就是游戏的作用。游戏教会我们一些东西，这样我们就能把风险降到最低，并知道该做出怎样的选择。换一种说法，游戏的命运是变得无聊，而不是变得有趣。我们中那些希望游戏变得有趣的人，正在与人类大脑进行一场失败的战斗，因为有趣是一个过程，而常规才是它的终点。
 
 So players often intentionally suck the fun out of a game in hopes they can learn something new (in other words, find something fun) once they complete the task. They'll do it because they perceive it (correctly) as the optimal strategy for getting ahead. They'll do it because they see others doing it, and it's outright unnatural for a human being to see another human being succeeding at something and not want to compete.
 
@@ -164,11 +164,11 @@ So players often intentionally suck the fun out of a game in hopes they can lear
 
 All of this happens because the human mind is goal-driven. We make pious statements like "it's the journey, not the destination," but that's mostly wishful thinking. The rainbow is pretty and all, and we may well enjoy gazing at it, but while you were gazing, lost in a reverie, someone else went and dug up the pot of gold at the end of it.
 
-所有这一切的发生，都是因为人类的思想是目标驱动的。我们会虔诚地说 "重要的是旅程，而不是目的地"，但这大多是一厢情愿的想法。彩虹固然美丽，我们也可能喜欢凝望彩虹，但当你沉浸在遐想中时，别人已经去挖掘彩虹尽头的金矿了。
+所有这一切的发生，都是因为人类的思想是目标驱动的。我们会虔诚地说“重要的是旅程，而不是目的地”，但这大多是一厢情愿的想法。彩虹固然美丽，我们也可能喜欢凝望彩虹，但当你沉浸在遐想中时，别人已经去挖掘彩虹尽头的金矿了。
 
 Rewards are one of the key components of a successful game activity; if there isn't a quantifiable advantage to doing something, the brain will often discard it out of hand. What are the other fundamental components of a game element, the "atoms" of games, so to speak? Game designer Ben Cousins calls these "ludemes," the basic units of gameplay. We've talked about several of them, such as "visit everywhere" and "get to the other side." There are many left to discover, we hope. In the end, though, games are almost always made up of the same elementary particles.
 
-奖励是游戏活动成功的关键要素之一；如果做某件事情没有可量化的好处，大脑往往会弃之不用。游戏元素的其他基本要素是什么，可以说是游戏的 "原子 "吗？游戏设计师本-考辛斯（Ben Cousins）将其称为 "ludemes"，即游戏的基本单位。我们已经讨论过其中的几个，比如 "到处游览 "和 "到达另一边"。我们希望还有更多的游戏等着我们去发现。不过归根结底，游戏几乎都是由相同的基本粒子组成的。
+奖励是游戏活动成功的关键要素之一；如果做某件事情没有可量化的好处，大脑往往会立刻放弃。游戏元素的其他基本要素是什么，可以说是游戏的“原子”吗？游戏设计师本·库辛斯将其称为“ludemes”，即游戏的基本单位。我们已经讨论过其中的几个，比如“到处游览”和“到达另一边”。我们希望还有更多的游戏等着我们去发现。不过归根结底，游戏几乎都是由相同的基本粒子组成的。
 
 <div align="center">
 <img src="images/7.5.png">
@@ -194,10 +194,10 @@ Successful games tend to incorporate the following elements:
     **准备。** 在接受特定挑战之前，玩家可以做出一些影响成功几率的选择。这可能是在战斗前养精蓄锐，也可能是给对手下套，还可能是提前练习。她可能会设置一个战略格局，比如在纸牌游戏中打造一手特定的牌。游戏中的先手自动成为准备阶段的一部分，因为几乎所有游戏都是由多个挑战依次组成的。
 
 * **A sense of space.** The space might be the landscape of a war game, a chessboard, or the network of relationships between the players during the bridge game.\
-    **空间感。** 空间可以是战争游戏中的地形、棋盘，也可以是桥牌游戏中玩家之间的关系网络
+    **空间感。** 空间可以是战争游戏中的地形、棋盘，也可以是桥牌游戏中玩家之间的关系网络。
 
 * **A solid core mechanic.** This is a puzzle to solve, an intrinsically interesting rule set into which content can be poured. An example might be "moving a piece in chess." The core mechanic is usually a fairly small rule; the intricacies of games come from either having a lot of mechanics or having a few, very elegantly chosen ones. Most of these mechanics turn out to be from a fairly small set of problem types: estimating curves, optimizing, matching, balancing, or classifying.\
-    **坚实的核心机制。** 这是一个需要解决的难题，是一个内在有趣的规则集，可以在其中注入内容。例如 "在国际象棋中移动棋子"。核心机制通常是一个相当小的规则；游戏的复杂性来自于要么有很多机制，要么有少数几个非常优雅的机制。这些机制中的大多数都来自相当小的一组问题类型：估计曲线、优化、匹配、平衡或分类。
+    **坚实的核心机制。** 这是一个需要解决的难题，是一个内在有趣的规则集，可以在其中注入内容。例如“在国际象棋中移动棋子”。核心机制通常是一个相当小的规则；游戏的复杂性来自于要么有很多机制，要么有少数几个非常优雅的机制。这些机制中的大多数都来自相当小的一组问题类型：估计曲线、优化、匹配、平衡或分类。
 
 * **A range of challenges.** This is basically content. It does not change the rules, it operates within the rules, and brings slightly different parameters to the table. Each enemy you encounter in a game is one of these.\
     **一系列挑战。** 这基本上就是内容。它不改变规则，在规则范围内运作，并带来略有不同的参数。游戏中遇到的每个敌人都是其中之一。
@@ -216,7 +216,7 @@ Successful games tend to incorporate the following elements:
 > 
 > 事实上，大多数游戏玩家都很有底线，如果一项活动不能带来可量化的奖励，他们就会认为这项活动无关紧要。
 > 
-> NAN, SAVING THE WORLD DIDN'T GIVE ANY EXTRA BONUS POINTS, SO I LET THE MARTIANS NUKE IT.
+> NAH, SAVING THE WORLD DIDN'T GIVE ANY EXTRA BONUS POINTS, SO I LET THE MARTIANS NUKE IT.
 > 
 > 不，拯救世界并没有带来额外的奖励积分，所以我让火星人用核弹炸了它。
 > 
@@ -226,7 +226,7 @@ Successful games tend to incorporate the following elements:
 
 A game having all of these elements hits the right cognitive buttons to be fun. If a game involves no preparation, we say it relies on chance. If there's no sense of space, we call it trivial. If there's no core mechanic, there's no game system at all. If there's no range of challenges, we exhaust it quickly. If there aren't multiple choices to make, it's simplistic. And if skill isn't required, it's tedious.
 
-一个游戏如果具备了所有这些要素，就能击中正确的认知按钮，从而变得有趣。如果一个游戏不需要任何准备，我们就说它依赖于机会。如果没有空间感，我们称之为琐碎。如果没有核心机制，就根本不存在游戏系统。如果没有各种挑战，我们很快就会把它玩腻。如果没有多种选择，那就是简单化。如果不需要技巧，就会乏味。
+一个游戏如果具备了所有这些要素，就能击中正确的认知按钮，从而变得有趣。如果一个游戏不需要任何准备，我们就说它依赖于机会。如果没有空间感，我们称之为狭小。如果没有核心机制，就根本不存在游戏系统。如果没有各种挑战，我们很快就会把它玩腻。如果没有多种选择，那就是过分简单。如果不需要技巧，就会乏味。
 
 There are also some features that should be present to make the experience a learning experience:
 
@@ -236,13 +236,13 @@ There are also some features that should be present to make the experience a lea
 	可变反馈系统。遭遇战的结果不应该是完全可以预测的。理想情况下，完成挑战的技巧越高，奖励就越好。在国际象棋这样的游戏中，可变反馈就是对手对你走棋的反应。
 
 * The Mastery Problem must be dealt with. High-level players can't get big benefits from easy encounters or they will bottom-feed. Inexpert players will be unable to get the most out of the game.\
-	必须解决掌握问题。高水平玩家不能从简单的遭遇战中获得巨大收益，否则他们就会底层进食。不精通的玩家将无法从游戏中获得最大收益。
+	必须解决掌握问题。高水平玩家不能从简单的遭遇战中获得巨大收益，否则他们就会去抄底。不精通的玩家将无法从游戏中获得最大收益。
 
 * Failure must have a cost. At the very least there is an opportunity cost, and there may be more. Next time you attempt the challenge, you are assumed to come into it from scratch—there are no "do-overs." Next time you try, you may be prepared differently.\
-	失败必须付出代价。至少要付出机会成本，甚至更多。下一次尝试挑战时，你必须从头开始，没有 "重来 "的机会。下一次尝试，你可能会有不同的准备。
+	失败必须付出代价。至少要付出机会成本，甚至更多。下一次尝试挑战时，你必须从头开始，没有“重来”的机会。下一次尝试，你可能会有不同的准备。
 
 Looking at these elementary particles that make up ludemes, it's easy to see why most games in history have been competitive head-to-head activities. It's the easiest way to constantly provide a new flow of challenges and content.
-看看这些构成“鲁德米斯”的基本粒子，我们就不难理解为什么历史上大多数游戏都是正面交锋的竞技活动了。这是不断提供新挑战和新内容的最简单方法。
+看看这些构成“ludemes”的基本粒子，我们就不难理解为什么历史上大多数游戏都是正面交锋的竞技活动了。这是不断提供新挑战和新内容的最简单方法。
 
 <div align="center">
 <img src="images/7.7.png">
