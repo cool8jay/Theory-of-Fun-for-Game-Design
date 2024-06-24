@@ -96,7 +96,7 @@ Players and designers often make the distinction between "cheating" and "exploit
 
 But the game is usually intended to put players through a particular challenge, and while a bad design may allow the player to circumvent the challenge, we resent it because it's circumvention. It's not exactly evidence of mastery of a technique to solve the problem. Often games are trying to teach techniques; they don't merely give players goals and tell them to solve them any way they please.
 
-但游戏的目的通常是让玩家通过特定的挑战，虽然糟糕的设计可能会让玩家规避挑战，但我们会因为规避而反感。这并不能证明玩家掌握了解决问题的技巧。游戏通常是在传授技巧，而不仅仅是给玩家一个目标，让他们用自己喜欢的方式去解决问题。
+但游戏的目的通常是让玩家通过特定的挑战，虽然糟糕的设计可能会让玩家规避挑战，我们讨厌这样子，因为这是一种欺骗。这并不能证明玩家掌握了解决问题的技巧。游戏通常是在传授技巧，而不仅仅是给玩家一个目标，让他们用自己喜欢的方式去解决问题。
 
 We can rectify this to a degree via good game design (and even better, we can make games that don't prescribe solutions—that's a rather limited game, and it severely undermines what games are about). But in the end, we're fighting a losing battle against a natural human tendency: to get better at things.
 
