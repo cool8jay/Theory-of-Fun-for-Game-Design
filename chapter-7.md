@@ -88,10 +88,11 @@ Cheating is a sign that the player is in fact grokking the game. From a strict s
 
 There's a good reason why we instinctively and jealously preserve the notions of sportsmanship and fair play. If the lesson taught by a particular game comes up in the real world, the cheat may not work. Cheating may not prepare us correctly. This is one reason why kicking an opponent during a soccer match is considered poor form. (Another is that neither team likes getting kicked). Whatever soccer's underlying mechanics are teaching us, kicking an opponent is outside its formal framework. The rules serve to enforce a social compact.
 
-我们本能地珍视体育精神和公平竞争的理念是有道理的。如果在现实世界中出现了某个游戏所教给我们的课程，那么作弊就可能不起作用。作弊可能无法让我们做好正确的准备。这也是为什么在足球比赛中踢对手被认为是一种不良行为的原因之一。(另一个原因是两队都不喜欢被踢）。无论足球的基本机制在教导我们什么，踢对手都不在足球的正式框架之内。规则的作用是执行社会契约。
-Players and designers often make the distinction between “cheating” and “exploiting a loophole.” They always struggle to define this, but it boils down to whether or not the extraneous action is one that resides within the magic circle of the game's framework or not. Unsurprisingly, exploiters are often the most expert players of a game. They see the places where the rules don't quite jibe. This is also why they often think that it's unfair when sticklers for the rules tell them that what they did is not allowed. Their logic goes something like “if the game permits it, then it's legal.”
+我们本能地珍视体育精神和公平竞争的理念是有道理的。如果在现实世界中出现了某个游戏所教给我们的课程，那么作弊就可能不起作用。作弊可能无法让我们做好正确的准备。这也是为什么在足球比赛中踢对手被认为是一种不良行为的原因之一。(另一个原因是两队都不喜欢被踢）。无论足球的基本机制在教导我们什么，踢对手都不在足球的正式框架之内。规则的作用是强化社会契约。
 
-球员和设计师经常会区分 "作弊 "和 "钻空子"。他们总是费尽心思去界定这一点，但归根结底还是要看不相干的行为是否在游戏框架的魔力圈内。毫不奇怪，钻空子的人往往是游戏中最专业的玩家。他们能看到规则不协调的地方。这也是为什么他们经常会认为，当严格遵守规则的人告诉他们，他们所做的是不被允许的，这是不公平的。他们的逻辑是 "如果游戏允许，那就是合法的"。
+Players and designers often make the distinction between "cheating" and "exploiting a loophole." They always struggle to define this, but it boils down to whether or not the extraneous action is one that resides within the magic circle of the game's framework or not. Unsurprisingly, exploiters are often the most expert players of a game. They see the places where the rules don't quite jibe. This is also why they often think that it's unfair when sticklers for the rules tell them that what they did is not allowed. Their logic goes something like "if the game permits it, then it's legal."
+
+球员和设计师经常会区分“作弊”和“钻空子”。他们总是费尽心思去界定这一点，但归根结底还是要看不相干的行为是否在游戏框架的魔力圈内。毫不奇怪，钻空子的人往往是游戏中最专业的玩家。他们能看到规则不协调的地方。这也是为什么他们经常会认为，当严格遵守规则的人告诉他们，他们所做的是不被允许的，这是不公平的。他们的逻辑是“如果游戏允许，那就是合法的。”
 
 But the game is usually intended to put players through a particular challenge, and while a bad design may allow the player to circumvent the challenge, we resent it because it's circumvention. It's not exactly evidence of mastery of a technique to solve the problem. Often games are trying to teach techniques; they don't merely give players goals and tell them to solve them any way they please.
 
@@ -145,7 +146,7 @@ The natural instinct of a game player is to make the game more predictable becau
 > 
 > 如果你愿意，也可以称之为 "跑步机"。
 
-This leads to behaviors like “bottom-feeding,” where a player will intentionally take on weaker opponents under the sensible logic that a bunch of sure wins is a better strategy than gambling it all on an iffy winner-take-all battle. Players running an easy level two hundred times to build up enough lives so that they can cruise through the rest of the game with little risk is the equivalent of stockpiling food for winter: it's just the smart thing to do.
+This leads to behaviors like "bottom-feeding," where a player will intentionally take on weaker opponents under the sensible logic that a bunch of sure wins is a better strategy than gambling it all on an iffy winner-take-all battle. Players running an easy level two hundred times to build up enough lives so that they can cruise through the rest of the game with little risk is the equivalent of stockpiling food for winter: it's just the smart thing to do.
 
 这就导致了 "抄底 "等行为，玩家会故意与较弱的对手较量，其合理的逻辑是，与把全部赌注都押在不确定的赢家通吃的战斗上相比，稳操胜券才是更好的策略。玩家把一个简单的关卡玩上两百次，积累足够的生命值，这样他们就能在几乎没有风险的情况下游览游戏的其余部分，这就相当于为冬天储备食物：这是明智之举。
 
@@ -157,11 +158,11 @@ So players often intentionally suck the fun out of a game in hopes they can lear
 
 因此，玩家往往会故意从游戏中吸取乐趣，希望在完成任务后能学到新东西（换句话说，找到乐趣）。他们会这么做，是因为他们认为（正确地）这是出人头地的最佳策略。他们会这么做，是因为他们看到别人在这么做，而对人类来说，看到别人在某件事情上取得成功而不想与之竞争是完全不自然的。
 
-All of this happens because the human mind is goal-driven. We make pious statements like “it's the journey, not the destination,” but that's mostly wishful thinking. The rainbow is pretty and all, and we may well enjoy gazing at it, but while you were gazing, lost in a reverie, someone else went and dug up the pot of gold at the end of it.
+All of this happens because the human mind is goal-driven. We make pious statements like "it's the journey, not the destination," but that's mostly wishful thinking. The rainbow is pretty and all, and we may well enjoy gazing at it, but while you were gazing, lost in a reverie, someone else went and dug up the pot of gold at the end of it.
 
 所有这一切的发生，都是因为人类的思想是目标驱动的。我们会虔诚地说 "重要的是旅程，而不是目的地"，但这大多是一厢情愿的想法。彩虹固然美丽，我们也可能喜欢凝望彩虹，但当你沉浸在遐想中时，别人已经去挖掘彩虹尽头的金矿了。
 
-Rewards are one of the key components of a successful game activity; if there isn't a quantifiable advantage to doing something, the brain will often discard it out of hand. What are the other fundamental components of a game element, the “atoms” of games, so to speak? Game designer Ben Cousins calls these “ludemes,” the basic units of gameplay. * We've talked about several of them, such as “visit everywhere” and “get to the other side.” There are many left to discover, we hope. In the end, though, games are almost always made up of the same elementary particles.
+Rewards are one of the key components of a successful game activity; if there isn't a quantifiable advantage to doing something, the brain will often discard it out of hand. What are the other fundamental components of a game element, the "atoms" of games, so to speak? Game designer Ben Cousins calls these "ludemes," the basic units of gameplay. * We've talked about several of them, such as "visit everywhere" and "get to the other side." There are many left to discover, we hope. In the end, though, games are almost always made up of the same elementary particles.
 
 奖励是游戏活动成功的关键要素之一；如果做某件事情没有可量化的好处，大脑往往会弃之不用。游戏元素的其他基本要素是什么，可以说是游戏的 "原子 "吗？游戏设计师本-考辛斯（Ben Cousins）将其称为 "ludemes"，即游戏的基本单位。* 我们已经讨论过其中的几个，比如 "到处游览 "和 "到达另一边"。我们希望还有更多的游戏等着我们去发现。不过归根结底，游戏几乎都是由相同的基本粒子组成的。
 
@@ -191,7 +192,7 @@ Successful games tend to incorporate the following elements:
 * **A sense of space.** The space might be the landscape of a war game, a chessboard, or the network of relationships between the players during the bridge game.\
     **空间感。** 空间可以是战争游戏中的地形、棋盘，也可以是桥牌游戏中玩家之间的关系网络
 
-* **A solid core mechanic.** This is a puzzle to solve, an intrinsically interesting rule set into which content can be poured. An example might be “moving a piece in chess.” The core mechanic is usually a fairly small rule; the intricacies of games come from either having a lot of mechanics or having a few, very elegantly chosen ones. Most of these mechanics turn out to be from a fairly small set of problem types: estimating curves, optimizing, matching, balancing, or classifying.\
+* **A solid core mechanic.** This is a puzzle to solve, an intrinsically interesting rule set into which content can be poured. An example might be "moving a piece in chess." The core mechanic is usually a fairly small rule; the intricacies of games come from either having a lot of mechanics or having a few, very elegantly chosen ones. Most of these mechanics turn out to be from a fairly small set of problem types: estimating curves, optimizing, matching, balancing, or classifying.\
     **坚实的核心机制。** 这是一个需要解决的难题，是一个内在有趣的规则集，可以在其中注入内容。例如 "在国际象棋中移动棋子"。核心机制通常是一个相当小的规则；游戏的复杂性来自于要么有很多机制，要么有少数几个非常优雅的机制。这些机制中的大多数都来自相当小的一组问题类型：估计曲线、优化、匹配、平衡或分类。
 
 * **A range of challenges.** This is basically content. It does not change the rules, it operates within the rules, and brings slightly different parameters to the table. Each enemy you encounter in a game is one of these.\
@@ -233,7 +234,7 @@ There are also some features that should be present to make the experience a lea
 * The Mastery Problem must be dealt with. High-level players can't get big benefits from easy encounters or they will bottom-feed. Inexpert players will be unable to get the most out of the game.\
 	必须解决掌握问题。高水平玩家不能从简单的遭遇战中获得巨大收益，否则他们就会底层进食。不精通的玩家将无法从游戏中获得最大收益。
 
-* Failure must have a cost. At the very least there is an opportunity cost, and there may be more. Next time you attempt the challenge, you are assumed to come into it from scratch—there are no “do-overs.” Next time you try, you may be prepared differently.\
+* Failure must have a cost. At the very least there is an opportunity cost, and there may be more. Next time you attempt the challenge, you are assumed to come into it from scratch—there are no "do-overs." Next time you try, you may be prepared differently.\
 	失败必须付出代价。至少要付出机会成本，甚至更多。下一次尝试挑战时，你必须从头开始，没有 "重来 "的机会。下一次尝试，你可能会有不同的准备。
 
 Looking at these elementary particles that make up ludemes, it's easy to see why most games in history have been competitive head-to-head activities. It's the easiest way to constantly provide a new flow of challenges and content.
@@ -276,7 +277,7 @@ This isn't an algorithm for fun, but it's a useful tool for checking for the abs
 * At high levels of difficulty, does the player have to bring multiple abilities to bear on the challenge?\
 	在高难度情况下，玩家是否必须使用多种能力来应对挑战？
 
-* Is there skill involved in using an ability? (If not, is this a fundamental “move” in the game, like moving one checker piece?)\
+* Is there skill involved in using an ability? (If not, is this a fundamental "move" in the game, like moving one checker piece?)\
 	使用某种能力是否需要技巧？(如果没有，这是否是游戏中的基本 "移动"，就像移动跳棋棋子一样？）
 
 * Are there multiple success states to overcoming the challenge? (In other words, success should not have a single guaranteed result.)\
@@ -300,9 +301,9 @@ If your answer to any of the above questions is "no," then the game system is pr
 
 如果你对上述任何一个问题的回答都是“否”，那么游戏系统可能值得重新考虑。
 
-Game designers are caught in the Red Queen's Race, * because challenges are meant to be surmounted. The result is that modern game designers have often taken the approach of piling more and more different types of challenges into one game. The number of ludemes reaches astronomical proportions. Consider that checkers consists of exactly two: “capture all the pieces” and “move one piece.” Now compare that to the last console game you saw. Which do you think will still be played in a hundred years?
+Game designers are caught in the Red Queen's Race, * because challenges are meant to be surmounted. The result is that modern game designers have often taken the approach of piling more and more different types of challenges into one game. The number of ludemes reaches astronomical proportions. Consider that checkers consists of exactly two: "capture all the pieces" and "move one piece." Now compare that to the last console game you saw. Which do you think will still be played in a hundred years?
 
-游戏设计者陷入了 "红皇后竞赛 "的困境，*因为挑战就是用来克服的。其结果是，现代游戏设计者经常采取的做法是，在一个游戏中堆砌越来越多不同类型的挑战。鲁迪姆的数量达到了天文数字。想想看，跳棋就只有两种："吃掉所有棋子 "和 "移动一个棋子"。现在把它与你看到的上一款游戏机游戏进行比较。你认为哪个游戏在一百年后还能玩？
+游戏设计者陷入了 "红皇后竞赛 "的困境，*因为挑战就是用来克服的。其结果是，现代游戏设计者经常采取的做法是，在一个游戏中堆砌越来越多不同类型的挑战。鲁迪姆的数量达到了天文数字。想想看，跳棋就只有两种：“吃掉所有棋子”和“移动一个棋子”。现在把它与你看到的上一款游戏机游戏进行比较。你认为哪个游戏在一百年后还能玩？
 
 Most classic games consist of relatively few systems that fit together elegantly. The entire genre of abstract strategy games is about elegant choice of ludemes. But in today's world, many of the lessons we might want to teach might require highly complex environments and many moving parts—online virtual worlds spring to mind as an obvious example.
 
