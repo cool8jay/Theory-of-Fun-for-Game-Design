@@ -100,7 +100,7 @@ But the game is usually intended to put players through a particular challenge, 
 
 We can rectify this to a degree via good game design (and even better, we can make games that don't prescribe solutions—that's a rather limited game, and it severely undermines what games are about). But in the end, we're fighting a losing battle against a natural human tendency: to get better at things.
 
-我们可以通过良好的游戏设计在一定程度上纠正这一点（甚至更好的是，我们可以制作不规定解决方案的游戏--那是一种相当有限的游戏，它严重破坏了游戏的意义）。但归根结底，我们是在与人类的一种自然倾向进行一场失败的战斗：让自己变得更好。
+我们可以通过良好的游戏设计在一定程度上纠正这一点（甚至更好的是，我们可以制作不规定解决方案的游戏——那是一种相当有限的游戏，它严重削弱了游戏的意义）。但最终，我们正在与一种自然人类倾向进行一场失败的战斗：变得更擅长做事情。
 
 <div align="center">
 <img src="images/7.3.png">
@@ -118,13 +118,17 @@ Consider games that intentionally create situations that we have long since move
 
 考虑一下那些故意创造我们在现实世界中早已不存在的情境的游戏：用刺刀打仗的游戏、关于帆船的游戏或关于以工匠为基础的经济的游戏。我们仍然可以从这些游戏中吸取经验教训，但我们的科技已经进步，我们现在有了巡航导弹、航空母舰和工厂。
 
-These games, however, do not permit progress. Most games do not permit innovation and invention. * They present a pattern. Innovating out of a pattern is by definition outside the magic circle. You almost never get to change the physics of a game.
+These games, however, do not permit progress. Most games do not permit innovation and invention. They present a pattern. Innovating out of a pattern is by definition outside the magic circle. You almost never get to change the physics of a game.
 
-然而，这些游戏并不允许进步。大多数游戏不允许创新和发明。* 它们呈现的是一种模式。根据定义，跳出模式进行创新就超出了魔法阵的范围。你几乎永远无法改变游戏的物理原理。
+然而，这些游戏并不允许进步。大多数游戏不允许创新和发明。它们呈现的是一种模式。跳出模式进行创新从本质上超出了魔法阵的范围。你几乎永远无法改变游戏的物理原理。
 
 Human beings are all about progress. We like life to be easier. We're lazy that way. We like to find ways to become more efficient. We like to find ways to keep from doing something over and over. We dislike tedium, sure, but the fact is that we crave predictability. Our whole life is built on it. Unpredictable things are stuff like drive-by shootings, lightning bolts that fry us, smallpox, food poisoning—unpredictable things can kill us! We tend to avoid them. We instead prefer sensible shoes, pasteurized milk, vaccines, lightning rods, and laws. These things aren't perfect, but they do significantly reduce the odds of unpredictable things happening to us.
 
-人类追求进步。我们喜欢生活变得简单。我们懒惰。我们喜欢想方设法提高效率。我们喜欢想办法避免重复做某事。我们当然不喜欢乏味，但事实上，我们渴望可预见性。我们的整个生活都建立在可预测性之上。不可预知的东西，比如驾车枪击、把我们烧焦的闪电、天花、食物中毒--不可预知的东西会要了我们的命！我们倾向于避开它们。相反，我们更倾向于穿合脚的鞋子、喝巴氏杀菌奶、接种疫苗、避雷针和法律。这些东西并不完美，但它们确实大大降低了不可预知的事情发生在我们身上的几率。
+人类追求进步。我们喜欢生活变得简单。我们懒惰。我们喜欢想方设法提高效率。我们喜欢想办法避免重复做某事。我们当然不喜欢单调乏味，但事实上，我们渴望可预见性。我们的整个生活都建立在可预测性之上。不可预知的东西，比如驾车枪击、把我们烧焦的闪电、天花、食物中毒——不可预知的东西会要了我们的命！我们倾向于避开它们。相反，我们更倾向于穿合脚的鞋子、喝巴氏杀菌奶、接种疫苗、避雷针和法律。这些东西并不完美，但它们确实大大降低了不可预知的事情发生在我们身上的几率。
+
+{% hint style="info" %}
+译者注：drive-by shootings，驾车枪击。犯罪分子在驾车经过目标时进行射击的行为，这种攻击方式往往突然且迅速，使受害者难以防备，同时让犯罪分子能够快速逃离现场。
+{% endhint %}
 
 And since we dislike tedium, we'll allow unpredictability, but only inside the confines of predictable boxes, like games or TV shows. Unpredictability means new patterns to learn, therefore unpredictability is fun. So we like it, for enjoyment (and therefore, for learning). But the stakes are too high for us to want that sort of unpredictability under normal circumstances. That's what games are for in the first place—to package up the unpredictable and the learning experience into a space and time where there is no risk.
 
@@ -150,9 +154,9 @@ This leads to behaviors like "bottom-feeding," where a player will intentionally
 
 这就导致了 "抄底 "等行为，玩家会故意与较弱的对手较量，其合理的逻辑是，与把全部赌注都押在不确定的赢家通吃的战斗上相比，稳操胜券才是更好的策略。玩家把一个简单的关卡玩上两百次，积累足够的生命值，这样他们就能在几乎没有风险的情况下游览游戏的其余部分，这就相当于为冬天储备食物：这是明智之举。
 
-This is what games are for. They teach us things so that we can minimize risk and know what choices to make. Phrased another way, the destiny of games is to become boring, not to be fun. * Those of us who want games to be fun are fighting a losing battle against the human brain because fun is a process and routine is its destination.
+This is what games are for. They teach us things so that we can minimize risk and know what choices to make. Phrased another way, the destiny of games is to become boring, not to be fun. Those of us who want games to be fun are fighting a losing battle against the human brain because fun is a process and routine is its destination.
 
-这就是游戏的作用。游戏教会我们一些东西，这样我们就能把风险降到最低，并知道该做出怎样的选择。换一种说法，游戏的命运是变得无聊，而不是变得有趣。* 我们中那些希望游戏变得有趣的人，正在与人类大脑进行一场失败的战斗，因为有趣是一个过程，而常规才是它的目的。
+这就是游戏的作用。游戏教会我们一些东西，这样我们就能把风险降到最低，并知道该做出怎样的选择。换一种说法，游戏的命运是变得无聊，而不是变得有趣。我们中那些希望游戏变得有趣的人，正在与人类大脑进行一场失败的战斗，因为有趣是一个过程，而常规才是它的目的。
 
 So players often intentionally suck the fun out of a game in hopes they can learn something new (in other words, find something fun) once they complete the task. They'll do it because they perceive it (correctly) as the optimal strategy for getting ahead. They'll do it because they see others doing it, and it's outright unnatural for a human being to see another human being succeeding at something and not want to compete.
 
@@ -162,9 +166,9 @@ All of this happens because the human mind is goal-driven. We make pious stateme
 
 所有这一切的发生，都是因为人类的思想是目标驱动的。我们会虔诚地说 "重要的是旅程，而不是目的地"，但这大多是一厢情愿的想法。彩虹固然美丽，我们也可能喜欢凝望彩虹，但当你沉浸在遐想中时，别人已经去挖掘彩虹尽头的金矿了。
 
-Rewards are one of the key components of a successful game activity; if there isn't a quantifiable advantage to doing something, the brain will often discard it out of hand. What are the other fundamental components of a game element, the "atoms" of games, so to speak? Game designer Ben Cousins calls these "ludemes," the basic units of gameplay. * We've talked about several of them, such as "visit everywhere" and "get to the other side." There are many left to discover, we hope. In the end, though, games are almost always made up of the same elementary particles.
+Rewards are one of the key components of a successful game activity; if there isn't a quantifiable advantage to doing something, the brain will often discard it out of hand. What are the other fundamental components of a game element, the "atoms" of games, so to speak? Game designer Ben Cousins calls these "ludemes," the basic units of gameplay. We've talked about several of them, such as "visit everywhere" and "get to the other side." There are many left to discover, we hope. In the end, though, games are almost always made up of the same elementary particles.
 
-奖励是游戏活动成功的关键要素之一；如果做某件事情没有可量化的好处，大脑往往会弃之不用。游戏元素的其他基本要素是什么，可以说是游戏的 "原子 "吗？游戏设计师本-考辛斯（Ben Cousins）将其称为 "ludemes"，即游戏的基本单位。* 我们已经讨论过其中的几个，比如 "到处游览 "和 "到达另一边"。我们希望还有更多的游戏等着我们去发现。不过归根结底，游戏几乎都是由相同的基本粒子组成的。
+奖励是游戏活动成功的关键要素之一；如果做某件事情没有可量化的好处，大脑往往会弃之不用。游戏元素的其他基本要素是什么，可以说是游戏的 "原子 "吗？游戏设计师本-考辛斯（Ben Cousins）将其称为 "ludemes"，即游戏的基本单位。我们已经讨论过其中的几个，比如 "到处游览 "和 "到达另一边"。我们希望还有更多的游戏等着我们去发现。不过归根结底，游戏几乎都是由相同的基本粒子组成的。
 
 <div align="center">
 <img src="images/7.5.png">
@@ -301,9 +305,9 @@ If your answer to any of the above questions is "no," then the game system is pr
 
 如果你对上述任何一个问题的回答都是“否”，那么游戏系统可能值得重新考虑。
 
-Game designers are caught in the Red Queen's Race, * because challenges are meant to be surmounted. The result is that modern game designers have often taken the approach of piling more and more different types of challenges into one game. The number of ludemes reaches astronomical proportions. Consider that checkers consists of exactly two: "capture all the pieces" and "move one piece." Now compare that to the last console game you saw. Which do you think will still be played in a hundred years?
+Game designers are caught in the Red Queen's Race, because challenges are meant to be surmounted. The result is that modern game designers have often taken the approach of piling more and more different types of challenges into one game. The number of ludemes reaches astronomical proportions. Consider that checkers consists of exactly two: "capture all the pieces" and "move one piece." Now compare that to the last console game you saw. Which do you think will still be played in a hundred years?
 
-游戏设计者陷入了 "红皇后竞赛 "的困境，*因为挑战就是用来克服的。其结果是，现代游戏设计者经常采取的做法是，在一个游戏中堆砌越来越多不同类型的挑战。鲁迪姆的数量达到了天文数字。想想看，跳棋就只有两种：“吃掉所有棋子”和“移动一个棋子”。现在把它与你看到的上一款游戏机游戏进行比较。你认为哪个游戏在一百年后还能玩？
+游戏设计者陷入了 "红皇后竞赛 "的困境，因为挑战就是用来克服的。其结果是，现代游戏设计者经常采取的做法是，在一个游戏中堆砌越来越多不同类型的挑战。鲁迪姆的数量达到了天文数字。想想看，跳棋就只有两种：“吃掉所有棋子”和“移动一个棋子”。现在把它与你看到的上一款游戏机游戏进行比较。你认为哪个游戏在一百年后还能玩？
 
 Most classic games consist of relatively few systems that fit together elegantly. The entire genre of abstract strategy games is about elegant choice of ludemes. But in today's world, many of the lessons we might want to teach might require highly complex environments and many moving parts—online virtual worlds spring to mind as an obvious example.
 
