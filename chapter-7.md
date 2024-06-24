@@ -132,7 +132,7 @@ Human beings are all about progress. We like life to be easier. We're lazy that 
 
 And since we dislike tedium, we'll allow unpredictability, but only inside the confines of predictable boxes, like games or TV shows. Unpredictability means new patterns to learn, therefore unpredictability is fun. So we like it, for enjoyment (and therefore, for learning). But the stakes are too high for us to want that sort of unpredictability under normal circumstances. That's what games are for in the first place—to package up the unpredictable and the learning experience into a space and time where there is no risk.
 
-由于我们不喜欢乏味的生活，所以我们允许不可预知性的存在，但仅限于在可预知的范围内，比如游戏或电视节目。不可预测意味着要学习新的模式，因此不可预测是有趣的。因此，我们喜欢它，因为它能带来乐趣（因此也能带来学习）。但在正常情况下，我们不希望有这种不可预测性，因为风险太大了。这就是游戏的初衷--把不可预知性和学习体验打包到一个没有风险的空间和时间里。
+由于我们不喜欢单调乏味，所以我们允许不可预知性的存在，但仅限于在可预知的范围内，比如游戏或电视节目。不可预知性意味着要学习新的模式，因此不可预知性是有趣的。因此，我们喜欢它，因为它能带来乐趣（因此也能带来学习）。但在正常情况下，我们不希望有这种不可预知性，因为风险太大了。这就是游戏的初衷——把不可预知性和学习体验打包到一个没有风险的空间和时间里。
 
 The natural instinct of a game player is to make the game more predictable because then he is more likely to win.
 
@@ -144,11 +144,11 @@ The natural instinct of a game player is to make the game more predictable becau
 
 > In the real world we call this "security" and "steady jobs" and "sensible shoes" and "routine."
 > 
-> 在现实世界中，我们称之为 "安全感"、"稳定的工作"、"合脚的鞋子 "和 "例行公事"。
+> 在现实世界中，我们称之为“安全感”、“稳定的工作”、“合脚的鞋子”和“例行公事”。
 > 
 > Call it a treadmill, if you want.
 > 
-> 如果你愿意，也可以称之为 "跑步机"。
+> 如果你愿意，也可以称之为跑步机。
 
 This leads to behaviors like "bottom-feeding," where a player will intentionally take on weaker opponents under the sensible logic that a bunch of sure wins is a better strategy than gambling it all on an iffy winner-take-all battle. Players running an easy level two hundred times to build up enough lives so that they can cruise through the rest of the game with little risk is the equivalent of stockpiling food for winter: it's just the smart thing to do.
 
