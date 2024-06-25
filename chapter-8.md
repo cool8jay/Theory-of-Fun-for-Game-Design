@@ -218,6 +218,114 @@ Some choose to play for "style points," which is at least a sign that they are c
 > 
 > 如果游戏玩家发现自己喜欢上了一款游戏，为了掌握这款游戏，他们可能会玩更长时间，因为进入状态的感觉很好。
 
+There are other sorts of audience problems with games. One of them has proven fatal to many genres of games: the problem of increasing complexity. Most art forms have swung in pendulum fashion from an [Apollonian to a Dionysian style](#user-content-fn-11)[^11]—meaning, they have alternated between periods where they were reserved and formal and where they were exuberant and communicative and raw. From Romanesque to Gothic churches, from art rock to punk, from the French Academy to Impressionism, pretty much every medium has had these swings.
+
+游戏还有其他一些观众问题。其中一个问题已被证明对许多类型的游戏都是致命的：日益复杂的问题。大多数艺术形式都以钟摆的方式从[阿波罗式风格摇摆到戴奥尼索斯式风格](#user-content-fn-12)[^12]——也就是说，它们在拘谨和正式的时期与奔放、交流和原始的时期之间交替出现。从罗马式教堂到哥特式教堂，从艺术摇滚到朋克，从法兰西学院到印象派，几乎每一种媒介都有过这样的波动。
+
+Games, however, are always formal. The historical trend in games has shown that when a new genre of game is invented, it follows a [trajectory where increasing complexity](#user-content-fn-13)[^13] is added to it, until eventually the games on the market are so complex and advanced that newcomers can't get into them—the barrier to entry is too high.  You could call this the [jargon factor](#user-content-fn-14)[^14] because it is common to all formal systems. Priesthoods develop, terms enter common usage, and soon only the educated few can hack it.
+
+然而，游戏始终是形式化的。游戏的历史趋势表明，当一种新的游戏类型被发明出来，它的[发展轨迹是不断增加复杂性(#user-content-fn-15)[^15]，直到最终市场上的游戏变得复杂而发达，以至于新手无法进入——进入门槛太高。你可以称其为[行话因素](#user-content-fn-16)[^16]，因为这是所有形式化系统的共同特点。神职人员出现，术语变得通用，很快，只有少数受过教育的人才能掌握它。
+
+In most media, the way out of this has been the development of a new formal principle (as well as a cultural shift). Sometimes it was a development in knowledge of the form. Sometimes it was the development of a competing medium that usurped the place of the old medium, as when photography forced painters to undergo a radical reevaluation of their art form. Games, though, aren't tending to do this all that much. By and large, we have seen an inexorable march towards greater complexity. This has led to a priesthood of those who can speak the language, master the intricacies, and keep up-to-date.
+
+在大多数媒体中，解决这一问题的出路在于制定新的形式原则（以及文化转变）。有时是形式知识的发展。有时是一种竞争性媒介的发展篡夺了旧媒介的位置，如摄影迫使画家对其艺术形式进行彻底的重新评估。然而，游戏并不倾向于这样做。总的来说，我们看到的是，游戏正以不可避免之势向着更加复杂的方向发展。这就导致一群能说这门语言、掌握错综复杂细节并能与时俱进的人成为神职人员。
+
+Every once in a while games come along that appeal to the masses, and thank goodness. Because frankly, priesthoods are a perversion of what games are about as well. The worst possible fate for games (and by extension, for our species) would be for games to become niche, something played by only a few elite who have the training to do so. It was bad for sports, it was bad for music, it was bad for writing, and it would be bad for games as well.
+
+每隔一段时间，就会出现一些吸引大众的游戏，这真是谢天谢地。因为坦率地说，神职群体也是游戏本质的一种扭曲。对于游戏（以及我们人类）来说，最糟糕的命运莫过于游戏变得小众化，只有少数受过专业训练的精英才会玩。体育如此，音乐如此，写作如此，游戏也是如此。
+
+Conversely, it's possible that instead games are like the [Twonky](#user-content-fn-17)[^17] from the famous science fiction story.  Maybe the kids will keep up, and the older people won't be able to. And then we'll get left behind...
+
+相反，也有可能游戏反而会像著名科幻小说中的 [Twonky](#user-content-fn-18)[^18] 一样。也许孩子们能跟上时代的步伐，而老年人却跟不上。然后我们就会被甩在后面……
+
+<div align="center">
+<img src="images/8.5.png">
+</div>
+
+> Some gamers will have broad experience with games, and that lets them see a given game and quickly grok the entire pattern.
+> 
+> 有些游戏玩家拥有丰富的游戏经验，这让他们看到一款游戏就能很快摸清整个游戏的模式。
+> 
+> They end up flitting from game to game like butterflies.
+> 
+> 最后，他们就会像蝴蝶一样从一个游戏飞到另一个游戏。
+> 
+> BAH! THIS IS JUST LIKE OBSCURE SHOOTER #27 ON THE NEO-GEO!
+> 
+> 呸！这就像 NEO-GEO 上的第 27 号晦涩难懂的射击游戏！
+
+All of these are cases where human nature works against the success of games as a medium and as a teaching tool. Ironically, these all converge most sharply in the most unlikely of candidates, the person who loves games more than anyone: the game designer.
+
+所有这些都是人的本性妨碍了游戏作为媒介和教学工具成功的情形。具有讽刺意味的是，所有这些都在最不可能的人选——比任何人都热爱游戏的人：游戏设计师——身上得到了最鲜明的体现。
+
+Game designers spend less time playing individual games than the typical player does. Game designers finish games less often than typical players do. They have less time to play a given game because they typically sample so many of them. And perniciously, they are just as likely (if not more so because of business pressures) to turn to known solutions.
+
+游戏设计师玩单个游戏的时间比一般玩家少。游戏设计师通关游戏的次数比一般玩家少。因为他们通常会尝试很多游戏，所以他们分配给每一款游戏的时间更少。糟糕的是，他们同样有可能（如果因为商业压力，甚至可能更多）采用已知的解决方案。
+
+Basically, game designers suffer from what I call "designeritis." They are hypersensitive to patterns in games. They grok them very readily and move on. They see past fiction very easily. They build up encyclopedic recollections of games past and present, and they then theoretically use these to make new games.
+
+基本上，游戏设计师都患有我所说的“设计师炎”。他们对游戏中的模式非常敏感。他们很容易理解这些模式，然后继续前进。他们很容易看穿虚构。他们对过去和现在的游戏建立起百科全书式的回忆，然后理论上利用这些回忆来制作新游戏。
+
+But they usually don't make new games because their very experience, their very library of assumptions, holds them back. Remember what the brain is doing with these chunks it builds—it is trying to create a generically applicable library of solutions. The more solutions you have stored up, the less likely you are to go chasing after a new one.
+
+但他们通常做不出新游戏，因为他们的经验、他们的假设库，反而阻碍了他们。请记住，大脑是如何处理这些它构建起来的块——它正在试图创建一个通用的解决方案库。你存储的解决方案越多，你就越不可能去追求一个新的解决方案。
+
+The result has been, as you would expect, a lot of derivative work. Yes, you need to know the rules in order to break them, but given the lack of codification and critique of what games are, game designers have instead operated under the more guildlike model of apprenticeship. They do what they have seen work—and critically, so do the funders and publishers of games as product.
+
+结果正如你所料，产生了大量仿品。没错，你需要先了解规则才能打破规则，但由于缺乏对游戏本质的系统化定义和批评，游戏设计师更多地遵循着类似行会学徒制的模式在操作。他们做着已见证过成效的事情——至关重要的是，作为产品的游戏的投资方和发行商也是如此行事。
+
+[The most creative and fertile game designers](#user-content-fn-19)[^19] working today tend to be the ones who make a point of not focusing too much on other games for inspiration. Creativity comes from cross-pollination, not the reiteration of the same ideas. By making gaming their hobby, game designers are making an echo chamber of their own work. Because of this, it is critical that games be placed in context with the rest of human endeavor so that game designers can feel comfortable venturing outside their field in search of innovative ideas.
+
+当今[最具创造力和活力的游戏设计师](#user-content-fn-20)[^20]，往往是那些不太注重从其他游戏中获取灵感的人。创意来自于相互交流，而不是重复相同的想法。游戏设计师将游戏作为自己的业余爱好，就是在为自己的作品制造回音室。正因为如此，将游戏与人类的其他活动放在一起至关重要，这样游戏设计师才能自如地跳出自己的领域，寻找创新的想法。
+
+<div align="center">
+<img src="images/8.6.png">
+</div>
+
+> DESIGNERITIS
+> 
+> 设计师炎
+> 
+> YOU SAY YOU'RE WHAT WITH THE GAMES?
+> 
+> 你说你把游戏怎么样了？
+> 
+> DONE?
+> 
+> 玩完了？
+> 
+> SO YOU SOLD THEM ALL?
+> 
+> 你把它们都卖了？
+> 
+> UMM...YES?
+> 
+> 呃……是的？
+> 
+> I WASN'T FINISHED.
+> 
+> 我还没玩完。
+> 
+> I DIDN'T KNOW ABOUT YOUR SAVE GAMES!
+> 
+> 我不知道你有游戏存档！
+> 
+> Did you really beat 27 of them on hard? Wow, I kinda suck.
+> 
+> 你真的用高难度打完了 27 个游戏？哇，我有点烂。
+> 
+> not MY fault, n00b.
+> 
+> 不是我的错，菜鸟。
+> 
+> Game designers often play a given game only fifteen minutes or so.
+> 
+> 游戏设计师通常只玩 15 分钟左右的游戏。
+> 
+> It can be hard to play for enjoyment rather than for analysis.
+> 
+> 为了享受而不是为了分析而玩游戏是很难的。
+
 [^1]: Go: The Chinese game of go is centuries old, and in many parts of the world holds much the same cultural status as chess does in the West. The game is usually played on a 19x19 grid. Players take turns placing white and black beads on the board, with the objective of surrounding a larger area than the opponent. You may also capture an opponent's bead by completely surrounding it. Go is a rich game; it has been estimated that there are more possible games of go than there are atoms in the universe. 
 
 [^2]: 围棋：中国的围棋已有几百年的历史，在世界许多地方的文化地位与国际象棋在西方的地位差不多。围棋通常在 19x19 的方格上进行。棋手轮流在棋盘上放置白子和黑子，目标是包围比对手更大的区域。你也可以通过完全包围对手的棋子来吃掉它。围棋是一种内容丰富的游戏；据估计，可能的围棋对局数量比宇宙中的原子还要多。
@@ -237,3 +345,23 @@ Some choose to play for "style points," which is at least a sign that they are c
 [^9]: Cross-gender role-play: There have been many papers written about cross-gender role-play. Males tend to do it far more often than females do, and given the choice, males will rarely choose a gender-neutral presentation, whereas females are more willing. Cross-gender role-play in online games is not an indicator of gender dysphoria in real life.
 
 [^10]: 跨性别角色扮演：关于跨性别角色扮演的论文很多。男性进行跨性别角色扮演的频率远高于女性，如果可以选择，男性很少会选择不分性别的表现形式，而女性则更愿意这样做。网络游戏中的跨性别角色扮演并不代表现实生活中的性别障碍。
+
+[^11]: Apollonian and Dionysian: Another way to think about the distinction between the two styles is that Apollonian periods are often about the medium as a medium and Dionysian periods are about what could be said with that medium. Modernism, with its focus on formal characteristics of a medium, was an Apollonian movement; the Dionysian rebellion immediately after included populist art forms such as science fiction and other genres of pulp fiction; the rise of swing, blues, and jazz; and the flowering of the comic strip.
+
+[^12]: 阿波罗式和戴奥尼索斯式：区分这两种风格的另一种思路是，阿波罗式时期通常关注的是作为媒介的媒介，而戴奥尼索斯式时期关注的是用媒介可以表达什么。现代主义注重媒介的形式特征，是一场阿波罗式的运动；紧随其后的戴奥尼索斯式反叛包括科幻小说和其他类型的纸质小说等大众艺术形式；摇摆乐、蓝调和爵士乐的兴起；以及连环漫画的繁荣。
+
+[^13]: Historical trajectory of new game genres: Many game genres have exhibited the arc towards greater complexity. Of course, often the genre is reinvented with a populist take on the game style, whereupon the curve is reset. There are many genres of game where the complexity has reached a point where only a very few play the games; among them are war games, simulators, and algorithmic games such as CoreWars, which required a high degree of programming knowledge in the first place. The designer Dan Cook terms the peak title which strikes the balance between accessibility and rococo complexity the "genre king." Usually sales of subsequent games after that game decline, until the genre fades away from the marketplace. For a series of articles examining this in great detail, see http://www.lostgarden.com/2005/05/game-genre-lifecycle- part-i.html.
+
+[^14]: The jargon factor: An increase in jargon is also a clear sign that a medium has reached the level of maturity where it can be taught formally rather than through apprenticeship, and where the field has enough self-awareness to have examined itself critically. In film, for example, this developed fairly rapidly as film theory was defined. Unfortunately, games are laggards in this respect.
+
+[^15]: 新游戏类型的历史轨迹：许多游戏类型都呈现出越来越复杂的弧线。当然，这种类型的游戏往往会以一种大众化的游戏风格重新发明，然后曲线又会重置。有许多游戏类型的复杂程度已经达到了只有极少数人玩的地步，其中包括战争游戏、模拟器和算法游戏（如 CoreWars），这些游戏首先需要很高的编程知识。设计师丹·库克将在易玩性和洛可可式复杂性之间取得平衡的巅峰之作称为“类型之王”。通常在这款游戏之后，后续游戏的销量就会下降，直到该类型游戏淡出市场。有关详细研究的系列文章，请参阅[这里](http://www.lostgarden.com/2005/05/game-genre-lifecycle- part-i.html)。
+
+[^16]: 行话因素：专业术语的增加也是一个明显的迹象，表明一种媒介已经达到成熟的程度，可以进行正式的教学，而不是通过学徒的方式，也表明该领域已经有了足够的自我意识，对自身进行了批判性的审视。例如，在电影领域，随着电影理论的确定，这一点发展得相当迅速。遗憾的是，游戏在这方面却落在后面。
+
+[^17]: Twonky: The original story by Henry Kuttner and C. L. Moore was published under the pseudonym of Lewis Padgett and filmed in 1953. In it, a device from the future arrives in the past. Its owners cannot cope with it (even though one is a professor), so they get zapped. Even more apropos is their story "Mimsy Were the Borogoves," in which toys from an alien dimension arrive on Earth. Adults cannot cope with them, but the children can—and eventually, they learn enough to open an interdimensional door and go elsewhere, having transcended humanity. So far, nobody has teleported as a result of playing video games, but we can hope.
+
+[^18]: Twonky：亨利·库特纳和凯瑟琳·露西尔·摩尔的原创故事以刘易斯·帕吉特的笔名出版，于 1953 年拍摄。故事中，一个来自未来的装置来到了过去。它的主人无法应对它（尽管其中一位是教授），于是他们被电击了。更贴切的是他们的故事《Mimsy Were the Borogoves》，在这个故事里，来自异空间的玩具来到了地球。成人无法与他们相处，但孩子们可以——最终，他们学到了足够的知识，打开了一扇异次元传送门，去了别处，超越了人类。到目前为止，还没有人因为玩电子游戏而穿越时空，但我们可以期待。
+
+[^19]: The most creative designers: Two prominent examples are Shigeru Miyamoto, creator of Mario, who has publicly stated he has drawn inspiration from topics such as gardening; and Will Wright, whose sim games have touched on urban planning, consumerism, ant colonies, and the Gaia hypothesis.
+
+[^20]: 最具创造力的设计师：两个突出的例子是《马里奥》的创造者宫本茂，他曾公开表示自己从园艺等主题中汲取灵感；还有威尔·赖特，他的模拟游戏涉及城市规划、消费主义、蚂蚁群落和盖亚假说。
