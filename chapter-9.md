@@ -183,7 +183,7 @@ In other words, modding is just playing the game in another way, sort of like a 
 > 
 > *好吧，一个人类活动矩阵
 
-[^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using “game” for very fuzzy concepts. In short:
+[^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using "game" for very fuzzy concepts. In short:
 • The world is full of systems.
 • If we approach these with Suits' lusory attitude, we learn how they work through play, as elucidated in this book.
 • Fun is the feedback the brain gives us in the process.
@@ -191,8 +191,7 @@ In other words, modding is just playing the game in another way, sort of like a 
 • Systems generally need to meet certain qualifications to be a good opportunity for the above. We could call these ludic structures.
 • A consciously designed ludic structure is a ludic artifact.
 • Even ones that are not consciously designed tend to have such as design imposed on them by our act of turning them into a game: we layer on goals, success metrics, etc.
-For an essay-length working out of this concept, see http://www.raphkoster.
-com/2013/04/16/playing-with-game/.
+For an essay-length working out of this concept, see http://www.raphkoster.com/2013/04/16/playing-with-game/.
 
 [^2]: 可笑的人工制品：这是一个笨拙的术语，但它避免了用“游戏”来描述非常模糊的概念时所固有的难题。简而言之：
 	* 这个世界充满了系统。
