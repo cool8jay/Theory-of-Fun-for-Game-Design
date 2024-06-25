@@ -328,7 +328,7 @@ The result has been, as you would expect, a lot of derivative work. Yes, you nee
 
 [^1]: Go: The Chinese game of go is centuries old, and in many parts of the world holds much the same cultural status as chess does in the West. The game is usually played on a 19x19 grid. Players take turns placing white and black beads on the board, with the objective of surrounding a larger area than the opponent. You may also capture an opponent's bead by completely surrounding it. Go is a rich game; it has been estimated that there are more possible games of go than there are atoms in the universe. 
 
-[^2]: 围棋：中国的围棋已有几百年的历史，在世界许多地方的文化地位与国际象棋在西方的地位差不多。围棋通常在 19x19 的方格上进行。棋手轮流在棋盘上放置白子和黑子，目标是包围比对手更大的区域。你也可以通过完全包围对手的棋子来吃掉它。围棋是一种内容丰富的游戏；据估计，可能的围棋对局数量比宇宙中的原子还要多。
+[^2]: 围棋：中国的围棋已有几百年的历史，在世界许多地方的文化地位与国际象棋在西方的地位差不多。围棋通常在 19 x 19 的方格上进行。棋手轮流在棋盘上放置白子和黑子，目标是包围比对手更大的区域。你也可以通过完全包围对手的棋子来吃掉它。围棋是一种内容丰富的游戏；据估计，可能的围棋对局数量比宇宙中的原子还要多。
 
 [^3]: Emergent behavior: The concept of emergence recurs in fields like chaos theory, artificial life, and cellular automata, which are all mathematical systems in which very simple rules lead to behavior that is realistic or unpredictable. Steven Johnson's book Emergence (Scribner, reprinted 2002) covers this topic fairly thoroughly.
 
