@@ -288,12 +288,6 @@ This isn't an algorithm for fun, but it's a useful tool for checking for the abs
 * Are there multiple success states to overcoming the challenge? (In other words, success should not have a single guaranteed result.)\
 	克服挑战是否有多种成功状态？(换句话说，成功不应该只有一个确定的结果）。
 
-* Do advanced players get no benefit from tackling easy challenges?\
-	高级玩家从简单的挑战中得不到任何益处吗？
-
-* Does failing at the challenge at the very least make you have to try again?\
-	挑战失败是否至少会让你不得不再试一次？
-	
 <div align="center">
 <img src="images/7.8.png">
 </div>
@@ -301,6 +295,12 @@ This isn't an algorithm for fun, but it's a useful tool for checking for the abs
 > Of course, if your opponent isn't on even match, the puzzle will be too easy or too hard.
 > 
 > 当然，如果对手不是势均力敌，谜题就会太简单或太难。
+
+* Do advanced players get no benefit from tackling easy challenges?\
+	高级玩家从简单的挑战中得不到任何益处吗？
+
+* Does failing at the challenge at the very least make you have to try again?\
+	挑战失败是否至少会让你不得不再试一次？
 
 If your answer to any of the above questions is "no," then the game system is probably worth readdressing.
 
@@ -354,7 +354,7 @@ In the end, that is both the glory of learning and its fundamental problem: once
 
 [^8]: 游戏的命运：当然，许多游戏似乎会随着你对它们了解的加深而变得更加有趣。这与这些游戏的挑战性质有很大关系；它们往往会提出具有一定复杂程度的问题，越深入越能发现其中的奥妙。
 
-[^9]: Ludemes: As used here, a concept developed by Ben Cousins, a video game designer. An article about the concept appeared in the October 2004 issue of Develop Magazine. Ben has renamed the concept “primary elements,” but I like “ludemes” better, even though the word is already in use in a different context (see http://www.davidparlett.co.uk/gamester/ludemes.html for a history of the term by David Parlett). The idea also has a lot in common with the “choice molecules” described by Eric Zimmerman and Katie Salen in Rules of Play (MIT Press, 2003).
+[^9]: Ludemes: As used here, a concept developed by Ben Cousins, a video game designer. An article about the concept appeared in the October 2004 issue of Develop Magazine. Ben has renamed the concept "primary elements," but I like "ludemes" better, even though the word is already in use in a different context (see http://www.davidparlett.co.uk/gamester/ludemes.html for a history of the term by David Parlett). The idea also has a lot in common with the "choice molecules" described by Eric Zimmerman and Katie Salen in Rules of Play (MIT Press, 2003).
 
 [^10]: 游戏元素：这里指的是视频游戏设计师本·库辛斯提出的概念。关于这一概念的文章刊登在《开发》杂志 2004 年 10 月刊上。本将这一概念改名为“主要元素”，但我更喜欢“游戏元素”，尽管这个词已经在不同的语境中使用过（参见 http://www.davidparlett.co.uk/gamester/ludemes.html，戴维·帕莱特撰写的该词历史）。这个想法与埃里克·齐默尔曼和凯蒂·萨伦在《游戏规则》（麻省理工学院出版社，2003 年）中描述的“选择分子”也有很多共同之处。
 
@@ -370,7 +370,7 @@ In the end, that is both the glory of learning and its fundamental problem: once
     * 斯特凡·布拉的[《游戏语法》](http://users.skynet.be/bura/diagrams/)。
     * 《游戏机制：高级游戏设计》，由欧内斯特·亚当斯和约里斯·多曼斯撰写，New Riders出版社，2012年出版。
 
-[^13]: The Mastery Problem: This can be summarized as “the rich get richer.” It is an expression of iterative zero-sum games—games in which the winner ends up in a better position than the loser. If a high-level player can reinforce his position by repeatedly defeating easy targets, then eventually his position will become unassailable. This is not in itself a problem—it simply leads to victory. The problem arises when a novice coming to the game cannot possibly succeed.
+[^13]: The Mastery Problem: This can be summarized as "the rich get richer." It is an expression of iterative zero-sum games—games in which the winner ends up in a better position than the loser. If a high-level player can reinforce his position by repeatedly defeating easy targets, then eventually his position will become unassailable. This is not in itself a problem—it simply leads to victory. The problem arises when a novice coming to the game cannot possibly succeed.
 
 [^14]: 掌握问题：可以概括为“富者愈富”。它是迭代零和游戏的一种表现形式——在这种游戏中，赢家最终会比输家处于更有利的地位。如果一个高水平的玩家可以通过反复击败容易击败的目标来巩固自己的地位，那么最终他的地位将变得不可撼动。这本身并不是问题——它只会导致胜利。如果新手不可能成功，问题就出现了。
 
