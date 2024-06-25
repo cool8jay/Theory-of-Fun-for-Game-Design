@@ -62,6 +62,34 @@ In some ways, anyway. We're reluctant to abandon known solutions.
 
 无论如何，在某些方面是这样。我们不愿意放弃已知的解决方案。
 
+<div align="center">
+<img src="images/8.2.png">
+</div>
+
+> hammer
+> 
+> 锤子
+> 
+> nail, nail, nail, nail, nail, nail
+> 
+> 钉子，钉子，钉子，钉子，钉子，钉子
+> 
+> HROLD!
+> 
+> 哈罗德！
+> 
+> ...this could reflect adversely on your request for an extension...
+> 
+> ……这可能会对您的延期申请产生不利影响……
+> 
+> IRS
+> 
+> 国税局（Internal Revenue Service）
+> 
+> The interesting thing is that people tend to come to a given puzzle and try to apply known solutions.
+> 
+> 有趣的是，人们往往会在遇到某个难题时，尝试应用已知的解决方案。
+
 Look at the games that offer the absolute greatest freedom possible within the scope of a game setting. In role-playing games there are few rules. The emphasis is on collaborative storytelling. You can construct your character any way you want, use any background, and take on any challenge you like.
 
 看看那些能在游戏设定范围内提供绝对最大自由度的游戏。在角色扮演游戏中，规则很少。游戏强调的是合作讲故事。你可以随心所欲地塑造角色，使用任何背景，接受任何挑战。
@@ -85,6 +113,110 @@ Sticking to one solution is not a survival trait anymore. The world is changing 
 Consider the hypothetical case where every player of an online role-playing game gets exactly two characters: one male and one female. Would the world be more or less sexist as a result?
 
 假设每个在线角色扮演游戏的玩家都有两个角色：一男一女。这个世界的性别歧视会因此更严重还是更轻微？
+
+<div align="center">
+<img src="images/8.3.png">
+</div>
+
+> For example, players of online role-playing games tend to play the same character types in game after game after game.
+> 
+> 例如，在线角色扮演游戏的玩家往往在一个又一个游戏中扮演相同类型的角色。
+> 
+> THE ONLINE RPG RORSCHACH TEST
+> 
+> 在线角色扮演游戏罗夏克测试
+
+Another case where the wiring of the human brain tends to betray us lies in the seductive feeling of make-believe mastery.
+
+人类大脑的另一个出卖我们的地方，就是“虚幻的掌握”这种诱人的感觉。
+
+Engaging in an activity that you have fully mastered, being in the zone, feeling the flow, can be a heady experience. And no one can deny the positive effects of meditation. That said, the point at which a player chooses to repeatedly play a game they have already mastered completely, just because they like to feel powerful, is the point at which the game is betraying its own purpose. Games need to encourage you to move on. They are not there to fulfill power fantasies.
+
+参与一项你已经完全掌握的活动，进入状态，感受心流，会是一种令人陶醉的体验。没有人能否认冥想的积极作用。话虽如此，如果玩家只是因为喜欢感觉强大，而选择反复玩一款自己已经完全掌握的游戏，那么这款游戏就违背了它的初衷。游戏需要鼓励你继续前进。游戏不是为了满足你对力量的幻想。
+
+Ah, but is it ever seductive! Because games exist within the confines of "let's pretend," they also offer a lack of consequences. They are libertine in their freedoms. They let you be a godlet. They can offer false positive feedback to keep a player playing. To the person that perhaps does not get enough sense of control in her real life, the game may offer something rather...persuasive.
+
+啊，但它是多么诱人啊！因为游戏存在于“让我们假装”的范围之内，所以它们也没有后果。它们自由自在。它们让你成为神灵。它们可以提供虚假的积极反馈，让玩家继续玩下去。对于那些在现实生活中缺乏控制感的人来说，游戏可能会提供一些相当……有说服力的东西。
+
+Making you feel good about yourself in a pretend arena isn't what games are for. Games are for offering challenges, so that you can then turn around and apply those techniques to real problems. Going back through defeated challenges in order to pass time isn't a productive exercise of your brain's abilities. Nonetheless, lots of people do it.
+
+让你在一个虚假的竞技场上自我感觉良好并不是游戏的目的。游戏是用来提供挑战的，这样你就可以反过来将这些技巧应用到实际问题中。为了消磨时间而重新玩战胜过的挑战，并不能有效地锻炼你的大脑能力。尽管如此，还是有很多人这么做。
+
+Some choose to play for "style points," which is at least a sign that they are creating new challenges for themselves. But once you get past the point of doing something perfectly, do yourself a favor and quit the game.
+
+有些人选择为了“风格分”而玩，这至少表明他们在为自己创造新的挑战。但是，一旦你达到了完美无缺的境界，那就帮自己一个忙，退出游戏吧。
+
+{% hint style="info" %}
+译者注：style points，风格分，指的是某人完成任务或活动时的风格或方式所带来的额外得分或认可。例如，在某些体育比赛中，除了完成动作的基本得分外，评委可能还会因为运动员的表演风格或技巧给予额外的风格分。
+{% endhint %}
+
+<div align="center">
+<img src="images/8.4.png">
+</div>
+
+> Homo Powerludens
+> 
+> 游戏高手
+> 
+> Found in a variety of habitats. Typically makes their nest in couches, chairs, and sometimes arcade cabinets. Believed to have evolved from h. pinballwizardicus. Generally harmless, and breeds easily in captivity.
+> 
+> 可在各种栖息地找到。通常在沙发、椅子，有时也在游戏机柜中筑巢。据信是由弹球巫师人进化而来。一般无害，容易人工繁殖。
+> 
+> polarized sunglasses to cut glare
+> 
+> 消除眩光的偏光太阳镜
+> 
+> lucky hat
+> 
+> 幸运帽
+> 
+> headset for voice-over-IP online gaming
+> 
+> 用于 IP 语音在线游戏的耳机
+> 
+> tribal membership shirt
+> 
+> 部落成员衬衫
+> 
+> MP3 player
+> 
+> MP3 播放器
+> 
+> got dots?
+> 
+> 有豆子吗？
+> 
+> game-capable phone
+> 
+> 游戏手机
+> 
+> strategy guide
+> 
+> 攻略指南
+> 
+> wireless controller
+> 
+> 无线控制器
+> 
+> portable game system
+> 
+> 便携式游戏系统
+> 
+> cargo pants with gadget pockets
+> 
+> 带小口袋的工装裤
+> 
+> cheeze-flavored snacks
+> 
+> 奶酪味零食
+> 
+> energy drink
+> 
+> 能量饮料
+> 
+> And if gamers find themselves in tune with a game, they may play it far longer than they need to in order to master it, because being in the zone feels good.
+> 
+> 如果游戏玩家发现自己喜欢上了一款游戏，为了掌握这款游戏，他们可能会玩更长时间，因为进入状态的感觉很好。
 
 [^1]: Go: The Chinese game of go is centuries old, and in many parts of the world holds much the same cultural status as chess does in the West. The game is usually played on a 19x19 grid. Players take turns placing white and black beads on the board, with the objective of surrounding a larger area than the opponent. You may also capture an opponent's bead by completely surrounding it. Go is a rich game; it has been estimated that there are more possible games of go than there are atoms in the universe. 
 
