@@ -486,7 +486,7 @@ For an essay-length working out of this concept, see http://www.raphkoster.com/2
 
 [^21]: Disagree with me on this: The game designer Dave Kennerly feels that "shoehorning the principle of the movie, book, narrative, or other inapplicable medium onto the game perpetuates bad games." In his defense, he is speaking primarily of the construction of formal systems themselves.
 
-[^22]: 在这一点上，我有不同意见：游戏设计师戴夫-肯纳利（Dave Kennerly）认为，"把电影、书籍、叙事或其他不适用的媒介的原则硬塞进游戏里，会让糟糕的游戏长期存在"。为自己辩护时，他说的主要是形式系统本身的构建。
+[^22]: 在这一点上不同意我的看法：游戏设计师戴夫·肯纳利认为，“把电影、书籍、叙事或其他不适用的媒介的原则硬塞进游戏里，会让糟糕的游戏长期存在”。他的辩护主要是针对形式系统本身的构建。
 
 [^23]: Belles lettres: Literally "beautiful letters." The term was once widely used as the rubric for all forms of study of writing.
 
