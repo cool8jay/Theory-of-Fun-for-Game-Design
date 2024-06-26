@@ -490,7 +490,7 @@ For an essay-length working out of this concept, see http://www.raphkoster.com/2
 
 [^23]: Belles lettres: Literally "beautiful letters." The term was once widely used as the rubric for all forms of study of writing.
 
-[^24]: Belles lettres：字面意思是“美丽的文字”。该词曾被广泛用作各种形式的写作研究的标准。
+[^24]: Belles lettres：来自法语，字面意思是“美丽的文字”。该词曾被广泛用作各种形式的写作研究的标准。
 
 [^25]: Impressionism: An artistic movement primarily centered in the visual arts and music, it takes its name from the painting Impression: A Sunrise. Impressionism in art is more concerned with depicting the play of light on an object than the object itself.
 
