@@ -69,13 +69,13 @@ My second grid shows how we can analyze music. When I look at the chart for musi
 
 第二个网格展示了我们如何分析音乐。当我查看音乐图表时，我看到的是一群基于音乐的娱乐活动。如果我为书籍制作一个类似的图表，它将涵盖散文类娱乐。基本上，这个图表可以适用于任何媒介。
 
-"Game" is a very fuzzy word. A few times in this book I have mentioned game systems as being distinct from games, or as the core element that makes something a game (in some senses). But "game systems" are not a medium. They are, depending on the definition, one use of a medium. The medium is really an unwieldy phrase like “formal abstract models for teaching patterns." I have taken to calling these "[ludic artifacts(#user-content-fn-1)[^1]" to distinguish them from the fuzziness of "game." Even though ludic artifacts—like fire drills or CIA model war games of the future of the Middle East—may not necessarily be fun, they still belong on the chart. The fact that they are not fun has more to do with their implementation than with their intrinsic nature.
+"Game" is a very fuzzy word. A few times in this book I have mentioned game systems as being distinct from games, or as the core element that makes something a game (in some senses). But "game systems" are not a medium. They are, depending on the definition, one use of a medium. The medium is really an unwieldy phrase like "formal abstract models for teaching patterns." I have taken to calling these "[ludic artifacts(#user-content-fn-1)[^1]" to distinguish them from the fuzziness of "game." Even though ludic artifacts—like fire drills or CIA model war games of the future of the Middle East—may not necessarily be fun, they still belong on the chart. The fact that they are not fun has more to do with their implementation than with their intrinsic nature.
 
 “游戏”是一个非常模糊的词。在本书中，我曾多次提到游戏系统有别于游戏，或者游戏系统是游戏的核心要素（在某些意义上）。但 “游戏系统”并不是一种媒介。根据不同的定义，它们只是媒介的一种用途。媒介实际上是一个难以理解的短语，比如“教学模式的形式抽象模型”。我习惯于称这些为“[可笑的人工制品](#user-content-fn-2)[^2]”，以区别于“游戏”的模糊性。尽管可笑的人工制品——如消防演习或中情局关于中东未来的战争游戏模型——不一定有趣，但它们仍然属于图表。它们之所以不好玩，与其说与它们的内在本质有关，不如说与它们的实施方式有关。
 
 Interaction happens with all media (at a minimum, we interact by engaging with the work). Actively and constructively interacting with stage-based media is termed "acting" and interacting with prose-based media is termed "writing." There's been a lot of discussion in professional video game design circles about "the surrender of authorship" inherent in adding greater flexibility to games and in the ["mod" community](#user-content-fn-3)[^3]. I think the key insight here is that players are simply "interacting with the medium" in a way that isn't purely experiential.
 
-互动发生在所有媒体上（至少，我们通过与作品互动）。与舞台媒体进行积极和建设性的互动被称为“表演”，与散文媒体进行互动被称为“写作”。在专业的电子游戏设计圈子里，有很多关于在游戏和[“模组”社区](#user-content-fn-4)[^4]中增加更多灵活性所固有的“放弃作者身份”的讨论。我认为，关键在于玩家只是以一种非纯粹体验的方式“与媒介互动”。
+互动发生在所有媒介上（至少，我们通过与作品互动）。与舞台媒介进行积极和建设性的互动被称为“表演”，与散文媒介进行互动被称为“写作”。在专业的电子游戏设计圈子里，有很多关于在游戏和[“模组”社区](#user-content-fn-4)[^4]中增加更多灵活性所固有的“放弃作者身份”的讨论。我认为，关键在于玩家只是以一种非纯粹体验的方式“与媒介互动”。
 
 In other words, modding is just playing the game in another way, sort of like a budding writer might rework plots of characters from other writers into derivative journeyman fiction or into fan fiction. The fact that some forms of interaction are constructive (modding a game), experiential (playing a game), or deconstructive (hacking a game) is immaterial; the same activities are possible with a given play, book, or song. Arguably, the act of literary analysis is much the same as the act of hacking a game—the act of disassembling the components of a given piece of work in a medium to see how it works, or even to get it to do things, carry messages, or otherwise represent itself as something other than what the author of the piece intended.
 
@@ -146,7 +146,7 @@ The reason why the rise of critique and academia surrounding games is important 
 
 Once games are seen as a medium, we can start worrying about whether they are a medium that permits art. All other media do, after all.
 
-一旦游戏被视为一种媒介，我们就可以开始担心它是否是一种允许艺术存在的媒介。毕竟，所有其他媒体都是如此。
+一旦游戏被视为一种媒介，我们就可以开始担心它是否是一种允许艺术存在的媒介。毕竟，所有其他媒介都是如此。
 
 <div align="center">
 <img src="images/9.3.png">
@@ -213,11 +213,11 @@ Some apologists for games like to tout the fact that games are interactive as a 
 
 So what is art? My take on it is simple. Media provide information. Entertainment provides comforting, simplistic information. And art provides challenging information, stuff that you have to think about in order to absorb. Art uses a particular medium to communicate within the constraints of that medium, and often what is communicated is thoughts about the medium itself (in other words, a formalist approach to arts—much modern art falls in this category).
 
-那么什么是艺术呢？我的看法很简单。媒体提供信息。娱乐提供的是令人欣慰的、简单化的信息。而艺术提供的是具有挑战性的信息，是你必须思考才能吸收的东西。艺术使用一种特定的媒介，在该媒介的限制下进行交流，交流的内容往往是对媒介本身的思考（换句话说，艺术的形式主义方法——很多现代艺术都属于这一类）。
+那么什么是艺术呢？我的看法很简单。媒介提供信息。娱乐提供的是令人欣慰的、简单化的信息。而艺术提供的是具有挑战性的信息，是你必须思考才能吸收的东西。艺术使用一种特定的媒介，在该媒介的限制下进行交流，交流的内容往往是对媒介本身的思考（换句话说，艺术的形式主义方法——很多现代艺术都属于这一类）。
 
 The medium shapes the nature of the message, of course, but the message can be representational, impressionistic, narrative, emotional, intellectual, or whatever else. Some art works are solo creations, and some are collaborative (and they can all be made collaborative to an extent, I believe). And some media are actually the result of the collaboration of specialists in many different media, working together to present a work that is incomplete without the use of multiple media within it. Film is one such medium. And games are another.
 
-当然，媒介决定了信息的性质，但信息可以是表现性的、印象性的、叙事性的、情感性的、知识性的，或其他任何形式的。有些艺术作品是单独创作的，有些则是合作创作的（我相信它们在某种程度上都可以是合作创作的）。而有些媒体实际上是许多不同媒体的专家合作的结果，他们共同完成的作品，如果没有多种媒体的使用，是不完整的。电影就是这样一种媒体。游戏是另一种。
+当然，媒介决定了信息的性质，但信息可以是表现性的、印象性的、叙事性的、情感性的、知识性的，或其他任何形式的。有些艺术作品是单独创作的，有些则是合作创作的（我相信它们在某种程度上都可以是合作创作的）。而有些媒介实际上是许多不同媒介的专家合作的结果，他们共同完成的作品，如果没有多种媒介的使用，是不完整的。电影就是这样一种媒介。游戏是另一种。
 
 One of the most common points I hear about why video games are not an art form is that they are just for fun. They are just entertainment. Hopefully, I've made it clear why that is a dangerous underestimation of fun. But most music is also just entertainment, and most novels are read just for fun, and most movies are mere escapism, and yes, even most pretty pictures are just pretty pictures. The fact that most games are merely entertainment does not mean that this is all they are doomed to be.
 
@@ -237,7 +237,7 @@ One of the most common points I hear about why video games are not an art form i
 
 Mere entertainment becomes art when the communicative element in the work is either novel or exceptionally well done. It really is that simple. The work has the power to alter how people perceive the world around them. And it's hard to imagine a medium more powerful in that regard than video games, where you are presented with a virtual world that reacts to your choices.
 
-当作品中的交流元素新颖或做得特别好时，单纯的娱乐就变成了艺术。就是这么简单。作品有能力改变人们对周围世界的看法。在这方面，很难想象有哪种媒体比电子游戏更有力量，因为在电子游戏中，你所看到的虚拟世界会对你的选择做出反应。
+当作品中的交流元素新颖或做得特别好时，单纯的娱乐就变成了艺术。就是这么简单。作品有能力改变人们对周围世界的看法。在这方面，很难想象有哪种媒介比电子游戏更有力量，因为在电子游戏中，你所看到的虚拟世界会对你的选择做出反应。
 
 "Well done" and "novel" mean, basically, craft. You can have well-crafted entertainment that fails to reach the level of art. The upper reaches of art are usually subtler achievements. They are works that you can return to again and again, and still learn something new from. The analogy for a game would be one you can replay over and over again, and still discover new things.
 
@@ -246,6 +246,10 @@ Mere entertainment becomes art when the communicative element in the work is eit
 Since games are closed formal systems, that might mean that games can never be art in that sense. But I don't think so. I think that means that we just need to decide what we want to say with a given game—something big, something complex, something open to interpretation, something where there is no single right answer—and then make sure that when the player interacts with it, she can come to it again and reveal whole new aspects to the challenge presented.
 
 由于游戏是封闭的形式系统，这可能意味着游戏在这个意义上永远无法成为艺术。但我不这么认为。我认为，这意味着我们只需要确定我们想用一个游戏表达什么——一些宏大的东西，一些复杂的东西，一些可以解释的东西，一些没有唯一正确答案的东西——然后确保当玩家与之互动时，她可以再次面对它，并揭示所呈现挑战的全新方面。
+
+<div align="center">
+<img src="images/9.5.png">
+</div>
 
 > That may be the best definition of when something ceases to be craft and turns into art --
 > 
@@ -291,30 +295,138 @@ It would immerse, and change a worldview.
 
 它会令人沉浸其中，并改变世界观。
 
+<div align="center">
+<img src="images/9.6.png">
+</div>
+
 > -- the point at which it becomes subject to interpretation.
 > 
 > ——即当它开始受到主观解读的那一刻。
 
-Some might say that abstract formal systems cannot achieve this. But I have seen wind course across the sky, bearing leaves; I have seen paintings by Mondrian made of nothing but colored squares; I have heard Bach played on a harpsichord; I have traced the rhythms of a sonnet; I have followed the steps of a dance.
+Some might say that abstract formal systems cannot achieve this. But I have seen wind course across the sky, bearing leaves; I have seen paintings by [Mondrian](#user-content-fn-13)[^13] made of nothing but colored squares; I have heard Bach played on a harpsichord; I have traced the rhythms of a sonnet; I have followed the steps of a dance.
 
-有人可能会说，抽象的形式系统无法做到这一点。但是，我曾见风掠天际，携叶起舞；我曾赏蒙德里安，色格构筑；我曾听巴赫之音，琴键倾诉；我曾循诗行漫步，韵律含蓄；我曾踏舞者步履，优雅追逐。
+有人可能会说，抽象的形式系统无法做到这一点。但是，我曾见风掠天际，携叶起舞；我曾赏[蒙德里安(#user-content-fn-14)[^14]，色格构筑；我曾听巴赫之音，琴键倾诉；我曾循诗行漫步，韵律含蓄；我曾踏舞者步履，优雅追逐。
 
-All media are abstract, formal systems. They have grammars, methods, and systems of craft. They follow rules, whether it is the rules of language, the rules of leading tones in music,  or the rules of visual composition. They often play with these rules and reveal startling new aspects to them.
+All media are abstract, formal systems. They have grammars, methods, and systems of craft. They follow rules, whether it is the rules of language, the rules of [leading tones](#user-content-fn-15)[^15] in music,  or the rules of visual composition. They often play with these rules and reveal startling new aspects to them.
 
-所有媒体都是抽象的、形式化的系统。它们有语法、方法和工艺系统。它们遵循规则，无论是语言规则、音乐中的主音规则，还是视觉构图规则。他们经常玩弄这些规则，并揭示其惊人的新方面。
+所有媒介都是抽象的、形式化的系统。它们有语法、方法和工艺系统。它们遵循规则，无论是语言规则、音乐中的[导音](#user-content-fn-16)[^16]规则，还是视觉构图规则。它们经常玩弄这些规则，并揭示其惊人的新方面。
 
 All artists choose constraints when they set out to create: a postage stamp of paper or a broad canvas; to use rhyme or free verse; the choice of piano versus guitar. In fact, choosing constraints is one of the most fruitful ways to prod creativity.
 
 所有艺术家在开始创作时都会选择一些限制条件：一张邮票大小的纸张还是宽阔的画布；使用韵律还是自由诗；选择钢琴还是吉他。事实上，选择约束条件是激发创造力最富有成效的方法之一。
 
-Games, too, share these characteristics. “Create a one button game.” “Invent a game using nothing more than pennies and a deck of cards.” “Design a game that is about exact cover.”*
+Games, too, share these characteristics. "Create a one button game." "Invent a game using nothing more than pennies and a deck of cards." "Design a game that is about [exact cover](#user-content-fn-17)[^17]."
 
-游戏也有这些特点。"创造一个单键游戏"。"发明一个只用一分钱和一副扑克牌的游戏" "设计一款关于精确封面的游戏 "*。
+游戏也有这些特点。“创造一个单按钮的游戏”。“发明一个只用几枚硬币和一副扑克牌的游戏”。“设计一款关于[精确覆盖](#user-content-fn-18)[^18]的游戏”。
 
-Let’s not sell abstraction and formality short.
+Let's not sell abstraction and formality short.
 
-让我们不要轻视抽象和形式。
+我们不应低估抽象性和形式化的重要性。
 
+<div align="center">
+<img src="images/9.7.png">
+</div>
+
+> <table>
+>   <tbody>
+>     <tr>
+>       <td>可控</td>
+>       <td>强烈</td>
+>     </tr>
+>     <tr>
+>       <td>保守</td>
+>       <td>冒险</td>
+>     </tr>
+>     <tr>
+>       <td>强化框架</td>
+>       <td>颠覆框架</td>
+>     </tr>
+>     <tr>
+>       <td>用于社会规范</td>
+>       <td>同情他人</td>
+>     </tr>
+>     <tr>
+>       <td>平易近人</td>
+>       <td>需要专业知识</td>
+>     </tr>
+>     <tr>
+>       <td>令人愉悦</td>
+>       <td>硬核趣味</td>
+>     </tr>
+>     <tr>
+>       <td>低认知负荷</td>
+>       <td>高认知负荷</td>
+>     </tr>
+>     <tr>
+>       <td>娱乐</td>
+>       <td>艺术</td>
+>     </tr>
+>   </tbody>
+> </table>
+
+In fact, the toughest puzzles are the ones that force the most self-examination. They are the ones that challenge us most deeply on many levels—mental stamina, mental agility, creativity, perseverance, physical endurance, and emotional self-abnegation. They come precisely from the interactive portions of the chart, when you look at other media.
+
+事实上，最难的谜题是最能迫使我们自我审视的谜题。它们对我们的心理耐力、思维敏捷性、创造力、毅力、身体耐力和情感上的自我克制等多个层面提出了最深刻的挑战。当你观察其他媒介时，它们恰恰来自图表中的互动部分。
+
+Consider the act of creation.
+
+考虑一下创作行为。
+
+It's one of the toughest things to do well in human endeavor. And yet it is also one of our most instinctive actions; from a young age, we not only trace patterns but attempt to create new ones. We scribble with crayons, we ba-ba-ba our way through songs.
+
+这是人类努力中最难做好的事情之一。然而，这也是我们最本能的行为之一；从小到大，我们不仅追踪模式，还试图创造新的模式。我们用蜡笔涂鸦，用咿咿呀呀的方式唱歌。
+
+The fact that playing games—good ones, anyway—is fundamentally a creative act is something that speaks very well for the medium. Games, at their best, are not prescriptive. They demand that the user create a response given the tools at hand. It is a lot easier to fail to respond to a painting than to fail to respond to a game.
+
+无论如何，玩游戏——至少是好的游戏——本质上是一种创造性行为，这一点对游戏媒介来说非常有利。最好的游戏不是规定性的。它们要求用户根据手头的工具做出反应。与画作相比，游戏更容易引发玩家的响应。
+
+No other artistic medium is defined around a single intended effect on the user, such as "fun." They all embrace a wider array of emotional impact. Now, we may be running into definitional questions for the word "fun" here, obviously, but even so, I'd prefer to approach things from a more [formalist](#user-content-fn-19)[^19] perspective to actually arrive at what the basic building blocks of the medium are. From a formalist point of view, music can be considered ordered sound and silence, poetry can be considered the placement of words and gaps between words, and so on.
+
+没有任何一种艺术媒介是围绕对用户的单一预期效果（如“乐趣”）来定义的。它们都包含更广泛的情感影响。现在，我们可能会遇到 “趣味”一词的定义问题，但即便如此，我还是倾向于从[形式主义](#user-content-fn-20)[^20]的角度来看待问题，以真正了解艺术媒介的基本构成要素是什么。从形式主义的角度来看，音乐可以被视为有序的声音和寂静，诗歌可以被视为词语的位置和词语之间的间隙，等等。
+
+The closer we get to understanding the basic building blocks of games—the things that players and creators alike manipulate in interacting with the medium—the more likely we are to achieve the heights of art.
+
+我们越是接近于理解游戏的基本构件——玩家和创作者在与游戏媒介互动时所操控的东西——我们就越有可能达到艺术的高度。
+
+<div align="center">
+<img src="images/9.8.png">
+</div>
+
+> There are many puzzles like this in life. Try writing a book.
+> 
+> 生活中有很多这样的谜题。试着写一本书吧。
+> 
+> It was a dark and stormy night.
+> 
+> 那是一个月黑风高的夜晚。
+
+Some folks [disagree with me pretty vehemently on this](#user-content-fn-21)[^21]. They feel that the art of the game lies in the formal construction of systems. The more artfully constructed the system is, the closer the game is to art.
+
+在这一点上，有些人[与我的看法大相径庭](#user-content-fn-22)[^22]。他们认为游戏的艺术在于系统的形式构造。系统构造得越艺术，游戏就越接近艺术。
+
+Putting games in context with other media demands that we consider this viewpoint. In literature, it's called a [belles-lettristic](#user-content-fn-23)[^23] point of view. The beauty of poetry lies solely in the sound and not in the sense, according to those who feel this way.
+
+将游戏与其他媒介放在一起，我们就必须考虑这一观点。在文学领域，这被称为“[美文](#user-content-fn-24)[^24]”观点。持这种观点的人认为，诗歌的美只在于声音，而不在于意义。
+
+And yet, even the shape of the sound can be put in context. Let's digress and consider some other media...
+
+然而，即使是声音的形状也可以放在一定情境下。让我们暂时说点题外话，考虑一下其他媒介……
+
+[Impressionist](#user-content-fn-25)[^25] painting is about a more distanced form of seeing, of mimesis. Modern image processing tools describe the formal process used by Impressionist painters (and indeed many of the later processes such as [posterization](#user-content-fn-26)[^26]) as filters. Impressionist paintings are depictions not of an object or a scene, but of the play of light on an object or scene. An Impressionist painting still conforms to all previously established rules of composition—color weight, balance, vanishing point, center of gravity, eye center, and so on—while essentially avoiding painting the object or scene itself, which ends up being absent from the finished work.
+
+[印象派](#user-content-fn-27)[^27]绘画是一种距离更远的观看和模仿。现代图像处理工具将印象派画家使用的形式过程（以及后来的许多过程，如[分色](#user-content-fn-28)[^28]）描述为滤镜。印象派绘画描绘的不是物体或场景，而是光线在物体或场景上的作用。印象派画作仍然符合所有以前确立的构图规则——色彩权重、平衡、消失点、重心、视觉中心等——同时基本上避免描绘物体或场景本身，因为最终完成的作品中是没有物体或场景的。
+
+Impressionist music was based primarily on repetition; it went on to influence minimalist styles ranging from Philip Glass to electronica. Impressionist music is essentially that of [Debussy](#user-content-fn-29)[^29]: intensely varied in orchestration, extremely complex, particularly in its chromatic harmonies, and very repetitive melodically. [Ravel](#user-content-fn-30)[^30]'s work as an orchestrator is perhaps the epitome of the Impressionistic style: his "Bolero" consists of the same passage played over and over, identical harmonically and melodically; it has merely been orchestrated differently at each repetition, and the dynamics are different. The sense of crescendo throughout the piece is achieved precisely though this repetition.
+
+印象派音乐主要以重复为基础，并对菲利普·格拉斯和电子乐等极简主义风格产生了影响。印象派音乐基本上是[德彪西](#user-content-fn-31)[^31]的音乐：管弦乐变化多端，极其复杂，尤其是半音和声，旋律非常重复。[拉威尔](#user-content-fn-32)[^32]作为配器师的作品也许是印象派风格的典型代表：他的《波莱罗》由重复演奏的相同段落组成，和声和旋律完全相同；只是每次重复时编排不同，且动态效果也不同。整首乐曲的高潮感正是通过这种重复来实现的。
+
+<div align="center">
+<img src="images/9.9.png">
+</div>
+
+> Or composing music.
+> 
+> 或者作曲。
 
 [^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using "game" for very fuzzy concepts. In short:
 • The world is full of systems.
@@ -354,4 +466,44 @@ For an essay-length working out of this concept, see http://www.raphkoster.com/2
 
 [^11]: Every medium is interactive: Whether you prefer Marshall McLuhan's nomenclature of "hot" and "cold" media or more contemporary conceptions of audience participation in the artistic construct, such as reader-response theory, is kind of academic because it's a debate about the level of interactivity present in only one box in the chart.
 
-[^12]: 每一种媒介都是互动的：无论你偏好马歇尔·麦克卢汉的“热”和“冷”媒体命名法，还是更现代的受众参与艺术建构的概念，如读者反应理论，这些都有点学术性，因为这只是关于图表中一个方框的互动程度的争论。
+[^12]: 每一种媒介都是互动的：无论你偏好马歇尔·麦克卢汉的“热”和“冷”媒介命名法，还是更现代的受众参与艺术建构的概念，如读者反应理论，这些都有点学术性，因为这只是关于图表中一个方框的互动程度的争论。
+
+[^13]: Mondrian: Piet Mondrian was a painter who was particularly noted for his compositions that used only colored squares and oblongs.
+
+[^14]: 蒙德里安：皮特·蒙德里安是一位画家，他的作品只使用彩色的正方形和长方形，因此尤为著名。
+
+[^15]: Leading tones: In music theory, this is the idea that certain pitches naturally lead the ear to expect another note. The act of moving to this new pitch is usually called "resolving" the harmony. The commonest place where we see this is leading from the V back to the I (from the dominant to the tonic), where the leading tone is the major third of the V, and one half-step short of the tonic's root, the note that is the key the song is in.
+
+[^16]: 导音：在音乐理论中，这是一种认为某些音高自然引导听者期待另一个音符的概念。移动到这个新音高的行为通常被称为“解决”和声。最常见的情况是从 V 回到 I（从属音回到主音），其中导音是 V 的大三度，距离主音根音——也就是歌曲所在调性的基音——只有半音之遥。
+
+[^17]: Exact cover: A class of mathematical problems based on allocating resources so that every contingency is covered. [Wikipedia](http://en.wikipedia.org/wiki/Exact_cover) has all the math for you.
+
+[^18]: 精确覆盖：一类基于资源分配的数学问题，以确保覆盖所有可能情况。[维基百科](http://en.wikipedia.org/wiki/Exact_cover)为你提供了所有数学知识。
+
+[^19]: Formalism: As used here, formalism means the examination of essential qualities that make up a classified artifact. It is essentially an approach based on precise description, and arriving at terms. There are many other schools of criticism, including those which reject the notion of essential qualities at all.
+
+[^20]: 形式主义：这里所说的形式主义是指对构成分类艺术品的基本特征进行研究。它本质上是一种基于精确描述并得出术语的方法。还有许多其他的批评流派，包括那些完全拒绝本质特征概念的流派。
+
+[^21]: Disagree with me on this: The game designer Dave Kennerly feels that "shoehorning the principle of the movie, book, narrative, or other inapplicable medium onto the game perpetuates bad games." In his defense, he is speaking primarily of the construction of formal systems themselves.
+
+[^22]: 在这一点上，我有不同意见：游戏设计师戴夫-肯纳利（Dave Kennerly）认为，"把电影、书籍、叙事或其他不适用的媒介的原则硬塞进游戏里，会让糟糕的游戏长期存在"。为自己辩护时，他说的主要是形式系统本身的构建。
+
+[^23]: Belles lettres: Literally "beautiful letters." The term was once widely used as the rubric for all forms of study of writing.
+
+[^24]: Belles lettres：字面意思是“美丽的文字”。该词曾被广泛用作各种形式的写作研究的标准。
+
+[^25]: Impressionism: An artistic movement primarily centered in the visual arts and music, it takes its name from the painting Impression: A Sunrise. Impressionism in art is more concerned with depicting the play of light on an object than the object itself.
+
+[^26]: Posterization: An alteration of color and increase in contrast between color forms, frequently used as a filter in image processing software.
+
+[^27]: 印象派：这是一场主要以视觉艺术和音乐为中心的艺术运动，其名称来源于油画《印象：日出》。艺术中的印象派更注重描绘光线在物体上的作用，而不是物体本身。
+
+[^28]: 分色：色彩的改变和色彩形式对比度的增加，常用于图像处理软件中的滤镜。
+
+[^29]: Debussy: Composer (1862–1918) best known for Prelude to "The Afternoon of a Faun."
+
+[^30]: Ravel: An important composer in his own right ("Bolero"), but also a talented orchestrator and arranger. The version everyone knows of Pictures at an Exhibition is his orchestration rather than Mussorgsky's original.
+
+[^31]: 德彪西：作曲家（1862-1918 年），最著名的作品是《牧神午后》序曲。
+
+[^32]: 拉威尔：他不仅是一位重要的作曲家（《波莱罗》），还是一位才华横溢的配器师和编曲家。大家所熟知的《画展上的图画》就是他配器的版本，而不是穆索尔斯基的原作。
