@@ -71,7 +71,7 @@ My second grid shows how we can analyze music. When I look at the chart for musi
 
 "Game" is a very fuzzy word. A few times in this book I have mentioned game systems as being distinct from games, or as the core element that makes something a game (in some senses). But "game systems" are not a medium. They are, depending on the definition, one use of a medium. The medium is really an unwieldy phrase like “formal abstract models for teaching patterns." I have taken to calling these "[ludic artifacts(#user-content-fn-1)[^1]" to distinguish them from the fuzziness of "game." Even though ludic artifacts—like fire drills or CIA model war games of the future of the Middle East—may not necessarily be fun, they still belong on the chart. The fact that they are not fun has more to do with their implementation than with their intrinsic nature.
 
-“游戏”是一个非常模糊的词。在本书中，我曾多次提到游戏系统有别于游戏，或者游戏系统是游戏的核心要素（在某些意义上）。但 “游戏系统”并不是一种媒介。根据不同的定义，它们只是媒介的一种用途。媒介实际上是一个难以理解的短语，比如“教学模式的正式抽象模型”。我习惯于称这些为“[可笑的人工制品](#user-content-fn-2)[^2]”，以区别于“游戏”的模糊性。尽管可笑的人工制品——如消防演习或中情局关于中东未来的战争游戏模型——不一定有趣，但它们仍然属于图表。它们之所以不好玩，与其说与它们的内在本质有关，不如说与它们的实施方式有关。
+“游戏”是一个非常模糊的词。在本书中，我曾多次提到游戏系统有别于游戏，或者游戏系统是游戏的核心要素（在某些意义上）。但 “游戏系统”并不是一种媒介。根据不同的定义，它们只是媒介的一种用途。媒介实际上是一个难以理解的短语，比如“教学模式的形式抽象模型”。我习惯于称这些为“[可笑的人工制品](#user-content-fn-2)[^2]”，以区别于“游戏”的模糊性。尽管可笑的人工制品——如消防演习或中情局关于中东未来的战争游戏模型——不一定有趣，但它们仍然属于图表。它们之所以不好玩，与其说与它们的内在本质有关，不如说与它们的实施方式有关。
 
 Interaction happens with all media (at a minimum, we interact by engaging with the work). Actively and constructively interacting with stage-based media is termed "acting" and interacting with prose-based media is termed "writing." There's been a lot of discussion in professional video game design circles about "the surrender of authorship" inherent in adding greater flexibility to games and in the ["mod" community](#user-content-fn-3)[^3]. I think the key insight here is that players are simply "interacting with the medium" in a way that isn't purely experiential.
 
@@ -245,7 +245,76 @@ Mere entertainment becomes art when the communicative element in the work is eit
 
 Since games are closed formal systems, that might mean that games can never be art in that sense. But I don't think so. I think that means that we just need to decide what we want to say with a given game—something big, something complex, something open to interpretation, something where there is no single right answer—and then make sure that when the player interacts with it, she can come to it again and reveal whole new aspects to the challenge presented.
 
-由于游戏是封闭的形式系统，这可能意味着游戏在这个意义上永远不可能成为艺术。但我不这么认为。我认为，这意味着我们只需要确定我们想用某款游戏表达什么——大型的、复杂的、可解释的、没有唯一正确答案的——然后确保当玩家与之互动时，她可以再次进入游戏，并揭示所面临挑战的全新方面。
+由于游戏是封闭的形式系统，这可能意味着游戏在这个意义上永远无法成为艺术。但我不这么认为。我认为，这意味着我们只需要确定我们想用一个游戏表达什么——一些宏大的东西，一些复杂的东西，一些可以解释的东西，一些没有唯一正确答案的东西——然后确保当玩家与之互动时，她可以再次面对它，并揭示所呈现挑战的全新方面。
+
+> That may be the best definition of when something ceases to be craft and turns into art --
+> 
+> 这可能是判断某事物何时从工艺转变为艺术的最佳标准——
+
+What would a game like this be?
+
+这样的游戏会是什么呢？
+
+It would be thought-provoking.
+
+它会发人深省。
+
+It would be revelatory.
+
+它会启发思考。
+
+It might contribute to the betterment of society.
+
+它可能会改善社会。
+
+It would force us to reexamine assumptions.
+
+它会迫使我们重新审视假设。
+
+It would give us different experiences each time we tried it.
+
+每次尝试都会给我们带来不同的体验。
+
+It would allow each of us to approach it in our own ways.
+
+它会允许我们每个人以自己的方式来对待它。
+
+It would forgive misinterpretation—in fact, it might even encourage it.
+
+它会宽容误解，事实上，它甚至会鼓励误解。
+
+It would not dictate.
+
+它不会发号施令。
+
+It would immerse, and change a worldview.
+
+它会令人沉浸其中，并改变世界观。
+
+> -- the point at which it becomes subject to interpretation.
+> 
+> ——即当它开始受到主观解读的那一刻。
+
+Some might say that abstract formal systems cannot achieve this. But I have seen wind course across the sky, bearing leaves; I have seen paintings by Mondrian made of nothing but colored squares; I have heard Bach played on a harpsichord; I have traced the rhythms of a sonnet; I have followed the steps of a dance.
+
+有人可能会说，抽象的形式系统无法做到这一点。但是，我曾见风掠天际，携叶起舞；我曾赏蒙德里安，色格构筑；我曾听巴赫之音，琴键倾诉；我曾循诗行漫步，韵律含蓄；我曾踏舞者步履，优雅追逐。
+
+All media are abstract, formal systems. They have grammars, methods, and systems of craft. They follow rules, whether it is the rules of language, the rules of leading tones in music,  or the rules of visual composition. They often play with these rules and reveal startling new aspects to them.
+
+所有媒体都是抽象的、形式化的系统。它们有语法、方法和工艺系统。它们遵循规则，无论是语言规则、音乐中的主音规则，还是视觉构图规则。他们经常玩弄这些规则，并揭示其惊人的新方面。
+
+All artists choose constraints when they set out to create: a postage stamp of paper or a broad canvas; to use rhyme or free verse; the choice of piano versus guitar. In fact, choosing constraints is one of the most fruitful ways to prod creativity.
+
+所有艺术家在开始创作时都会选择一些限制条件：一张邮票大小的纸张还是宽阔的画布；使用韵律还是自由诗；选择钢琴还是吉他。事实上，选择约束条件是激发创造力最富有成效的方法之一。
+
+Games, too, share these characteristics. “Create a one button game.” “Invent a game using nothing more than pennies and a deck of cards.” “Design a game that is about exact cover.”*
+
+游戏也有这些特点。"创造一个单键游戏"。"发明一个只用一分钱和一副扑克牌的游戏" "设计一款关于精确封面的游戏 "*。
+
+Let’s not sell abstraction and formality short.
+
+让我们不要轻视抽象和形式。
+
 
 [^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using "game" for very fuzzy concepts. In short:
 • The world is full of systems.
