@@ -128,7 +128,7 @@ In other words, modding is just playing the game in another way, sort of like a 
 > 
 > 实际上，这与其他任何媒介或人类行为的任何其他领域并无不同。
 
-Some of the activities on the first chart aren't what you would normally term "fun," even though they are almost all activities in which you learn patterns. We can sit here and debate whether performing music, writing a story, or drawing a picture is fun. Having training in all three, I can tell you that they are all hard work, which isn't something we necessarily consider fun. But I derive great fulfillment from these activities. This is perhaps analogous to watching Hamlet on stage, reading [Lord Jim](#user-content-fn-5)[^5], * or viewing [Guernica](#user-content-fn-6)[^6]—an interaction with a system rich and challenging enough to permit me to treat it as a learning opportunity.
+Some of the activities on the first chart aren't what you would normally term "fun," even though they are almost all activities in which you learn patterns. We can sit here and debate whether performing music, writing a story, or drawing a picture is fun. Having training in all three, I can tell you that they are all hard work, which isn't something we necessarily consider fun. But I derive great fulfillment from these activities. This is perhaps analogous to watching Hamlet on stage, reading [Lord Jim](#user-content-fn-5)[^5], or viewing [Guernica](#user-content-fn-6)[^6]—an interaction with a system rich and challenging enough to permit me to treat it as a learning opportunity.
 
 第一张图表中的一些活动并不是你通常所说的“有趣”，尽管它们几乎都是学习模式的活动。我们可以坐在这里争论表演音乐、写故事或画画是否有趣。我在这三方面都接受过训练，我可以告诉你，它们都是艰苦的工作，我们不一定会认为这很有趣。但我从这些活动中获得了极大的成就感。这也许类似于在舞台上观看《哈姆雷特》、阅读[《吉姆勋爵》](#user-content-fn-7)[^7]或观赏[《格尔尼卡》](#user-content-fn-8)[^8]——与一个系统的互动丰富而富有挑战性，足以让我把它当作一次学习的机会。
 
