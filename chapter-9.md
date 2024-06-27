@@ -465,6 +465,31 @@ The answer is: of course you can. It's called [Minesweeper](#user-content-fn-39)
 > 
 > (你注意到所有这些都与沟通有关吗？）
 
+In the end, the endeavor that games engage in is similar to the endeavors of any other art form. The principal difference is not the fact that they consist of formal systems. Look at the following lists of terms:
+
+归根结底，游戏所从事的工作与任何其他艺术形式所从事的工作都是相似的。主要区别并不在于它们由形式系统组成。请看以下术语清单：
+
+• Meter, rhyme, spondee, slant rhyme, onomatopoeia, caesura, iamb, trochee, pentameter, rondel, sonnet, verse
+• Phoneme, sentence, accent, fricative, word, clause, object, subject, punctuation, case, pluperfect, tense
+• Meter, fermata, key, note, tempo, coloratura, orchestration, arrangement, scale, mode
+• Color, line, weight, balance, compound, multiply, additive, refraction, closure, model, still life, perspective
+• Rule, level, score, opponent, boss, life, power-up, pick-up, bonus round, icon, unit, counter, board
+
+
+- 格律、韵脚、扬扬格、斜韵、拟声词、休止、抑扬格、扬抑格、五音步子、回旋诗歌、十四行诗、诗歌
+- 音素、句子、重音、摩擦音、单词、从句、宾语、主语、标点符号、格、过去完成时、时态
+- 节拍、延长符号、调性、音符、速度、花腔、配器、编排、音阶、调式
+- 色彩、线条、视觉重量、平衡、复合、乘法、加法、折射、闭合、模特、静物、透视
+- 规则、关卡、分数、对手、头目、生命、强化道具、拾取、奖励关、图标、单位、计数器、棋盘
+
+Let's not kid ourselves—the sonnet is caged about with as many formal systems as a game is.
+
+让我们不要自欺欺人了——十四行诗和游戏一样，被各种形式规则系统所约束。
+
+If anything, the great irony about games, put in context with other media, is that they may afford less scope to the designer, who has less freedom to impose, less freedom to propagandize. Game systems are not good at conveying specifics, only generalities. It is easy to make a game system that tells you that small groups can prevail over large ones, or the converse. And that may be a valuable and deeply personal statement to make. It’s a lot harder to make an abstract ludic artifact that conveys the specific struggle of a group of World War II soldiers to rescue one other man from behind enemy lines, as the film Saving Private Ryan does, without resorting to the tools of writing. The designer who wants to use game system design as an expressive medium must be like the painter and the musician and the writer, in that she must learn what the strengths of the medium are, and what messages are best conveyed by it.
+
+与其他媒体相比，游戏最大的讽刺之处在于，它为设计者提供的空间可能更小，设计者施加影响的自由度更小，宣传的自由度更小。游戏系统不善于表达具体内容，只能表达一般性内容。制作一个游戏系统很容易，它可以告诉你小团体可以战胜大团体，或者相反的道理。这可能是一个有价值的、深刻的个人陈述。但要像电影《拯救大兵瑞恩》那样，在不借助文字工具的情况下，制作一个抽象的、能传达一群二战士兵为从敌后营救一个人而进行的具体斗争的荒诞艺术品，就难得多了。想要把游戏系统设计作为一种表现媒介的设计师，必须像画家、音乐家和作家一样，了解这种媒介的优势所在，以及用它来传达什么信息最合适。
+
 [^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using "game" for very fuzzy concepts. In short:
 • The world is full of systems.
 • If we approach these with Suits' lusory attitude, we learn how they work through play, as elucidated in this book.
