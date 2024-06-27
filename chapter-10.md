@@ -204,7 +204,7 @@ The problematic case is a game that contains both brilliant gameplay and offensi
 
 All artistic media have influence, and free will also has a say in what people say and do. Games right now seem to have a very narrow palette of expression. But let them grow. Society should not do something stupid like the [Comics Code](#user-content-fn-17)[^17], which stunted the development of the comics medium in the United States severely for decades. Not all artists and critics agree that art has a social responsibility. If there was such agreement, there wouldn't be the debates about the ethics of locking up [Ezra Pound](#user-content-fn-18)[^18], about the validity of propagandistic art, about whether one should respect artists who were scoundrels and scum in their private lives. It's not surprising that we wonder whether games or TV or movies have a social responsibility—once upon a time we asked the same thing about poetry. Nobody really ever agreed on an answer.
 
-所有艺术媒介都有影响力，而人的自由意志也在决定人们言行的过程中发挥作用。现在的游戏似乎只有非常狭窄的表达空间。但还是让它们成长吧。社会不应该做[《漫画法典》](#user-content-fn-19)[^19]那样的蠢事，它严重阻碍了美国漫画媒介的发展，长达数十年之久。并非所有的艺术家和评论家都同意艺术具有社会责任。如果有这样的共识，就不会有关于关押[埃兹拉·庞德](#user-content-fn-20)[^20]的伦理辩论，不会有关于宣传艺术有效性的争论，关于是否应该尊重那些在私生活中是无赖和人渣的艺术家的争论。我们不禁要问，游戏、电视或电影是否负有社会责任——曾经我们也对诗歌提出过同样的问题。没有人真正就答案达成一致。
+所有艺术媒介都有影响力，而人的自由意志也在决定人们言行的过程中发挥作用。现在的游戏似乎只有非常狭窄的表达空间。但还是让它们成长吧。社会不应该做[《漫画准则》](#user-content-fn-19)[^19]那样的蠢事，它严重阻碍了美国漫画媒介的发展，长达数十年之久。并非所有的艺术家和评论家都同意艺术具有社会责任。如果有这样的共识，就不会有关于关押[埃兹拉·庞德](#user-content-fn-20)[^20]的伦理辩论，不会有关于宣传艺术有效性的争论，关于是否应该尊重那些在私生活中是无赖和人渣的艺术家的争论。我们不禁要问，游戏、电视或电影是否负有社会责任——曾经我们也对诗歌提出过同样的问题。没有人真正就答案达成一致。
 
 The constructive thing to do is to push the boundary gently so that it doesn't backfire. That's how we got Lolita, Catcher in the Rye, and Apocalypse Now. As a medium, games have to earn the right to be taken seriously.
 
@@ -258,6 +258,6 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 
 [^18]: Ezra Pound: A brilliant modernist poet who was also a fascist and not a very nice human being.
 
-[^19]: 《漫画法典》：20世纪50年代，由于对暴力漫画可能对儿童产生的影响的强烈抗议之后建立。结果是漫画行业实行自我审查；多年来，没有《漫画法典》印章的漫画一律不得出版。从 50 年代的 EC 漫画到阿特·斯皮格尔曼的《鼠族》，两者之间的艺术差距并不算大，但《漫画法典》的实施造成的时间差可以说让漫画媒介倒退了 30 年。大卫·哈伊杜的《十分钱瘟疫：伟大的漫画恐慌以及它如何改变了美国》（Picador，2009 年）是一本介绍这一道德恐慌历史的优秀著作。
+[^19]: 《漫画准则》：20世纪50年代，由于对暴力漫画可能对儿童产生的影响的强烈抗议之后建立。结果是漫画行业实行自我审查；多年来，没有《漫画准则》印章的漫画一律不得出版。从 50 年代的 EC 漫画到阿特·斯皮格尔曼的《鼠族》，两者之间的艺术差距并不算大，但《漫画准则》的实施造成的时间差可以说让漫画媒介倒退了 30 年。大卫·哈伊杜的《十分钱瘟疫：伟大的漫画恐慌以及它如何改变了美国》（Picador，2009 年）是一本介绍这一道德恐慌历史的优秀著作。
 
 [^20]: 埃兹拉·庞德：一位杰出的现代主义诗人，同时也是一位法西斯主义者，为人并不友善。
