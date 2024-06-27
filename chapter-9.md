@@ -501,13 +501,13 @@ If anything, the great irony about games, put in context with other media, is th
 > 或者射击游戏。
 
 [^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using "game" for very fuzzy concepts. In short:
-• The world is full of systems.
-• If we approach these with Suits' lusory attitude, we learn how they work through play, as elucidated in this book.
-• Fun is the feedback the brain gives us in the process.
-• We generally term the resultant activity a game.
-• Systems generally need to meet certain qualifications to be a good opportunity for the above. We could call these ludic structures.
-• A consciously designed ludic structure is a ludic artifact.
-• Even ones that are not consciously designed tend to have such as design imposed on them by our act of turning them into a game: we layer on goals, success metrics, etc.
+	* The world is full of systems.
+	* If we approach these with Suits' lusory attitude, we learn how they work through play, as elucidated in this book.
+	* Fun is the feedback the brain gives us in the process.
+	* We generally term the resultant activity a game.
+	* Systems generally need to meet certain qualifications to be a good opportunity for the above. We could call these ludic structures.
+	* A consciously designed ludic structure is a ludic artifact.
+	* Even ones that are not consciously designed tend to have such as design imposed on them by our act of turning them into a game: we layer on goals, success metrics, etc.
 For an essay-length working out of this concept, see [here](http://www.raphkoster.com/2013/04/16/playing-with-game/).
 
 [^2]: 游戏人工制品：这是一个笨拙的术语，但它避免了用“游戏”来描述非常模糊的概念时所固有的难题。简而言之：
@@ -518,7 +518,7 @@ For an essay-length working out of this concept, see [here](http://www.raphkoste
 	* 一般来说，系统需要满足一定的条件才能成为实现上述目标的好机会。我们可以把这些系统称为“游戏结构”。
 	* 有意识设计的游戏结构就是游戏人工制品。
 	* 即使不是有意识设计的，我们在将其转化为游戏的过程中，也会将这种设计强加给它们：我们会在其上叠加目标、成功指标等。
-有关这一概念的长篇论文，请[参阅](http://www.raphkoster.com/2013/04/16/playing-with-game/)。
+有关这一概念的长篇论文，请参阅[这里](http://www.raphkoster.com/2013/04/16/playing-with-game/)。
 
 [^3]: Mod or modding: Many video games are constructed in a way that permits players to create variants on the rules, alter the artwork, or even create whole new games using the game's software. This has led to large "mod communities" of player-contributed games and content. This is similar to "house rules" for board games.
 
@@ -528,9 +528,9 @@ For an essay-length working out of this concept, see [here](http://www.raphkoste
 
 [^6]: Guernica: A painting by Pablo Picasso, done to commemorate and protest the bombing of that city during the Spanish Civil War.
 
-[^7]: 《吉姆勋爵》：《约瑟夫·康拉德》的小说。这不是一本令人愉快的书，其结局往好里说是宿命论，往坏里说是残酷的。
+[^7]: 《吉姆勋爵》：约瑟夫·康拉德的小说。这不是一本令人愉快的书，其结局往好里说是宿命论，往坏里说是残酷的。
 
-[^8]: 《格尔尼卡》：《巴勃罗·毕加索》为纪念和抗议西班牙内战期间该城市遭到轰炸而创作的一幅画。
+[^8]: 《格尔尼卡》：巴勃罗·毕加索为纪念和抗议西班牙内战期间该城市遭到轰炸而创作的一幅画。
 
 [^9]: Software toy: A common appellation for video games that are not goal-oriented.
 
