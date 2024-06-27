@@ -220,7 +220,7 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 > 
 > MOM, CAN I GET THIS MASS MURDER GAME, HUH, HUH?
 > 
-> 妈妈，我能玩这个大屠杀游戏吗？嗯？嗯？
+> 妈妈，我能买这个大屠杀游戏吗？嗯？嗯？
 
 [^1]: Consider films: Jon Boorstin's Making Movies Work (Silman-James Press, 1995) is an excellent primer on the basics of film as a medium.
 
