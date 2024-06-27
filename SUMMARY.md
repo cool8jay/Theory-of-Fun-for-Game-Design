@@ -14,4 +14,5 @@
 * [Chapter 6 Different Fun for Different Folks 第六章 不同的人有不同的乐趣](chapter-6.md)
 * [Chapter 7 The Problem with Learning 第七章 学习的问题](chapter-7.md)
 * [Chapter 8 The Problem with People 第八章 人的问题](chapter-8.md)
-* [Chapter 9 Games in Context 第九章 游戏背景](chapter-9.md)
+* [Chapter 9 Games in Context 第九章 情境下的游戏](chapter-9.md)
+* [Chapter 10 The Ethics of Entertainment 第十章 娱乐伦理](chapter-10.md)
