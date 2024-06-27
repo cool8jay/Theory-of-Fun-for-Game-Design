@@ -321,7 +321,7 @@ Games, too, share these characteristics. "Create a one button game." "Invent a g
 
 Let's not sell abstraction and formality short.
 
-我们不应低估抽象性和形式化的重要性。
+我们不应该低估抽象性和形式化的重要性。
 
 <div align="center">
 <img src="images/9.7.png">
@@ -427,6 +427,43 @@ Impressionist music was based primarily on repetition; it went on to influence m
 > Or composing music.
 > 
 > 或者作曲。
+
+And of course, there was "Impressionist" writing. Virginia Woolf, Gertrude Stein, and many other writers worked with the idea that characters are unknowable. Books like Jacob's Room and The Autobiography of Alice B. Toklas play with the established notions of self and work towards a realization that other people are essentially unknowable. However, they also propose an alternate notion of knowability: that of "negative space," whereby a form is understood and its nature grasped by observing the perturbations around it. The term is from the world of pictorial art, which provides many useful insights when discussing the problem of representation of reality.
+
+当然，还有“印象派”写作。弗吉尼亚·伍尔夫、格特鲁德·斯坦因和其他许多作家都曾提出过“人物是不可知的”这个观点。《雅各布的房间》和《爱丽丝·B·托克拉斯自传》等书玩弄了既定的自我概念，并努力让人们认识到其他人本质上是不可知的。然而，它们也提出了可知性的一个替代概念："负空间"，即通过观察周围的扰动变化来理解一种形式并把握其本质。这个术语来自绘画艺术世界，在讨论现实的再现问题时提供了许多有用的见解。
+
+All of these are organized around the same principles: negative space, embellishing the space around a central theme, and observing perturbations and reflections. There was a zeitgeist at that time; these approaches were "in the air," but there was also conscious borrowing from art form to art form. This occurred in large part because no art form stands alone; they bleed into one another.
+
+所有这些都围绕着相同的原则：负空间、围绕中心主题点缀空间、观察扰动和反射。当时有一种思潮；这些方法“风靡一时”，但同时也有意识地在不同艺术形式之间相互借鉴。这在很大程度上是因为没有一种艺术形式是孤立存在的，它们相互影响渗透。
+
+Can you make an Impressionist game? A game where the formal system conveys the following:
+
+你能制作一款印象派游戏吗？一款形式系统传达以下特点的游戏：
+
+* The object you seek to understand is not visible or depicted.\
+	你所要理解的对象是不可见的，或也没有被描绘出来。
+
+* Negative space is more important than shape.\
+	负空间比形状更重要。
+
+* Repetition with variation is central to understanding.\
+	带有变化的重复是理解的核心。
+
+The answer is: of course you can. It's called Minesweeper.
+
+答案是：当然可以。它叫做扫雷。
+
+<div align="center">
+<img src="images/9.10.png">
+</div>
+
+> Or understanding your significant other.
+> 
+> 或者理解你的另一半。
+> 
+> (did you notice all of these are about communication?)
+> 
+> (你注意到所有这些都与沟通有关吗？）
 
 [^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using "game" for very fuzzy concepts. In short:
 • The world is full of systems.
