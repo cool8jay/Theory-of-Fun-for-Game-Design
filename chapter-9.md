@@ -469,18 +469,20 @@ In the end, the endeavor that games engage in is similar to the endeavors of any
 
 归根结底，游戏所从事的工作与任何其他艺术形式所从事的工作都是相似的。主要区别并不在于它们由形式系统组成。请看以下术语清单：
 
-• Meter, rhyme, spondee, slant rhyme, onomatopoeia, caesura, iamb, trochee, pentameter, rondel, sonnet, verse
-• Phoneme, sentence, accent, fricative, word, clause, object, subject, punctuation, case, pluperfect, tense
-• Meter, fermata, key, note, tempo, coloratura, orchestration, arrangement, scale, mode
-• Color, line, weight, balance, compound, multiply, additive, refraction, closure, model, still life, perspective
-• Rule, level, score, opponent, boss, life, power-up, pick-up, bonus round, icon, unit, counter, board
+* Meter, rhyme, spondee, slant rhyme, onomatopoeia, caesura, iamb, trochee, pentameter, rondel, sonnet, verse\
+    格律、韵脚、扬扬格、斜韵、拟声词、休止、抑扬格、扬抑格、五音步子、回旋诗歌、十四行诗、诗歌
 
+* Phoneme, sentence, accent, fricative, word, clause, object, subject, punctuation, case, pluperfect, tense\
+    音素、句子、重音、摩擦音、单词、从句、宾语、主语、标点符号、格、过去完成时、时态
 
-- 格律、韵脚、扬扬格、斜韵、拟声词、休止、抑扬格、扬抑格、五音步子、回旋诗歌、十四行诗、诗歌
-- 音素、句子、重音、摩擦音、单词、从句、宾语、主语、标点符号、格、过去完成时、时态
-- 节拍、延长符号、调性、音符、速度、花腔、配器、编排、音阶、调式
-- 色彩、线条、视觉重量、平衡、复合、乘法、加法、折射、闭合、模特、静物、透视
-- 规则、关卡、分数、对手、头目、生命、强化道具、拾取、奖励关、图标、单位、计数器、棋盘
+* Meter, fermata, key, note, tempo, coloratura, orchestration, arrangement, scale, mode
+    节拍、延长符号、调性、音符、速度、花腔、配器、编排、音阶、调式
+
+* Color, line, weight, balance, compound, multiply, additive, refraction, closure, model, still life, perspective\
+    色彩、线条、视觉重量、平衡、复合、乘法、加法、折射、闭合、模特、静物、透视
+
+* Rule, level, score, opponent, boss, life, power-up, pick-up, bonus round, icon, unit, counter, board\
+    规则、关卡、分数、对手、头目、生命、强化道具、拾取、奖励关、图标、单位、计数器、棋盘
 
 Let's not kid ourselves—the sonnet is caged about with as many formal systems as a game is.
 
