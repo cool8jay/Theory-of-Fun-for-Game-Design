@@ -461,6 +461,10 @@ The answer is: of course you can. It's called [Minesweeper](#user-content-fn-39)
 > 
 > 或者理解你的另一半。
 > 
+> ...hmph...
+> 
+> ……哼……
+> 
 > (did you notice all of these are about communication?)
 > 
 > (你注意到所有这些都与沟通有关吗？）
