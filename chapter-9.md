@@ -564,11 +564,11 @@ For an essay-length working out of this concept, see [here](http://www.raphkoste
 
 [^24]: Belles lettres：来自法语，字面意思是“美丽的文字”。该词曾被广泛用作各种形式的写作研究的标准。
 
-[^25]: Impressionism: An artistic movement primarily centered in the visual arts and music, it takes its name from the painting Impression: A Sunrise. Impressionism in art is more concerned with depicting the play of light on an object than the object itself.
+[^25]: Impressionism: An artistic movement primarily centered in the visual arts and music, it takes its name from the painting Impression, Sunrise. Impressionism in art is more concerned with depicting the play of light on an object than the object itself.
 
 [^26]: Posterization: An alteration of color and increase in contrast between color forms, frequently used as a filter in image processing software.
 
-[^27]: 印象派：这是一场主要以视觉艺术和音乐为中心的艺术运动，其名称来源于油画《印象：日出》。艺术中的印象派更注重描绘光线在物体上的作用，而不是物体本身。
+[^27]: 印象派：这是一场主要以视觉艺术和音乐为中心的艺术运动，其名称来源于油画《印象·日出》。艺术中的印象派更注重描绘光线在物体上的作用，而不是物体本身。
 
 [^28]: 分色：色彩的改变和色彩形式对比度的增加，常用于图像处理软件中的滤镜。
 
