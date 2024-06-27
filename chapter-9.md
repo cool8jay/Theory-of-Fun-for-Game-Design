@@ -69,9 +69,9 @@ My second grid shows how we can analyze music. When I look at the chart for musi
 
 第二个网格展示了我们如何分析音乐。当我查看音乐图表时，我看到的是一群基于音乐的娱乐活动。如果我为书籍制作一个类似的图表，它将涵盖散文类娱乐。基本上，这个图表可以适用于任何媒介。
 
-"Game" is a very fuzzy word. A few times in this book I have mentioned game systems as being distinct from games, or as the core element that makes something a game (in some senses). But "game systems" are not a medium. They are, depending on the definition, one use of a medium. The medium is really an unwieldy phrase like "formal abstract models for teaching patterns." I have taken to calling these "[ludic artifacts(#user-content-fn-1)[^1]" to distinguish them from the fuzziness of "game." Even though ludic artifacts—like fire drills or CIA model war games of the future of the Middle East—may not necessarily be fun, they still belong on the chart. The fact that they are not fun has more to do with their implementation than with their intrinsic nature.
+"Game" is a very fuzzy word. A few times in this book I have mentioned game systems as being distinct from games, or as the core element that makes something a game (in some senses). But "game systems" are not a medium. They are, depending on the definition, one use of a medium. The medium is really an unwieldy phrase like "formal abstract models for teaching patterns." I have taken to calling these "[ludic artifacts](#user-content-fn-1)[^1]" to distinguish them from the fuzziness of "game." Even though ludic artifacts—like fire drills or CIA model war games of the future of the Middle East—may not necessarily be fun, they still belong on the chart. The fact that they are not fun has more to do with their implementation than with their intrinsic nature.
 
-“游戏”是一个非常模糊的词。在本书中，我曾多次提到游戏系统有别于游戏，或者游戏系统是游戏的核心要素（在某些意义上）。但 “游戏系统”并不是一种媒介。根据不同的定义，它们只是媒介的一种用途。媒介实际上是一个难以理解的短语，比如“教学模式的形式抽象模型”。我习惯于称这些为“[可笑的人工制品](#user-content-fn-2)[^2]”，以区别于“游戏”的模糊性。尽管可笑的人工制品——如消防演习或中情局关于中东未来的战争游戏模型——不一定有趣，但它们仍然属于图表。它们之所以不好玩，与其说与它们的内在本质有关，不如说与它们的实施方式有关。
+“游戏”是一个非常模糊的词。在本书中，我曾多次提到游戏系统有别于游戏，或者游戏系统是游戏的核心要素（在某些意义上）。但 “游戏系统”并不是一种媒介。根据不同的定义，它们只是媒介的一种用途。媒介实际上是一个难以理解的短语，比如“教学模式的形式抽象模型”。我习惯于称这些为“[游戏人工制品](#user-content-fn-2)[^2]”，以区别于“游戏”的模糊性。尽管游戏人工制品——如消防演习或中情局关于中东未来的战争游戏模型——不一定有趣，但它们仍然属于图表。它们之所以不好玩，与其说与它们的内在本质有关，不如说与它们的实施方式有关。
 
 Interaction happens with all media (at a minimum, we interact by engaging with the work). Actively and constructively interacting with stage-based media is termed "acting" and interacting with prose-based media is termed "writing." There's been a lot of discussion in professional video game design circles about "the surrender of authorship" inherent in adding greater flexibility to games and in the ["mod" community](#user-content-fn-3)[^3]. I think the key insight here is that players are simply "interacting with the medium" in a way that isn't purely experiential.
 
@@ -305,7 +305,7 @@ It would immerse, and change a worldview.
 
 Some might say that abstract formal systems cannot achieve this. But I have seen wind course across the sky, bearing leaves; I have seen paintings by [Mondrian](#user-content-fn-13)[^13] made of nothing but colored squares; I have heard Bach played on a harpsichord; I have traced the rhythms of a sonnet; I have followed the steps of a dance.
 
-有人可能会说，抽象的形式系统无法做到这一点。但是，我曾见风掠天际，携叶起舞；我曾赏[蒙德里安(#user-content-fn-14)[^14]，色格构筑；我曾听巴赫之音，琴键倾诉；我曾循诗行漫步，韵律含蓄；我曾踏舞者步履，优雅追逐。
+有人可能会说，抽象的形式系统无法做到这一点。但是，我曾见风掠天际，携叶起舞；我曾赏[蒙德里安](#user-content-fn-14)[^14]，色格构筑；我曾听巴赫之音，琴键倾诉；我曾循诗行漫步，韵律含蓄；我曾踏舞者步履，优雅追逐。
 
 All media are abstract, formal systems. They have grammars, methods, and systems of craft. They follow rules, whether it is the rules of language, the rules of [leading tones](#user-content-fn-15)[^15] in music,  or the rules of visual composition. They often play with these rules and reveal startling new aspects to them.
 
@@ -488,9 +488,9 @@ Let's not kid ourselves—the sonnet is caged about with as many formal systems 
 
 让我们不要自欺欺人了——十四行诗和游戏一样，被各种形式规则系统所约束。
 
-If anything, the great irony about games, put in context with other media, is that they may afford less scope to the designer, who has less freedom to impose, less freedom to propagandize. Game systems are not good at conveying specifics, only generalities. It is easy to make a game system that tells you that small groups can prevail over large ones, or the converse. And that may be a valuable and deeply personal statement to make. It’s a lot harder to make an abstract ludic artifact that conveys the specific struggle of a group of World War II soldiers to rescue one other man from behind enemy lines, as the film Saving Private Ryan does, without resorting to the tools of writing. The designer who wants to use game system design as an expressive medium must be like the painter and the musician and the writer, in that she must learn what the strengths of the medium are, and what messages are best conveyed by it.
+If anything, the great irony about games, put in context with other media, is that they may afford less scope to the designer, who has less freedom to impose, less freedom to propagandize. Game systems are not good at conveying specifics, only generalities. It is easy to make a game system that tells you that small groups can prevail over large ones, or the converse. And that may be a valuable and deeply personal statement to make. It's a lot harder to make an abstract ludic artifact that conveys the specific struggle of a group of World War II soldiers to rescue one other man from behind enemy lines, as the film Saving Private Ryan does, without resorting to the tools of writing. The designer who wants to use game system design as an expressive medium must be like the painter and the musician and the writer, in that she must learn what the strengths of the medium are, and what messages are best conveyed by it.
 
-与其他媒体相比，游戏最大的讽刺之处在于，它为设计者提供的空间可能更小，设计者施加影响的自由度更小，宣传的自由度更小。游戏系统不善于表达具体内容，只能表达一般性内容。制作一个游戏系统很容易，它可以告诉你小团体可以战胜大团体，或者相反的道理。这可能是一个有价值的、深刻的个人陈述。但要像电影《拯救大兵瑞恩》那样，在不借助文字工具的情况下，制作一个抽象的、能传达一群二战士兵为从敌后营救一个人而进行的具体斗争的荒诞艺术品，就难得多了。想要把游戏系统设计作为一种表现媒介的设计师，必须像画家、音乐家和作家一样，了解这种媒介的优势所在，以及用它来传达什么信息最合适。
+如果要说有什么的话，与其他媒体相比，游戏最大的讽刺之处在于，它为设计者提供的发挥空间可能更小，设计者在施加意图、进行宣传鼓吹方面的自由度更低。游戏系统不善于传达具体内容，只能传达一般性内容。制作一个游戏系统，告诉你小团队能够战胜大团队，或者相反的情况，这相对容易做到。这可能是一个有价值的、深刻的个人声明。但要像电影《拯救大兵瑞恩》那样，不借助文字工具，仅通过抽象的游戏载体，传达一群二战士兵为从敌后营救一个人而进行的具体斗争，这就困难得多。想要把游戏系统设计作为一种表现媒介的设计师，必须像画家、音乐家和作家一样，了解这种媒介的优势所在，以及哪些信息最适合通过它传达。
 
 [^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using "game" for very fuzzy concepts. In short:
 • The world is full of systems.
@@ -500,9 +500,9 @@ If anything, the great irony about games, put in context with other media, is th
 • Systems generally need to meet certain qualifications to be a good opportunity for the above. We could call these ludic structures.
 • A consciously designed ludic structure is a ludic artifact.
 • Even ones that are not consciously designed tend to have such as design imposed on them by our act of turning them into a game: we layer on goals, success metrics, etc.
-For an essay-length working out of this concept, see http://www.raphkoster.com/2013/04/16/playing-with-game/.
+For an essay-length working out of this concept, see [here](http://www.raphkoster.com/2013/04/16/playing-with-game/).
 
-[^2]: 可笑的人工制品：这是一个笨拙的术语，但它避免了用“游戏”来描述非常模糊的概念时所固有的难题。简而言之：
+[^2]: 游戏人工制品：这是一个笨拙的术语，但它避免了用“游戏”来描述非常模糊的概念时所固有的难题。简而言之：
 	* 这个世界充满了系统。
 	* 如果我们以苏伊茨的“游戏”态度来对待这些系统，我们就能通过游戏来了解它们是如何运作的。正如本书所阐明的那样。
 	* 乐趣是大脑在这一过程中给予我们的反馈。
@@ -510,7 +510,7 @@ For an essay-length working out of this concept, see http://www.raphkoster.com/2
 	* 一般来说，系统需要满足一定的条件才能成为实现上述目标的好机会。我们可以把这些系统称为“游戏结构”。
 	* 有意识设计的游戏结构就是游戏人工制品。
 	* 即使不是有意识设计的，我们在将其转化为游戏的过程中，也会将这种设计强加给它们：我们会在其上叠加目标、成功指标等。
-有关这一概念的长篇论文，请参阅 http://www.raphkoster.com/2013/04/16/playing-with-game/.
+有关这一概念的长篇论文，请[参阅](http://www.raphkoster.com/2013/04/16/playing-with-game/)。
 
 [^3]: Mod or modding: Many video games are constructed in a way that permits players to create variants on the rules, alter the artwork, or even create whole new games using the game's software. This has led to large "mod communities" of player-contributed games and content. This is similar to "house rules" for board games.
 
