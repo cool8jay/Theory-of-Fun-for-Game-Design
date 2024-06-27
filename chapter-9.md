@@ -427,14 +427,14 @@ Impressionist music was based primarily on repetition; it went on to influence m
 > Or composing music.
 > 
 > 或者作曲。
-
-And of course, there was "Impressionist" writing. Virginia Woolf, Gertrude Stein, and many other writers worked with the idea that characters are unknowable. Books like Jacob's Room and The Autobiography of Alice B. Toklas play with the established notions of self and work towards a realization that other people are essentially unknowable. However, they also propose an alternate notion of knowability: that of "negative space," whereby a form is understood and its nature grasped by observing the perturbations around it. The term is from the world of pictorial art, which provides many useful insights when discussing the problem of representation of reality.
 
-当然，还有“印象派”写作。弗吉尼亚·伍尔夫、格特鲁德·斯坦因和其他许多作家都曾提出过“人物是不可知的”这个观点。《雅各布的房间》和《爱丽丝·B·托克拉斯自传》等书玩弄了既定的自我概念，并努力让人们认识到其他人本质上是不可知的。然而，它们也提出了可知性的一个替代概念："负空间"，即通过观察周围的扰动变化来理解一种形式并把握其本质。这个术语来自绘画艺术世界，在讨论现实的再现问题时提供了许多有用的见解。
+And of course, there was "Impressionist" writing. [Virginia Woolf](#user-content-fn-33)[^33], [Gertrude Stein](#user-content-fn-34)[^34], and many other writers worked with the idea that characters are unknowable. Books like Jacob's Room and The Autobiography of Alice B. Toklas play with the established notions of self and work towards a realization that other people are essentially unknowable. However, they also propose an alternate notion of knowability: that of "negative space," whereby a form is understood and its nature grasped by observing the perturbations around it. The term is from the world of pictorial art, which provides many useful insights when discussing the problem of representation of reality.
 
-All of these are organized around the same principles: negative space, embellishing the space around a central theme, and observing perturbations and reflections. There was a zeitgeist at that time; these approaches were "in the air," but there was also conscious borrowing from art form to art form. This occurred in large part because no art form stands alone; they bleed into one another.
+当然，还有“印象派”写作。[弗吉尼亚·伍尔夫](#user-content-fn-35)[^35]、[格特鲁德·斯坦因](#user-content-fn-36)[^36]和其他许多作家都曾提出过“人物是不可知的”这个观点。《雅各布的房间》和《爱丽丝·B·托克拉斯自传》等书玩弄了既定的自我概念，并努力让人们认识到其他人本质上是不可知的。然而，它们也提出了可知性的一个替代概念："负空间"，即通过观察周围的扰动变化来理解一种形式并把握其本质。这个术语来自绘画艺术世界，在讨论现实的再现问题时提供了许多有用的见解。
 
-所有这些都围绕着相同的原则：负空间、围绕中心主题点缀空间、观察扰动和反射。当时有一种思潮；这些方法“风靡一时”，但同时也有意识地在不同艺术形式之间相互借鉴。这在很大程度上是因为没有一种艺术形式是孤立存在的，它们相互影响渗透。
+All of these are organized around the same principles: negative space, embellishing the space around a central theme, and observing perturbations and reflections. There was a [zeitgeist](#user-content-fn-37)[^37] at that time; these approaches were "in the air," but there was also conscious borrowing from art form to art form. This occurred in large part because no art form stands alone; they bleed into one another.
+
+所有这些都围绕着相同的原则：负空间、围绕中心主题点缀空间、观察扰动和反射。当时有一种[时代思潮](#user-content-fn-38)[^38]；这些方法“风靡一时”，但同时也有意识地在不同艺术形式之间相互借鉴。这在很大程度上是因为没有一种艺术形式是孤立存在的，它们相互影响渗透。
 
 Can you make an Impressionist game? A game where the formal system conveys the following:
 
@@ -449,9 +449,9 @@ Can you make an Impressionist game? A game where the formal system conveys the f
 * Repetition with variation is central to understanding.\
 	带有变化的重复是理解的核心。
 
-The answer is: of course you can. It's called Minesweeper.
+The answer is: of course you can. It's called [Minesweeper](#user-content-fn-39)[^39].
 
-答案是：当然可以。它叫做扫雷。
+答案是：当然可以。它叫做[扫雷](#user-content-fn-40)[^40]。
 
 <div align="center">
 <img src="images/9.10.png">
@@ -544,3 +544,19 @@ For an essay-length working out of this concept, see http://www.raphkoster.com/2
 [^31]: 德彪西：作曲家（1862-1918 年），最著名的作品是《牧神午后》序曲。
 
 [^32]: 拉威尔：他不仅是一位重要的作曲家（《波莱罗》），还是一位才华横溢的配器师和编曲家。大家所熟知的《画展上的图画》就是他配器的版本，而不是穆索尔斯基的原作。
+
+[^33]: Virginia Woolf and Jacob's Room: This novel is about Jacob, a young man dead in World War I. We never meet Jacob over the course of the novel. He is depicted solely in terms of how his absence affects the other people in his life.
+
+[^34]: Gertrude Stein and The Autobiography of Alice B. Toklas: This subversive autobiography was written by Stein writing as Alice B. Toklas, who was Stein's longtime companion and lover.
+
+[^35]: 弗吉尼亚·伍尔夫与《雅各布的房间》：这部小说讲述的是雅各布，一个在第一次世界大战中死去的年轻人。在整部小说中，我们从未遇见过雅各布。他完全是通过他的缺席如何影响他生活中的其他人来描绘的。
+
+[^36]: 格特鲁德·斯坦因与《爱丽丝·托克拉斯自传》：这本颠覆性的自传是斯坦因以爱丽丝·托克拉斯的身份撰写的，爱丽丝·托克拉斯是斯坦因的长期伴侣和情人。
+
+[^37]: Zeitgeist: Driven in part by the rise of photography and also by discoveries in science, the central concerns here became the foundations of Modernism.
+
+[^38]: 时代思潮：在摄影术兴起和科学发现的部分推动下，这里的中心问题成为现代主义的基础。
+
+[^39]: Minesweeper: Installed by default on almost all Windows computers, this game involves revealing a landscape full of bombs by looking at revealed squares that provide information about the hidden neighbors.
+
+[^40]: 扫雷：几乎所有的 Windows 电脑都默认安装了这款游戏，游戏的玩法是通过观察已揭开的方格，根据它提供的邻近未揭开方格的信息，逐步揭开一个布满炸弹的地图。
