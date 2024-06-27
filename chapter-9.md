@@ -492,6 +492,14 @@ If anything, the great irony about games, put in context with other media, is th
 
 如果要说有什么的话，与其他媒体相比，游戏最大的讽刺之处在于，它为设计者提供的发挥空间可能更小，设计者在施加意图、进行宣传鼓吹方面的自由度更低。游戏系统不善于传达具体内容，只能传达一般性内容。制作一个游戏系统，告诉你小团队能够战胜大团队，或者相反的情况，这相对容易做到。这可能是一个有价值的、深刻的个人声明。但要像电影《拯救大兵瑞恩》那样，不借助文字工具，仅通过抽象的游戏载体，传达一群二战士兵为从敌后营救一个人而进行的具体斗争，这就困难得多。想要把游戏系统设计作为一种表现媒介的设计师，必须像画家、音乐家和作家一样，了解这种媒介的优势所在，以及哪些信息最适合通过它传达。
 
+<div align="center">
+<img src="images/9.11.png">
+</div>
+
+> Or designing games.
+> 
+> 或者射击游戏。
+
 [^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using "game" for very fuzzy concepts. In short:
 • The world is full of systems.
 • If we approach these with Suits' lusory attitude, we learn how they work through play, as elucidated in this book.
