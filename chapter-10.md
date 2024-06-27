@@ -224,7 +224,7 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 
 [^1]: Consider films: Jon Boorstin's Making Movies Work (Silman-James Press, 1995) is an excellent primer on the basics of film as a medium.
 
-[^2]: 考虑电影：Jon Boorstin 的《制作电影》（Silman-James 出版社，1995 年）是介绍电影作为一种媒介的基础知识的优秀入门读物。
+[^2]: 考虑电影：乔恩·博尔斯汀的《让电影运作》（Silman-James 出版社，1995 年）是介绍电影作为一种媒介的基础知识的优秀入门读物。
 
 [^3]: Notation system for dance: It wasn't until the 1500s that the first very primitive system of notating dance was developed, and it wasn't until 1926 that Laban developed a system that was really what we'd call complete.
 
