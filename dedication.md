@@ -6,7 +6,7 @@
 This book is dedicated to my kids,<br>
 without whom I never would have written it,<br>
 and to Kristen, because I always promised my first book would be for her.<br>
-Without her, there’d be no book.<br>
+Without her, there'd be no book.<br>
 <br>
 这本书献给我的孩子们，<br>
 没有他们，我永远也写不出这本书，<br>

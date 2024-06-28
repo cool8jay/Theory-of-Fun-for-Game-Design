@@ -113,7 +113,7 @@ This finally brings us to the title of the book and the fundamental question: Wh
 
 这最终引出了本书的标题和根本问题：什么是乐趣？
 
-If you dig into the origins of the word, you’ll find that it comes either from "fonne," which is "fool" in Middle English, or from "fonn," which means "pleasure" in Gaelic. Either way, fun is defined as "a source of enjoyment." This can happen via physical stimuli, aesthetic appreciation, or direct chemical manipulation.
+If you dig into the origins of the word, you'll find that it comes either from "fonne," which is "fool" in Middle English, or from "fonn," which means "pleasure" in Gaelic. Either way, fun is defined as "a source of enjoyment." This can happen via physical stimuli, aesthetic appreciation, or direct chemical manipulation.
 
 如果你仔细研究这个词的起源，就会发现它要么来自“fonne”，在中古英语中是“傻瓜”的意思，要么来自“fonn”，在盖尔语中是“快乐”的意思。无论哪种说法，“乐趣”都被定义为“享受的源泉”。这可以通过物理刺激、审美鉴赏或直接化学操纵来实现。
 
@@ -244,13 +244,13 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^6]: 用一本书进行排列组合：这种说法有点过于武断。有一些文学作品就是以这种方式创作的。例如整个超文本小说流派（斯图而特·莫而特洛普的《胜利花园》就是一个很好的起点）。还有像胡里奥·科塔萨尔的《Rayuela》（译为《跳房子》）这样可以按照多种不同顺序阅读的书籍。当然，被称为“互动小说”或文字冒险的游戏类型也可以被视为这类书籍的计算机辅助形式。
 
-[^7]: Deeply nested clauses: This is typically seen as an expression of G. A. Miller’s number cited in the endnote on "chunking" in Chapter Two: 7±2. In assessing a deeply nested sentence, it’s important to realize that each word is itself already being "chunked" from a collection of letters. The example sentence comes from Jane Robinson’s 1974 paper ["Performance Grammars"](http://www.sri.com/sites/default/files/uploads/publications/pdf/1384.pdf).
+[^7]: Deeply nested clauses: This is typically seen as an expression of G. A. Miller's number cited in the endnote on "chunking" in Chapter Two: 7±2. In assessing a deeply nested sentence, it's important to realize that each word is itself already being "chunked" from a collection of letters. The example sentence comes from Jane Robinson's 1974 paper ["Performance Grammars"](http://www.sri.com/sites/default/files/uploads/publications/pdf/1384.pdf).
 
 [^8]: 深嵌套从句：这通常被视为第二章“分块”尾注中引用的乔治·阿米蒂奇·米勒的数字：7±2。在评估一个深嵌套句子时，重要的是要意识到每个单词本身已经是从字母集合中“分块”出来的。例句来自简·罗宾逊 1974 年的论文[《表现语法》](http://www.sri.com/sites/default/files/uploads/publications/pdf/1384.pdf)。
 
-[^9]: Richly interpretable situations: This is not only my interpretation of the sorts of game patterns that humans find compelling, but also the phrase used by Biederman & Vessel in their research on endorphins and pleasurable feedback from the brain. For a discussion of the applicability of this to games, see Craig Perko’s blog at [http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html](http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html).
+[^9]: Richly interpretable situations: This is not only my interpretation of the sorts of game patterns that humans find compelling, but also the phrase used by Biederman & Vessel in their research on endorphins and pleasurable feedback from the brain. For a discussion of the applicability of this to games, see Craig Perko's blog at [http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html](http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html).
 
-[^10]: The limitations of rules: This is a game-specific way of explaining Gödel’s Theorem. Kurt Gödel, in his 1931 paper "On Formally Undecidable Propositions in Principia Mathematica and Related Systems," proved that there are always propositions that lie outside the boundaries of a given formal system. No formal system can describe itself fully. The "magic circle" is basically an attempt to protect the integrity of a model, in the same way that Hilbert’s view of mathematics attempted to fully define a system. The truly long-lived rigidly defined games have tended to be those presenting truly difficult mathematical problems to their players – games that fall into the NP-hard complexity category. For more on this, I refer you to my conference presentation "Games Are Math," given at GDCO in 2009: [http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/](http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/).
+[^10]: The limitations of rules: This is a game-specific way of explaining Gödel's Theorem. Kurt Gödel, in his 1931 paper "On Formally Undecidable Propositions in Principia Mathematica and Related Systems," proved that there are always propositions that lie outside the boundaries of a given formal system. No formal system can describe itself fully. The "magic circle" is basically an attempt to protect the integrity of a model, in the same way that Hilbert's view of mathematics attempted to fully define a system. The truly long-lived rigidly defined games have tended to be those presenting truly difficult mathematical problems to their players – games that fall into the NP-hard complexity category. For more on this, I refer you to my conference presentation "Games Are Math," given at GDCO in 2009: [http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/](http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/).
 
 [^11]: 丰富的可解释情境：这不仅是我对人类认为引人入胜的游戏模式的理解，也是比德曼和韦塞尔在研究大脑内啡肽和愉悦反馈时使用的短语。关于这句话在游戏中的适用性，请参阅克雷格·佩尔科的博客：[http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html](http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html)。
 
@@ -276,7 +276,7 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^22]: 斯库拉和卡律布狄斯：在希腊神话中，这两只怪兽分居狭窄海峡的两岸。想要通过的水手不可避免地会过于靠近其中之一。
 
-[^23]: RBI: "Runs batted in" in baseball. This statistic is tracked per player and is incremented by one each time a run is scored as a result of the player's turn at bat, no matter who actually scores the run, provided it wasn’t the result of an opponent error or the cause of a forced double play.
+[^23]: RBI: "Runs batted in" in baseball. This statistic is tracked per player and is incremented by one each time a run is scored as a result of the player's turn at bat, no matter who actually scores the run, provided it wasn't the result of an opponent error or the cause of a forced double play.
 
 [^24]: RBI：棒球中的“打数”。这项统计是按球员追踪的，每当该球员轮到击球而得分时，无论实际得分的是谁，只要不是对手失误或被迫双杀的结果，都会增加 1 分。
 
