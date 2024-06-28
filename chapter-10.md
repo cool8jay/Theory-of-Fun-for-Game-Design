@@ -192,11 +192,11 @@ This does not mean that the art of the cinematographer (or ludemographer) is les
 
 The danger is philistinism. If we continue to regard games as trivial entertainments, then we will regard games that transgress social norms as obscene. Our litmus test for obscenity centers on redeeming social value, after all. Game dressing might have it, or might not. But it is important to understand that the ludemes themselves have social value. By that standard, all good games should pass the litmus test regardless of their dressing.
 
-危险在于庸俗主义。如果我们继续把游戏视为微不足道的娱乐，那么我们就会把违反社会规范的游戏视为淫秽。毕竟，我们判断内容是否淫秽的标准核心在于其是否有可救赎的社会价值。游戏外观可能有，也可能没有。但重要的是要明白，游戏机制本身具有社会价值。按照这个标准，所有优秀的游戏都应通过检验，无论它们的外观如何。
+危险在于庸俗主义。如果我们继续把游戏视为微不足道的娱乐，那么我们就会把违反社会规范的游戏视为淫秽。毕竟，我们检验内容是否淫秽的标准是有没有社会价值。游戏外观可能有，也可能没有。但重要的是要明白，游戏机制本身具有社会价值。按照这个标准，所有优秀的游戏都应该通过检验，无论它们的外观如何。
 
 Creators in all media have a social obligation to be responsible with their creations. Consider the recent development of "[hate crime shooters](#user-content-fn-15)[^15]," where the enemies represent an ethnic or religious group that the creators dislike. The game mechanic is old and tired, and offers nothing new in this case. We can safely consider this game to be hate speech, as it was almost certainly intended.
 
-所有媒介的创作者都有对其作品负责的社会义务。考虑到最近“[仇恨犯罪射击游戏](#user-content-fn-16)[^16]”的发展，在这些游戏中，敌人代表了创作者不喜欢的种族或宗教团体。在这种情况下，游戏机制已经老旧过时，没有任何新意。我们可以放心地将这款游戏视为仇恨言论，因为它几乎肯定是有意为之。
+所有媒介的创作者都有对其作品负责的社会义务。考虑到最近“[仇恨犯罪射击游戏](#user-content-fn-16)[^16]”的趋势，在这些游戏中，敌人代表了创作者不喜欢的种族或宗教团体。在这种情况下，游戏机制已经老旧过时，没有任何新意。我们可以放心地将这款游戏视为仇恨言论，因为它几乎肯定是有意为之。
 
 The problematic case is a game that contains both brilliant gameplay and offensive content. The commonest defense is to argue that games do not exert significant influence on their players. This is untrue. All media exert influence on their audiences. But it is almost always the core of the medium that exerts the most influence because the rest is, well, dressing.
 
