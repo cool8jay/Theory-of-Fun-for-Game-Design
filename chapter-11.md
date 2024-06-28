@@ -10,6 +10,10 @@ It's an important endeavor because other humans have typically been our greatest
 
 这是一项重要的工作，因为其他人类通常一直是我们最大的天敌。今天，我们逐渐认识到，即使左边的大陆不知道右边的大陆在做什么，所有人也是息息相关的。我们逐渐认识到，我们采取的行动往往会产生我们从未预料到的深远影响。有些人，比如[詹姆斯·洛夫洛克](#user-content-fn-4)[^4]，甚至称我们都是一个巨大的有机体。
 
+<div align="center">
+<img src="images/11.1.png">
+</div>
+
 > It is not the same thing for our games to portray the human condition and the human condition to exist within our games.
 > 
 > 我们的游戏描绘人类状况与人类状况存在于我们的游戏中并不是一回事。
@@ -58,6 +62,14 @@ There is a crucial difference between games really illuminating and exploring th
 
 游戏真正揭示和探索人类的状况，与我们在玩游戏时看到人类的状况是如何表现出来的，这两者之间有着至关重要的区别。后者在学术意义上是有趣的，但也不足为奇。人类状况在我们互动的任何地方和任何时候都会表现出来。通过研究我们与游戏的关系，我们可能会更好地了解自己，本书也试图这样做，但游戏要真正发挥其作用，它们需要为我们提供对自己深入的见解。
 
+<div align="center">
+<img src="images/11.2.png">
+</div>
+
+> A game is like a trellis.
+> 
+> 游戏就像花架。
+
 Right now, most games are about violence. They are about power. They are about control. This is not a fatal flaw. Practically any form of entertainment is about sex and violence, if you want to look at basic building blocks. But these emotions are often contextualized into love, yearning, jealousy, pride, coming of age, patriotism, and other subtler concepts. If you took out all the sex and all the violence, you wouldn't have very many movies, books, or TV shows.
 
 现在，大多数游戏都与暴力有关。它们是关于权力的。它们是关于控制的。这并不是致命的缺陷。如果你想了解基本的构成要素，几乎所有的娱乐形式都与性和暴力有关。但是，这些情感往往被赋予爱、渴望、嫉妒、自豪、成长、爱国主义以及其他更微妙的概念。如果剔除所有的性和暴力，就不会有太多的电影、书籍或电视节目。
@@ -70,6 +82,14 @@ We should fix the fact that the average cartoon does a better job at portraying 
 
 我们应该正视一个事实，那就是普通动画片在描绘人类状况方面比我们的游戏做得更好。
 
+<div align="center">
+<img src="images/11.3.png">
+</div>
+
+> A trellis can shape how a plant grows.
+> 
+> 花架可以塑造植物的生长方式。
+
 In conversation, I use the analogy of a trellis. People are the plants and the game is the trellis. The plants are shaped to some degree by the trellis. It also shouldn't surprise us that the plants grow to escape the trellis. Both of these are merely in the nature of the plant. It learns from its environment and its inborn nature both, and it works to escape those confines, to progress, to reproduce and be the tallest plant in the garden.
 
 在谈话中，我使用了“花架”这个比喻。人是植物，游戏就是花架。植物在某种程度上是由花架塑造的。我们也不应该对植物的生长逃避花架感到惊讶。这两者都是植物的天性。它从环境和与生俱来的天性中学习，努力摆脱这些束缚，不断进步，繁衍后代，成为花园中最高的植物。
@@ -81,6 +101,22 @@ When we look at the great works of art, however, they are shaped in special ways
 Not all fields have the knack for this. Storytelling mastered it long, long ago. Music discovered that something in the combination of certain frequencies of sound, certain rates of sound wave pulses, and certain combinations of timbres could be combined to achieve specific, targeted effects. Relatively recently, we have seen the field of architecture come to a realization that the shape of the space we walk in can be [formed with intent](#user-content-fn-9)[^9]—we can be made angry, inquisitive, friendly, or antisocial by means of how we divide spaces, how high we vault a ceiling, where we permit natural light, where people walk, and what colors we paint the walls.
 
 并非所有领域都有这样的诀窍。讲故事在很久很久以前就掌握了这一诀窍。音乐发现，将特定频率的声音、特定速率的声波脉冲和特定音色组合在一起，可以达到特定的、有针对性的效果。最近，我们看到建筑领域开始意识到，我们所走过的空间的形状可以[通过意图来形成](#user-content-fn-10)[^10]——我们可以通过划分空间的方式、拱顶的高度、允许自然光照射的位置、人们行走的位置以及墙壁的颜色来使人愤怒、好奇、友好或孤僻。
+
+<div align="center">
+<img src="images/11.4.png">
+</div>
+
+> Often the plants escape the trellis, but that is not a credit to the trellis, it's a credit to the plants.
+> 
+> 植物常常能逃出花架，但这不是花架的功劳，而是植物的功劳。
+> 
+> I WAS PLAYING THIS PLATFORMER LAST NIGHT, AND I WAS STRUCK BY THE ESSENTIAL FUTILITY OF HISTORY, THE WAY IN WHICH PAST EVENTS RECUR...
+> 
+> 昨晚我在玩这款平台游戏时，我被历史的本质虚无性、过去事件重演的方式所震撼......
+> 
+> ...uh...I'm late for class...
+> 
+> ......呃......我上课要迟到了
 
 The reason why games as a medium are not mature, despite their prehistoric origins, is not because we haven't reliably mastered creating fun, or that we do not have a vocabulary to define fun, or terminology to describe features or mechanics. It's not because we only know how to create power fantasies.
 
@@ -101,6 +137,46 @@ If they can't, then games are a second-rate art form, and always will be. I am n
 We know how to create games where the formal mechanics are about climbing a ladder of status. I don't know how to make a game that is about the loneliness of being at the top, but I think I can see how we might get there.
 
 我们知道如何创造游戏，其中的形式机制是关于攀登地位的阶梯。我不知道该如何制作一款游戏，让玩家体会到站在顶峰的孤独感，但我想我知道我们可能如何到达那里。
+
+<div align="center">
+<img src="images/11.5.png">
+</div>
+
+> TOP SELLERS
+> 
+> 畅销榜
+> 
+> HAMLET: THE GAME
+> 
+> 哈姆雷特：游戏
+> 
+> WORKING FOR THE MAN
+> 
+> 为男人工作
+> 
+> SIMGANDHI
+> 
+> 模拟甘地
+> 
+> AGAINST RACISM
+> 
+> 反对种族主义
+> 
+> M.U.L.E. ONLINE
+> 
+> M.U.L.E. 在线
+> 
+> HEY, IS CUSTODY BATTLE 3 OUT YET?
+> 
+> 嘿，《监护权争夺战 3》出来了吗？
+> 
+> nah...delayed again. April?
+> 
+> 没……又推迟了。四月？
+> 
+> For games to reach art, the trellis itself, the mechanics, must be revelatory of the human condition.
+> 
+> 游戏要达到艺术的境界，花架本身，游戏机制，必须对人类状况有所启示。
 
 [^1]: Gnothi seauton: This is the motto over the entrance to the temple of Apollo at Delphi.
 
