@@ -28,19 +28,19 @@ There is a difference between designing the content and designing the end-user e
 
 Game design teams are set up this way, too. Too many other components have tremendous importance in our overall experience of games for their overall shape to rest in the hands of the designers of ludic artifacts alone.
 
-游戏设计团队也是这样组建的。在我们对游戏的整体体验中，有太多其他的组成部分具有巨大的重要性，因此游戏的整体形态不能仅仅掌握在游戏人工制品设计师的手中。
+游戏设计团队的组建也是如此。在我们对游戏的整体体验中，有太多其他的组成部分发挥着巨大作用，因此游戏的整体形态不能仅由负责设计游戏机制的设计师单独决定。
 
 Players see through the fiction to the underlying mechanics, but that does not mean the fiction is unimportant. [Consider films](#user-content-fn-1)[^1], where the goal is typically for the many conventions, tricks, and mind-shapings that the camera performs to remain invisible and unperceived by the viewer. It's rare that a film tries to call attention to the gymnastics of the camera, and when it does, it will likely be to make some specific point. For example, cinematographers and directors frame conversations by placing the camera slightly over the shoulder of whoever is listening at the time. This creates psychological proximity. If done well, the audience never notices that the two sides of the conversation were filmed separately. This is part of the "vocabulary" of cinema.
 
-玩家可以透过虚构看到潜在的机制，但这并不意味着虚构不重要。[就拿电影来说](#user-content-fn-2)[^2]，电影的目标通常是让摄影机所表现的许多惯例、技巧和思维定势不被观众察觉。很少有电影会试图唤起观众对摄影机技巧的关注，即使有，也很可能是为了表达某种特定的观点。例如，摄影师和导演会将镜头稍稍放在当时正在倾听的人的肩膀上，以此来定格对话。这样就会产生心理上的接近感。如果做得好，观众永远不会注意到对话的双方是分开拍摄的。这是电影“语汇”的一部分。
+玩家可以透过虚构看到潜在的机制，但这并不意味着虚构不重要。[就拿电影来说](#user-content-fn-2)[^2]，电影的目标通常是让摄影机所表现的许多传统手法、技巧和心智塑形不被观众察觉。很少有电影会试图唤起观众对摄影机技巧的关注，即使有，也很可能是为了表达某种特定的观点。例如，摄影师和导演会将镜头稍稍放在当时正在倾听的人的肩膀上，以此来定格对话。这样就会产生心理上的接近感。如果做得好，观众永远不会注意到对话的双方是分开拍摄的。这是电影“语汇”的一部分。
 
 For better or worse, visual representation and metaphor are part of the vocabulary of games. When we describe a game, we almost never do so in terms of the formal abstract system alone; we describe it in terms of the overall experience.
 
-无论好坏，视觉表现和隐喻都是游戏语汇的一部分。当我们描述一款游戏时，我们几乎从不单单从形式上抽象系统来描述，而是从整体体验的角度来描述。
+无论好坏，视觉表现和隐喻都是游戏语汇的一部分。当我们描述一款游戏时，几乎从不只从形式上抽象系统来描述，而是从整体体验的角度来描述。
 
 The dressing is tremendously important. It's very likely that chess would not have its long-term appeal if the pieces all represented different kinds of snot.
 
-外观非常重要。如果棋子都代表不同种类的鼻涕，国际象棋很可能就不会有长期的吸引力。
+外观极其重要。试想，如果棋子代表的都是些微不足道的形象，恐怕国际象棋的吸引力就不会经久不衰。
 
 <div align="center">
 <img src="images/10.2.png">
@@ -236,7 +236,7 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 
 [^7]: Term comparable to choreography: "Ludography" seems like a good choice, except that it is instead comparable to "bibliography" and means the games you have created. This hasn't stopped designer James Ernest from calling himself a ludographer. If anyone has any ideas better than the awful "gameplayographer," let me know! "Ludeme-ographer"? "Ludemographer"? Right now, the closest term is probably the role of "systems designer," but that all too often covers aspects well outside of ludic artifact specification.
 
-[^8]: 可与舞蹈编排相媲美的术语：“Ludography”似乎是个不错的选择，但它与“bibliography”类似，指的是你创造的游戏。但这并不妨碍设计师詹姆斯·欧内斯特称自己为“ludographer”。如果谁有比糟糕的“gameplayographer”更好的主意，请告诉我！“Ludeme-ographer”？“Ludemographer”？现在，最接近的说法可能是“系统设计师”这个角色，但它往往涵盖的内容远远超出了游戏人工制品规范的范畴。
+[^8]: 可与舞蹈编排相媲美的术语：“Ludography”似乎是个不错的选择，但它与“bibliography”类似，指的是你创造的游戏。但这并不妨碍设计师詹姆斯·欧内斯特称自己为“ludographer”。如果谁有比糟糕的“gameplayographer”更好的主意，请告诉我！“Ludeme-ographer”？“Ludemographer”？现在，最接近的说法可能是“系统设计师”这个角色，但它往往涵盖的内容远远超出了游戏机制规范的范畴。
 
 [^9]: A mismatch between the ludemes and the dressing: the theory term for this is "ludonarrative dissonance," coined by game designer Clint Hocking in 2007 in his blog post [here](http://clicknothing.typepad.com/click_nothing/2007/10/ludonarrative-d.html).
 
