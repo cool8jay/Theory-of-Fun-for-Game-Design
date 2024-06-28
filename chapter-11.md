@@ -82,6 +82,25 @@ Not all fields have the knack for this. Storytelling mastered it long, long ago.
 
 并非所有领域都有这样的诀窍。讲故事在很久很久以前就掌握了这一诀窍。音乐发现，将特定频率的声音、特定速率的声波脉冲和特定音色组合在一起，可以达到特定的、有针对性的效果。最近，我们看到建筑领域开始意识到，我们所走过的空间的形状可以[通过意图来形成](#user-content-fn-10)[^10]——我们可以通过划分空间的方式、拱顶的高度、允许自然光照射的位置、人们行走的位置以及墙壁的颜色来使人愤怒、好奇、友好或孤僻。
 
+The reason why games as a medium are not mature, despite their prehistoric origins, is not because we haven't reliably mastered creating fun, or that we do not have a vocabulary to define fun, or terminology to describe features or mechanics. It's not because we only know how to create power fantasies.
+
+游戏作为一种媒介，尽管起源于史前时代，却并不成熟，其原因并不在于我们没有可靠地掌握创造乐趣的方法，也不在于我们没有定义乐趣的词汇，或描述特征或机制的术语。也不是因为我们只知道如何创造权力幻想。
+
+It's because when you feed a plant through a musical trellis, the trellis-maker can shape the plant into many possible forms. When you feed a plant through a literary trellis, the writer can shape the plant into many possible forms.
+
+而是因为当你通过音乐花架栽培一株植物时，花架制造者可以将植物塑造成多种可能的形态。当你通过文学花架栽培一株植物时，作家可以将植物塑造成多种可能的形态。
+
+When you feed a player through a game trellis, right now, we tend to speak only of "fun" and "boring." Mastery of the medium of games will have to imply authorial intent. The formal systems must be capable of invoking desired learning patterns.
+
+现在，当你通过游戏花架栽培玩家时，我们往往只会谈论“有趣”和“无聊”。对游戏媒介的掌握将意味着作者的意图。形式系统必须能够换取所需的学习模式。
+
+If they can't, then games are a second-rate art form, and always will be. I am not going to pretend I know how to achieve this. But I see [glimmers of hope](#user-content-fn-11)[^11] in many games. I see the possibility of creating games where the rules are informed by our understanding of human beings themselves—counters that react according to the newly discovered rules of human minds.
+
+如果做不到这一点，那么游戏就是一种二流的艺术形式，而且永远都是。我不会假装我知道如何做到这一点。但我在许多游戏中看到了[希望的微光](#user-content-fn-12)[^12]。我看到创造游戏的可能性，其中规则是由我们对人类自身的理解所指导——根据人类心智新发现的规则做出反应的计数器。
+
+We know how to create games where the formal mechanics are about climbing a ladder of status. I don't know how to make a game that is about the loneliness of being at the top, but I think I can see how we might get there.
+
+我们知道如何创造游戏，其中的形式机制是关于攀登地位的阶梯。我不知道该如何制作一款游戏，让玩家体会到站在顶峰的孤独感，但我想我知道我们可能如何到达那里。
 
 [^1]: Gnothi seauton: This is the motto over the entrance to the temple of Apollo at Delphi.
 
@@ -89,13 +108,13 @@ Not all fields have the knack for this. Storytelling mastered it long, long ago.
 
 [^3]: James Lovelock: An environmentalist who proposed the Gaia hypothesis, which is the notion that our biosphere functions as a single complex organism.
 
-[^4]: 詹姆斯-洛夫洛克：提出盖亚假说的环境学家，盖亚假说认为我们的生物圈是一个单一的复杂有机体。
+[^4]: 詹姆斯·洛夫洛克：提出盖亚假说的环境学家，盖亚假说认为我们的生物圈是一个单一的复杂有机体。
 
-[^5]: Network theory: A whole branch of science has sprung up around a subset of graph theory that studies networks. For further reading, I suggest Small Worlds by Duncan Watts (Princeton University Press, 1999) and Linked by Albert-László Barabási (Plume, 2003).
+[^5]: Network theory: A whole branch of science has sprung up around a subset of graph theory that studies networks. For further reading, I suggest [Small Worlds](https://www.amazon.com/dp/0691117047) by Duncan Watts (Princeton University Press, 1999) and [Linked](https://www.amazon.com/dp/0465085733) by Albert-László Barabási (Plume, 2003).
 
 [^6]: Marketing: Yes, even marketing has given us insights into the way humanity works. In particular, marketing has taught us much about mob behavior, information propagation through groups, and the tactics of persuasion.
 
-[^7]: 网络理论：围绕图论的一个子集，研究网络的整个科学分支已经兴起。如要深入了解，我推荐邓肯·沃茨的《小世界》（普林斯顿大学出版社，1999 年）和阿尔伯特·拉斯洛·巴拉巴西的《链接》（Plume，2003 年）。
+[^7]: 网络理论：围绕图论的一个子集，研究网络的整个科学分支已经兴起。如要深入了解，我推荐邓肯·沃茨的[《小世界》](https://www.amazon.com/dp/0691117047)（普林斯顿大学出版社，1999 年）和阿尔伯特·拉斯洛·巴拉巴西的[《链接》](https://www.amazon.com/dp/0465085733)（Plume，2003 年）。
 
 [^8]: 市场营销：是的，即使是市场营销也能让我们洞察人类的运作方式。特别是，市场营销教会了我们很多关于群体行为、群体信息传播和说服策略的知识。
 
@@ -103,6 +122,6 @@ Not all fields have the knack for this. Storytelling mastered it long, long ago.
 
 [^10]: 建筑影响人类：该领域的经典著作是克里斯托弗·亚历山大等人撰写的[《模式语言》](https://www.amazon.com/dp/0195019199)（牛津大学出版社，1977 年）。尽管建筑师至少从 12 世纪起就开始为情感目的而建造建筑，甚至可能更早，但与我们使用故事和音乐的时间相比，这仍然是一个短暂的时间。
 
-[^11]: Glimmers of hope: The classic example of a game that provides a subtle moral lesson is M.U.L.E., designed by Dani Bunten Berry. In this game of colonization, players compete on a distant world to be the richest member of the colony via participation in multiple industries and selling goods to one another. However, the game also offers an additional victory condition. The overall success of the colony matters. You could win as an individual and still perish with the colony as a whole. The lesson is a remarkably subtle one on the ecologies of economic markets and the importance of both individuals and society.
+[^11]: Glimmers of hope: The classic example of a game that provides a subtle moral lesson is [M.U.L.E.](https://en.wikipedia.org/wiki/M.U.L.E.), designed by Dani Bunten Berry. In this game of colonization, players compete on a distant world to be the richest member of the colony via participation in multiple industries and selling goods to one another. However, the game also offers an additional victory condition. The overall success of the colony matters. You could win as an individual and still perish with the colony as a whole. The lesson is a remarkably subtle one on the ecologies of economic markets and the importance of both individuals and society.
 
-[^12]: 《希望的曙光》：由达妮·本腾·贝瑞设计的《M.U.L.E.》是一款提供微妙道德教育的经典游戏。在这款殖民游戏中，玩家在一个遥远的世界上通过参与多种产业和相互出售商品，竞争成为殖民地最富有的成员。不过，游戏还提供了一个额外的胜利条件。殖民地的整体成功至关重要。你可能以个人身份获胜，但也可能与整个殖民地一起灭亡。这堂课非常微妙地揭示了经济市场的生态以及个人和社会的重要性。
+[^12]: 希望的微光：由达妮·本腾·贝瑞设计的[《M.U.L.E.》](https://en.wikipedia.org/wiki/M.U.L.E.)是一款提供微妙道德教育的经典游戏。在这款殖民游戏中，玩家在一个遥远的世界上通过参与多种产业和相互出售商品，竞争成为殖民地最富有的成员。不过，游戏还提供了一个额外的胜利条件。殖民地的整体成功至关重要。你可能以个人身份获胜，但仍然随着整个殖民地一起灭亡。这个教训是关于经济市场生态和个人与社会重要性的一个非常微妙的启示。
