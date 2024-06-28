@@ -41,3 +41,7 @@ For such a distilled volume of wisdom...I guess I can live with the title.
 —Will Wright
 
 ——威尔·赖特
+
+> Will Wright is the legendary game designer behind titles such as The Sims, SimCity, SimEarth, and Spore. His honors and accolades include making Entertainment Weekly's "It List" of "the 100 most creative people in entertainment" and Time Digital's "Digital 50" in 1999, receiving a "Lifetime Achievement Award" at the Game Developers Choice Awards in 2001, being named #35 on Entertainment Weekly's Power List in 2002, becoming the fifth person to be inducted into the Academy of Interactive Arts and Sciences' Hall of Fame that same year, receiving the PC Magazine Lifetime Achievement Award, and in 2008 he was honored with the first-ever Spike TV Video Game Awards' Gamer God Award.
+> 
+> 威尔·赖特是《模拟人生》、《模拟城市》、《模拟地球》和《孢子》等游戏的传奇设计师。他获得的荣誉包括：1999 年入选《娱乐周刊》“It List”的“娱乐界最具创造力 100 人”和《时代数码》的“Digital 50”，2001 年在游戏开发者选择奖上获得“终身成就奖”、 2002 年在《娱乐周刊》的“权力榜”上排名第 35 位，同年成为第五位入选互动艺术与科学学院名人堂的人，获得《PC Magazine》终身成就奖，2008 年首次获得 Spike TV 视频游戏奖的“玩家之神奖”。
