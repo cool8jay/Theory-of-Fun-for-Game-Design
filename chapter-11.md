@@ -178,6 +178,54 @@ We know how to create games where the formal mechanics are about climbing a ladd
 > 
 > 游戏要达到艺术的境界，花架本身，游戏机制，必须对人类状况有所启示。
 
+Consider a game in which you gained power to act based on how many people you controlled, but you gained power to heal yourself from attacks based on how many friends you had. Then include a rule that friends tend to fall away as you gain power. This is expressible in mathematical terms. It fits within an abstract formal system. It is also an artistic statement, a choice made by the designer of the ludeme.
+
+考虑这样一个游戏：在游戏中，你可以根据你控制的人数获得行动能力，但也可以根据你拥有的朋友人数获得治疗自己受到攻击的能力。然后加入一条规则：当你获得力量时，朋友往往会减少。这可以用数学术语来表达。它符合抽象的形式系统。这也是一种艺术表述，是游戏设计者的选择。
+
+Now, the tough part—the game's victory condition must not be about being on top or being at the bottom. Instead, the goal must be something else, perhaps ensuring the overall survival of the tribe.
+
+现在，困难的部分来了——游戏的胜利条件绝不能是在顶端或在底端。相反，目标必须是别的，也许是确保部落的整体生存。
+
+Now, suddenly, we see that being at the top, and having no allies, is a choice. Being lower in the status hierarchy is also a choice, and it may be a more satisfying choice. The game is presenting a pattern and a lesson with a specific desired outcome. We need the right feedback in place as well, of course: we should reward all players for sacrificing themselves for the good of the tribe. Perhaps if they are captured in the course of the game, they may no longer act directly, but still score points based on the actions of the players they used to rule. This would represent their legacy—an important psychological driver that mere power fantasies tend not to tackle.
+
+现在，我们突然发现，站在顶端，没有盟友，也是一种选择。地位较低也是一种选择，而且可能是一种更令人满意的选择。游戏呈现的是一种模式和一堂课，并有一个具体的预期结果。当然，我们还需要正确的反馈：我们应该奖励所有为部落利益牺牲自己的玩家。或许，如果他们在游戏过程中被俘，他们可以不再直接行动，但仍然可以根据他们曾经统治过的玩家的行动得分。这将代表他们的遗产——一种重要的心理驱动力，而单纯的权力幻想往往无法解决这个问题。
+
+There are many possible lessons to be extracted from such a game, and there's no right answer to the question of choice of strategy. It is simply representing some aspects of the world as it is. It's crude, and not worked out in detail, but it is an example of a game that might actually teach something subtler than tactics in a simulated battle. We begin to create mechanics that simulate not the projection of power, but lofty concepts like duty, love, honor, and responsibility, and evolutionary ones like "I want my children to have a better life than mine."
+
+从这样的游戏中可以汲取许多可能的经验教训，而且在选择策略的问题上也没有正确的答案。它只是表现了世界的某些方面。它很粗糙，也没有详细的设计，但它是一个游戏的例子，它实际上可能比模拟战斗中的战术更微妙。我们开始创造一些机制，模拟的不是权力的投射，而是责任、爱、荣誉和责任等崇高的概念，以及“我希望我的孩子过上比我更好的生活”等进化的概念。
+
+The obstacles to making games—trellises—that shape players in ways we choose are not mechanical ones. The primary obstacle is a state of mind. It's an attitude. It's a worldview.
+
+制作出能以我们选择的方式塑造玩家的花架——游戏，其障碍并不在于技术。最大的障碍，本质上是一种心态，一种态度，一种世界观。
+
+Fundamentally, it is intent.
+
+从根本上说，是一种意图。
+
+<div align="center">
+<img src="images/11.6.png">
+</div>
+
+> love
+> 
+> 爱
+> 
+> ethics
+> 
+> 道德
+> 
+> self-sacrifice
+> 
+> 自我牺牲
+> 
+> duty
+> 
+> 责任
+> 
+> And that means the puzzles should be a bit more interesting than animalistic concepts like "territory," "aiming," or "timing."
+> 
+> 这意味着谜题应该比 "领地"、"瞄准 "或 "时机 "等动物性概念更有趣一些。
+
 [^1]: Gnothi seauton: This is the motto over the entrance to the temple of Apollo at Delphi.
 
 [^2]: Gnothi seauton：这是德尔斐阿波罗神庙入口处的格言。
