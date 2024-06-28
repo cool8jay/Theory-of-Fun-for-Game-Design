@@ -5,7 +5,7 @@
 * [About the author 关于作者](about-the-author.md)
 * [Dedication 致谢](dedication.md)
 * [Acknowledgments 鸣谢](acknowledgments.md)
-* [Foreword 序言](foreword.md)
+* [Foreword 前言](foreword.md)
 * [Prologue My Grandfather 序言 我的祖父](prologue-my-grandfather.md)
 * [Chapter 1 Why Write This Book? 第一章 为什么要写这本书？](chapter-1.md)
 * [Chapter 2 How the Brain Works? 第二章 大脑如何工作？](chapter-2.md)
