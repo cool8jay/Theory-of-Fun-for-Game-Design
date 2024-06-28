@@ -4,7 +4,7 @@ Nobody actually interacts with games on an abstract level exclusively. You don't
 
 People like playing go using well-burnished beads on a wooden board, and they like buying Lord of the Rings chess sets and glass Chinese checkers sets. The aesthetic experience of playing these games matters. When you pick up a well-carved wooden game piece, you respond to it in terms of aesthetic appreciation—one of the other forms of enjoyment. When you play table tennis against an opponent, you feel visceral sensations as you stretch your arm to the limit and smash the ball against the table surface. And when you slap the back of your teammate, congratulating him on his field goal, you're participating in the subtle social dance that marks the constant human exercise of social status.
 
-人们喜欢在木板上用精心烧制的珠子下围棋，喜欢购买《指环王》主题的国际象棋和中国玻璃跳棋。玩这些游戏的审美体验非常重要。当你拿起一个雕刻精美的木制棋子时，你会从审美欣赏的角度对它做出反应——这也是其他形式的享受。当你与对手打乒乓球时，当你将手臂伸展到极限并将球砸向桌面时，你会感受到直观的感觉。而当你拍打队友的后背，祝贺他射门得分时，你正在参与微妙的社交舞蹈，这标志着人类不断的社交地位实践。
+人们喜欢在木质棋盘上用光滑的棋子下围棋，喜欢购买《指环王》主题的国际象棋和中国玻璃跳棋。玩这些游戏的审美体验非常重要。当你拿起一个雕刻精美的木制棋子时，你会从审美欣赏的角度对它做出反应——这也是其他形式的享受。当你与对手打乒乓球时，当你将手臂伸展到极限并将球砸向桌面时，你会感受到直观的感觉。而当你拍打队友的后背，祝贺他射门得分时，你正在参与微妙的社交互动，这标志着人类不断的社交地位实践。
 
 We know this from other media. It matters who sings a song because delivery is important. We treasure nice editions of books, rather than cheap ones, even though the semantic content is identical. Rock climbing a real rock face, versus a fake one attached to a wall, feels different.
 
@@ -32,11 +32,11 @@ Game design teams are set up this way, too. Too many other components have treme
 
 Players see through the fiction to the underlying mechanics, but that does not mean the fiction is unimportant. [Consider films](#user-content-fn-1)[^1], where the goal is typically for the many conventions, tricks, and mind-shapings that the camera performs to remain invisible and unperceived by the viewer. It's rare that a film tries to call attention to the gymnastics of the camera, and when it does, it will likely be to make some specific point. For example, cinematographers and directors frame conversations by placing the camera slightly over the shoulder of whoever is listening at the time. This creates psychological proximity. If done well, the audience never notices that the two sides of the conversation were filmed separately. This is part of the "vocabulary" of cinema.
 
-玩家可以透过虚构看到潜在的机制，但这并不意味着虚构不重要。[就拿电影来说](#user-content-fn-2)[^2]，电影的目标通常是让摄影机所表现的许多传统手法、技巧和心智塑形不被观众察觉。很少有电影会试图唤起观众对摄影机技巧的关注，即使有，也很可能是为了表达某种特定的观点。例如，摄影师和导演会将镜头稍稍放在当时正在倾听的人的肩膀上，以此来定格对话。这样就会产生心理上的接近感。如果做得好，观众永远不会注意到对话的双方是分开拍摄的。这是电影“语汇”的一部分。
+玩家可以透过虚构看到潜在的机制，但这并不意味着虚构不重要。[就拿电影来说](#user-content-fn-2)[^2]，电影的目标通常是让摄影机所表现的许多传统手法、技巧和心智塑形不被观众察觉。很少有电影会试图引起观众对摄影机技巧的注意，即使有，也很可能是为了表达某种特定的观点。例如，摄影师和导演会将镜头稍稍放在当时正在倾听的人的肩膀上，以此来构图对话场景。这样就会产生心理上的接近感。如果处理得当，观众永远不会注意到对话的双方是分别拍摄的。这是电影“语言”的一部分。
 
 For better or worse, visual representation and metaphor are part of the vocabulary of games. When we describe a game, we almost never do so in terms of the formal abstract system alone; we describe it in terms of the overall experience.
 
-无论好坏，视觉表现和隐喻都是游戏语汇的一部分。当我们描述一款游戏时，几乎从不只从形式上抽象系统来描述，而是从整体体验的角度来描述。
+无论好坏，视觉表现和隐喻都是游戏语言的一部分。当我们描述一款游戏时，几乎从不只从形式上抽象系统的角度来描述，而是从整体体验的角度来描述。
 
 The dressing is tremendously important. It's very likely that chess would not have its long-term appeal if the pieces all represented different kinds of snot.
 
@@ -60,7 +60,7 @@ When we compare games to other art forms that rely on multiple disciplines for e
 
 And yet, the choreographer is not the ultimate arbiter in a dance. There are far too many other variables. There's a reason, for example, why the [prima ballerina](#user-content-fn-5)[^5] is such an important figure. The dancer makes the dance, just as the actor makes the lines. A poor delivery means that the experience is ruined—in fact, if the delivery is poor enough, the sense may be ruined, just as bad handwriting obscures the meaning of a word.
 
-然而，舞蹈编导并不是舞蹈的最终仲裁者。还有太多其他变数。例如，[首席芭蕾舞演员](#user-content-fn-6)[^6]之所以如此重要是有原因的。舞者创造舞蹈，正如演员创造台词。糟糕的演绎意味着体验被破坏——事实上，如果演绎足够糟糕，意义也可能被破坏，就像糟糕的字迹会掩盖一个词的意义一样。
+然而，舞蹈编导并不是舞蹈的最终决定者。还有太多其他变数。例如，[首席芭蕾舞演员](#user-content-fn-6)[^6]之所以如此重要是有原因的。舞者创造舞蹈，正如演员创造台词。糟糕的演绎意味着体验被破坏——事实上，如果演绎足够糟糕，意义也可能被破坏，就像糟糕的字迹会掩盖一个词的意义一样。
 
 Swan Lake staged on the shore of a lake is a different experience from Swan Lake on a bare stage. There's a recognized profession there, too: the set designer. And there's the lighting, the casting, the costuming, the performance of the music… The choreographer may be the person who creates the dance, but in the end, there's probably a director who creates the dance.
 
@@ -120,7 +120,7 @@ It's not that progress along these other axes isn't merited—it's just easy rel
 
 The best test of a game's fun in the strict sense is playing the game with no graphics, no music, no sound, no story, nothing. If that is fun, then everything else will serve to focus, refine, empower, and magnify. But all the dressing in the world can't change iceberg lettuce into roast turkey.
 
-从严格意义上讲，检验一款游戏是否有趣的最佳方式是，在玩游戏时不要画面、不要音乐、不要声音、不要故事，什么都不要。如果这样也有趣，那么其他一切都将起到有助于集中、提炼、增强和放大。但世界上所有的调味品都无法把冰山生菜变成烤火鸡。
+从严格意义上讲，检验一款游戏是否有趣的最佳方式是，在玩游戏时不要画面、不要音乐、不要声音、不要故事，什么都不要。如果这样仍然有趣，那么其他一切都将起到聚焦、提炼、增强和放大乐趣的作用。但是，再多的装饰也无法将生菜变为烤火鸡。
 
 <div align="center">
 <img src="images/10.4.png">
@@ -172,7 +172,7 @@ Directing these complaints to the director is the standard. It's the standard to
 
 The bare mechanics of the game do not determine its meaning. Let's try a thought experiment. Let's picture a mass murder game wherein there is a gas chamber shaped like a well. You the player are dropping innocent victims down into the gas chamber, and they come in all shapes and sizes. There are old ones and young ones, fat ones and tall ones. As they fall to the bottom, they grab onto each other and try to form human pyramids to get to the top of the well. Should they manage to get out, the game is over and you lose. But if you pack them in tightly enough, the ones on the bottom succumb to the gas and die.
 
-纯粹的游戏机制并不能决定游戏的含义。让我们做一个思想实验。让我们想象一个大屠杀游戏，游戏中有一个形状像井的毒气室。玩家要把无辜的受害者扔进毒气室，他们形形色色。他们有老有少，有胖有高。当他们落到井底时，他们会互相抓住，试图组成人形金字塔，爬到井顶。如果他们设法逃了出来，游戏就结束了，你就输了。但是，如果你把他们紧密地装进去，井底的人就会被毒气毒死。
+纯粹的游戏机制并不能决定游戏的含义。让我们做一个思想实验。让我们想象一个大屠杀游戏，游戏中有一个形状像井的毒气室。玩家要把无辜的受害者扔进毒气室，他们形形色色。他们有老有少，有胖有高。当他们落到井底时，他们会互相抓住，试图组成人形金字塔，爬到井顶。如果他们设法逃了出来，游戏就结束，你就输了。但是，如果你把他们紧密地填塞进去，底部的人就会被毒气毒死。
 
 I do not want to play this game. Do you? [Yet it is Tetris](#user-content-fn-13)[^13]. You could have well-proven, stellar game design mechanics applied towards a quite repugnant premise. To those who say the art of the game is purely that of the mechanics, I say that film is not solely the art of cinematography or scriptwriting or directing or acting. Similarly, the art of the game is the whole.
 
@@ -180,7 +180,7 @@ I do not want to play this game. Do you? [Yet it is Tetris](#user-content-fn-13)
 
 This does not mean that the art of the cinematographer (or ludemographer) is less; in truth, the very fact that the art of the film fails if any of its constituent arts fail elevates each and every one to primacy.
 
-这并不意味着电影摄影师（或游戏设计师）的艺术就不重要了；事实上，如果电影艺术的任何组成部分失效，那么电影艺术就会失效，这一事实恰恰将每一种艺术都提升到了至高无上的地位。
+这并不意味着电影摄影师（或游戏机制设计师）的技艺就不重要了；事实上，如果电影的任何组成部分失败，那么整个电影就会失败，这恰好凸显出每一种技艺都不可或缺的重要性。
 
 <div align="center">
 <img src="images/10.5.png">
@@ -252,7 +252,7 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 
 [^15]: Hate crime shooters: Several of these have been made, espousing various causes ranging from the agenda of the Ku Klux Klan to Palestinian nationhood.
 
-[^16]: 仇恨犯罪射击游戏：有几个这样的作品，支持从三K党议程到巴勒斯坦建国等各种事业。
+[^16]: 仇恨犯罪射击游戏：有几个这样的作品，支持从三 K 党议程到巴勒斯坦建国等各种事业。
 
 [^17]: The Comics Code: Established in the 1950s following an uproar over the impact that violent comics could have on children. The result was self-censorship imposed by the comics industry; for many years, no comics were published without the Comics Code seal of approval. The artistic gap between the EC Comics of the 50s and Art Spiegelman's Maus is not that huge—the time gap that resulted from the imposition of the Comics Code arguably set the medium back by 30 years. David Hajdu's The Ten-Cent Plague: The Great Comic-Book Scare and How it Changed America (Picador, 2009) is an excellent book covering the history of this moral panic.
 
