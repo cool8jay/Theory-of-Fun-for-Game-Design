@@ -58,6 +58,31 @@ There is a crucial difference between games really illuminating and exploring th
 
 游戏真正揭示和探索人类的状况，与我们在玩游戏时看到人类的状况是如何表现出来的，这两者之间有着至关重要的区别。后者在学术意义上是有趣的，但也不足为奇。人类状况在我们互动的任何地方和任何时候都会表现出来。通过研究我们与游戏的关系，我们可能会更好地了解自己，本书也试图这样做，但游戏要真正发挥其作用，它们需要为我们提供对自己深入的见解。
 
+Right now, most games are about violence. They are about power. They are about control. This is not a fatal flaw. Practically any form of entertainment is about sex and violence, if you want to look at basic building blocks. But these emotions are often contextualized into love, yearning, jealousy, pride, coming of age, patriotism, and other subtler concepts. If you took out all the sex and all the violence, you wouldn't have very many movies, books, or TV shows.
+
+现在，大多数游戏都与暴力有关。它们是关于权力的。它们是关于控制的。这并不是致命的缺陷。如果你想了解基本的构成要素，几乎所有的娱乐形式都与性和暴力有关。但是，这些情感往往被赋予爱、渴望、嫉妒、自豪、成长、爱国主义以及其他更微妙的概念。如果剔除所有的性和暴力，就不会有太多的电影、书籍或电视节目。
+
+But, while we're bemoaning the lack of maturity in the field, we need not to miss the forest for the trees. Too much sex and violence isn't the problem. The problem is shallow sex and violence. This is why we decry casual player killing in an online world, why we snicker at puerile chat sex logs, why we resent seeing bouncing boobies in the beach volleyball game, and why we are disturbed by the portrayals of ethnicities and women. And also why we get excited to hear of the possibility for meaningful conflict in games, or get defensive about the "reality" of online relationships.
+
+但是，在我们抱怨这个领域不够成熟的同时，我们也不能只见树木不见森林。太多的性和暴力并不是问题所在。问题在于肤浅的性和暴力。正因如此，我们才会谴责网络世界中玩家的随意杀戮，我们才会对幼稚愚蠢的聊天性爱记录嗤之以鼻，我们才会对沙滩排球游戏中的弹跳乳房深恶痛绝，我们才会对游戏中的种族和女性形象感到不安。还有，为什么我们一听到游戏中可能出现有意义的冲突就兴奋不已，或者对网络关系的“现实性”进行维护。
+
+We should fix the fact that the average cartoon does a better job at portraying the human condition than our games do.
+
+我们应该正视一个事实，那就是普通动画片在描绘人类状况方面比我们的游戏做得更好。
+
+In conversation, I use the analogy of a trellis. People are the plants and the game is the trellis. The plants are shaped to some degree by the trellis. It also shouldn't surprise us that the plants grow to escape the trellis. Both of these are merely in the nature of the plant. It learns from its environment and its inborn nature both, and it works to escape those confines, to progress, to reproduce and be the tallest plant in the garden.
+
+在谈话中，我使用了“花架”这个比喻。人是植物，游戏就是花架。植物在某种程度上是由花架塑造的。我们也不应该对植物的生长逃避花架感到惊讶。这两者都是植物的天性。它从环境和与生俱来的天性中学习，努力摆脱这些束缚，不断进步，繁衍后代，成为花园中最高的植物。
+
+When we look at the great works of art, however, they are shaped in special ways. They are like trellises that form the plant in particular directions. They have intent behind them, and they have the purpose of achieving something in particular with the growth of that plant.
+
+然而，当我们欣赏伟大的艺术作品时，它们是以特殊的方式塑造出来的。它们就像花架，让植物朝着特定的方向生长。它们背后有意图，它们的目的是让植物的生长达到某种特定的效果。
+
+Not all fields have the knack for this. Storytelling mastered it long, long ago. Music discovered that something in the combination of certain frequencies of sound, certain rates of sound wave pulses, and certain combinations of timbres could be combined to achieve specific, targeted effects. Relatively recently, we have seen the field of architecture come to a realization that the shape of the space we walk in can be [formed with intent](#user-content-fn-9)[^9]—we can be made angry, inquisitive, friendly, or antisocial by means of how we divide spaces, how high we vault a ceiling, where we permit natural light, where people walk, and what colors we paint the walls.
+
+并非所有领域都有这样的诀窍。讲故事在很久很久以前就掌握了这一诀窍。音乐发现，将特定频率的声音、特定速率的声波脉冲和特定音色组合在一起，可以达到特定的、有针对性的效果。最近，我们看到建筑领域开始意识到，我们所走过的空间的形状可以[通过意图来形成](#user-content-fn-10)[^10]——我们可以通过划分空间的方式、拱顶的高度、允许自然光照射的位置、人们行走的位置以及墙壁的颜色来使人愤怒、好奇、友好或孤僻。
+
+
 [^1]: Gnothi seauton: This is the motto over the entrance to the temple of Apollo at Delphi.
 
 [^2]: Gnothi seauton：这是德尔斐阿波罗神庙入口处的格言。
@@ -73,3 +98,11 @@ There is a crucial difference between games really illuminating and exploring th
 [^7]: 网络理论：围绕图论的一个子集，研究网络的整个科学分支已经兴起。如要深入了解，我推荐邓肯·沃茨的《小世界》（普林斯顿大学出版社，1999 年）和阿尔伯特·拉斯洛·巴拉巴西的《链接》（Plume，2003 年）。
 
 [^8]: 市场营销：是的，即使是市场营销也能让我们洞察人类的运作方式。特别是，市场营销教会了我们很多关于群体行为、群体信息传播和说服策略的知识。
+
+[^9]: Architecture affecting people: The classic book in the field is [A Pattern Language](https://www.amazon.com/dp/0195019199) by Christopher Alexander et al (Oxford University Press, 1977). Although architects have been building for emotional purposes since at least the 12th century and probably longer, this is still a brief time compared to how long we have used story and music.
+
+[^10]: 建筑影响人类：该领域的经典著作是克里斯托弗·亚历山大等人撰写的[《模式语言》](https://www.amazon.com/dp/0195019199)（牛津大学出版社，1977 年）。尽管建筑师至少从 12 世纪起就开始为情感目的而建造建筑，甚至可能更早，但与我们使用故事和音乐的时间相比，这仍然是一个短暂的时间。
+
+[^11]: Glimmers of hope: The classic example of a game that provides a subtle moral lesson is M.U.L.E., designed by Dani Bunten Berry. In this game of colonization, players compete on a distant world to be the richest member of the colony via participation in multiple industries and selling goods to one another. However, the game also offers an additional victory condition. The overall success of the colony matters. You could win as an individual and still perish with the colony as a whole. The lesson is a remarkably subtle one on the ecologies of economic markets and the importance of both individuals and society.
+
+[^12]: 《希望的曙光》：由达妮·本腾·贝瑞设计的《M.U.L.E.》是一款提供微妙道德教育的经典游戏。在这款殖民游戏中，玩家在一个遥远的世界上通过参与多种产业和相互出售商品，竞争成为殖民地最富有的成员。不过，游戏还提供了一个额外的胜利条件。殖民地的整体成功至关重要。你可能以个人身份获胜，但也可能与整个殖民地一起灭亡。这堂课非常微妙地揭示了经济市场的生态以及个人和社会的重要性。
