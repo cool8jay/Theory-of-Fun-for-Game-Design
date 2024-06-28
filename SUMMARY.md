@@ -16,3 +16,4 @@
 * [Chapter 8 The Problem with People 第八章 人的问题](chapter-8.md)
 * [Chapter 9 Games in Context 第九章 情境下的游戏](chapter-9.md)
 * [Chapter 10 The Ethics of Entertainment 第十章 娱乐伦理](chapter-10.md)
+* [Chapter 11 Where Games Should Go 第十一章 游戏该走向何处](chapter-11.md)
