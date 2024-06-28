@@ -1,6 +1,6 @@
 Game design is becoming a discipline. In the past 10 years there has been a large increase in the number of books about game design, the beginnings of a critical vocabulary, and the creation of academic programs. The field has started to move away from the hit-or-miss shot-in-the-dark approach, and towards an understanding of how games work.
 
-游戏设计正在成为一门学科。在过去的 10 年中，有关游戏设计的书籍数量大幅增加，批判性词汇开始出现，学术项目也开始设立。这一领域已经开始摆脱随机尝试、盲目射击的方法，转而了解游戏是如何运作的。
+游戏设计正在成为一门学科。在过去的 10 年中，有关游戏设计的书籍数量大幅增加，批判性词汇开始出现，学术项目也开始设立。这一该领域已开始从碰运气的摸索方式中走出，转向对游戏运作机制的理解。
 
 On the facing pages, I've filled out a few grids with different human endeavors. This may rub you wrong philosophically. Bear with me—there are two sorts of people in this world, those who divide everyone into two sorts of people and those who don't.
 
