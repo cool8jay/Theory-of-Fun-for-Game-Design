@@ -1,3 +1,5 @@
+# Chapter 8 The Problem with People 第八章 人的问题
+
 The holy grail of game system design is to make a game where the challenges are never ending, the skills required are varied, and the difficulty curve is perfect and adjusts itself to exactly our skill level. Someone did this already, though, and it's not always fun. It's called "life." Maybe you've played it.
 
 游戏系统设计的圣杯是制作一款挑战永无止境、所需技能多种多样、难度曲线完美且能根据我们的技能水平自动调整的游戏。不过已经有人做到了，但并不总是有趣的。这就是“生活”。也许你已经玩过了。
