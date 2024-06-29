@@ -1,5 +1,3 @@
-# Chapter 11 Where Games Should Go 第十一章 游戏该走向何处
-
 I've spent a lot of time talking about how games intersect the human condition. I think there is an important distinction to be drawn, however. In other media, we frequently speak of how a given work is revelatory of the human condition. By this, we mean that the work is a good portrayal of the human condition—it is something that gives us insight into ourselves. As the Greeks put it, [Gnothi seauton](#user-content-fn-1)[^1]—know thyself. It's perhaps the greatest challenge we as humans face, and in many ways, it may be the greatest threat to our survival.
 
 我已经花了很多时间来讨论游戏如何与人类的生存状态相互交织。然而，我认为有一个重要的区别需要明确。在其他媒介中，我们经常谈到某部作品如何揭示了人类的境况。我们这样说的意思是，该作品很好地描绘了人类的境况——它能让我们洞察自身。正如希腊人所说，[Gnothi seauton](#user-content-fn-2)[^2]——认识你自己。这也许是我们人类面临的最大挑战，在很多方面，它可能是对我们生存的最大威胁。
@@ -10,49 +8,47 @@ Many of the things that I have discussed in this book, such as theories of cogni
 
 It's an important endeavor because other humans have typically been our greatest predator. Today we have come to realize how interrelated we all are, even when the left continent doesn't know what the right continent is doing. We have come to realize that actions we undertake often have far-reaching consequences that we never anticipated. Some, such as [James Lovelock](#user-content-fn-3)[^3], have gone so far as to call us all one giant organism.
 
-这是一项重要的工作，因为其他人类通常一直是我们最大的天敌。今天，我们逐渐认识到，即使左边的大陆不知道右边的大陆在做什么，所有人也是息息相关的。我们逐渐认识到，我们采取的行动往往会产生我们从未预料到的深远影响。有些人，比如詹姆斯·洛夫洛克[^4]，甚至称我们都是一个巨大的有机体。
+这是一项重要的工作，因为其他人类通常一直是我们最大的天敌。今天，我们逐渐认识到，即使左边的大陆不知道右边的大陆在做什么，所有人也是息息相关的。我们逐渐认识到，我们采取的行动往往会产生我们从未预料到的深远影响。有些人，比如[詹姆斯·洛夫洛克](#user-content-fn-4)[^4]，甚至称我们都是一个巨大的有机体。
 
 <div align="center">
-
-<img src="images/11.1.png" alt="">
-
+<img src="images/11.1.png">
 </div>
 
 > It is not the same thing for our games to portray the human condition and the human condition to exist within our games.
->
+> 
 > 我们的游戏描绘人类状况与人类状况存在于我们的游戏中并不是一回事。
->
+> 
 > \* All quotes from Sartre pondering online multiplayer roleplaying games.
->
+> 
 > \* 所有引用来自萨特对在线多人角色扮演游戏的思考。
->
-> <mark style="color:green;">Objects should not touch because they are not alive. You use them, put them back in place, you live among them. They are useful, nothing more.</mark>
->
-> <mark style="color:green;">物体不应该接触，因为它们没有生命。你使用它们，将它们放回原位，你在它们当中生活。它们是有用的，仅此而已。</mark>
->
-> Hell is other people.
->
-> 他人即地狱。
->
-> Nothing seemed true, I felt surrounded by cardboard scenery, which could quickly be removed.
->
-> 一切似乎都不真实，我感到周围都是可以迅速拆除的纸板布景。
->
-> I was just thinking -- that here we sit, all of us, eating and drinking to precious existence and really there is nothing, nothing, absolutely no reason for existing.
->
-> 我刚才在想——我们大家坐在这里，为了珍贵的生命而吃喝，但实际上，没有任何理由，没有任何绝对存在的理由。
->
-> I am. I am. I exist therefore I am. I am because I think that I don't want to be, I think that I because ugh! I flee...
->
-> 我在。我在。我存在故我在。我因为思考自己不想在而在，我思考因为我……啊！我逃了……
->
-> People who live in society have learned to see themselves in mirrors as they appear to their friends.
->
-> 生活在社会中的人们已经学会在镜子里以朋友眼中的形象来看待自己。
+> 
+> <span style="color: rgb(21,124,65)">Objects should not touch because they are not alive. You use them, put them back in place, you live among them. They are useful, nothing more.</span>
+> 
+> <span style="color: rgb(21,124,65)">物体不应该接触，因为它们没有生命。你使用它们，将它们放回原位，你在它们当中生活。它们是有用的，仅此而已。</span>
+> 
+> <span style="color: rgb(242,35,46)">Hell is other people.</span>
+> 
+> <span style="color: rgb(242,35,46)">他人即地狱。</span>
+> 
+> <span style="color: rgb(50,94,182)">Nothing seemed true, I felt surrounded by cardboard scenery, which could quickly be removed.</span>
+> 
+> <span style="color: rgb(50,94,182)">一切似乎都不真实，我感到周围都是可以迅速拆除的纸板布景。</span>
+> 
+> <span style="color: rgb(234,1,162)">I was just thinking -- that here we sit, all of us, eating and drinking to precious existence and really there is nothing, nothing, absolutely no reason for existing.</span>
+> 
+> <span style="color: rgb(234,1,162)">我刚才在想——我们大家坐在这里，为了珍贵的生命而吃喝，但实际上，没有任何理由，没有任何绝对存在的理由。</span>
+> 
+> <span style="color: rgb(243,121,92)">I am. I am. I exist therefore I am. I am because I think that I don't want to be, I think that I because ugh! I flee...</span>
+> 
+> <span style="color: rgb(243,121,92)">我在。我在。我存在故我在。我因为思考自己不想在而在，我思考因为我……啊！我逃了……</span>
+> 
+> <span style="color: rgb(128,83,27)">People who live in society have learned to see themselves in mirrors as they appear to their friends.</span>
+> 
+> <span style="color: rgb(128,83,27)">生活在社会中的人们已经学会在镜子里以朋友眼中的形象来看待自己。</span>
 
-I'm not being all that fanciful or idealistic in saying that we are in many ways trembling on the threshold of a far deeper understanding of ourselves than ever before, thanks to advances as diverse as medical imaging, [network theory](#user-content-fn-5)[^5], quantum physics, and even marketing[^6]. Much of our view of the world is shaped by our perceptions and the way we filter information as it reaches us. Clarifying our understanding of that filter is reshaping our relationship to the world.
+I'm not being all that fanciful or idealistic in saying that we are in many ways trembling on the threshold of a far deeper understanding of ourselves than ever before, thanks to advances as diverse as medical imaging, [network theory](#user-content-fn-5)[^5], quantum physics, and even [marketing](#user-content-fn-6)[^6]. Much of our view of the world is shaped by our perceptions and the way we filter information as it reaches us. Clarifying our understanding of that filter is reshaping our relationship to the world.
 
-我并不是在胡思乱想，也不是理想主义地认为，由于医学影像、网络理论[^7]、量子物理学甚至市场营销[^8]等领域的进步，我们在很多方面都站在了比以往任何时候都更深入了解自己的门槛上。我们对世界的看法在很大程度上是由我们的感知和我们过滤信息的方式形成的。厘清我们对这种过滤方式的理解，正在重塑我们与世界的关系。
+我并不是在胡思乱想，也不是理想主义地认为，由于医学影像、[网络理论](#user-content-fn-7)[^7]、量子物理学甚至[市场营销](#user-content-fn-8)[^8]等领域的进步，我们在很多方面都站在了比以往任何时候都更深入了解自己的门槛上。我们对世界的看法在很大程度上是由我们的感知和我们过滤信息的方式形成的。厘清我们对这种过滤方式的理解，正在重塑我们与世界的关系。
 
 In this light, it's interesting to see how many of the most famous quotes of Jean-Paul Sartre seem eerily applicable to our relationship to the virtual worlds created by games. Students of philosophy would tell you that he was simply recognizing the artificiality of every world we perceive, since they are all mental constructs in the end.
 
@@ -67,13 +63,11 @@ There is a crucial difference between games really illuminating and exploring th
 游戏真正揭示和探索人类的状况，与我们在玩游戏时看到人类的状况是如何表现出来的，这两者之间有着至关重要的区别。后者在学术意义上是有趣的，但也不足为奇。人类状况在我们互动的任何地方和任何时候都会表现出来。通过研究我们与游戏的关系，我们可能会更好地了解自己，本书也试图这样做，但游戏要真正发挥其作用，它们需要为我们提供对自己深入的见解。
 
 <div align="center">
-
-<img src="images/11.2.png" alt="">
-
+<img src="images/11.2.png">
 </div>
 
 > A game is like a trellis.
->
+> 
 > 游戏就像花架。
 
 Right now, most games are about violence. They are about power. They are about control. This is not a fatal flaw. Practically any form of entertainment is about sex and violence, if you want to look at basic building blocks. But these emotions are often contextualized into love, yearning, jealousy, pride, coming of age, patriotism, and other subtler concepts. If you took out all the sex and all the violence, you wouldn't have very many movies, books, or TV shows.
@@ -89,13 +83,11 @@ We should fix the fact that the average cartoon does a better job at portraying 
 我们应该正视一个事实，那就是普通动画片在描绘人类状况方面比我们的游戏做得更好。
 
 <div align="center">
-
-<img src="images/11.3.png" alt="">
-
+<img src="images/11.3.png">
 </div>
 
 > A trellis can shape how a plant grows.
->
+> 
 > 花架可以塑造植物的生长方式。
 
 In conversation, I use the analogy of a trellis. People are the plants and the game is the trellis. The plants are shaped to some degree by the trellis. It also shouldn't surprise us that the plants grow to escape the trellis. Both of these are merely in the nature of the plant. It learns from its environment and its inborn nature both, and it works to escape those confines, to progress, to reproduce and be the tallest plant in the garden.
@@ -108,24 +100,22 @@ When we look at the great works of art, however, they are shaped in special ways
 
 Not all fields have the knack for this. Storytelling mastered it long, long ago. Music discovered that something in the combination of certain frequencies of sound, certain rates of sound wave pulses, and certain combinations of timbres could be combined to achieve specific, targeted effects. Relatively recently, we have seen the field of architecture come to a realization that the shape of the space we walk in can be [formed with intent](#user-content-fn-9)[^9]—we can be made angry, inquisitive, friendly, or antisocial by means of how we divide spaces, how high we vault a ceiling, where we permit natural light, where people walk, and what colors we paint the walls.
 
-并非所有领域都有这样的诀窍。讲故事在很久很久以前就掌握了这一诀窍。音乐发现，将特定频率的声音、特定速率的声波脉冲和特定音色组合在一起，可以达到特定的、有针对性的效果。最近，我们看到建筑领域开始意识到，我们所走过的空间的形状可以通过意图来形成[^10]——我们可以通过划分空间的方式、拱顶的高度、允许自然光照射的位置、人们行走的位置以及墙壁的颜色来使人愤怒、好奇、友好或孤僻。
+并非所有领域都有这样的诀窍。讲故事在很久很久以前就掌握了这一诀窍。音乐发现，将特定频率的声音、特定速率的声波脉冲和特定音色组合在一起，可以达到特定的、有针对性的效果。最近，我们看到建筑领域开始意识到，我们所走过的空间的形状可以[通过意图来形成](#user-content-fn-10)[^10]——我们可以通过划分空间的方式、拱顶的高度、允许自然光照射的位置、人们行走的位置以及墙壁的颜色来使人愤怒、好奇、友好或孤僻。
 
 <div align="center">
-
-<img src="images/11.4.png" alt="">
-
+<img src="images/11.4.png">
 </div>
 
 > Often the plants escape the trellis, but that is not a credit to the trellis, it's a credit to the plants.
->
+> 
 > 植物常常能逃出花架，但这不是花架的功劳，而是植物的功劳。
->
+> 
 > I WAS PLAYING THIS PLATFORMER LAST NIGHT, AND I WAS STRUCK BY THE ESSENTIAL FUTILITY OF HISTORY, THE WAY IN WHICH PAST EVENTS RECUR...
->
+> 
 > 昨晚我在玩这款平台游戏时，我被历史的本质虚无性、过去事件重演的方式所震撼......
->
+> 
 > ...uh...I'm late for class...
->
+> 
 > ......呃......我上课要迟到了
 
 The reason why games as a medium are not mature, despite their prehistoric origins, is not because we haven't reliably mastered creating fun, or that we do not have a vocabulary to define fun, or terminology to describe features or mechanics. It's not because we only know how to create power fantasies.
@@ -142,52 +132,50 @@ When you feed a player through a game trellis, right now, we tend to speak only 
 
 If they can't, then games are a second-rate art form, and always will be. I am not going to pretend I know how to achieve this. But I see [glimmers of hope](#user-content-fn-11)[^11] in many games. I see the possibility of creating games where the rules are informed by our understanding of human beings themselves—counters that react according to the newly discovered rules of human minds.
 
-如果做不到这一点，那么游戏就是一种二流的艺术形式，而且永远都是。我不会假装我知道如何做到这一点。但我在许多游戏中看到了希望的微光[^12]。我看到创造游戏的可能性，其中规则是由我们对人类自身的理解所指导——根据人类心智新发现的规则做出反应的计数器。
+如果做不到这一点，那么游戏就是一种二流的艺术形式，而且永远都是。我不会假装我知道如何做到这一点。但我在许多游戏中看到了[希望的微光](#user-content-fn-12)[^12]。我看到创造游戏的可能性，其中规则是由我们对人类自身的理解所指导——根据人类心智新发现的规则做出反应的计数器。
 
 We know how to create games where the formal mechanics are about climbing a ladder of status. I don't know how to make a game that is about the loneliness of being at the top, but I think I can see how we might get there.
 
 我们知道如何创造游戏，其中的形式机制是关于攀登地位的阶梯。我不知道该如何制作一款游戏，让玩家体会到站在顶峰的孤独感，但我想我知道我们可能如何到达那里。
 
 <div align="center">
-
-<img src="images/11.5.png" alt="">
-
+<img src="images/11.5.png">
 </div>
 
 > TOP SELLERS
->
+> 
 > 畅销榜
->
+> 
 > HAMLET: THE GAME
->
+> 
 > 哈姆雷特：游戏
->
+> 
 > WORKING FOR THE MAN
->
+> 
 > 为男人工作
->
+> 
 > SIMGANDHI
->
+> 
 > 模拟甘地
->
+> 
 > AGAINST RACISM
->
+> 
 > 反对种族主义
->
+> 
 > M.U.L.E. ONLINE
->
+> 
 > M.U.L.E. 在线
->
+> 
 > HEY, IS CUSTODY BATTLE 3 OUT YET?
->
+> 
 > 嘿，《监护权争夺战 3》出来了吗？
->
+> 
 > nah...delayed again. April?
->
+> 
 > 没……又推迟了。四月？
->
+> 
 > For games to reach art, the trellis itself, the mechanics, must be revelatory of the human condition.
->
+> 
 > 游戏要达到艺术的境界，花架本身，游戏机制，必须对人类状况有所启示。
 
 Consider a game in which you gained power to act based on how many people you controlled, but you gained power to heal yourself from attacks based on how many friends you had. Then include a rule that friends tend to fall away as you gain power. This is expressible in mathematical terms. It fits within an abstract formal system. It is also an artistic statement, a choice made by the designer of the ludeme.
@@ -215,29 +203,27 @@ Fundamentally, it is intent.
 从根本上说，是一种意图。
 
 <div align="center">
-
-<img src="images/11.6.png" alt="">
-
+<img src="images/11.6.png">
 </div>
 
 > love
->
+> 
 > 爱
->
+> 
 > ethics
->
+> 
 > 道德
->
+> 
 > self-sacrifice
->
+> 
 > 自我牺牲
->
+> 
 > duty
->
+> 
 > 责任
->
+> 
 > And that means the puzzles should be a bit more interesting than animalistic concepts like "territory," "aiming," or "timing."
->
+> 
 > 这意味着谜题应该比 "领地"、"瞄准 "或 "时机 "等动物性概念更有趣一些。
 
 [^1]: Gnothi seauton: This is the motto over the entrance to the temple of Apollo at Delphi.
