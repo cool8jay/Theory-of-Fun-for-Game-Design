@@ -1,10 +1,10 @@
 The title of this book almost feels wrong to me. As a game designer, seeing the words "theory" and "fun" in such close proximity instinctively makes me a bit uncomfortable. Theories are dry and academic things, found in thick books at the back of the library, whereas fun is light, energetic, playful and...well...fun.
 
-这本书的书名几乎让我觉得不妥。作为一名游戏设计师，看到“理论”和“乐趣”这两个词如此接近，我本能地感到有些不舒服。理论是枯燥的、学术性的东西，存在于图书馆后面厚厚的书籍中，而乐趣则是轻松的、充满活力的、俏皮的和……嗯……有趣的。
+这本书的书名让我感觉有些不对劲。作为一名游戏设计师，看到“理论”和“乐趣”这两个词如此接近，我本能地感到有点不舒服。理论是枯燥的、学术性的东西，出现在图书馆后排厚重的书籍中，而乐趣则是轻松的、充满活力的、俏皮的和……嗯……有趣的。
 
 For the first few decades of interactive game design, we were able to blithely ignore many of the larger meta-questions surrounding our craft while we slowly, painfully learned to walk. Now for the first time we are starting to see serious interest in what we do from the academic side. This is forcing those of us in the games industry to stop and consider,
 
-在互动游戏设计的最初几十年里，我们可以轻率地忽略围绕我们这门手艺的许多大的元问题，同时慢慢地、痛苦地学会走路。现在，我们第一次开始看到学术界对我们的工作产生了浓厚的兴趣。这迫使我们这些游戏行业的从业者停下来思考，
+在互动游戏设计的最初几十年里，我们可以轻率地忽略围绕我们这门手艺的许多大的元问题，同时慢慢地、痛苦地学会走路。现在，我们第一次开始看到学术界对我们的工作产生了真正的兴趣。这迫使我们这些游戏行业的从业者停下来思考，
 
 "What is this new medium that we're working in?"
 
