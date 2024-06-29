@@ -16,6 +16,10 @@ It's time for games to move on from only teaching patterns about territory, aimi
 <img src="images/12.1.png">
 </div>
 
+> Games deserve to sit on the shelf right next to all other communications media, once the medium is mature.
+> 
+> 一旦游戏作为一种媒介发展成熟，它理应与所有其他传播媒介平起平坐。
+
 Games do not need to be able to evoke an unexpected tear, like the Pietà.
 
 游戏不需要像《圣母怜子》那样能够唤起我们意外的泪水。
@@ -47,6 +51,10 @@ But games do need to illuminate aspects of ourselves that we do not understand f
 <div align="center">
 <img src="images/12.2.png">
 </div>
+
+> The point at which our game puzzles approach the complexity of the puzzles in other art forms in the point at which the game art form becomes mature.
+> 
+> 当我们的游戏谜题接近其他艺术形式谜题的复杂程度时，也就是游戏艺术形式成熟的时候。
 
 Games do need to present us with problems and patterns that do not have one solution, because those are the problems that deepen our understanding of ourselves.
 
@@ -80,6 +88,16 @@ Games do need to push at the boundaries.
 <img src="images/12.3.png">
 </div>
 
+> The gap between those who want games to entertain and those who want games to be art does not exist.
+> 
+> 希望游戏娱乐化的人与希望游戏艺术化的人之间并不存在鸿沟。
+> 
+> 2B || !(2B)
+> 
+> To be or not to be. 
+> 
+> 生存还是毁灭。 
+
 Most importantly, games and their designers need to acknowledge that there is no distinction between art and entertainment. Viewed in context with human endeavor and what we know of how our inner core actually works, games are not to be denigrated. They are not trivial, childish things.
 
 最重要的是，游戏及其设计者需要承认，艺术与娱乐之间并无区别。从人类的努力和我们所了解的我们的内在核心是如何实际运作的角度来看，游戏是不应该被诋毁的。它们不是微不足道的幼稚事物。
@@ -95,6 +113,10 @@ All art and all entertainment are posing problems, questions, and challenges to 
 <div align="center">
 <img src="images/12.4.png">
 </div>
+
+> because all art entails posing questions and puzzles -- tough ones, ethical ones even. And games will never be mature as long as designers create them with complete answers to their own puzzles in mind.
+> 
+> 因为所有的艺术都需要提出问题和谜题——棘手的问题，甚至是道德问题。只要设计者在设计游戏时，心中只有自己的谜题的完整答案，那么游戏就永远不会成熟。
 
 Why? Because people are lazy, yet people also want a better life for themselves and for future generations. That is the blind urge that drives all humanity, all life. A legacy is what motivates the selfish genes embedded in the warp and weft of our bodies.
 
@@ -112,6 +134,15 @@ We call this "pop music." We call it "mass market." And games are indeed reachin
 <img src="images/12.5.png">
 </div>
 
+> Of course, we all know that most people are too comfortable to want to be challenged in that way.
+> 
+> 当然，我们都知道，大多数人都太安逸了，不愿意接受这样的挑战。
+> 
+> another gratuitous penguin
+> 
+> 又一只无谓的企鹅
+
+
 A tremendous amount of the content pumped through media today has as its goal mere comforting, confirming, and cocooning. We gravitate towards the music we already like, the morals we already know, and the characters who behave predictably.
 
 如今，通过媒介传播的大量内容，其目的仅仅是安慰、确认和安慰。我们倾向于我们已经喜欢的音乐、我们已经知道的道德观以及行为可以预见的人物。
@@ -123,6 +154,14 @@ Seen in the most pessimistic light, this is irresponsible. When the world shifts
 <div align="center">
 <img src="images/12.6.png">
 </div>
+
+> There will always be a class of player who prefers the comfort of tackling only puzzles they know how to solve.
+> 
+> 总有那么一类玩家，只喜欢舒适地应对他们知道如何解决的谜题。
+> 
+> TRUN. DOWN. THAT. DAMN. MUSIC!
+> 
+> 关。掉。那。该死。音乐！
 
 Play teaches us survival. For many cultural reasons, we have allowed it to take a place in human culture where it is often denigrated, minimized, and assumed to be worthless, set in contrast against concepts such as "work" or "practice" or "seriousness." And yet there's a cultural undercurrent that operates at the instinctive level, an undercurrent that mourns the ways in which play is removed from our lives.
 
@@ -143,6 +182,10 @@ I, for one, don't want to put that aside, and I don't think anyone else should e
 <div align="center">
 <img src="images/12.7.png">
 </div>
+
+> In the caveman days, the wolves and tigers got'em.
+> 
+> 在山顶洞人时代，狼和老虎捕食他们。
 
 In the end, if I can say with a straight face after a day's work making games that one person out there learned to be a better leader, a better parent, a better co-worker, learned a new skill that kept her job, a new skill that helped her advance the state of the art in his chosen field, a new skill that made her grow a little...
 
@@ -171,6 +214,10 @@ Hear that, grandpa?
 <div align="center">
 <img src="images/12.8.png">
 </div>
+
+> These days, we're a bit more tolerant -- the job market gets them instead.
+> 
+> 现在，我们宽容多了——换成了就业市场来“捕食”他们。
 
 [^1]: Dani Bunten Berry: Designer of such classic video games as [M.U.L.E.](https://en.wikipedia.org/wiki/M.U.L.E.) and [Seven Cities of Gold](https://en.wikipedia.org/wiki/The_Seven_Cities_of_Gold_(video_game)).
 
