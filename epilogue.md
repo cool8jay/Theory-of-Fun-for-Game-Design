@@ -28,6 +28,18 @@ Not too long before my grandfather died, he told me, "I'm thinking of getting on
 
 在我祖父去世前不久，他告诉我：“我想买一台电脑。互联网和业余无线电似乎没什么不同。也许我会试一试。”
 
+<div align="center">
+<img src="images/e-1.png">
+</div>
+
+> Games are powerful tools for good -- they rewire people's brains, just like books and movies and music.
+> 
+> 游戏是造福人类的强大工具——它能重塑人们的大脑，就像书籍、电影和音乐一样。
+> 
+> HOMO PIXELUS
+> 
+> 像素人
+
 I learned of my grandfather's passing when I arrived at a hotel in San Jose, where I was attending the annual Game Developers Conference. Somehow it seemed apropos.
 
 我是在抵达圣何塞的一家酒店时得知祖父去世的消息的。我当时正在参加一年一度的游戏开发者大会。不知为何，这似乎恰如其分。
@@ -39,6 +51,46 @@ The questions he posed, in the wake of shootings at [Columbine High School](#use
 It seems important that we know the answers, not just to allow those of us who work in this field to sleep better at night, but also in order to reassure those who watch us work: our families, our friends, our cultures.
 
 问题的答案似乎非常重要，这不仅让我们这些在该领域工作的人晚上能睡得更安心，而且也是为了让那些关注我们工作的人——我们的家人、朋友和文化——放心。
+
+<div align="center">
+<img src="images/e-2.png">
+</div>
+
+> Hey!
+> 
+> 嘿！
+> 
+> Run, Linda, I'll fight him off!
+> 
+> 快跑，琳达，我来打跑他！
+> 
+> shh...it'll be ok...
+> 
+> 嘘……没事的……
+> 
+> no God...please...no...
+> 
+> 不，上帝……求求你……不……
+> 
+> ...amazing!
+> 
+> ……太棒了
+> 
+> ...oh no...Harry!
+> 
+> ……不……哈利！
+> 
+> It's the end of world!
+> 
+> 这是世界末日！
+> 
+> People get scared of the influence games have over them -- fears that they will cause murderous rampages on the streets.
+> 
+> 人们害怕游戏对他们的影响——害怕游戏会在街上引起疯狂的杀戮。
+> 
+> That's unlikely.
+> 
+> 这不太可能。
 
 Games fit in the spectrum of human activity. Human activity is not always pretty. It's not always noble. It's not always altruistic. And a lot of really dumb things are done in games. A lot of dumb things are done by people playing games. A lot of dumb things are done by those making games.
 
@@ -68,6 +120,38 @@ So my answer here is, I am willing to choose which side of human nature I want t
 
 所以，我的答案是，我愿意选择我想要培育的人性的一面。
 
+<div align="center">
+<img src="images/e-3.png">
+</div>
+
+> Like story, and music, games and play are fundamental parts of how the human brain works, and it's pretty rare for symphonies to cause riots...
+> 
+> 与故事和音乐一样，游戏和游戏也是人类大脑工作的基本组成部分，交响乐引起骚乱的情况非常罕见......
+> 
+> FAMOUS CLASSICAL MUSIC RIOTS
+> 
+> 知名古典音乐骚乱
+> 
+> STRAVINSKY: Rite of Spring
+> 
+> 斯特拉文斯基：《春之祭》
+> 
+> BERLIOZ: Benvenuto Cellini
+> 
+> 柏辽兹：《本韦努托·切利尼》
+> 
+> ANTHEIL: Ballet Mecanique
+> 
+> 安泰尔：《机械芭蕾》
+> 
+> SATIE: Parade
+> 
+> 萨蒂：《游行》
+> 
+> RAVEL: Chansons Madecasses
+> 
+> 拉威尔：《马达加斯加之歌》
+
 I cannot blame my grandfather for being nervous about something that seemed very new, even though it was in fact very old. It is a natural reaction. It is the human reaction to the eruption of the unfamiliar.
 
 我不能责怪祖父对一件看似非常新的东西感到紧张，尽管事实上它已经非常古老了。这是人类对陌生事物突然出现时的自然反应。
@@ -96,6 +180,18 @@ My answer here is, I'm content with accepting my responsibility on that front. W
 
 我在这里的回答是，我愿意承担这方面的责任。我们必须改进。
 
+<div align="center">
+<img src="images/e-4.png">
+</div>
+
+> This doesn't mean that game designers shouldn't act responsibly --
+> 
+> 这并不意味着游戏设计者不应该负责任地行事——
+> 
+> THE RIOTING IS PART OF THE ACT, MAN.
+> 
+> 骚乱是表演的一部分，伙计。
+
 If games are mere amusements, and my grandfather's concerns were valid, then by acting responsibly, and striving to make games that illuminate the human condition, I have at least caused no harm.
 
 如果游戏仅仅是一种娱乐，那么我祖父的担忧是有道理的，那么我只要负责任地行事，努力制作能够启发人类状态的游戏，至少就不会造成任何伤害。
@@ -111,6 +207,30 @@ It's a lot like [Pascal's Wager](#user-content-fn-11)[^11]. If it's all "just a 
 My reply is, I won't take a sucker bet.
 
 我的回答是，我不会接受一个愚蠢的赌注。
+
+<div align="center">
+<img src="images/e-5.png">
+</div>
+
+> BLAISE PASCAL
+> 
+> 布莱斯·帕斯卡尔
+> 
+> If you think "it's just a game," consider Pascal's Wager.
+> 
+> 如果你认为“这只是一场游戏”，不妨想想帕斯卡尔的赌注。
+> 
+> IF GOD DOES NOT EXIST, IT DOESN'T MATTER IF I BELIEVE.
+> 
+> 如果上帝不存在，我信不信无所谓。
+> 
+> IF GOD DOES EXIST, THEN I HAD BETTER BE A BELIEVER.
+> 
+> 如果上帝真的存在，那我最好是个信徒。
+> 
+> IF I WERE A BETTING MAN, I'D SAY BELIEF IS THE SAFER BET!
+> 
+> 如果我是一个赌徒，我会说信仰是更安全的赌注！
 
 The task I have to make my grandfather proud of what I do seems fairly simple, really. It's not that dissimilar to the role he took up each time he picked up his carpentry tools in his workshop.
 
@@ -136,6 +256,14 @@ Strikes me as good advice for any act of creation. My reply is, I can do that.
 
 我觉得这对任何创作都是很好的建议。我的回答是，我能做到。
 
+<div align="center">
+<img src="images/e-6.png">
+</div>
+
+> The challenge game designers face is "how do we create games that do not have one right answer?"
+> 
+> 游戏设计师面临的挑战是：“我们如何创造没有唯一正确答案的游戏？”
+
 My kids already play games and say things and do things that make me uncomfortable, just as I made games that made my grandfather uncomfortable. Some eggs need to be broken to make this omelet.
 
 我的孩子们已经在玩让我不舒服的游戏，说让我不舒服的话，做让我不舒服的事，就像我玩让我祖父不舒服的游戏一样。想要做煎蛋卷，就得先打破鸡蛋（在取得进步或实现目标的过程中，一些牺牲或损失是必须的）。
@@ -152,6 +280,22 @@ My commitment is, I'll try to make sure that nobody gets hurt.
 
 我的承诺是，我会尽力确保没有人会受到伤害。
 
+<div align="center">
+<img src="images/e-7.png">
+</div>
+
+> This may involve making games with uncomfortable subject matter,
+> 
+> 这可能会涉及到制作主题让人不舒服的游戏，
+> 
+> d00d, I JUST GOT THIS KILLER GAME CALLED "LOLITA."
+> 
+> 哥们儿，我刚刚买到这个杀手游戏，叫《萝莉塔》。
+> 
+> Beat it. Lady Chatterley's Lover was better.
+> 
+> 滚吧。《查泰莱夫人的情人》更棒。
+
 For all of us game designers, it means the extremely difficult task of reevaluating our roles in life. It means perceiving ourselves as having a responsibility to others, whereas we previously thought of ourselves as carefree. It means granting a greater level of respect to the tools we work with—the push and pull of mechanic and feedback, the intricate pathways of the human brain and human apprehension—and a greater level of respect to our audience.
 
 对于我们所有游戏设计师来说，这意味着重新评估我们在生活中的角色这一极其艰巨的任务。这意味着我们要对他人负责，而我们以前却认为自己无忧无虑。这意味着我们要更加尊重我们所使用的工具——机械和反馈的推力和拉力、人类大脑和人类理解力的复杂路径——也意味着我们要更加尊重我们的受众。
@@ -164,6 +308,26 @@ To which I say, I believe.
 
 对此我要说，我相信。
 
+<div align="center">
+<img src="images/e-8.png">
+</div>
+
+> because having respect for players implies giving them real challenges, challenges as sophisticated as the best stories give them.
+> 
+> 因为尊重玩家意味着给他们真正的挑战，就像最好的故事给他们的挑战一样复杂。
+> 
+> TO JUMP, OR NOT TO JUMP -- THAT IS THE QUESTION: WHETHER 'TIS NOBLER IN THE GAME TO SUFFER THE SLINGS AND ARROWS OF OUTRAGEOUS BOSS MONSTERS, OR TO TAKE POWER-UPS AGAINST A SEA OF TROUBLES, AND BY OPPOSING, END THEM.
+> 
+> 跳，还是不跳——这是一个问题：在游戏中哪个更高尚，是忍受恐怖头目怪物的箭矢攻击，还是在苦难的海洋中拿起强化道具，用斗争来结束它们。
+> 
+> to die -- to sleep -- no more, and by a sleep we say to end the heartache, and the thousand natural shocks that flesh is heir to.
+> 
+> 死去——睡去——终止，如果睡去，意味着结束躯体成熟的心疼和创伤。
+> 
+> in other words, just jump.
+> 
+> 换句话说，就是跳吧。
+
 Last, it means that everyone else—the people like my grandfather—needs to come to understand the valuable role we play in society. We're not nerds in the basement rolling [funny-shaped dice](#user-content-fn-13)[^13]. We're also the teachers of your children. We're not irresponsible 14-year-old boys (well, not all of us). We're parents too. We're not splattering gore and sex on TV screens across the world merely for the sake of titillation.
 
 最后，这意味着其他人--像我祖父这样的人--需要了解我们在社会中扮演的重要角色。我们不是在地下室里掷[形状怪异的骰子](#user-content-fn-14)[^14]的书呆子。我们也是你们孩子的老师。我们不是不负责任的 14 岁男孩（好吧，不是所有人）。我们也是父母。我们不会仅仅为了刺激而在全世界的电视屏幕上渲染血腥和性。
@@ -175,6 +339,14 @@ Games deserve respect. We as creators must respect them, and do right by their p
 So my answer is, yes, what we do is worthy of respect.
 
 所以我的答案是：是的，我们所做的值得尊重。
+
+<div align="center">
+<img src="images/e-9.png">
+</div>
+
+> It also requires society to have respect for its own games.
+> 
+> 它还要求社会尊重自己的游戏。
 
 It may be that even after everything I've said, and everything all the other people working with games have said, society will continue to react in a knee-jerk fashion to the unfamiliar.
 
@@ -199,6 +371,14 @@ We learned better.
 It's still possible that this time we won't...
 
 这一次，我们仍有可能不会……
+
+<div align="center">
+<img src="images/e-10.png">
+</div>
+
+> Someday, if society allows it, games will have their Shakespeare.
+> 
+> 有一天，如果社会允许，游戏也会有莎士比亚。
 
 in which case we should pack up all the chess sets...
 
@@ -228,6 +408,14 @@ We should put away the things of childhood and step into a world where the young
 
 我们应该收起童年的东西，走进一个世界，在这个世界里，年轻人和童心未泯的人被看到但不被听到。
 
+<div align="center">
+<img src="images/e-11.png">
+</div>
+
+> But if we fail to understand why games matter, and how fun matters, all our games are destined to be like tic-tac-toe.
+> 
+> 但是，如果我们不明白游戏为什么重要，乐趣如何重要，那么我们所有的游戏都注定会像井字游戏一样。
+
 To which I say,
 
 对此我要说：
@@ -239,6 +427,14 @@ No.
 Because I'd hate to pass up that look of joy and wonder in my children's eyes.
 
 因为我不想错过孩子们眼中的喜悦和惊奇。
+
+<div align="center">
+<img src="images/e-12.png">
+</div>
+
+> Child's play because the patterns are too easily perceived.
+> 
+> 儿童游戏，因为模式太容易被感知。
 
 [^1]: Shootings at Columbine High School: In 1999, two students at Columbine High School in Littleton, Colorado, shot and killed several students and teachers. It was later found that both perpetrators were avid players of violent video games, which led to much blame being placed on the games. This is not the only example of video games being blamed for violence. Several lawsuits have been brought against companies in the industry, accusing them of inciting the violence.
 
