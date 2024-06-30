@@ -32,9 +32,9 @@ I learned of my grandfather's passing when I arrived at a hotel in San Jose, whe
 
 我是在抵达圣何塞的一家酒店时得知祖父去世的消息的。我当时正在参加一年一度的游戏开发者大会。不知为何，这似乎恰如其分。
 
-The questions he posed, in the wake of shootings at Columbine High School, at a time when the world was suddenly making little sense, are fair questions. Are games a tool for evil? Or for good? Are they frivolous at best, or frivolous at worst?
+The questions he posed, in the wake of shootings at [Columbine High School](#user-content-fn-1)[^1], at a time when the world was suddenly making little sense, are fair questions. Are games a tool for evil? Or for good? Are they frivolous at best, or frivolous at worst?
 
-在哥伦拜恩高中发生枪击案之后，在世界突然变得毫无意义的时候，他提出的问题是很合理的。游戏是邪恶的工具吗？还是善良的工具？游戏在最好的情况下是无聊的，还是在最坏的情况下是轻浮的？
+在[哥伦拜恩高中](#user-content-fn-2)[^2]发生枪击案之后，在世界突然变得毫无意义的时候，他提出的问题是很合理的。游戏是邪恶的工具吗？还是善良的工具？游戏在最好的情况下是无聊的，还是在最坏的情况下是轻浮的？
 
 It seems important that we know the answers, not just to allow those of us who work in this field to sleep better at night, but also in order to reassure those who watch us work: our families, our friends, our cultures.
 
@@ -80,17 +80,17 @@ We have a powerful tool here, one that is arguably underutilized even as it reac
 
 我们拥有一个强大的工具，尽管它在各个年龄段的人们中的接受度达到了新的高峰，但可以说还没有得到充分利用。我们应该负责任地使用它，了解它如何融入文化，并尊重它的能力。
 
-The mere titling of a piece of music lends it narrative context and enriches it tremendously. Yes, it is possible to appreciate Penderecki's Threnody for the Victims of Hiroshima or any of the works of Aaron Copland without their titles, as pure sound. But the sense of them is carried in the interstices between the music and the title. Just as the sense of a film is carried in the webbing between the acting and the writing and the cinematography.
+The mere titling of a piece of music lends it narrative context and enriches it tremendously. Yes, it is possible to appreciate [Penderecki's Threnody for the Victims of Hiroshima](#user-content-fn-3)[^3] or any of the works of [Aaron Copland](#user-content-fn-4)[^4] without their titles, as pure sound. But the sense of them is carried in the interstices between the music and the title. Just as the sense of a film is carried in the webbing between the acting and the writing and the cinematography.
 
-仅仅为一首乐曲命名，就能赋予它叙事性的背景，并极大地丰富它的内涵。是的，欣赏彭德列茨基的《广岛遇难者哀悼曲》或亚伦·科普兰的任何作品时，都可以不加标题，将其视为纯粹的声音。但是，音乐与标题之间的夹缝中蕴含着它们的意义。就像表演、编剧和摄影之间的网状结构中承载着电影的意义一样。
+仅仅为一首乐曲命名，就能赋予它叙事性的背景，并极大地丰富它的内涵。是的，欣赏[潘德列茨基的《广岛受难者挽歌》](#user-content-fn-5)[^5]或[亚伦·科普兰](#user-content-fn-6)[^6]的任何作品时，都可以不加标题，将其视为纯粹的声音。但是，音乐与标题之间的夹缝中蕴含着它们的意义。就像表演、编剧和摄影之间的网状结构中承载着电影的意义一样。
 
-Other art forms have long recognized this; Welles' staging of Macbeth as a Haitian tale of vodoun, for example, achieved by selectively adjusting one of the component pieces of the art form.
+Other art forms have long recognized this; [Welles' staging of Macbeth](#user-content-fn-7)[^7] as a Haitian tale of vodoun, for example, achieved by selectively adjusting one of the component pieces of the art form.
 
-其他艺术形式早已认识到这一点；例如，威尔斯将《麦克白》改编成海地伏都教故事，就是通过有选择地调整艺术形式的一个组成部分而实现的。
+其他艺术形式早已认识到这一点；例如，[威尔斯将《麦克白》改编](#user-content-fn-8)[^8]成海地伏都教故事，就是通过有选择地调整艺术形式的一个组成部分而实现的。
 
-All of which is to say that I don't think we get to ignore the sexism, the classism, the occasional racism, and the general crudity of the commercial game industry. The prostitute in Grand Theft Auto may be a power-up in mechanical terms. But in experiencing the game, it takes a game critic to divorce her from the context in which she appears. And frankly, game critique isn't even developed enough to give that particular game object and interaction a name.
+All of which is to say that I don't think we get to ignore the sexism, the classism, the occasional racism, and the general crudity of the commercial game industry. The prostitute in [Grand Theft Auto](#user-content-fn-9)[^9] may be a power-up in mechanical terms. But in experiencing the game, it takes a game critic to divorce her from the context in which she appears. And frankly, game critique isn't even developed enough to give that particular game object and interaction a name.
 
-综上所述，我认为我们不能忽视商业游戏产业中的性别歧视、阶级歧视、偶尔的种族主义和普遍的粗俗。《侠盗猎车手》中的妓女在技术角度看可能是一种强化道具。但在体验游戏的过程中，游戏评论家需要把她从她出现的背景中剥离出来。坦率地说，游戏评论甚至还没有发展到足以给那个特定的游戏对象和互动命名的程度。
+综上所述，我认为我们不能忽视商业游戏产业中的性别歧视、阶级歧视、偶尔的种族主义和普遍的粗俗。[《侠盗猎车手》](#user-content-fn-10)[^10]中的妓女从技术角度看可能是一种强化道具。但在体验游戏的过程中，游戏评论家需要把她从她出现的背景中剥离出来。坦率地说，游戏评论甚至还没有发展到足以给那个特定的游戏对象和互动命名的程度。
 
 My answer here is, I'm content with accepting my responsibility on that front. We must improve.
 
@@ -104,9 +104,9 @@ If I am going to noodle about with this medium simply because I think it's a nif
 
 如果我只是因为觉得这是一个时髦有趣的玩具，而去玩弄这种媒介，那么我至少可以确保我不会在这个过程中伤害到其他人。更妙的是，我可以非常非常认真地对待这个时髦有趣的玩具，并认为它是一个强大的工具，可以用来行善，也可以用来作恶。并努力让它成为一个行善的工具。
 
-It's a lot like Pascal's Wager. If it's all "just a game," I was just a crackpot all along. But if it's not, there are only two responsible ways to behave with such a tool: either step away from it altogether and let someone qualified take it up, or take it up and be as qualified as you can.
+It's a lot like [Pascal's Wager](#user-content-fn-11)[^11]. If it's all "just a game," I was just a crackpot all along. But if it's not, there are only two responsible ways to behave with such a tool: either step away from it altogether and let someone qualified take it up, or take it up and be as qualified as you can.
 
-这很像帕斯卡尔的赌注。如果这一切“只是一场游戏”，那么我一直都是个怪人。但如果不是这样，那就只有两种负责任的方式来对待这样的工具：要么完全远离它，让有资格的人来接手；要么接手它，并尽可能让自己变得有资格。
+这很像[帕斯卡尔的赌注](#user-content-fn-12)[^12]。如果这一切“只是一场游戏”，那么我一直都是个怪人。但如果不是这样，那就只有两种负责任的方式来对待这样的工具：要么完全远离它，让有资格的人来接手；要么接手它，并尽可能让自己变得有资格。
 
 My reply is, I won't take a sucker bet.
 
@@ -164,9 +164,9 @@ To which I say, I believe.
 
 对此我要说，我相信。
 
-Last, it means that everyone else—the people like my grandfather—needs to come to understand the valuable role we play in society. We're not nerds in the basement rolling funny-shaped dice. We're also the teachers of your children. We're not irresponsible 14-year-old boys (well, not all of us). We're parents too. We're not splattering gore and sex on TV screens across the world merely for the sake of titillation.
+Last, it means that everyone else—the people like my grandfather—needs to come to understand the valuable role we play in society. We're not nerds in the basement rolling [funny-shaped dice](#user-content-fn-13)[^13]. We're also the teachers of your children. We're not irresponsible 14-year-old boys (well, not all of us). We're parents too. We're not splattering gore and sex on TV screens across the world merely for the sake of titillation.
 
-最后，这意味着其他人--像我祖父这样的人--需要了解我们在社会中扮演的重要角色。我们不是在地下室里掷形状怪异的骰子的书呆子。我们也是你们孩子的老师。我们不是不负责任的 14 岁男孩（好吧，不是所有人）。我们也是父母。我们不会仅仅为了刺激而在全世界的电视屏幕上渲染血腥和性。
+最后，这意味着其他人--像我祖父这样的人--需要了解我们在社会中扮演的重要角色。我们不是在地下室里掷[形状怪异的骰子](#user-content-fn-14)[^14]的书呆子。我们也是你们孩子的老师。我们不是不负责任的 14 岁男孩（好吧，不是所有人）。我们也是父母。我们不会仅仅为了刺激而在全世界的电视屏幕上渲染血腥和性。
 
 Games deserve respect. We as creators must respect them, and do right by their potential. And the rest of the world must respect them and grant them the scope to become what they can and must.
 
@@ -184,9 +184,9 @@ It may be that the current flowering of academic programs in game studies, and t
 
 也许，目前游戏研究学术项目的蓬勃发展，以及刚刚起步的游戏学领域，都是一种畸形和轻浮。
 
-But painting was once a blasphemous act that robbed reality of its essence. Dance was seen as wantonness incapable of expressing any higher emotions. The novel was self-indulgent gothic nonsense for cooped-up housewives. Film was once trashy kinetoscopes at the penny arcade, unworthy of adult attention. Jazz was devil music that would lead young lives astray. Rock 'n' roll was destroying the fabric of our country.
+But painting was once a blasphemous act that robbed reality of its essence. Dance was seen as wantonness incapable of expressing any higher emotions. The novel was self-indulgent gothic nonsense for cooped-up housewives. Film was once trashy [kinetoscopes](#user-content-fn-15)[^15] at the penny arcade, unworthy of adult attention. Jazz was devil music that would lead young lives astray. Rock 'n' roll was destroying the fabric of our country.
 
-但绘画曾经是一种亵渎神明的行为，它剥夺了现实的本质。舞蹈曾被视为无法表达任何高级情感的放荡。小说曾是自娱自乐的哥特式胡言乱语，专为关在家里的家庭主妇而写。电影曾经是一分钱商场里的垃圾画片，不值得成年人关注。爵士乐曾经是会误导年轻人的恶魔音乐。摇滚乐曾经在破坏我们国家的根基。
+但绘画曾经是一种亵渎神明的行为，它剥夺了现实的本质。舞蹈曾被视为无法表达任何高级情感的放荡。小说曾是自娱自乐的哥特式胡言乱语，专为关在家里的家庭主妇而写。电影曾经是一分钱商场里的垃圾[活动电影放映机](#user-content-fn-16)[^16]，不值得成年人关注。爵士乐曾经是会误导年轻人的恶魔音乐。摇滚乐曾经在破坏我们国家的根基。
 
 And Shakespeare himself was no more than a bit player and sometime scribbler for a theater in the bad part of town. Proper women weren't allowed into the theater because their reputations would be ruined, and their stepping on the stage was unthinkable.
 
@@ -240,3 +240,34 @@ Because I'd hate to pass up that look of joy and wonder in my children's eyes.
 
 因为我不想错过孩子们眼中的喜悦和惊奇。
 
+[^1]: Shootings at Columbine High School: In 1999, two students at Columbine High School in Littleton, Colorado, shot and killed several students and teachers. It was later found that both perpetrators were avid players of violent video games, which led to much blame being placed on the games. This is not the only example of video games being blamed for violence. Several lawsuits have been brought against companies in the industry, accusing them of inciting the violence.
+
+[^2]: 哥伦拜恩高中枪击案：1999 年，科罗拉多州利特尔顿的哥伦拜恩高中两名学生枪杀了多名学生和教师。后来发现，这两名凶手都是暴力电子游戏的狂热玩家，这导致很多人把责任归咎于游戏。这并不是唯一一个电子游戏被指责引发暴力的例子。。已有多起针对该行业公司的诉讼，指控它们煽动暴力。
+
+[^3]: Penderecki's Threnody for the Victims of Hiroshima: Krzysztof Penderecki is one of the most widely respected composers of the twentieth century. This piece in particular is highly abstract yet immensely powerful.
+
+[^4]: Aaron Copland: An American composer whose middle period of work is noted for its use of American motifs and folk tales.
+
+[^5]: 潘德列茨基的《广岛受难者挽歌》：克里斯托弗·潘德列茨基是二十世纪最受人尊敬的作曲家之一。尤其是这首曲子，高度抽象却又极具震撼力。
+
+[^6]: 亚伦·科普兰：美国作曲家，其中期作品以使用美国主题和民间故事而著称。
+
+[^7]:Welles's staging of Macbeth: Orson Welles, best known for Citizen Kane, staged a performance of Macbeth in 1936 when he was 20. The cast was all black, the setting was changed from Scotland to the Caribbean, and the witches became voodoo witch doctors.
+
+[^8]:威尔斯的《麦克白》舞台剧：奥森·威尔斯以《公民凯恩》而闻名，1936 年，20 岁的他执导了一场《麦克白》的表演。演员全是黑人，背景从苏格兰变成了加勒比海，女巫变成了伏都教巫医。
+
+[^9]:Grand Theft Auto: An extremely popular video game series in the late 1990s and 2000s, in which you play a criminal performing criminal acts. The games are justifiably admired for their expansive designs, freedom of action, and wide array of fun activities and are also highly controversial due to the subject matter. One of the more reprehensible moments occurs when the player can pick up a prostitute on a street corner, have sexual contact with her in exchange for money, and then beat her up and take the money back.
+
+[^10]:《侠盗猎车手》：20 世纪 90 年代末和 2000 年代非常流行的电子游戏系列，游戏中玩家扮演一名罪犯，从事犯罪行为。该系列游戏以其广阔的设计、自由的行动和各种有趣的活动而备受推崇，同时也因其题材而备受争议。其中一个更应受到谴责的时刻是，玩家可以在街角搭上一名妓女，跟她发生性接触，付钱给她，然后殴打她并把钱拿回来。
+
+[^11]: Pascal's Wager: Blaise Pascal's famous wager comes from his Pensées: "Let us weigh the gain and the loss in wagering that God is... If you gain, you gain all; if you lose, you lose nothing. Wager, then, without hesitation that He is."
+
+[^12]: 帕斯卡尔的赌注：布莱斯·帕斯卡著名的赌注出自他的《思想录》：“让我们权衡一下赌上帝存在的得失……如果你赢了，你就得赢得了一切；如果你输了，你也什么都没有失去。那么，就毫不犹豫地赌上帝存在吧。”
+
+[^13]: Funny-shaped dice: These dice, mostly based on Platonic solids, are used to play Dungeons & Dragons and other pen and paper role-playing games.
+
+[^14]: 形状怪异的骰子：这些骰子大多基于柏拉图实体，用于玩龙与地下城和其他纸笔角色扮演游戏。
+
+[^15]: Kinetoscopes: Invented in 1891 in Edison's laboratory, this precursor to the film camera actually used 35mm film on reels, but it required viewers to look into a peephole to see.
+
+[^16]: 活动电影放映机：这种电影摄影机的前身于 1891 年在爱迪生的实验室中发明，实际上使用的是 35 毫米卷筒胶片，但需要观众通过窥视孔才能看到。

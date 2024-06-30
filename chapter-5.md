@@ -91,7 +91,7 @@ But there's a very good reason why the gamers are incredulous.
 > 
 > This is why gamers are dismissive of the ethical implications of games--they don't see "pick up a hooker, then run her over to get your money back."
 > 
-> 这就是为什么玩家们对游戏中的道德含义不以为然——他们看不到“接上一个妓女，然后开车压过去，取回你的钱。”（这样的行为有道德上的问题）
+> 这就是为什么玩家们对游戏中的道德含义不以为然——他们看不到“搭上一个妓女，然后打倒她，拿回你的钱。”（这样的行为有道德上的问题）
 
 Remember, game systems train us to see underlying mathematical patterns. The fact that I can describe Deathrace as being a game about picking up objects on a two-dimensional playing field is evidence that its "dressing" is largely irrelevant to what the game is about at its core. As you get more into a game, you'll most likely cut to the chase and examine the true underpinnings of the game, just as a music aficionado can cut past the lyrical content of different types of Latin music and determine whether a given song is a [cumbia](#user-content-fn-15)[^15] or a [marinera](#user-content-fn-16)[^16] or a salsa.
 
