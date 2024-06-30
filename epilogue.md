@@ -191,6 +191,30 @@ My answer here is, I'm content with accepting my responsibility on that front. W
 > THE RIOTING IS PART OF THE ACT, MAN.
 > 
 > 骚乱是表演的一部分，伙计。
+> 
+> aaaa!
+> 
+> 啊！
+> 
+> Fire!
+> 
+> 火！
+> 
+> gak!
+> 
+> 呃！
+> 
+> get off!
+> 
+> 滚开！
+> 
+> heh heh
+> 
+> 嘿嘿
+> 
+> take that!
+> 
+> 尝尝这个！
 
 If games are mere amusements, and my grandfather's concerns were valid, then by acting responsibly, and striving to make games that illuminate the human condition, I have at least caused no harm.
 
