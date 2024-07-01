@@ -10,7 +10,7 @@ Our kids took to games at a very early age. Games were all around them, and I br
 
 Kids are playing everywhere, all the time, and often playing games that we do not quite understand. They play and learn at a ferocious rate. We see the statistics on how many words kids absorb in a day, how rapidly they develop motor control, and how many basic aspects of life they master—aspects that are frankly so subtle that we have even forgotten learning them—and we usually fail to appreciate what an amazing feat this is.
 
-孩子们无处不在、无时无刻不在玩耍，而且经常玩一些我们不太理解的游戏。他们以惊人的速度玩耍和学习。我们看到的统计数字表明，孩子们一天能吸收多少单词，他们的运动控制能力发展得有多快，他们掌握了多少生活的基本方面——坦率地说，这些方面是如此微妙，以至于我们甚至忘记了自己是如何学会的——我们通常没有意识到这是多么了不起的壮举。
+孩子们无处不在、无时无刻不在玩耍，而且经常玩一些我们不太理解的游戏。他们以惊人的速度玩耍和学习。我们看到的统计数字表明，孩子们一天能吸收多少单词，他们的运动控制能力发展得有多快，他们掌握了多少生活的基本方面——坦率地说，这些方面是如此微小，以至于我们甚至忘记了自己是如何学会的——我们通常没有意识到这是多么惊人的壮举。
 
 Consider how hard it is to learn a language, and yet children all over the world do it routinely. A first language. They are doing it without assigning [cognates](#user-content-fn-1)[^1] in their native tongue and without translating in their heads. Much attention has been paid to some very special [deaf kids in Nicaragua](#user-content-fn-2)[^2], who have managed to invent a fully functional sign language in just a few generations. Many believe this shows language is built into the brain, and that there's something in our wiring that guides us inexorably towards language.
 
