@@ -14,7 +14,7 @@ Kids are playing everywhere, all the time, and often playing games that we do no
 
 Consider how hard it is to learn a language, and yet children all over the world do it routinely. A first language. They are doing it without assigning [cognates](#user-content-fn-1)[^1] in their native tongue and without translating in their heads. Much attention has been paid to some very special [deaf kids in Nicaragua](#user-content-fn-2)[^2], who have managed to invent a fully functional sign language in just a few generations. Many believe this shows language is built into the brain, and that there's something in our wiring that guides us inexorably towards language.
 
-想想看，学习一门语言有多难，但全世界的孩子都能照常学习。第一语言。他们是在没有指定母语中的[同源词](#user-content-fn-3)[^3]，也没有在头脑中进行翻译的情况下完成学习的。[尼加拉瓜一些非常特殊的聋哑儿童](#user-content-fn-4)[^4]备受关注，他们在短短几代人的时间里就发明了一种功能齐全的手语。许多人认为，这表明语言是内置于大脑中的，我们大脑的某些结构不可抗拒地引导我们走向语言。
+想想看，学习一门语言有多难，但全世界的孩子都能轻松自然地学习。第一语言。他们是在没有指定母语中的[同源词](#user-content-fn-3)[^3]，也没有在头脑中进行翻译的情况下完成学习的。[尼加拉瓜一些非常特殊的聋哑儿童](#user-content-fn-4)[^4]备受关注，他们在短短几代人的时间里就发明了一种功能齐全的手语。许多人认为，这表明语言是内置于大脑中的，我们大脑的某些结构不可抗拒地引导我们走向语言。
 
 <p align="center">
   <img src="images/1.1.png"/>
