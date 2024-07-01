@@ -24,7 +24,7 @@ Consider how hard it is to learn a language, and yet children all over the world
 > 
 > 看着孩子们学习玩游戏很有趣。
 
-Language is not the only hardwired behavior. As children move up the developmental ladder, they take part in a variety of instinctual activities. Any parent who has suffered through the “terrible twos” can tell you that it's as if a switch went on in the child's brain, altering his or her behavior radically. (This phase lasts beyond just the age of two, by the way—just a friendly warning.)
+Language is not the only hardwired behavior. As children move up the developmental ladder, they take part in a variety of instinctual activities. Any parent who has suffered through the "terrible twos" can tell you that it's as if a switch went on in the child's brain, altering his or her behavior radically. (This phase lasts beyond just the age of two, by the way—just a friendly warning.)
 
 语言并不是唯一一种先天固有的行为。随着孩子的成长，他们会参与各种本能活动。任何经历过“可怕的两岁”的家长都会告诉你，孩子的大脑就像被打开了开关，行为发生了翻天覆地的变化。(顺便说一句，这个阶段不会只持续到两岁——只是一个善意的提醒）。
 
@@ -60,7 +60,7 @@ I also have plenty of experiences where I stare at something and simply don't ge
 
 我也有很多这样的经历：我盯着某样东西看，但就是不明白。我不想承认这一点，但我的典型反应就是干脆转过身去。现在我的鬓角已经有一些（好吧，很多）白发了，我经常有这种感觉。我发现自己无法理解一些人人都说我应该玩的游戏。我无法像以前那样快速移动鼠标。我宁愿不玩，也不想觉得自己无能，即使其他玩家都是我的朋友。
 
-That's not just me saying, “I can't cut it in Internet play! Damn 14-year-old kids.” My reaction isn't mere frustration; it's also got a tinge of boredom. I look at the problem and say, “Well, I could take on the [Sisyphean task](#user-content-fn-7)[^7] of trying to match these folks in every new game as it comes out, but frankly, repeated failure is a predictable cycle, and rather boring. I have better things to do with my time.”
+That's not just me saying, "I can't cut it in Internet play! Damn 14-year-old kids." My reaction isn't mere frustration; it's also got a tinge of boredom. I look at the problem and say, "Well, I could take on the [Sisyphean task](#user-content-fn-7)[^7] of trying to match these folks in every new game as it comes out, but frankly, repeated failure is a predictable cycle, and rather boring. I have better things to do with my time."
 
 这不仅仅是我在说“我在网络游戏中不行了！该死的 14 岁孩子”。我的反应不仅仅是沮丧，还有一丝厌烦。我看着这个问题说：“好吧，我可以承担[西西弗斯式的任务](#user-content-fn-8)[^8]，在每款新游戏问世时都努力与他们比赛，但坦率地说，反复失败是一个可预见的循环，而且相当无聊。我有更好的事情要做。”
 
@@ -92,9 +92,9 @@ Games don't last forever, though. There just comes a point where you say, "You k
 
 不过，游戏不会永远持续下去。总有一天你会说，“你知道吗，我想我已经玩遍了这个游戏的所有内容”。最近，我在互联网上发现了一款打字游戏，这是一款可爱的游戏，我扮演一名潜水员，鲨鱼试图吃掉我。每条鲨鱼的侧面都有一个单词，当我输入单词时，鲨鱼就会肚皮朝上。
 
-Now, I am a terrible formal typist, but I can hunt-and-peck at almost 100 words a minute. This game was fun, but it was also a piece of cake. After level 12 or 14, the game just gave up. It conceded. It said to me, “You know, I've tried every trick I can think of, including words with random punctuation in the middle, words spelled backwards, and not showing you the words until the last minute. So to hell with it; from now on, I'll just keep throwing the same challenges at you. But really, you can quit now, because you've seen all I've got.”
+Now, I am a terrible formal typist, but I can hunt-and-peck at almost 100 words a minute. This game was fun, but it was also a piece of cake. After level 12 or 14, the game just gave up. It conceded. It said to me, "You know, I've tried every trick I can think of, including words with random punctuation in the middle, words spelled backwards, and not showing you the words until the last minute. So to hell with it; from now on, I'll just keep throwing the same challenges at you. But really, you can quit now, because you've seen all I've got."
 
-现在，我是一个糟糕的正式打字员，但我能以每分钟大约可以猎食 100 个字。这个游戏很有趣，但也是小菜一碟。在第 12 或 14 级之后，游戏放弃了。它认输了。它对我说：“你知道，我能想到的招数我都试过了，包括中间随意加标点符号的单词、单词拼反了、不到最后一刻不给你看单词等。所以，见鬼去吧；从现在起，我将继续向你提出同样的挑战。不过说真的，你现在可以退出了，因为你已经看到了我的全部。”
+现在，我是一个糟糕的正式打字员，但我每分钟大约可以猎食 100 个单词。这个游戏很有趣，但也是小菜一碟。在第 12 或 14 级之后，游戏放弃了。它认输了。它对我说：“你知道，我能想到的招数我都试过了，包括中间随意加标点符号的单词、单词拼反、不到最后一刻不给你看单词等。所以，见鬼去吧；从现在起，我将继续向你提出同样的挑战。不过说真的，你现在可以退出了，因为你已经看到了我的全部。”
 
 I took its advice, and quit.
 
@@ -112,7 +112,7 @@ I took its advice, and quit.
 > 
 > 益智游戏
  
-Games that are too hard kind of bore me, and games that are too easy also kind of bore me. As I age, games move from one to the other, just as tic-tac-toe did for our children. Sometimes I play games with people who crush me and afterwards explain kindly, "Well, you see, this is a [game about vertices](#user-content-fn-13)[^13]." And I say, “Vertices? I'm putting down pieces on a board!” And they shrug, as if to say I'll never get it.
+Games that are too hard kind of bore me, and games that are too easy also kind of bore me. As I age, games move from one to the other, just as tic-tac-toe did for our children. Sometimes I play games with people who crush me and afterwards explain kindly, "Well, you see, this is a [game about vertices](#user-content-fn-13)[^13]." And I say, "Vertices? I'm putting down pieces on a board!" And they shrug, as if to say I'll never get it.
 
 太难的游戏让我厌烦，太简单的游戏也让我厌烦。随着年龄的增长，游戏也从一个变成了另一个，就像我们的孩子玩井字游戏一样。有时候，我和一些人玩游戏，他们会把我压得喘不过气来，然后和蔼地解释说：“你看，这是一个[关于顶点的游戏](#user-content-fn-14)[^14]。”而我却说：“顶点？我在棋盘上下棋呢！”他们耸耸肩，好像在说我永远也不会明白。
 
@@ -148,7 +148,7 @@ I also find it curious that as parents, we'll insist that kids be given the time
 
 [^4]: 尼加拉瓜的聋哑儿童：关于尼加拉瓜手语（又称 NSL 或 ISN，取自西班牙语中该词组的首字母）的文章很多。尼加拉瓜的聋哑儿童没有机会相互交流，也没有机会接受手语培训，直到 1979 年才开始开设聋哑学校。经过几代人的努力，聋哑儿童发展出了一种功能齐全的手语，使他们能够进行交流。这被认为是历史上科学家第一次观察到一种自发创造的语言（而不是像世界语那样有意创造的语言）。有关该故事的精彩概述，请访问 www.nytimes.com/library/magazine/home/19991024mag-sign-language.html。
 
-[^5]: NP-hard and NP-complete: These are terms from complexity theory, the field of mathematics that studies how hard it is to solve a given problem (as opposed to whether it can be solved at all, which is called “computability theory”). Other types of complexity include P, NP, PSPACE-complete, and EXPTIME-complete. Many abstract board games are classifiable as terms of their mathematical complexity in this way; for example, checkers is EXPTIME-complete, and Othello is PSPACE-complete. Rendering games obsolete is a favorite pastime of mathematicians. They have proven that for optimal players, the first player to move will always win games such as Connect Four and Pentominoes.
+[^5]: NP-hard and NP-complete: These are terms from complexity theory, the field of mathematics that studies how hard it is to solve a given problem (as opposed to whether it can be solved at all, which is called "computability theory"). Other types of complexity include P, NP, PSPACE-complete, and EXPTIME-complete. Many abstract board games are classifiable as terms of their mathematical complexity in this way; for example, checkers is EXPTIME-complete, and Othello is PSPACE-complete. Rendering games obsolete is a favorite pastime of mathematicians. They have proven that for optimal players, the first player to move will always win games such as Connect Four and Pentominoes.
 
 [^6]: NP 困难 和 NP 完全：这是复杂性理论中的术语，复杂性理论是研究解决一个给定问题有多难的数学领域（而不是研究这个问题是否能被解决，后者被称为“可计算性理论”）。其他复杂性类型包括 P、NP、PSPACE-complete 和 EXPTIME-complete。许多抽象棋类游戏都可以用这种方法按其数学复杂性进行分类；例如，跳棋是 EXPTIME-完备的，黑白棋是 PSPACE-完备的。让游戏过时是数学家们最喜欢的消遣。他们已经证明，对于最佳玩家来说，最先行动的玩家总是能赢得四子连环和五子棋等游戏。
 

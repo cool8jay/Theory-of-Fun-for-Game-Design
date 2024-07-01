@@ -264,7 +264,7 @@ The last kind of thinking is not thinking. When you stick your finger in fire, y
 
 最后一种思考不是思考。当你把手指伸进火里时，你会在大脑来不及思考之前就把它收回来（说真的，有人[测过](#user-content-fn-50)[^50]）。
 
-Calling this “muscle memory” is a lie. Muscles don't really have memory. They're just big ol' springs that coil and uncoil when you run electrical current through them. It's really all about nerves. There's a very large part of your body that works based on the _autonomic nervous system_, which is a fancy way of saying that it makes its own decisions. Some of it is stuff you can learn to bring under more conscious control, like your heart rate. Some of it is reflexes, like snatching your fingers out of the fire. And some of it is stuff you train your body to do.
+Calling this "muscle memory" is a lie. Muscles don't really have memory. They're just big ol' springs that coil and uncoil when you run electrical current through them. It's really all about nerves. There's a very large part of your body that works based on the _autonomic nervous system_, which is a fancy way of saying that it makes its own decisions. Some of it is stuff you can learn to bring under more conscious control, like your heart rate. Some of it is reflexes, like snatching your fingers out of the fire. And some of it is stuff you train your body to do.
 
 说这是“肌肉记忆”是骗人的。肌肉并没有真正的记忆。它们只是一个大弹簧，当电流通过它们时，它们就会卷起或松开。真正有记忆的是神经。你的身体有很大一部分是基于 _自主神经系统_ 工作的，这是一种花哨的说法，意味着它自己做出决定。其中有些是你可以学会有意识控制，比如你的心率。有些是条件反射，比如把手指从火中拽出来。还有一些是你训练身体去做的事情。
 
@@ -412,7 +412,7 @@ When our brain is really into practicing something, we'll dream about it. This i
 
 [^38]: 三和弦与真理：所有音乐中最基本的和弦进行之一，就是从主和弦到下属和弦再到属和弦，通常写成 I-IV-V。在大多数民间音乐、蓝调和经典摇滚中，尽管是在不同的调性上，这个模式会反复出现。音乐理论认为，由于和弦内部的导音，某些和弦自然会引导到其他和弦——V和弦“想要”进入I和弦，这是因为 V 和弦中的一个音比主音低半音。在 V 音上停顿会使音乐听起来不完整。这也是信息论的一种表现形式，因为熟练的音乐家可以根据自己的经验，凭直觉猜测特定和弦后出现什么样的和声结构。
 
-[^39]: Flat fifth: A major or minor chord will make use of a perfect fifth, which is two notes that are exactly seven half-steps apart on the scale (seven black or white keys on the piano). The flat fifth, or tritone, is six half-steps and is extremely dissonant, unlike the perfect fifth and perfect fourth. In much classical music, the tritone is not permitted and is called “the devil's interval.” It is, however, extremely common in jazz.
+[^39]: Flat fifth: A major or minor chord will make use of a perfect fifth, which is two notes that are exactly seven half-steps apart on the scale (seven black or white keys on the piano). The flat fifth, or tritone, is six half-steps and is extremely dissonant, unlike the perfect fifth and perfect fourth. In much classical music, the tritone is not permitted and is called "the devil's interval." It is, however, extremely common in jazz.
 
 [^40]: 降五度：大调或小调和弦都会使用完全五度，即在音阶上相隔七个半音（钢琴上的七个黑键或白键）的两个音符。与完全五度和完全四度不同，降五度，或称三全音，是六个半音，极不和谐。在许多古典音乐中，三全音是不允许出现的，被称为“魔鬼音程”。但在爵士乐中却极为常见。
 
@@ -446,7 +446,7 @@ When our brain is really into practicing something, we'll dream about it. This i
 
 [^55]: Practice: Alan Turing, better known as the father of modern computing, is also the creator of something called "Turing's Halting Problem." We know that you can get a computer to tackle incredibly difficult problems. However, we do not know how long it will take for the answers to be returned; no predictive method works. This is because of the Church-Turing thesis, which simply states that you can compute anything that has already been computed, but problems we haven't computed yet are unknown territory. Only experience tells us the scope of a problem. In short, we only really learn things by experiencing them.
 
-[^56]: Mental practice: This is called "mental imagery," and it is widely used in sports training. One study by Anne Isaac in 1992 showed that mental imagery helps an athlete improve in a skill. Other studies have found that autonomic nervous system responses are triggered by detailed mental imagery. It's important to note that actual practice is still better than just imagining yourself doing something—the mental images have to be highly detailed and specific to provide a benefit. One of the most famous examples of mental imagery in the last 100 years is shown in the film The Pianist, where Wladyslaw Szpilman, played by Adrien Brody, “plays” piano while hovering his fingers above the keys, so as to avoid detection by the Nazis.
+[^56]: Mental practice: This is called "mental imagery," and it is widely used in sports training. One study by Anne Isaac in 1992 showed that mental imagery helps an athlete improve in a skill. Other studies have found that autonomic nervous system responses are triggered by detailed mental imagery. It's important to note that actual practice is still better than just imagining yourself doing something—the mental images have to be highly detailed and specific to provide a benefit. One of the most famous examples of mental imagery in the last 100 years is shown in the film The Pianist, where Wladyslaw Szpilman, played by Adrien Brody, "plays" piano while hovering his fingers above the keys, so as to avoid detection by the Nazis.
 
 [^57]: 实践：现代计算机之父艾伦·图灵也是“图灵停机问题”的创造者。我们知道，你可以让计算机解决令人难以置信的难题。但是，我们不知道需要多长时间才能得到答案；没有一种预测方法是有效的。这是因为丘奇·图灵理论，它简单地指出你可以计算任何已经计算过的问题，但我们尚未计算过的问题是未知领域。只有经验才能告诉我们问题的范围。简而言之，只有亲身经历，我们才能真正学到东西。
 
