@@ -38,7 +38,7 @@ That extended moment when tic-tac-toe ceased to interest them was a moment of gr
 
 This isn't unfamiliar to most people. I do many things without fully understanding them, even things I feel I have mastered. I don't need a degree in automotive engineering to drive my car. I don't even need to understand torque, wheels and how the brakes work. I don't need to remember the ins and outs of the rules of grammar to speak grammatically in everyday conversation. I don't need to know whether tic-tac-toe is [NP-hard or NP-complete](#user-content-fn-5)[^5] to know that it's a dumb game.
 
-这对大多数人来说并不陌生。我做很多事情时都没有完全理解它们，即使是我觉得自己已经掌握的事情。我不需要汽车工程学位就能开我的车。我甚至不需要了解扭矩、车轮和刹车的工作原理。我不需要记住语法规则的来龙去脉，就能在日常对话中用语法说话。我不需要知道井字游戏是[NP 困难还是 NP 完全](#user-content-fn-6)[^6]，就知道这是一个愚蠢的游戏。
+这对大多数人来说并不陌生。我做很多事情时都没有完全理解它们，即使是我觉得自己已经掌握的事情。我不需要汽车工程学位就能开车。我甚至不需要了解扭矩、车轮和刹车的工作原理。我不需要记住语法规则的来龙去脉，就能在日常对话中用语法说话。我不需要知道井字游戏是[NP 困难还是 NP 完全](#user-content-fn-6)[^6]，就知道这是一个愚蠢的游戏。
 
 <p align="center">
   <img src="images/1.2.png"/>
