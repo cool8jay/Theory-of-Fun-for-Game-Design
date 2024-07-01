@@ -314,11 +314,11 @@ My commitment is, I'll try to make sure that nobody gets hurt.
 > 
 > d00d, I JUST GOT THIS KILLER GAME CALLED "LOLITA."
 > 
-> 哥们儿，我刚刚买到这个杀手游戏，叫《萝莉塔》。
+> 哥们儿，我刚刚买到这个杀手游戏，叫《洛丽塔》。
 > 
 > Beat it. Lady Chatterley's Lover was better.
 > 
-> 滚吧。《查泰莱夫人的情人》更棒。
+> 走开。《查泰莱夫人的情人》更棒。
 
 For all of us game designers, it means the extremely difficult task of reevaluating our roles in life. It means perceiving ourselves as having a responsibility to others, whereas we previously thought of ourselves as carefree. It means granting a greater level of respect to the tools we work with—the push and pull of mechanic and feedback, the intricate pathways of the human brain and human apprehension—and a greater level of respect to our audience.
 
@@ -346,15 +346,19 @@ To which I say, I believe.
 > 
 > to die -- to sleep -- no more, and by a sleep we say to end the heartache, and the thousand natural shocks that flesh is heir to.
 > 
-> 死去——睡去——终止，如果睡去，意味着结束躯体成熟的心疼和创伤。
+> 死去——睡去——终止，如果睡去，意味着结束躯体不可逃避的打击和心疼。
 > 
 > in other words, just jump.
 > 
-> 换句话说，就是跳吧。
+> 换句话说，跳吧。
+
+{% hint style="info" %}
+译者注：对话改编自莎士比亚《哈姆雷特》的[台词](https://en.wikipedia.org/wiki/To_be,_or_not_to_be)。
+{% endhint %}
 
 Last, it means that everyone else—the people like my grandfather—needs to come to understand the valuable role we play in society. We're not nerds in the basement rolling [funny-shaped dice](#user-content-fn-13)[^13]. We're also the teachers of your children. We're not irresponsible 14-year-old boys (well, not all of us). We're parents too. We're not splattering gore and sex on TV screens across the world merely for the sake of titillation.
 
-最后，这意味着其他人--像我祖父这样的人--需要了解我们在社会中扮演的重要角色。我们不是在地下室里掷[形状怪异的骰子](#user-content-fn-14)[^14]的书呆子。我们也是你们孩子的老师。我们不是不负责任的 14 岁男孩（好吧，不是所有人）。我们也是父母。我们不会仅仅为了刺激而在全世界的电视屏幕上渲染血腥和性。
+最后，这意味着其他人——像我祖父这样的人——需要了解我们在社会中扮演的重要角色。我们不是在地下室里掷[形状怪异的骰子](#user-content-fn-14)[^14]的书呆子。我们也是你们孩子的老师。我们不是不负责任的 14 岁男孩（好吧，不是所有人）。我们也是父母。我们不会仅仅为了刺激而在全世界的电视屏幕上渲染血腥和性。
 
 Games deserve respect. We as creators must respect them, and do right by their potential. And the rest of the world must respect them and grant them the scope to become what they can and must.
 
