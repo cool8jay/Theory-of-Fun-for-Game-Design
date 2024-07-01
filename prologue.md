@@ -4,7 +4,7 @@
 
 My grandfather wanted to know whether I felt proud of what I do. It seemed a reasonable question: there he was, aging and soon to pass away, though at the time I didn't know that; a man who had spent his life as a fire chief, raising six children. One of them followed in his footsteps, became a fire chief himself, and now sells bathtub linings. There's a special education teacher, an architect, a carpenter. Good, solid, wholesome professions for good, solid, wholesome people. And there I was—making games rather than contributing to society.
 
-我的祖父想知道我是否为自己的工作感到自豪。这似乎是一个合理的问题：他年事已高，很快就要去世了，虽然当时我还不知道；他一生都在当消防队长，养育了六个孩子。其中一个继承了他的事业，也当上了消防队长，现在卖浴缸衬里。还有一位特殊教育老师，一位建筑师，一位木匠。对于善良、稳重、健康的人来说，这些都是良好、稳固、有益的职业。而我，却在制作游戏，没有为社会做贡献。
+我的祖父想知道我是否为自己的工作感到自豪。这似乎是一个合理的问题：他年事已高，很快就要去世了，虽然当时我还不知道；他一生都在当消防队长，养育了六个孩子。其中一个继承了他的衣钵，也当上了消防队长，现在转行销售浴缸衬垫。还有一位特殊教育老师，一位建筑师，一位木匠。这些职业美好、稳定且有益，适合那些善良、踏实、正派的人。而我，却在制作游戏，没有为社会做贡献。
 
 I told him that I felt I did contribute. Games aren't just a diversion; they're something valuable and important. And my evidence was right in front of me—my kids, playing [tic-tac-toe](#user-content-fn-1)[^1] on the floor.
 
