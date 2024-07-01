@@ -12,18 +12,17 @@
 
 Special thanks to all those who have helped me clarify the thoughts that went into this book, through their writing and direct conversation and by challenging my assumptions. The following are in no particular order:
 
-特别感谢所有通过写作、直接对话、质疑等方式帮助我理清本书写作思路的人。通过他们的文字和直接对话，以及通过质疑我的假设
-我的假设。以下排名不分先后：
+特别感谢所有通过写作、直接对话、质疑我的假设等方式帮助我理清本书写作思路的人。以下排名不分先后：
 
 For the original edition: Cory Ondrejka for passionately dreaming the dream; Ben Cousins for “ludeme” and pursuing empirical approaches; David Kennerly for loving the ludemes; Gordon Walton and Rich Vogel for mentoring, mentoring, mentoring—and letting go; J. C. Lawrence for creating the forum; Jesper Juul for questioning the premise; Jessica Mulligan for opening the art question; John Buehler for the emotion questions; John Donham for indulging and interest; Lee Sheldon for insisting on story; Nicole Lazzaro for introducing me to research on emotion; Noah Falstein for treading down a similar path—keep an eye out for his book; Richard Bartle for the playspace, and for advocating authorial intent; Richard Garriott for injecting ethics; Rod Humble for listening to very long rambles; Sasha Hart for the human condition questions; Timothy Burke and many other players for forcing me to consider the question; Will Wright for insight into formal game systems.
 
-对于最初的版本：科里·翁德雷卡的激情梦想；本·考辛斯的“鲁德姆”和追求实证的方法；戴维·肯纳利对“鲁德姆”的热爱；戈登·沃尔顿和里奇·沃格尔的指导、指导、指导——放手；J.C.劳伦斯创建论坛；杰斯珀·尤尔质疑前提；杰西卡·穆里根提出艺术问题；约翰·布勒提出情感问题；约翰·多纳姆纵容并激发兴趣；李·谢尔顿坚持故事；妮可·拉扎罗向我介绍情感研究；诺亚·法尔斯坦踏上类似的道路——留意他的书；理查德·巴特尔提供的游戏空间，以及他倡导的作者意图；理查德·加略特注入的伦理道德；罗德·汉伯倾听我的长篇大论；萨沙·哈特提出的人类状况问题；蒂莫西·伯克和许多其他玩家迫使我思考这个问题；威尔·赖特对形式游戏系统的见解。
+对于最初的版本：科里·翁德雷卡的激情梦想；本·考辛斯的“游戏元素”和追求实证的方法；戴维·肯纳利对“游戏元素”的热爱；戈登·沃尔顿和里奇·沃格尔的指导、指导、指导——放手；J.C.劳伦斯创建论坛；杰斯珀·尤尔质疑前提；杰西卡·穆里根提出艺术问题；约翰·布勒提出情感问题；约翰·多纳姆纵容并激发兴趣；李·谢尔顿坚持故事；妮可·拉扎罗向我介绍情感研究；诺亚·法尔斯坦踏上类似的道路——留意他的书；理查德·巴特尔提供的游戏空间，以及他倡导的作者意图；理查德·加略特注入的伦理道德；罗德·汉伯倾听我的长篇大论；萨沙·哈特提出的人类状况问题；蒂莫西·伯克和许多其他玩家迫使我思考这个问题；威尔·赖特对形式游戏系统的见解。
 
 Extra special thanks to those who helped make the book in its original form come together: Kurt Squire for introducing Ben to the original presentation, Ben Sawyer for editing, Dave Taylor and Patricia Pizer for fantastic volunteer editing jobs, Keith Weiskamp for publishing and line-by-line commentary, Chris Nakashima-Brown for legal help, Kim Eoff for laying out the book, and Judy Flynn for copyediting.
 
 另外，还要特别感谢那些帮助本书完成原稿的人：库尔特·斯奎尔向本介绍了最初的演示文稿，本·索耶进行了编辑，戴夫·泰勒和帕特里夏·皮泽尔出色地完成了志愿编辑工作，基思·韦斯坎普进行了出版和逐行评论，克里斯·中岛·布朗提供了法律帮助，金·伊夫对全书进行了排版，朱迪·弗林进行了校对。
 
-The second edition would not have happened without Rachel Roumeliotis, Meghan Connolly, and the team at O’Reilly. Their willingness to dream big, in full color, is what led to the version you now have in your hands.
+The second edition would not have happened without Rachel Roumeliotis, Meghan Connolly, and the team at O'Reilly. Their willingness to dream big, in full color, is what led to the version you now have in your hands.
 
 如果没有瑞秋·鲁梅里奥蒂斯、梅根·康诺利和奥莱利的团队，就不会有第二版。正是因为他们愿意做一个全彩的大梦想，才有了你们现在手中的版本。
 

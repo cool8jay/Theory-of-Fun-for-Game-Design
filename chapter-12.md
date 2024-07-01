@@ -227,7 +227,7 @@ Hear that, grandpa?
 
 [^2]: 达妮·本腾·贝瑞：[《M.U.L.E.》](https://en.wikipedia.org/wiki/M.U.L.E.)和[《七座金城》](https://en.wikipedia.org/wiki/The_Seven_Cities_of_Gold_(video_game))等经典电子游戏的设计师。
 
-[^3]: Duchamp’s Nude Descending a Staircase: Considered one of the first paintings to attempt to show motion abstractly, this painting is an early example of Futurism.
+[^3]: Duchamp's Nude Descending a Staircase: Considered one of the first paintings to attempt to show motion abstractly, this painting is an early example of Futurism.
 
 [^4]: 杜尚的《下楼梯的裸体》：这幅画被认为是最早尝试抽象表现运动的画作之一，是未来主义的早期代表作。
 
