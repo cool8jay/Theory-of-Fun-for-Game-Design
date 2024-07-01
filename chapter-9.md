@@ -229,7 +229,7 @@ One of the most common points I hear about why video games are not an art form i
 <img src="images/9.4.png">
 </div>
 
-> We often discuss the desire for games to be art--for them to be puzzles with more than one right answer, puzzles that lend themselves to interpretation.
+> We often discuss the desire for games to be art -- for them to be puzzles with more than one right answer, puzzles that lend themselves to interpretation.
 > 
 > 我们经常讨论游戏成为艺术的渴望——渴望成为不仅仅有一个正确答案的谜题，成为能够引发解读和多重理解的谜题。
 > 

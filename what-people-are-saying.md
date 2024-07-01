@@ -172,7 +172,7 @@ One of the "Five Books You Should Read About Game Design"
 
 <hr>
 
-"A Theory of Fun elucidates some basic truths that apply not just to games but to all entertainment. Even better, it does so in a style that is clear, insightful, and...fun! I expect this book to become an instant classic, fascinating to anyone who has ever made a game--or played one."
+"A Theory of Fun elucidates some basic truths that apply not just to games but to all entertainment. Even better, it does so in a style that is clear, insightful, and...fun! I expect this book to become an instant classic, fascinating to anyone who has ever made a game -- or played one."
 
 —Noah Falstein, Chief Game Designer at Google
 

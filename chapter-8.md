@@ -18,7 +18,7 @@ Designers often feel proudest of designing good abstract systems that have deep 
 <img src="images/8.1.png">
 </div>
 
-> Game designers talk a lot about emergent gameplay, non-linear storytelling, and player-created content--they're all ways of increasing the possibility space, making self-refreshing puzzles.
+> Game designers talk a lot about emergent gameplay, non-linear storytelling, and player-created content -- they're all ways of increasing the possibility space, making self-refreshing puzzles.
 > 
 > 游戏设计师们经常谈论涌现玩法、非线性叙事和玩家自创内容——它们都是增加可能性空间、制造自我刷新谜题的方法。
 > 

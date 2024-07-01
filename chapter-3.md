@@ -65,7 +65,7 @@ Consider the key difference between something like a book and different kinds of
 > 
 > -- they are about cognition, and learning to analyze patterns.
 > 
-> -- 它们是关于认知和学习分析模式的。
+> ——它们是关于认知和学习分析模式的。
 
 Linguists have noticed that language obeys fairly strict mathematical rules. For example, humans cannot understand a sentence that is too [deeply nested](#user-content-fn-7)[^7]. "The house the cheese the rat the cat the dog chased caught ate lay in was built by Jack" is a bad sentence because it violates this rule. The clauses are too deeply nested. We can puzzle it out with our slow logical conscious brain, but we work against our own natures when we do so.
 

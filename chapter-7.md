@@ -80,7 +80,7 @@ Cheating is a sign that the player is in fact grokking the game. From a strict s
 
 > If they are clever and see an optimal path -- an Alexandrine solution to a Gordian problem -- they'll do that instead of the "intended gameplay."
 > 
-> 如果他们很聪明，看到了一条最佳路径--一个解决戈尔迪难题的亚历山大式解决方案--他们就会这样做，而不是“预定的游戏玩法。”
+> 如果他们很聪明，看到了一条最佳路径——一个解决戈尔迪难题的亚历山大式解决方案——他们就会这样做，而不是“预定的游戏玩法。”
 
 {% hint style="info" %}
 译者注：戈尔迪安问题源自古希腊故事中的一个著名难题。据传说，弗里吉亚的国王戈尔迪奥斯有一个非常复杂的绳结，被称为戈尔迪安结。神谕宣称，能够解开这个结的人将会成为亚细亚之王。很多人试图解开它，但都失败了。

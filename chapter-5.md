@@ -89,7 +89,7 @@ But there's a very good reason why the gamers are incredulous.
 > 
 > 盗窃汽车、殴打他人、驾车杀人、拉皮条、乱扔垃圾。
 > 
-> This is why gamers are dismissive of the ethical implications of games--they don't see "pick up a hooker, then run her over to get your money back."
+> This is why gamers are dismissive of the ethical implications of games -- they don't see "pick up a hooker, then run her over to get your money back."
 > 
 > 这就是为什么玩家们对游戏中的道德含义不以为然——他们看不到“搭上一个妓女，然后打倒她，拿回你的钱。”（这样的行为有道德上的问题）
 
@@ -141,7 +141,7 @@ The stories in many video games serve the same purpose as calling the über-chec
 <img src="images/5.4.png">
 </div>
 
-> Story, setting, and backplot in games are nothing more than an attempt to give a side dish to the brain while it completes its challenges--sometimes the hope is that it makes up for an otherwise unremarkable game.
+> Story, setting, and backplot in games are nothing more than an attempt to give a side dish to the brain while it completes its challenges -- sometimes the hope is that it makes up for an otherwise unremarkable game.
 > 
 > 游戏中的故事、设定和背景情节不过是在大脑完成挑战的同时为其提供的一道配菜——有时，人们希望它能弥补游戏中的不足之处。
 > 
@@ -287,7 +287,7 @@ A lot of these feel good, but they aren't necessarily "fun."
 <img src="images/5.7.png">
 </div>
 
-> We also enjoy visceral experiences of various sorts--these are often challenges to ourselves.
+> We also enjoy visceral experiences of various sorts -- these are often challenges to ourselves.
 > 
 > 我们还喜欢各种内在体验——这些体验往往是对自己的挑战。
 > 
@@ -317,7 +317,7 @@ Delight, unfortunately, doesn't last. It's like the smile from a beautiful stran
 
 You can regain delight by staying away from the object that caused it previously, then returning. You'll get that recognition again. But it's not quite what I would call fun. It's something else—our brains rewarding us for having learned well. It is the epilogue to the story. The story itself is the fun of learning.
 
-你可以通过远离之前引起愉悦的对象，然后再回来，重新获得愉悦。你会再次获得这种认可。但这并不是我所说的乐趣。它是另一种东西--我们的大脑在奖励我们学得好。这是故事的尾声。故事本身才是学习的乐趣所在。
+你可以通过远离之前引起愉悦的对象，然后再回来，重新获得愉悦。你会再次获得这种认可。但这并不是我所说的乐趣。它是另一种东西——我们的大脑在奖励我们学得好。这是故事的尾声。故事本身才是学习的乐趣所在。
 
 <div align="center">
 <img src="images/5.8.png">
