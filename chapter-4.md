@@ -1,5 +1,9 @@
 # Chapter 4 What Games Teach Us? 第四章 游戏教会了我们什么？
 
+<div align="center">
+<img src="images/4.0.png">
+</div>
+
 Formal training isn't really required to become a game designer. Most of the game designers working professionally today are self-taught. That is changing rapidly as [university programs for game designers](#user-content-fn-1)[^1] crop up all around the country and the world.
 
 要成为一名游戏设计师，其实并不需要正规的培训。如今，大多数专业从事游戏设计工作的设计师都是自学成才的。这种情况正在迅速改变，因为全国乃至全世界的[游戏设计师大学课程](#user-content-fn-2)[^2]层出不穷。

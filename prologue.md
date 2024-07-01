@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/prologue.png"/>
+  <img src="images/p-0.png"/>
 </p>
 
 My grandfather wanted to know whether I felt proud of what I do. It seemed a reasonable question: there he was, aging and soon to pass away, though at the time I didn't know that; a man who had spent his life as a fire chief, raising six children. One of them followed in his footsteps, became a fire chief himself, and now sells bathtub linings. There's a special education teacher, an architect, a carpenter. Good, solid, wholesome professions for good, solid, wholesome people. And there I was—making games rather than contributing to society.
@@ -19,7 +19,7 @@ My kids were leading me, without my quite knowing it, towards a theory of fun. A
 我的孩子们在不知不觉中把我引向了趣味理论。于是我对祖父说：“是的，这是一件有价值的事情。我连接人们，我教导人们。”但当我说出来的时候，我并没有任何证据。
 
 <p align="center">
-  <img src="images/1.png"/>
+  <img src="images/p-1.png"/>
 </p>
 
 > My kids are learning tic-tac-toe these days.

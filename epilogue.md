@@ -1,5 +1,9 @@
 # Epilogue Fun Matters, Grandpa 后记 快乐很重要，祖父
 
+<p align="center">
+  <img src="images/e-0.png"/>
+</p>
+
 It's been a long journey for me, and I don't doubt that as my kids continue to grow, it will seem even longer.
 
 对我来说，这是一段漫长的旅程，我毫不怀疑，随着孩子们的不断成长，这段旅程会显得更加漫长。

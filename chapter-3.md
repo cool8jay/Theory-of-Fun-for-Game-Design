@@ -1,5 +1,9 @@
 # Chapter 3 What Games Are? 第三章 游戏是什么？
 
+<div align="center">
+<img src="images/3.0.png">
+</div>
+
 Which brings us, finally, to games.
 
 这最终把我们引向游戏。
