@@ -260,9 +260,9 @@ The second level of the brain is really slow. It's integrative, associative, and
 >
 > 需要帮助
 
-The last kind of thinking is not thinking. When you stick your finger in fire, you snatch it back before your brain has time to think about it (seriously, it's been [measured](#user-content-fn-49)[^49]).
+The last kind of thinking is not thinking. When you stick your finger in fire, you snatch it back _before_ your brain has time to think about it (seriously, it's been [measured](#user-content-fn-49)[^49]).
 
-最后一种思考不是思考。当你把手指伸进火里时，你会在大脑来不及思考之前就把它收回来（说真的，有人[测过](#user-content-fn-50)[^50]）。
+最后一种思考不是思考。当你把手指伸进火里时，你会在大脑来不及思考 _之前_ 就把它收回来（说真的，有人[测过](#user-content-fn-50)[^50]）。
 
 Calling this "muscle memory" is a lie. Muscles don't really have memory. They're just big ol' springs that coil and uncoil when you run electrical current through them. It's really all about nerves. There's a very large part of your body that works based on the _autonomic nervous system_, which is a fancy way of saying that it makes its own decisions. Some of it is stuff you can learn to bring under more conscious control, like your heart rate. Some of it is reflexes, like snatching your fingers out of the fire. And some of it is stuff you train your body to do.
 
@@ -300,17 +300,17 @@ My wife gave me a mandolin for my birthday one year. Mandolins have a different 
 
 有一年我过生日，妻子送了我一把曼陀林。曼陀林的音阶与吉他不同，它的调音方式像小提琴。品之间的距离更近。和弦也不一样。有一些技巧在吉他上是用不到的。音符的延音较少。音乐词汇也不同。然而，要获得基本能力并不难。
 
-The reason isn't just muscle memory; that just accounts for some of my ability to move my fingers quickly along the fingerboard, but not all. For example, the distances I move my fingers are very different and the places I move them to are different, too. What is really going on is that because I have been playing guitar for over two decades, I have grokked enough about stringed instruments to create a library of chunked knowledge to apply. When I was playing the guitar all those years, I was also working on more obscure stuff, [deepening my knowledge](#user-content-fn-53)[^53] of the intervals between notes, mastering rhythm, and understanding harmonic progression.
+The reason isn't just muscle memory; that just accounts for _some_ of my ability to move my fingers quickly along the fingerboard, but not all. For example, the distances I move my fingers are very different and the places I move them to are different, too. What is really going on is that because I have been playing guitar for over two decades, I have grokked enough about stringed instruments to create a library of chunked knowledge to apply. When I was playing the guitar all those years, I was also working on more obscure stuff, [deepening my knowledge](#user-content-fn-53)[^53] of the intervals between notes, mastering rhythm, and understanding harmonic progression.
 
-原因不仅仅是肌肉记忆；肌肉记忆只是我手指在指板上快速移动的部分能力，但不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年了，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多晦涩难懂的东西，加深对音符之间的音程、节奏的掌握以及和声进程的[理解](#user-content-fn-54)[^54]。
+原因不仅仅是肌肉记忆；肌肉记忆只是我手指在指板上快速移动的 _部分_ 能力，但不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年了，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多晦涩难懂的东西，加深对音符之间的音程、节奏的掌握以及和声进程的[理解](#user-content-fn-54)[^54]。
 
-Building up this library is what we call "[practice](#user-content-fn-55)[^55]." Studies have shown that you don't even have to do it physically. You can just think about doing it and it'll get you much of the way there. This is strong evidence that [the brain is doing the work, not the muscles](#user-content-fn-56)[^56].
+Building up this library is what we call "[practice](#user-content-fn-55)[^55]." Studies have shown that you don't even have to do it physically. You can just _think_ about doing it and it'll get you much of the way there. This is strong evidence that [the brain is doing the work, not the muscles](#user-content-fn-56)[^56].
 
-建立这个库就是我们所说的“[练习](#user-content-fn-57)[^57]”。研究表明，你甚至不必身体力行。你只需想着去做，就能在很大程度上达到目的。这有力地证明了[大脑在做功，而不是肌肉](#user-content-fn-58)[^58]。
+建立这个库就是我们所说的“[练习](#user-content-fn-57)[^57]”。研究表明，你甚至不必身体力行。你只需 _想着_ 去做，就能在很大程度上达到目的。这有力地证明了[大脑在做功，而不是肌肉](#user-content-fn-58)[^58]。
 
-When our brain is really into practicing something, we'll dream about it. This is the intuitive part of the brain burning neural pathways into our brain, working on turning newly grasped patterns into something that fits within the context of everything else we know. The ultimate goal is to turn it into a routine. Frankly, my impression is that the brain doesn't particularly want to have to deal with it again.
+When our brain is _really_ into practicing something, we'll dream about it. This is the intuitive part of the brain burning neural pathways into our brain, working on turning newly grasped patterns into something that fits within the context of everything else we know. The ultimate goal is to turn it into a routine. Frankly, my impression is that the brain doesn't particularly want to have to deal with it again.
 
-当我们的大脑真正投入到练习某件事时，我们会梦见它。这是大脑的直觉部分在我们的大脑中燃烧神经通路，努力将新掌握的模式转变为能融入我们已知的一切知识体系的东西。最终目标是将它变成一种常规。坦白说，我的感觉是，大脑并不特别想再次处理这个事。
+当我们的大脑 _真正_ 投入到练习某件事时，我们会梦见它。这是大脑的直觉部分在我们的大脑中燃烧神经通路，努力将新掌握的模式转变为能融入我们已知的一切知识体系的东西。最终目标是将它变成一种常规。坦白说，我的感觉是，大脑并不特别想再次处理这个事。
 
 <div align="center">
 <img src="images/2.11.png">

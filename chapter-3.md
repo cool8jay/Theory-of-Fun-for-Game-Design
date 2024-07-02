@@ -37,9 +37,9 @@ Games are something special and unique. They are concentrated chunks ready for o
 
 游戏是一种特殊而独特的东西。它们是可供我们大脑咀嚼的浓缩块。由于它们是抽象的、标志性的，因此很容易被吸收。由于它们是形式系统，因此舍弃了分散注意力的额外细节。通常情况下，我们的大脑需要做艰苦的工作，才能把杂乱无章的现实变成像游戏一样清晰的东西。
 
-In other words, games serve as very fundamental and powerful learning tools. It's one thing to read in a book that "[the map is not the territory](#user-content-fn-3)[^3]" and another to have your armies rolled over by your opponent in a game. When the latter happens because your map didn't adequately reflect what was going on, you're gonna get the point even if the actual armies aren't marching into your suburban home.
+In other words, games serve as very fundamental and powerful learning tools. It's one thing to read in a book that "[the map is not the territory](#user-content-fn-3)[^3]" and another to have your armies rolled over by your opponent in a game. When the latter happens because your map didn't adequately reflect what was going on, you're _gonna get the point_ even if the actual armies aren't marching into your suburban home.
 
-换句话说，游戏是非常基本和强大的学习工具。在书中读到“[地图不是领土](#user-content-fn-4)[^4]”是一回事，而在游戏中你的军队被对手辗过又是另一回事。当后者发生时，是因为你的地图没有充分反映当时的情况，即使真正的军队没有开进你郊区的家，你也会明白这一点。
+换句话说，游戏是非常基本和强大的学习工具。在书中读到“[地图不是领土](#user-content-fn-4)[^4]”是一回事，而在游戏中你的军队被对手辗过又是另一回事。当后者发生时，是因为你的地图没有充分反映当时的情况，即使真正的军队没有开进你郊区的家，你也会 _明白这一点_。
 
 The distinctions between toys and games, or between play and sport, start to seem a bit picky and irrelevant when you look at them in this light. There's been a lot of hay made over how play is non-goal-oriented and games tend to have goals; over how toys are aimed at pointless play rather than being games; about how make-believe is a form of play and not a game.
 
