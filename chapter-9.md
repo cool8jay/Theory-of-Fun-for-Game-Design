@@ -12,17 +12,17 @@ On the facing pages, I've filled out a few grids with different human endeavors.
 
 在对面的页面上，我用不同的人类活动填写了一些格子。这可能会让你在哲学上产生误解。请耐心听我说——这个世界上有两种人，一种人把每个人都分成两种人的人，另一种则不是。
 
-Any given activity can be performed either by yourself or with others. If you are doing it with others, you can be working either with or against each other. I call these three approaches collaborative, competitive, and solo.
+Any given activity can be performed either by yourself or with others. If you are doing it with others, you can be working either with or against each other. I call these three approaches *collaborative*, *competitive*, and *solo*.
 
-任何一项活动都可以自己进行，也可以与他人一起进行。如果是与他人一起进行，你们可以相互合作，也可以相互对抗。我把这三种方式称为合作式、竞争式和单干式。
+任何一项活动都可以自己进行，也可以与他人一起进行。如果是与他人一起进行，你们可以相互合作，也可以相互对抗。我把这三种方式称为*合作式*、*竞争式*和*单干式*。
 
-Down the side of our grid, I've made a subtler distinction. Are you a passive consumer of this activity (to the degree the activity permits)? An audience member? If you are someone who doesn't work on the activity, but instead lets the work of others wash over you, we'll call you interested in the experiential side of the activity—you want the experience.
+Down the side of our grid, I've made a subtler distinction. Are you a passive consumer of this activity (to the degree the activity permits)? An audience member? If you are someone who doesn't work on the activity, but instead lets the work of others wash over you, we'll call you interested in the *experiential* side of the activity—you want the experience.
 
-在网格的下方，我做了更细微的区分。你是这项活动的被动消费者（在活动允许的范围内）？还是观众？如果你不参与活动，而是任由他人的工作影响你，我们就称你对活动的体验方面感兴趣——你想要这种体验。
+在网格的下方，我做了更细微的区分。你是这项活动的被动消费者（在活动允许的范围内）？还是观众？如果你不参与活动，而是任由他人的工作影响你，我们就称你对活动的*体验*方面感兴趣——你想要这种体验。
 
-Are you actually creating the experience? Then you are engaging in a constructive activity. Maybe instead, you are taking the experience apart, to see how it works. I used to label this destructive, but it's not really; often the original is left behind, intact though somewhat bruised and battered. So perhaps deconstructive is a better term.
+Are you actually creating the experience? Then you are engaging in a *constructive* activity. Maybe instead, you are taking the experience apart, to see how it works. I used to label this destructive, but it's not really; often the original is left behind, intact though somewhat bruised and battered. So perhaps *deconstructive* is a better term.
 
-你真的在创造体验吗？那你就是在从事建设性的活动。也许相反，你是在拆解体验，看看它是如何运作的。我曾经给这种做法贴上破坏性的标签，但其实并非如此；通常情况下，原来的东西会被留下来，虽然有些伤痕累累，但却完好无损。因此，“解构”也许是一个更好的说法。
+你真的在创造体验吗？那你就是在从事*建设性*的活动。也许相反，你是在拆解体验，看看它是如何运作的。我曾经给这种做法贴上破坏性的标签，但其实并非如此；通常情况下，原来的东西会被留下来，虽然有些伤痕累累，但却完好无损。因此，*解构*也许是一个更好的说法。
 
 <div align="center">
 <img src="images/9.1.png">
@@ -71,13 +71,13 @@ Are you actually creating the experience? Then you are engaging in a constructiv
 > 
 > 当然，分析游戏只是玩游戏的另一种方式，是找出其中的规律。
 
-My second grid shows how we can analyze music. When I look at the chart for music, what I see is a constellation of music-based entertainment. If I made a similar chart for books, it would cover prose-based entertainment. Basically, this chart can be applied to any medium.
+My second grid shows how we can analyze music. When I look at the chart for music, what I see is a constellation of music-based entertainment. If I made a similar chart for books, it would cover prose-based entertainment. Basically, this chart can be applied to any *medium*.
 
-第二个网格展示了我们如何分析音乐。当我查看音乐图表时，我看到的是一群基于音乐的娱乐活动。如果我为书籍制作一个类似的图表，它将涵盖散文类娱乐。基本上，这个图表可以适用于任何媒介。
+第二个网格展示了我们如何分析音乐。当我查看音乐图表时，我看到的是一群基于音乐的娱乐活动。如果我为书籍制作一个类似的图表，它将涵盖散文类娱乐。基本上，这个图表可以适用于任何*媒介*。
 
-"Game" is a very fuzzy word. A few times in this book I have mentioned game systems as being distinct from games, or as the core element that makes something a game (in some senses). But "game systems" are not a medium. They are, depending on the definition, one use of a medium. The medium is really an unwieldy phrase like "formal abstract models for teaching patterns." I have taken to calling these "[ludic artifacts](#user-content-fn-1)[^1]" to distinguish them from the fuzziness of "game." Even though ludic artifacts—like fire drills or CIA model war games of the future of the Middle East—may not necessarily be fun, they still belong on the chart. The fact that they are not fun has more to do with their implementation than with their intrinsic nature.
+"Game" is a very fuzzy word. A few times in this book I have mentioned game systems as being distinct from games, or as the core element that makes something a game (in some senses). But "game systems" are not a medium. They are, depending on the definition, one *use* of a medium. The medium is really an unwieldy phrase like "formal abstract models for teaching patterns." I have taken to calling these "[ludic artifacts](#user-content-fn-1)[^1]" to distinguish them from the fuzziness of "game." Even though ludic artifacts—like fire drills or CIA model war games of the future of the Middle East—may not necessarily be fun, they still belong on the chart. The fact that they are not fun has more to do with their implementation than with their intrinsic nature.
 
-“游戏”是一个非常模糊的词。在本书中，我曾多次提到游戏系统有别于游戏，或者游戏系统是游戏的核心要素（在某些意义上）。但 “游戏系统”并不是一种媒介。根据不同的定义，它们只是媒介的一种用途。媒介实际上是一个难以理解的短语，比如“教学模式的形式抽象模型”。我习惯于称这些为“[游戏机制](#user-content-fn-2)[^2]”，以区别于“游戏”的模糊性。尽管游戏机制——如消防演习或中情局关于中东未来的战争游戏模型——不一定有趣，但它们仍然属于图表。它们之所以不好玩，与其说与它们的内在本质有关，不如说与它们的实施方式有关。
+“游戏”是一个非常模糊的词。在本书中，我曾多次提到游戏系统有别于游戏，或者游戏系统是游戏的核心要素（在某些意义上）。但 “游戏系统”并不是一种媒介。根据不同的定义，它们只是媒介的一种*用途*。媒介实际上是一个难以理解的短语，比如“教学模式的形式抽象模型”。我习惯于称这些为“[游戏机制](#user-content-fn-2)[^2]”，以区别于“游戏”的模糊性。尽管游戏机制——如消防演习或中情局关于中东未来的战争游戏模型——不一定有趣，但它们仍然属于图表。它们之所以不好玩，与其说与它们的内在本质有关，不如说与它们的实施方式有关。
 
 Interaction happens with all media (at a minimum, we interact by engaging with the work). Actively and constructively interacting with stage-based media is termed "acting" and interacting with prose-based media is termed "writing." There's been a lot of discussion in professional video game design circles about "the surrender of authorship" inherent in adding greater flexibility to games and in the ["mod" community](#user-content-fn-3)[^3]. I think the key insight here is that players are simply "interacting with the medium" in a way that isn't purely experiential.
 
@@ -142,9 +142,9 @@ The chills that go down your back are not always indicative of something that yo
 
 背脊发凉并不总是你觉得愉快的事情。悲剧或极度悲伤的时刻也会引起它们。当你发现一个规律的时候，你的身体就会给你寒意作为信号。就像写作并不一定有趣，但对写作者来说可能是有价值的事情，或者连续几个小时的钢琴练习可能并不有趣，但却能给人带来成就感一样，参与游戏互动也不一定有趣，但确实可能是充实的、发人深省的、具有挑战性的，也可能是困难的、痛苦的，甚至是强迫性的。
 
-In other words, games can take forms we don't recognize. They might not be limited to being "a game" or even a "[software toy](#user-content-fn-9)[^9]." The definition of "game" implies certain things, as do the words "toy," "sport," and "hobby." The layman's definition of "game" covers only some of the boxes in the grid. Arguably, all of the boxes in the grid are fun to someone. We need to start thinking of games a little more broadly. Otherwise, we will be missing out on large chunks of their potential as a medium.
+In other words, games can take forms we don't recognize. They might not be limited to being "a game" or even a "[software toy](#user-content-fn-9)[^9]." The definition of "game" implies certain things, as do the words "toy," "sport," and "hobby." The layman's definition of "game" covers only some of the boxes in the grid. Arguably, all of the boxes in the grid are fun to *someone*. We need to start thinking of games a little more broadly. Otherwise, we will be missing out on large chunks of their potential as a medium.
 
-换句话说，游戏可以有我们不认识的形式。它们可能并不局限于“游戏”，甚至是“[软件玩具](#user-content-fn-10)[^10]”。与“玩具”、“运动”和“爱好”等词一样，“游戏”的定义也暗示着某些东西。外行人对 “游戏”的定义只包括网格中的部分方框。可以说，网格中的所有方格对某些人来说都是有趣的。我们需要从更广阔的角度来看待游戏。否则，我们就会错过游戏作为一种媒介所具有的巨大潜力。
+换句话说，游戏可以有我们不认识的形式。它们可能并不局限于“游戏”，甚至是“[软件玩具](#user-content-fn-10)[^10]”。与“玩具”、“运动”和“爱好”等词一样，“游戏”的定义也暗示着某些东西。外行人对 “游戏”的定义只包括网格中的部分方框。可以说，网格中的所有方框对*某些人*来说都是有趣的。我们需要从更广阔的角度来看待游戏。否则，我们就会错过游戏作为一种媒介所具有的巨大潜力。
 
 The reason why the rise of critique and academia surrounding games is important is that it finally adds the missing element to put games in context with the rest of human endeavor. It signals their arrival as a medium. Considering how long they have been around, they're a little late to the party.
 
@@ -217,9 +217,9 @@ Some apologists for games like to tout the fact that games are interactive as a 
 
 一些为游戏辩护的人喜欢把游戏具有互动性这一事实作为游戏特别的标志。还有人喜欢说，互动性正是游戏不能成为艺术的原因，因为艺术依赖于作者的意图和控制。这两种观点都是胡说八道。[每一种媒介都是互动的](#user-content-fn-12)[^12]——去网格上看看就知道了。
 
-So what is art? My take on it is simple. Media provide information. Entertainment provides comforting, simplistic information. And art provides challenging information, stuff that you have to think about in order to absorb. Art uses a particular medium to communicate within the constraints of that medium, and often what is communicated is thoughts about the medium itself (in other words, a formalist approach to arts—much modern art falls in this category).
+So what is art? My take on it is simple. Media provide information. Entertainment provides comforting, simplistic information. And art provides challenging information, stuff that you have to think about in order to absorb. Art uses a particular medium to communicate within the constraints of that medium, and often what is communicated is thoughts *about* the medium itself (in other words, a formalist approach to arts—much modern art falls in this category).
 
-那么什么是艺术呢？我的看法很简单。媒介提供信息。娱乐提供的是令人欣慰的、简单化的信息。而艺术提供的是具有挑战性的信息，是你必须思考才能吸收的东西。艺术使用一种特定的媒介，在该媒介的限制下进行交流，交流的内容往往是对媒介本身的思考（换句话说，艺术的形式主义方法——很多现代艺术都属于这一类）。
+那么什么是艺术呢？我的看法很简单。媒介提供信息。娱乐提供的是令人欣慰的、简单化的信息。而艺术提供的是具有挑战性的信息，是你必须思考才能吸收的东西。艺术使用一种特定的媒介，在该媒介的限制下进行交流，交流的内容往往是**关于**媒介本身的思考（换句话说，艺术的形式主义方法——很多现代艺术都属于这一类）。
 
 The medium shapes the nature of the message, of course, but the message can be representational, impressionistic, narrative, emotional, intellectual, or whatever else. Some art works are solo creations, and some are collaborative (and they can all be made collaborative to an extent, I believe). And some media are actually the result of the collaboration of specialists in many different media, working together to present a work that is incomplete without the use of multiple media within it. Film is one such medium. And games are another.
 
@@ -386,9 +386,9 @@ The fact that playing games—good ones, anyway—is fundamentally a creative ac
 
 无论如何，玩游戏——至少是好的游戏——本质上是一种创造性行为，这一点对游戏媒介来说非常有利。最好的游戏不是规定性的。它们要求用户根据手头的工具做出反应。与画作相比，游戏更容易引发玩家的响应。
 
-No other artistic medium is defined around a single intended effect on the user, such as "fun." They all embrace a wider array of emotional impact. Now, we may be running into definitional questions for the word "fun" here, obviously, but even so, I'd prefer to approach things from a more [formalist](#user-content-fn-19)[^19] perspective to actually arrive at what the basic building blocks of the medium are. From a formalist point of view, music can be considered ordered sound and silence, poetry can be considered the placement of words and gaps between words, and so on.
+No other artistic medium is defined around a single intended *effect* on the user, such as "fun." They all embrace a wider array of emotional impact. Now, we may be running into definitional questions for the word "fun" here, obviously, but even so, I'd prefer to approach things from a more [formalist](#user-content-fn-19)[^19] perspective to actually arrive at what the basic building blocks of the medium are. From a formalist point of view, music can be considered ordered sound and silence, poetry can be considered the placement of words and gaps between words, and so on.
 
-没有任何一种艺术媒介是围绕对用户的单一预期效果（如“乐趣”）来定义的。它们都包含更广泛的情感影响。现在，我们可能会遇到 “趣味”一词的定义问题，但即便如此，我还是倾向于从[形式主义](#user-content-fn-20)[^20]的角度来看待问题，以真正了解艺术媒介的基本构成要素是什么。从形式主义的角度来看，音乐可以被视为有序的声音和寂静，诗歌可以被视为词语的位置和词语之间的间隙，等等。
+没有任何一种艺术媒介是围绕对用户的单一预期*效果*（如“乐趣”）来定义的。它们都包含更广泛的情感影响。现在，我们可能会遇到 “趣味”一词的定义问题，但即便如此，我还是倾向于从[形式主义](#user-content-fn-20)[^20]的角度来看待问题，以真正了解艺术媒介的基本构成要素是什么。从形式主义的角度来看，音乐可以被视为有序的声音和寂静，诗歌可以被视为词语的位置和词语之间的间隙，等等。
 
 The closer we get to understanding the basic building blocks of games—the things that players and creators alike manipulate in interacting with the medium—the more likely we are to achieve the heights of art.
 
@@ -418,9 +418,9 @@ And yet, even the shape of the sound can be put in context. Let's digress and co
 
 然而，即使是声音的形状也可以放在一定情境下。让我们暂时说点题外话，考虑一下其他媒介……
 
-[Impressionist](#user-content-fn-25)[^25] painting is about a more distanced form of seeing, of mimesis. Modern image processing tools describe the formal process used by Impressionist painters (and indeed many of the later processes such as [posterization](#user-content-fn-26)[^26]) as filters. Impressionist paintings are depictions not of an object or a scene, but of the play of light on an object or scene. An Impressionist painting still conforms to all previously established rules of composition—color weight, balance, vanishing point, center of gravity, eye center, and so on—while essentially avoiding painting the object or scene itself, which ends up being absent from the finished work.
+[Impressionist](#user-content-fn-25)[^25] painting is about a more distanced form of seeing, of mimesis. Modern image processing tools describe the formal process used by Impressionist painters (and indeed many of the later processes such as [posterization](#user-content-fn-26)[^26]) as *filters*. Impressionist paintings are depictions not of an object or a scene, but of the *play of light* on an object or scene. An Impressionist painting still conforms to all previously established rules of composition—color weight, balance, vanishing point, center of gravity, eye center, and so on—while essentially avoiding painting the object or scene itself, which ends up being absent from the finished work.
 
-[印象派](#user-content-fn-27)[^27]绘画是一种距离更远的观看和模仿。现代图像处理工具将印象派画家使用的形式过程（以及后来的许多过程，如[分色](#user-content-fn-28)[^28]）描述为滤镜。印象派绘画描绘的不是物体或场景，而是光线在物体或场景上的作用。印象派画作仍然符合所有以前确立的构图规则——色彩权重、平衡、消失点、重心、视觉中心等——同时基本上避免描绘物体或场景本身，因为最终完成的作品中是没有物体或场景的。
+[印象派](#user-content-fn-27)[^27]绘画是一种距离更远的观看和模仿。现代图像处理工具将印象派画家使用的形式过程（以及后来的许多过程，如[分色](#user-content-fn-28)[^28]）描述为*滤镜*。印象派绘画描绘的不是物体或场景，而是*光线在物体或场景上的作用*。印象派画作仍然符合所有以前确立的构图规则——色彩权重、平衡、消失点、重心、视觉中心等——同时基本上避免描绘物体或场景本身，因为最终完成的作品中是没有物体或场景的。
 
 Impressionist music was based primarily on repetition; it went on to influence minimalist styles ranging from Philip Glass to electronica. Impressionist music is essentially that of [Debussy](#user-content-fn-29)[^29]: intensely varied in orchestration, extremely complex, particularly in its chromatic harmonies, and very repetitive melodically. [Ravel](#user-content-fn-30)[^30]'s work as an orchestrator is perhaps the epitome of the Impressionistic style: his "Bolero" consists of the same passage played over and over, identical harmonically and melodically; it has merely been orchestrated differently at each repetition, and the dynamics are different. The sense of crescendo throughout the piece is achieved precisely though this repetition.
 
@@ -434,9 +434,9 @@ Impressionist music was based primarily on repetition; it went on to influence m
 > 
 > 或者作曲。
 
-And of course, there was "Impressionist" writing. [Virginia Woolf](#user-content-fn-33)[^33], [Gertrude Stein](#user-content-fn-34)[^34], and many other writers worked with the idea that characters are unknowable. Books like Jacob's Room and The Autobiography of Alice B. Toklas play with the established notions of self and work towards a realization that other people are essentially unknowable. However, they also propose an alternate notion of knowability: that of "negative space," whereby a form is understood and its nature grasped by observing the perturbations around it. The term is from the world of pictorial art, which provides many useful insights when discussing the problem of representation of reality.
+And of course, there was "Impressionist" writing. [Virginia Woolf](#user-content-fn-33)[^33], [Gertrude Stein](#user-content-fn-34)[^34], and many other writers worked with the idea that characters are unknowable. Books like *Jacob's Room* and *The Autobiography of Alice B. Toklas* play with the established notions of self and work towards a realization that other people are essentially unknowable. However, they also propose an alternate notion of knowability: that of "negative space," whereby a form is understood and its nature grasped by observing the perturbations around it. The term is from the world of pictorial art, which provides many useful insights when discussing the problem of representation of reality.
 
-当然，还有“印象派”写作。[弗吉尼亚·伍尔夫](#user-content-fn-35)[^35]、[格特鲁德·斯坦因](#user-content-fn-36)[^36]和其他许多作家都曾提出过“人物是不可知的”这个观点。《雅各布的房间》和《爱丽丝·B·托克拉斯自传》等书玩弄了既定的自我概念，并努力让人们认识到其他人本质上是不可知的。然而，它们也提出了可知性的一个替代概念："负空间"，即通过观察周围的扰动变化来理解一种形式并把握其本质。这个术语来自绘画艺术世界，在讨论现实的再现问题时提供了许多有用的见解。
+当然，还有“印象派”写作。[弗吉尼亚·伍尔夫](#user-content-fn-35)[^35]、[格特鲁德·斯坦因](#user-content-fn-36)[^36]和其他许多作家都曾提出过“人物是不可知的”这个观点。*《雅各布的房间》* 和 *《爱丽丝·B·托克拉斯自传》* 等书玩弄了既定的自我概念，并努力让人们认识到其他人本质上是不可知的。然而，它们也提出了可知性的一个替代概念："负空间"，即通过观察周围的扰动变化来理解一种形式并把握其本质。这个术语来自绘画艺术世界，在讨论现实的再现问题时提供了许多有用的见解。
 
 All of these are organized around the same principles: negative space, embellishing the space around a central theme, and observing perturbations and reflections. There was a [zeitgeist](#user-content-fn-37)[^37] at that time; these approaches were "in the air," but there was also conscious borrowing from art form to art form. This occurred in large part because no art form stands alone; they bleed into one another.
 
