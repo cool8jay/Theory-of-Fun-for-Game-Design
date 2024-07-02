@@ -8,12 +8,12 @@ The holy grail of game system design is to make a game where the challenges are 
 
 游戏系统设计的圣杯是制作一款挑战永无止境、所需技能多种多样、难度曲线完美且能根据我们的技能水平自动调整的游戏。不过已经有人做到了，但并不总是有趣的。这就是“生活”。也许你已经玩过了。
 
-Designers often feel proudest of designing good abstract systems that have deep self-generating challenges—games like chess, [go](#user-content-fn-1)[^1], and Othello, and so on. Designing rule sets and making all the content is hard! That hasn't stopped us from trying all sorts of tactics to make games self-refreshing:
+Designers often feel proudest of designing good abstract systems that have deep self-generating challenges—games like chess, [go](#user-content-fn-1)[^1], and *Othello*, and so on. Designing rule sets and making all the content is hard! That hasn't stopped us from trying all sorts of tactics to make games self-refreshing:
 
-设计者通常最引以为豪的是设计出优秀的抽象系统，这些系统具有深刻的自我挑战性——比如国际象棋、[围棋](#user-content-fn-2)[^2]、和黑白棋等等。设计规则集和制作所有内容都很难！但这并不妨碍我们尝试各种策略，让游戏自我刷新：
+设计者通常最引以为豪的是设计出优秀的抽象系统，这些系统具有深刻的自我挑战性——比如国际象棋、[围棋](#user-content-fn-2)[^2]、和*黑白棋*等等。设计规则集和制作所有内容都很难！但这并不妨碍我们尝试各种策略，让游戏自我刷新：
 
-* **"[Emergent behavior](#user-content-fn-3)[^3]"** is a common buzzword. The goal is new patterns that emerge spontaneously out of the rules, allowing the player to do things that the designer did not foresee. (Players do things designers don't expect all the time, but we don't like to talk about it.) Emergence has proven a tough nut to crack in game design; it usually makes games easier, often by generating loopholes and exploits.\
-	**“[涌现行为](#user-content-fn-4)[^4]”** 是一个常用的流行语。目标是从规则中自发产生新的模式，允许玩家做出设计者没有预料到的事情。(玩家经常会做出设计者意想不到的事情，但我们不喜欢谈论它）。事实证明，在游戏设计中，“涌现”是一个难以破解的难题；它通常会让游戏变得更简单，往往是通过产生漏洞和钻空子的方式。
+* **"[Emergent behavior](#user-content-fn-3)[^3]"** is a common buzzword. The goal is new patterns that emerge spontaneously out of the rules, allowing the player to do things that the designer did not foresee. (Players do things designers don't expect *all the time*, but we don't like to talk about it.) Emergence has proven a tough nut to crack in game design; it usually makes games easier, often by generating loopholes and exploits.\
+	**“[涌现行为](#user-content-fn-4)[^4]”** 是一个常用的流行语。目标是从规则中自发产生新的模式，允许玩家做出设计者没有预料到的事情。(玩家*经常*会做出设计者意想不到的事情，但我们不喜欢谈论它）。事实证明，在游戏设计中，“涌现”是一个难以破解的难题；它通常会让游戏变得更简单，往往是通过产生漏洞和钻空子的方式。
 
 * **We also hear a lot about storytelling.** It's easier to construct a story with multiple possible interpretations than it is to construct a game with the same characteristics. However, most games melded with stories tend to be Frankenstein monsters. Players tend to either skip the story or skip the game. Balancing the two so that they reinforce each other is hard, and often either the story or the game ends up too shallow for repeated play.\
 	**我们还经常听到讲故事的说法。** 构建一个有多种可能诠释的故事比构建一个具有相同特点的游戏要容易得多。然而，大多数与故事相融合的游戏往往是科学怪人。玩家往往要么跳过故事，要么跳过游戏。要在两者之间取得平衡，使其相互促进是很难的，而且往往不是故事太浅就是游戏太浅，无法让玩家反复玩。
@@ -104,13 +104,13 @@ And yet, [people choose the same characters to play, over and over](#user-conten
 
 然而，[人们却一次又一次地选择相同的角色进行游戏](#user-content-fn-8)[^8]。我有一个朋友，在我认识他的十几年里，他在几十款游戏中扮演的都是沉默寡言的大块头。他从来没有扮演过一个活泼的小姑娘。
 
-Different games appeal to different personality types, and not just because particular problems appeal to certain brain types. It's also because particular solutions appeal to particular brain types, and when we've got a good thing going, we're not likely to change it. This is not a recipe for long-term success in a world that is constantly changing around us. Adaptability is key to survival.
+Different games appeal to different personality types, and not just because particular problems appeal to certain brain types. It's also because particular *solutions* appeal to particular brain types, and when we've got a good thing going, we're not likely to change it. This is not a recipe for long-term success in a world that is constantly changing around us. Adaptability is key to survival.
 
-不同的游戏会吸引不同性格类型的人，这不仅仅是因为特定的问题会吸引特定类型的大脑。这还因为特定的解决方案对特定的大脑类型有吸引力，而当我们有了一个好东西，我们就不可能去改变它。在我们周围不断变化的世界中，这不是长期成功的秘诀。适应能力是生存的关键。
+不同的游戏会吸引不同性格类型的人，这不仅仅是因为特定的问题会吸引特定类型的大脑。这还因为特定的*解决方案*对特定的大脑类型有吸引力，而当我们有了一个好东西，我们就不可能去改变它。在我们周围不断变化的世界中，这不是长期成功的秘诀。适应能力是生存的关键。
 
-Much is made of [cross-gender role-play](#user-content-fn-9)[^9] in online settings. When you look at it in this light, it's clearly because a given gender presentation is a solution choice—a tool the player is using to solve problems presented by the online game setting. It might be because the gender presentation is a good way to meet like-minded people. Males choosing female avatars may be signaling something about their preference for the company of other empathizing brains, for example. It might also be because they are simply leveraging the statistical fact that male players tend to give gifts to female ones to curry favor.
+Much is made of [cross-gender role-play](#user-content-fn-9)[^9] in online settings. When you look at it in this light, it's clearly because a given gender presentation is a *solution choice*—a tool the player is using to solve problems presented by the online game setting. It might be because the gender presentation is a good way to meet like-minded people. Males choosing female avatars may be signaling something about their preference for the company of other empathizing brains, for example. It might also be because they are simply leveraging the statistical fact that male players tend to give gifts to female ones to curry favor.
 
-[跨性别角色扮演](#user-content-fn-10)[^10]在网络游戏中大行其道。从这个角度来看，这显然是因为特定的性别表现形式是一种解决方案的选择——玩家用来解决网络游戏环境中出现的问题的工具。也可能是因为性别表现是结识志同道合者的好方法。例如，男性选择女性化身可能表明他们更喜欢与其他具有同理心的大脑为伴。也可能是因为他们只是在利用男性玩家倾向于向女性玩家赠送礼物来讨好女性玩家这一统计事实。
+[跨性别角色扮演](#user-content-fn-10)[^10]在网络游戏中大行其道。从这个角度来看，这显然是因为特定的性别表现形式是一种*解决方案的选择*——玩家用来解决网络游戏环境中出现的问题的工具。也可能是因为性别表现是结识志同道合者的好方法。例如，男性选择女性化身可能表明他们更喜欢与其他具有同理心的大脑为伴。也可能是因为他们只是在利用男性玩家倾向于向女性玩家赠送礼物来讨好女性玩家这一统计事实。
 
 Sticking to one solution is not a survival trait anymore. The world is changing very fast, and we interact with more kinds of people than ever before. The real value now lies in a wide range of experiences and in understanding a wide range of points of view. Closed-mindedness is actively dangerous to society because it leads to misapprehension. And misapprehension leads to misunderstanding, which leads to offense, which leads to violence.
 
@@ -136,9 +136,9 @@ Another case where the wiring of the human brain tends to betray us lies in the 
 
 人类大脑的另一个出卖我们的地方，就是“虚幻的掌握”这种诱人的感觉。
 
-Engaging in an activity that you have fully mastered, being in the zone, feeling the flow, can be a heady experience. And no one can deny the positive effects of meditation. That said, the point at which a player chooses to repeatedly play a game they have already mastered completely, just because they like to feel powerful, is the point at which the game is betraying its own purpose. Games need to encourage you to move on. They are not there to fulfill power fantasies.
+Engaging in an activity that you have fully mastered, being in the zone, feeling the flow, can be a heady experience. And no one can deny the positive effects of meditation. That said, the point at which a player chooses to repeatedly play a game they have already mastered completely, just because they like to feel powerful, is the point at which the game is betraying its own purpose. Games need to encourage you to *move on*. They are not there to fulfill power fantasies.
 
-参与一项你已经完全掌握的活动，进入状态，感受心流，会是一种令人陶醉的体验。没有人能否认冥想的积极作用。话虽如此，如果玩家只是因为喜欢感觉强大，而选择反复玩一款自己已经完全掌握的游戏，那么这款游戏就违背了它的初衷。游戏需要鼓励你继续前进。游戏不是为了满足你对力量的幻想。
+参与一项你已经完全掌握的活动，进入状态，感受心流，会是一种令人陶醉的体验。没有人能否认冥想的积极作用。话虽如此，如果玩家只是因为喜欢感觉强大，而选择反复玩一款自己已经完全掌握的游戏，那么这款游戏就违背了它的初衷。游戏需要鼓励你*继续前进*。游戏不是为了满足你对力量的幻想。
 
 Ah, but is it ever seductive! Because games exist within the confines of "let's pretend," they also offer a lack of consequences. They are libertine in their freedoms. They let you be a godlet. They can offer false positive feedback to keep a player playing. To the person that perhaps does not get enough sense of control in her real life, the game may offer something rather...persuasive.
 
@@ -148,9 +148,9 @@ Making you feel good about yourself in a pretend arena isn't what games are for.
 
 让你在一个虚假的竞技场上自我感觉良好并不是游戏的目的。游戏是用来提供挑战的，这样你就可以反过来将这些技巧应用到实际问题中。为了消磨时间而重新玩战胜过的挑战，并不能有效地锻炼你的大脑能力。尽管如此，还是有很多人这么做。
 
-Some choose to play for "style points," which is at least a sign that they are creating new challenges for themselves. But once you get past the point of doing something perfectly, do yourself a favor and quit the game.
+Some choose to play for "style points," which is at least a sign that they are creating new challenges for themselves. But once you get past the point of doing something perfectly, do yourself a favor and *quit the game*.
 
-有些人选择为了“风格分”而玩，这至少表明他们在为自己创造新的挑战。但是，一旦你达到了完美无缺的境界，那就帮自己一个忙，退出游戏吧。
+有些人选择为了“风格分”而玩，这至少表明他们在为自己创造新的挑战。但是，一旦你达到了完美无缺的境界，那就帮自己一个忙，*退出游戏*吧。
 
 {% hint style="info" %}
 译者注：style points，风格分，指的是某人完成任务或活动时的风格或方式所带来的额外得分或认可。例如，在某些体育比赛中，除了完成动作的基本得分外，评委可能还会因为运动员的表演风格或技巧给予额外的风格分。
@@ -228,9 +228,9 @@ There are other sorts of audience problems with games. One of them has proven fa
 
 游戏还有其他一些观众问题。其中一个问题已被证明对许多类型的游戏都是致命的：日益复杂的问题。大多数艺术形式都以钟摆的方式从[阿波罗式风格摇摆到戴奥尼索斯式风格](#user-content-fn-12)[^12]——也就是说，它们在拘谨和正式的时期与奔放、交流和原始的时期之间交替出现。从罗马式教堂到哥特式教堂，从艺术摇滚到朋克，从法兰西学院到印象派，几乎每一种媒介都有过这样的波动。
 
-Games, however, are always formal. The historical trend in games has shown that when a new genre of game is invented, it follows a [trajectory where increasing complexity](#user-content-fn-13)[^13] is added to it, until eventually the games on the market are so complex and advanced that newcomers can't get into them—the barrier to entry is too high.  You could call this the [jargon factor](#user-content-fn-14)[^14] because it is common to all formal systems. Priesthoods develop, terms enter common usage, and soon only the educated few can hack it.
+Games, however, are always formal. The historical trend in games has shown that when a new genre of game is invented, it follows a [trajectory where increasing complexity](#user-content-fn-13)[^13] is added to it, until eventually the games on the market are so complex and advanced that newcomers can't get into them—the barrier to entry is too high.  You could call this the [jargon factor](#user-content-fn-14)[^14] because it is common to *all* formal systems. Priesthoods develop, terms enter common usage, and soon only the educated few can hack it.
 
-然而，游戏始终是形式化的。游戏的历史趋势表明，当一种新的游戏类型被发明出来，它的[发展轨迹是不断增加复杂性(#user-content-fn-15)[^15]，直到最终市场上的游戏变得复杂而发达，以至于新手无法进入——进入门槛太高。你可以称其为[行话因素](#user-content-fn-16)[^16]，因为这是所有形式化系统的共同特点。神职人员出现，术语变得通用，很快，只有少数受过教育的人才能掌握它。
+然而，游戏始终是形式化的。游戏的历史趋势表明，当一种新的游戏类型被发明出来，它的[发展轨迹是不断增加复杂性(#user-content-fn-15)[^15]，直到最终市场上的游戏变得复杂而发达，以至于新手无法进入——进入门槛太高。你可以称其为[行话因素](#user-content-fn-16)[^16]，因为这是*所有*形式化系统的共同特点。神职人员出现，术语变得通用，很快，只有少数受过教育的人才能掌握它。
 
 In most media, the way out of this has been the development of a new formal principle (as well as a cultural shift). Sometimes it was a development in knowledge of the form. Sometimes it was the development of a competing medium that usurped the place of the old medium, as when photography forced painters to undergo a radical reevaluation of their art form. Games, though, aren't tending to do this all that much. By and large, we have seen an inexorable march towards greater complexity. This has led to a priesthood of those who can speak the language, master the intricacies, and keep up-to-date.
 
@@ -272,17 +272,17 @@ Basically, game designers suffer from what I call "designeritis." They are hyper
 
 基本上，游戏设计师都患有我所说的“设计师炎”。他们对游戏中的模式非常敏感。他们很容易理解这些模式，然后继续前进。他们很容易看穿虚构。他们对过去和现在的游戏建立起百科全书式的回忆，然后理论上利用这些回忆来制作新游戏。
 
-But they usually don't make new games because their very experience, their very library of assumptions, holds them back. Remember what the brain is doing with these chunks it builds—it is trying to create a generically applicable library of solutions. The more solutions you have stored up, the less likely you are to go chasing after a new one.
+But they usually *don't* make new games because their very experience, their very library of assumptions, holds them back. Remember what the brain is doing with these chunks it builds—it is trying to create a generically applicable library of solutions. The more solutions you have stored up, the less likely you are to go chasing after a new one.
 
-但他们通常做不出新游戏，因为他们的经验、他们的假设库，反而阻碍了他们。请记住，大脑是如何处理这些它构建起来的块——它正在试图创建一个通用的解决方案库。你存储的解决方案越多，你就越不可能去追求一个新的解决方案。
+但他们通常做*不*出新游戏，因为他们的经验、他们的假设库，反而阻碍了他们。请记住，大脑是如何处理这些它构建起来的块——它正在试图创建一个通用的解决方案库。你存储的解决方案越多，你就越不可能去追求一个新的解决方案。
 
 The result has been, as you would expect, a lot of derivative work. Yes, you need to know the rules in order to break them, but given the lack of codification and critique of what games are, game designers have instead operated under the more guildlike model of apprenticeship. They do what they have seen work—and critically, so do the funders and publishers of games as product.
 
 结果正如你所料，产生了大量仿品。没错，你需要先了解规则才能打破规则，但由于缺乏对游戏本质的系统化定义和批评，游戏设计师更多地遵循着类似行会学徒制的模式在操作。他们做着已见证过成效的事情——至关重要的是，作为产品的游戏的投资方和发行商也是如此行事。
 
-[The most creative and fertile game designers](#user-content-fn-19)[^19] working today tend to be the ones who make a point of not focusing too much on other games for inspiration. Creativity comes from cross-pollination, not the reiteration of the same ideas. By making gaming their hobby, game designers are making an echo chamber of their own work. Because of this, it is critical that games be placed in context with the rest of human endeavor so that game designers can feel comfortable venturing outside their field in search of innovative ideas.
+[The most creative and fertile game designers](#user-content-fn-19)[^19] working today tend to be the ones who make a point of *not* focusing too much on other games for inspiration. Creativity comes from cross-pollination, not the reiteration of the same ideas. By making gaming their hobby, game designers are making an echo chamber of their own work. Because of this, it is critical that games be placed in context with the rest of human endeavor so that game designers can feel comfortable venturing outside their field in search of innovative ideas.
 
-当今[最具创造力和活力的游戏设计师](#user-content-fn-20)[^20]，往往是那些不太注重从其他游戏中获取灵感的人。创意来自于相互交流，而不是重复相同的想法。游戏设计师将游戏作为自己的业余爱好，就是在为自己的作品制造回音室。正因为如此，将游戏与人类的其他活动放在一起至关重要，这样游戏设计师才能自如地跳出自己的领域，寻找创新的想法。
+当今[最具创造力和活力的游戏设计师](#user-content-fn-20)[^20]，往往是那些*不*太注重从其他游戏中获取灵感的人。创意来自于相互交流，而不是重复相同的想法。游戏设计师将游戏作为自己的业余爱好，就是在为自己的作品制造回音室。正因为如此，将游戏与人类的其他活动放在一起至关重要，这样游戏设计师才能自如地跳出自己的领域，寻找创新的想法。
 
 <div align="center">
 <img src="images/8.6.png">
