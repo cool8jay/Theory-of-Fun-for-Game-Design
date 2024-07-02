@@ -42,8 +42,8 @@ Game designers themselves offer a bewildering and often contradictory set of def
 * [Sid Meier](#user-content-fn-11)[^11], designer of the classic _Civilization_ computer games, gave a famous definition of "a series of meaningful choices."\
     经典电脑游戏 _《文明》_ 的设计师[席德·梅尔](#user-content-fn-12)[^12]给出了一个著名的定义：“一系列有意义的选择。”
     
-* Ernest Adams and Andrew Rollings, authors of [Andrew Rollings and Ernest Adams on Game Design](#user-content-fn-13)[^13], narrow this further to "one or more causally linked series of challenges in a simulated environment."\
-    [《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》](#user-content-fn-14)[^14]一书的作者欧内斯特·亚当斯和安德鲁·罗林斯将这一定义进一步缩小为“模拟环境中一个或多个因果联系的系列挑战。”
+* Ernest Adams and Andrew Rollings, authors of _[Andrew Rollings and Ernest Adams on Game Design](#user-content-fn-13)[^13]_, narrow this further to "one or more causally linked series of challenges in a simulated environment."\
+    _[《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》](#user-content-fn-14)[^14]_ 一书的作者欧内斯特·亚当斯和安德鲁·罗林斯将这一定义进一步缩小为“模拟环境中一个或多个因果联系的系列挑战。”
     
 * [Katie Salen and Eric Zimmerman say in their book Rules of Play](#user-content-fn-15)[^15] that a game is "a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome."\
     [凯蒂·萨伦和埃里克·齐默尔曼在《游戏规则》](#user-content-fn-16)[^16]一书中称，游戏是“一个系统，在这个系统中，玩家参与由规则定义的人为冲突，并产生可量化的结果。”
