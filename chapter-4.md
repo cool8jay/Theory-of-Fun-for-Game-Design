@@ -1,4 +1,4 @@
-# Chapter 4 What Games Teach Us? 第四章 游戏教会了我们什么？
+# Chapter 4 What Games Teach Us? 第四章 游戏教了我们什么？
 
 <div align="center">
 <img src="images/4.0.png">

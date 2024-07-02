@@ -1,4 +1,4 @@
-# Chapter 2 How the brain works? 第二章 大脑如何工作？
+# Chapter 2 How the brain works? 第二章 大脑如何运作？
 
 <div align="center">
 <img src="images/2.0.png">

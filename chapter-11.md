@@ -1,4 +1,4 @@
-# Chapter 11 Where Games Should Go 第十一章 游戏该走向何处
+# Chapter 11 Where Games Should Go 第十一章 游戏的去向
 
 <p align="center">
 <img src="images/11.0.png"/>
@@ -230,7 +230,7 @@ Fundamentally, it is intent.
 > 
 > And that means the puzzles should be a bit more interesting than animalistic concepts like "territory," "aiming," or "timing."
 > 
-> 这意味着谜题应该比 "领地"、"瞄准 "或 "时机 "等动物性概念更有趣一些。
+> 这意味着谜题应该比“领地”、“瞄准”或“时机”等动物性概念更有趣一些。
 
 [^1]: Gnothi seauton: This is the motto over the entrance to the temple of Apollo at Delphi.
 

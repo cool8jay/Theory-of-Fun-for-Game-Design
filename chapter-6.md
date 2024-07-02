@@ -1,4 +1,4 @@
-# Chapter 6 Different Fun for Different Folks 第六章 不同的人有不同的乐趣
+# Chapter 6 Different Fun for Different Folks 第六章 不同人的不同乐趣
 
 <p align="center">
 <img src="images/6.0.png"/>

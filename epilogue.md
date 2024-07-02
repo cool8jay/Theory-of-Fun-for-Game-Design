@@ -1,4 +1,4 @@
-# Epilogue Fun Matters, Grandpa 后记 快乐很重要，祖父
+# Epilogue Fun Matters, Grandpa 后记 有趣很重要，祖父
 
 <p align="center">
 <img src="images/e-0.png"/>

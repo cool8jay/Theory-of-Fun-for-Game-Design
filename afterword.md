@@ -1,4 +1,4 @@
-# Afterword: Ten Years Later 跋：十年之后
+# Afterword: Ten Years Later 跋：十年后
 
 <p align="center">
 <img src="images/afterword.png"/>
