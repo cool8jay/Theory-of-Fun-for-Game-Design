@@ -62,11 +62,11 @@ I also have plenty of experiences where I stare at something and simply don't ge
 
 That's not just me saying, "I can't cut it in Internet play! Damn 14-year-old kids." My reaction isn't mere frustration; it's also got a tinge of boredom. I look at the problem and say, "Well, I could take on the [Sisyphean task](#user-content-fn-7)[^7] of trying to match these folks in every new game as it comes out, but frankly, repeated failure is a predictable cycle, and rather boring. I have better things to do with my time."
 
-这不仅仅是我在说“我在网络游戏中不行了！该死的 14 岁孩子”。我的反应不仅仅是沮丧，还有一丝厌烦。我看着这个问题说：“好吧，我可以承担[西西弗斯式的任务](#user-content-fn-8)[^8]，在每款新游戏问世时都努力与他们比赛，但坦率地说，反复失败是一个可预见的循环，而且相当无聊。我有更好的事情要做。”
+这不仅仅是我在说：“我搞不定网络游戏！可恶的臭小子。”我的反应不仅仅是沮丧，还有一丝厌烦。我看着这个问题说：“好吧，我可以承担[西西弗斯式的任务](#user-content-fn-8)[^8]，在每款新游戏问世时都努力与他们比赛，但坦率地说，反复失败是一个可预见的循环，而且相当无聊。我有更好的事情要做。”
 
 From everything I hear, this feeling is likely to increase as I age. More and more novel experiences are going to come along, until sometime in 2038 when I'll need the assistance of my smart-ass grandkid to flibber-jibber the frammistan because I won't be able to cope with the newfangled contraptions. Is this inevitable?
 
-据我所知，随着年龄的增长，这种感觉可能会越来越强烈。越来越多的新奇体验会接踵而至，直到 2038 年的某个时候，我需要我那自作聪明的孙子的帮助来摆弄那些我无法应对的新奇玩意儿。这是不可避免的吗？
+据我所知，随着年龄的增长，这种感觉可能会越来越强烈。越来越多的新奇体验会接踵而至，直到 2038 年的某个时候，我需要我那自作聪明的孙子的帮助来摆弄那些我用不来的新奇玩意儿。这是不可避免的吗？
 
 <p align="center">
   <img src="images/1.3.png"/>
