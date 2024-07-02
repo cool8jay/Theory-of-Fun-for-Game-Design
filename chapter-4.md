@@ -64,9 +64,9 @@ As I looked deeper, though, I found that even whacked-out abstract games do refl
 
 但随着我的深入研究，我发现即使是古怪抽象的游戏也确实反映了潜在的现实。那些告诉我这些游戏都是关于顶点的人是对的。由于形式规则集基本上是数学构造，因此它们最终总会反映出数学真理的形式，至少是这样。(正式规则集是大多数游戏的基础，但并不是所有游戏的基础——有一些[游戏的规则集是非正式的](#user-content-fn-10)[^10]，但你可以放心，当有人在他们的茶话会上违反了一个未说明的假设时，小孩子们一定会大叫“不公平”。）
 
-Sadly, reflecting mathematical structures is also the only thing many games do. The real-life challenges that games prepare us for are almost exclusively ones based on the calculation of odds. They teach us how to predict events. A huge number of games simulate forms of combat. Even games ostensibly about building are usually framed competitively.
+Sadly, reflecting mathematical structures is also the *only* thing many games do. The real-life challenges that games prepare us for are almost exclusively ones based on the calculation of odds. They teach us how to predict events. A huge number of games simulate forms of combat. Even games ostensibly about building are usually framed competitively.
 
-可悲的是，反映数学结构也是许多游戏唯一能做的事情。游戏让我们为现实生活中的挑战做好准备，而这些挑战几乎都是基于几率计算的。它们教我们如何预测事件。大量游戏模拟了各种形式的战斗。即使是表面上是关于建设的游戏，通常也是以竞争为框架的。
+可悲的是，反映数学结构也是许多游戏*唯一*能做的事情。游戏让我们为现实生活中的挑战做好准备，而这些挑战几乎都是基于几率计算的。它们教我们如何预测事件。大量游戏模拟了各种形式的战斗。即使是表面上是关于建设的游戏，通常也是以竞争为框架的。
 
 Given that we're basically [hierarchical and strongly tribal primates](#user-content-fn-11)[^11],  it's not surprising that so many of the basic lessons taught by our early childhood play are about power and status. Think about how important these lessons still are within society, regardless of your particular culture. Games almost always teach us tools for being the top monkey or tribe of monkeys.
 
@@ -424,9 +424,9 @@ A modern platformer makes use of all of these dimensions:
 • Time limits add another dimension of challenge.\
 时间限制增加了挑战的另一个维度。
 
-Since the original Donkey Kong, players have been able to [pick up](#user-content-fn-93)[^93] a hammer to use as a weapon. One of the most common signs of incremental innovation in game design is designers simply adding more of a given element, rather than adding a new element. Hence, today we have a bewildering array of weapons.
+Since the original [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong), players have been able to [pick up](#user-content-fn-93)[^93] a hammer to use as a weapon. One of the most common signs of incremental innovation in game design is designers simply adding more of a given element, rather than adding a new element. Hence, today we have a bewildering array of weapons.
 
-从最初的《大金刚》开始，玩家就可以[拾取](#user-content-fn-94)[^94]锤子作为武器。在游戏设计中，渐进式创新最常见的表现之一就是设计者只是简单地增加某种元素的数量，而不是增加一种新元素。因此，今天我们有了一系列令人眼花缭乱的武器。
+从最初的[《大金刚》](https://en.wikipedia.org/wiki/Donkey_Kong)开始，玩家就可以[拾取](#user-content-fn-94)[^94]锤子作为武器。在游戏设计中，渐进式创新最常见的表现之一就是设计者只是简单地增加某种元素的数量，而不是增加一种新元素。因此，今天我们有了一系列令人眼花缭乱的武器。
 
 Platformers have now covered all the dimensions. They have started pulling in elements of racing and flying games as well as fighters and shooters. They have built in secret discovery, time limits, and power-ups. Recent games have included more robust stories, and even elements from role-playing games. Are there more dimensions on which to expand?
 
@@ -462,9 +462,9 @@ You don't tend to see "[time attack](#user-content-fn-99)[^99]" modes in strateg
 
 出于同样的原因，在策略游戏中往往看不到“[时间挑战](#user-content-fn-100)[^100]”模式。战略游戏中的任务并不是无意识反应，因此训练以条件反射的速度执行任务是错误的。(如果有的话，好的策略游戏会教你不要对环境习以为常，并让你时刻保持警惕）。
 
-This whole approach is intended for learning by rote. When I was a kid, I had a game for the [Atari 2600](#user-content-fn-101)[^101] console called [Laser Blast](#user-content-fn-102)[^102]. I got to the point where I could get a million points at the maximum difficulty setting without ever dying. With my eyes closed. This is the same sort of training that we put our militaries through—the training of rote and reflex. It's not a very adaptable mode of training, but it is desirable in many cases.
+This whole approach is intended for learning by rote. When I was a kid, I had a game for the [Atari 2600](#user-content-fn-101)[^101] console called [Laser Blast](#user-content-fn-102)[^102]. I got to the point where I could get a million points at the maximum difficulty setting without ever dying. With my eyes closed. This is the same sort of training that we put our militaries through—the training of rote and reflex. It's not a very *adaptable* mode of training, but it is desirable in many cases.
 
-整个方法都是为了死记硬背。我小时候玩过一款[雅达利 2600](#user-content-fn-103)[^103]游戏机上的游戏，名叫[《激光爆炸》](#user-content-fn-104)[^104]。我玩到最高难度设置时，能得到一百万分而不死。而且是闭着眼睛。这与我们对军队进行的训练如出一辙——死记硬背和条件反射的训练。这不是一种灵活变通的训练模式，但在很多情况下是可取的。
+整个方法都是为了死记硬背。我小时候玩过一款[雅达利 2600](#user-content-fn-103)[^103]游戏机上的游戏，名叫[《激光爆炸》](#user-content-fn-104)[^104]。我玩到最高难度设置时，能得到一百万分而不死。而且是闭着眼睛。这与我们对军队进行的训练如出一辙——死记硬背和条件反射的训练。这不是一种*灵活变通*的训练模式，但在很多情况下是可取的。
 
 <div align="center">
 <img src="images/4.14.png">
@@ -502,9 +502,9 @@ Games have these characteristics:
 * They mostly teach us things that are fairly primitive behaviors (but they don't have to).\
 它们教给我们的大多是相当原始的行为（但也并非必须如此）。
 
-Seen in this light, the evolution of the modern video game can largely be explained in terms of topology. Each generation of game can be described by a relatively minute alteration in the shape of the play space. For example, there have only really been around [five fighting games](#user-content-fn-107)[^107] in all of videogaming history. Significant advances have been limited to a few features like movement on a plane, movement in 3-D, and the addition of "[combos](#user-content-fn-108)[^108]" or sequences of moves. The games look different because of their content, not their underlying lessons.
+Seen in this light, the evolution of the modern video game can largely be explained in terms of topology. Each generation of game can be described by a relatively minute alteration in the shape of the play space. For example, there have only really been around [five fighting games](#user-content-fn-107)[^107] in all of videogaming history. Significant advances have been limited to a few features like movement on a plane, movement in 3-D, and the addition of "[combos](#user-content-fn-108)[^108]" or sequences of moves. The games look different because of their *content*, not their underlying lessons.
 
-从这个角度来看，现代电子游戏的演变在很大程度上可以用拓扑学来解释。每一代游戏都可以用游戏空间形状相当微小的变化来描述。例如，在整个电子游戏史上，真正意义上的[格斗游戏只有五款](#user-content-fn-109)[^109]。显著的进步仅限于一些功能，如平面移动、三维移动以及增加“[连击](#user-content-fn-110)[^110]”或动作序列。这些游戏之所以看起来不同，是源于它们的内容，而不是它们所蕴含的基本课程。
+从这个角度来看，现代电子游戏的演变在很大程度上可以用拓扑学来解释。每一代游戏都可以用游戏空间形状相当微小的变化来描述。例如，在整个电子游戏史上，真正意义上的[格斗游戏只有五款](#user-content-fn-109)[^109]。显著的进步仅限于一些功能，如平面移动、三维移动以及增加“[连击](#user-content-fn-110)[^110]”或动作序列。这些游戏之所以看起来不同，是源于它们的*内容*，而不是它们所蕴含的基本课程。
 
 This is not to say that many of the classic fighting games didn't bring significant incremental advances. Of course they did. But did they effectively "add another hole to the donut"?
 
@@ -538,9 +538,9 @@ Now, I don't know what the first 2-D shooter to have power-ups and scrolling and
 
 现在，我不知道第一款拥有强化道具、滚动屏幕和守关[头目](#user-content-fn-138)[^138]的二维射击游戏是什么，但可以说，从那时起，再也没有一款二维射击游戏拥有不同的“形状”。不出所料，射击游戏的发展已经停滞不前，市场份额不断下降。毕竟，我们在很久以前就学会了这种玩法机制，而从那时起，我们一直在学习那些我们知道是人为的、不太可能在任何地方重复出现的模式。
 
-This offers a possible algorithm for innovation: find a new dimension to add to the gameplay. We saw this in the way that puzzle games evolved after [Tetris](#user-content-fn-139)[^139]: people started trying to do it with [hexagons](#user-content-fn-140)[^140],  with [three dimensions](#user-content-fn-141)[^141], and eventually, pattern matching of colors became the thing that replaced spatial analysis. If we really want to innovate on puzzle games, how about exploring [puzzle games based on time](#user-content-fn-142)[^142] rather than space, for example?
+This offers a possible algorithm for innovation: *find a new dimension to add to the gameplay*. We saw this in the way that puzzle games evolved after [Tetris](#user-content-fn-139)[^139]: people started trying to do it with [hexagons](#user-content-fn-140)[^140],  with [three dimensions](#user-content-fn-141)[^141], and eventually, pattern matching of colors became the thing that replaced spatial analysis. If we really want to innovate on puzzle games, how about exploring [puzzle games based on time](#user-content-fn-142)[^142] rather than space, for example?
 
-这提供了一种可能的创新算法：为游戏玩法添加一个新维度。我们可以从[《俄罗斯方块》](#user-content-fn-143)[^143]之后益智游戏的发展中看到这一点：人们开始尝试用[六边形](#user-content-fn-144)[^144]、[三维空间](#user-content-fn-145)[^145]来进行游戏，最终，颜色模式匹配取代了空间分析。如果我们真的想在益智游戏上有所创新，比如探索[基于时间](#user-content-fn-146)[^146]而非空间的益智游戏如何？
+这提供了一种可能的创新算法：*为游戏玩法添加一个新维度*。我们可以从[《俄罗斯方块》](#user-content-fn-143)[^143]之后益智游戏的发展中看到这一点：人们开始尝试用[六边形](#user-content-fn-144)[^144]、[三维空间](#user-content-fn-145)[^145]来进行游戏，最终，颜色模式匹配取代了空间分析。如果我们真的想在益智游戏上有所创新，比如探索[基于时间](#user-content-fn-146)[^146]而非空间的益智游戏如何？
 
 <div align="center">
 <img src="images/4.16.png">
