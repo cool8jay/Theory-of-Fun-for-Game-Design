@@ -16,9 +16,9 @@ We all know that people learn at different rates and in different ways. Some of 
 6. Interpersonal 人际
 7. Intrapersonal (internally directed, self-motivated) 自我（内在的，自我激励）
 
-There aren't really standardized tests for these other types of intelligences (nor is this list authoritative!). Certainly the list suggests right off the bat that different people will be interested in different sorts of games because of their natural talents. People are not likely to tackle patterns and puzzles that appear as noise to them; they'll tend to select problems that they think they have a chance at solving. Hence the folks with bodily-kinesthetic intelligence might gravitate towards sports, whereas the linguistic folks may end up with crossword puzzles or Scrabble.
+There aren't really standardized tests for these other types of intelligences (nor is this list authoritative!). Certainly the list suggests right off the bat that different people will be interested in different sorts of games because of their natural talents. People are not likely to tackle patterns and puzzles that appear as noise to them; they'll tend to select problems that they think they have a chance at solving. Hence the folks with bodily-kinesthetic intelligence might gravitate towards sports, whereas the linguistic folks may end up with crossword puzzles or *Scrabble*.
 
-对于这些其他类型的智能，并没有真正的标准化测试（这份清单也不具有权威性！）。当然，这份清单一开始就表明，不同的人会因为自己的天赋而对不同类型的游戏感兴趣。人们不太可能去解决对他们来说是噪音的模式和谜题；他们会倾向于选择他们认为有机会解决的问题。因此，具有身体-动觉智能的人可能会倾向于体育运动，而具有语言智能的人可能会选择填字游戏或拼字游戏。
+对于这些其他类型的智能，并没有真正的标准化测试（这份清单也不具有权威性！）。当然，这份清单一开始就表明，不同的人会因为自己的天赋而对不同类型的游戏感兴趣。人们不太可能去解决对他们来说是噪音的模式和谜题；他们会倾向于选择他们认为有机会解决的问题。因此，具有身体-动觉智能的人可能会倾向于体育运动，而具有语言智能的人可能会选择填字游戏或*拼字游戏*。
 
 <div align="center">
 <img src="images/6.1.png">
@@ -100,9 +100,9 @@ This may seem obvious, but different people bring different experiences to the t
 
 这可能看起来很明显，但不同的人带来不同的经验。这意味着他们在解决特定类型问题时的能力水平各有不同。甚至比这更基本的事情也可能随时间而变化；例如，雌激素和睾酮等激素的水平在一生中会有相当大的波动，并且已经证明这些波动会[影响性格](#user-content-fn-40)[^40]。
 
-What does this all mean for game designers? Not only will a given game be unlikely to appeal to everyone, but it is probably impossible for it to do so. The difficulty ramp is almost certain to be wrong for many people, and the basic premises are likely to be uninteresting or too difficult for large segments of the population.
+What does this all mean for game designers? Not only will a given game be unlikely to appeal to everyone, but it is probably *impossible* for it to do so. The difficulty ramp is almost certain to be wrong for many people, and the basic premises are likely to be uninteresting or too difficult for large segments of the population.
 
-这一切对游戏设计师意味着什么？一款游戏不仅不可能吸引所有人，而且很可能无法吸引所有人。对许多人来说，游戏的难度坡度几乎肯定是错误的，而游戏的基本前提很可能对大部分人来说是无趣或太难。
+这一切对游戏设计师意味着什么？一款游戏不仅不可能吸引所有人，而且很可能*无法*吸引所有人。对许多人来说，游戏的难度坡度几乎肯定是错误的，而游戏的基本前提很可能对大部分人来说是无趣或太难。
 
 <div align="center">
 <img src="images/6.3.png">
@@ -164,17 +164,17 @@ You would also expect to see this change as the culture shifts towards greater e
 > 
 > 人们通常会选择玩自己擅长的游戏，这反映了他们的优势。
 
-As it happens, we did see all of these in demographic data of game players (along with much more). Games may have been the province of 14-year-old boys because that's what games have selected for. Over the last ten years, far more kinds of games have been made, and there are now slightly more female players than male players.
+As it happens, we *did* see all of these in demographic data of game players (along with much more). Games may have been the province of 14-year-old boys because that's what games have selected for. Over the last ten years, far more *kinds* of games have been made, and there are now slightly more female players than male players.
 
-事实上，我们确实在游戏玩家的人口统计数据中看到了所有这些数据（还有更多数据）。游戏可能一直是 14 岁男孩的专利，因为那就是游戏的选择的群体。在过去的十年里，游戏的种类大大增加，现在女性玩家的数量略多于男性玩家。
+事实上，我们*确实*在游戏玩家的人口统计数据中看到了所有这些数据（还有更多数据）。游戏可能一直是 14 岁男孩的专利，因为那就是游戏的选择的群体。在过去的十年里，游戏的*种类*大大增加，现在女性玩家的数量略多于男性玩家。
 
 As games become more prevalent in society, we'll likely see more young girls using the amazing brain-rewiring abilities of games to train themselves up and become more comfortable with the kinds of games the boys always liked. There has been research showing that girls who play "boys' games," such as sports, [tend to break out of traditional gender roles](#user-content-fn-49)[^49] years later, whereas girls who stick to "girls' games" tend to adhere to the traditional stereotypes more strictly.
 
 随着游戏在社会中的普及，我们很可能会看到更多的年轻女孩利用游戏惊人的大脑重连能力来锻炼自己，并更适应男孩们一直喜欢的游戏类型。有研究表明，玩体育等“男孩游戏”的[女孩往往会在多年后打破传统的性别角色](#user-content-fn-50)[^50]，而坚持玩“女孩游戏”的女孩往往会更严格地遵守传统的刻板印象。
 
-This argues pretty strongly that if people are to achieve their maximum potential, they need to do the hard work of playing the games they don't get, the games that don't appeal to their natures. Taking these on may serve as the nurture part of the equation, counterbalancing the brains that they were born with or culturally trained to have. The result would be people who move freely between worldviews, and who bring a wider array of skills to bear on a given problem.
+This argues pretty strongly that if people are to achieve their maximum potential, they need to do the hard work of playing the games they *don't* get, the games that *don't* appeal to their natures. Taking these on may serve as the nurture part of the equation, counterbalancing the brains that they were born with or culturally trained to have. The result would be people who move freely between worldviews, and who bring a wider array of skills to bear on a given problem.
 
-这就有力地证明，如果人们要发挥自己的最大潜能，就需要付出艰苦的努力，去玩那些他们不理解的游戏，那些对他们的天性没有吸引力的游戏。玩这些游戏可以作为等式中的培养部分，抵消他们与生俱来的或文化训练出来的大脑。这样，人们就能在各种世界观之间自由转换，并在解决特定问题时发挥更广泛的技能。
+这就有力地证明，如果人们要发挥自己的最大潜能，就需要付出艰苦的努力，去玩那些他们*不*理解的游戏，那些对他们的天性*没有*吸引力的游戏。玩这些游戏可以作为等式中的培养部分，抵消他们与生俱来的或文化训练出来的大脑。这样，人们就能在各种世界观之间自由转换，并在解决特定问题时发挥更广泛的技能。
 
 The converse trick, of training boys up, might be harder for single-player games to achieve because it does not play to the strength of game systems as a medium. Nonetheless, games should try—perhaps with [designs emphasizing social interaction](#user-content-fn-51)[^51], such as in Diplomacy or online virtual worlds. The thought that games could be limited because of their fundamentally mathematical nature is somewhat depressing; but it hasn't stopped music from being a highly emotional medium, and language manages to convey mathematical thoughts, so there is hope for games yet.
 
