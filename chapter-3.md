@@ -37,9 +37,9 @@ Games are something special and unique. They are concentrated chunks ready for o
 
 游戏是一种特殊而独特的东西。它们是可供我们大脑咀嚼的浓缩块。由于它们是抽象的、标志性的，因此很容易被吸收。由于它们是形式系统，因此舍弃了分散注意力的额外细节。通常情况下，我们的大脑需要做艰苦的工作，才能把杂乱无章的现实变成像游戏一样清晰的东西。
 
-In other words, games serve as very fundamental and powerful learning tools. It's one thing to read in a book that "[the map is not the territory](#user-content-fn-3)[^3]" and another to have your armies rolled over by your opponent in a game. When the latter happens because your map didn't adequately reflect what was going on, you're *gonna get the point* even if the actual armies aren't marching into your suburban home.
+In other words, games serve as very fundamental and powerful learning tools. It's one thing to read in a book that "[the map is not the territory](#user-content-fn-3)[^3]" and another to have your armies rolled over by your opponent in a game. When the latter happens because your map didn't adequately reflect what was going on, you're gonna get the point even if the actual armies aren't marching into your suburban home.
 
-换句话说，游戏是非常基本和强大的学习工具。在书中读到“[地图不是领土](#user-content-fn-4)[^4]”是一回事，而在游戏中你的军队被对手辗过又是另一回事。当后者发生时，是因为你的地图没有充分反映当时的情况，即使真正的军队没有开进你郊区的家，你也会*明白这一点*。
+换句话说，游戏是非常基本和强大的学习工具。在书中读到“[地图不是领土](#user-content-fn-4)[^4]”是一回事，而在游戏中你的军队被对手辗过又是另一回事。当后者发生时，是因为你的地图没有充分反映当时的情况，即使真正的军队没有开进你郊区的家，你也会明白这一点。
 
 The distinctions between toys and games, or between play and sport, start to seem a bit picky and irrelevant when you look at them in this light. There's been a lot of hay made over how play is non-goal-oriented and games tend to have goals; over how toys are aimed at pointless play rather than being games; about how make-believe is a form of play and not a game.
 
@@ -83,9 +83,9 @@ Almost all intentionally designed games fall prey to this. They are limited form
 
 几乎所有有意设计的游戏都会犯这个错误。它们是有限的正式系统。如果你一直玩下去，你最终会摸索出它们的大片可能性空间。从这个意义上说，游戏是一次性的，无聊是不可避免的。
 
-Fun comes from ["richly interpretable" situations](#user-content-fn-9)[^9]. Games that rigidly define rules and situations are more susceptible to mathematical analysis, which is a limitation in itself. We don't think that we can drive just because we know the rules of the road and the controls of a car, but extremely formal games (such as most board games) have fairly few variables, and so you can often extrapolate out everything about how the game will go from the known rule set. This is an important insight for game designers: *[the more rigidly constructed your game is, the more limited it will be.](#user-content-fn-10)[^10]*  To make games more long-lasting, they need to integrate either math problems we don't know the solutions to, or more variables (and less predictable ones) such as human psychology, physics, and so on. These are elements that arise from outside the game's rules and from outside the "magic circle."
+Fun comes from ["richly interpretable" situations](#user-content-fn-9)[^9]. Games that rigidly define rules and situations are more susceptible to mathematical analysis, which is a limitation in itself. We don't think that we can drive just because we know the rules of the road and the controls of a car, but extremely formal games (such as most board games) have fairly few variables, and so you can often extrapolate out everything about how the game will go from the known rule set. This is an important insight for game designers: _[the more rigidly constructed your game is, the more limited it will be.](#user-content-fn-10)[^10]_  To make games more long-lasting, they need to integrate either math problems we don't know the solutions to, or more variables (and less predictable ones) such as human psychology, physics, and so on. These are elements that arise from outside the game's rules and from outside the "magic circle."
 
-乐趣来自于[“丰富的可解释性”](#user-content-fn-11)[^11]。严格定义规则和情境的游戏更容易受到数学分析的影响，这本身就是一种限制。我们不会因为知道了道路规则和汽车的控制方法就认为自己会开车，但极其正式的游戏（如大多数棋盘游戏）变量相当少，因此你往往可以从已知的规则中推断出游戏的一切走向。这对游戏设计者来说是一个重要的启示：*[你的游戏构造得越死板，它的局限性就越大。](#user-content-fn-12)[^12]* 要想让游戏更持久，就需要融入我们不知道解法的数学问题，或者更多的变量（而且是不那么容易预测的变量），比如人类心理学、物理学等等。这些元素来自游戏规则之外，也来自“魔法阵”之外。
+乐趣来自于[“丰富的可解释性”](#user-content-fn-11)[^11]。严格定义规则和情境的游戏更容易受到数学分析的影响，这本身就是一种限制。我们不会因为知道了道路规则和汽车的控制方法就认为自己会开车，但极其正式的游戏（如大多数棋盘游戏）变量相当少，因此你往往可以从已知的规则中推断出游戏的一切走向。这对游戏设计者来说是一个重要的启示：_[你的游戏构造得越死板，它的局限性就越大。](#user-content-fn-12)[^12]_ 要想让游戏更持久，就需要融入我们不知道解法的数学问题，或者更多的变量（而且是不那么容易预测的变量），比如人类心理学、物理学等等。这些元素来自游戏规则之外，也来自“魔法阵”之外。
 
 (If it's any consolation to games, that's where game theory tends to fall down too—psych tends not to be that amenable to math.)
 
@@ -156,17 +156,17 @@ We shouldn't underestimate the brain's desire to learn. If you put a person in a
 
 我们不应该低估大脑的学习欲望。如果你把一个人放在感官剥夺室里，他或她很快就会变得非常不开心。大脑渴望刺激。无论何时，大脑都在努力学习，试图将信息融入它的世界观。在这方面，它是贪得无厌的。
 
-This doesn't mean it necessarily craves new experiences—mostly, it just craves new data. New data is all it needs to flesh out a pattern. A new experience might force a whole new system on the brain, and often the brain doesn't like that. It's disruptive. The brain doesn't like to do more work than it has to. That's why it chunks in the first place. That's why we have the term "[sensory overload](#user-content-fn-19)[^19]," as an opposite to "sensory deprivation."
+This *doesn't* mean it necessarily craves new *experiences*—mostly, it just craves new data. New data is all it needs to flesh out a pattern. A new experience might force a whole new system on the brain, and often the brain doesn't *like* that. It's disruptive. The brain doesn't like to do more work than it has to. That's why it chunks in the first place. That's why we have the term "[sensory overload](#user-content-fn-19)[^19]," as an opposite to "sensory deprivation."
 
-这并不意味着它一定渴望新体验——主要是渴望新数据。它需要新数据来充实模式。新的体验可能会给大脑带来全新的系统，而大脑往往不喜欢这样。这具有破坏性。大脑不喜欢做比它必须做的更多的工作。这就是为什么它首先要分块。这就是为什么我们有“[感官超载](#user-content-fn-20)[^20]”这个词，作为“感官剥夺”的反义词。
+这并*不*意味着它一定渴望新*体验*——主要是渴望新数据。它需要新数据来充实模式。新的体验可能会给大脑带来全新的系统，而大脑往往不喜欢这样。这具有破坏性。大脑不*喜欢*做比它必须做的更多的工作。这就是为什么它首先要分块。这就是为什么我们有“[感官超载](#user-content-fn-20)[^20]”这个词，作为“感官剥夺”的反义词。
 
 Games grow boring when they fail to unfold new niceties in the puzzles they present. But they have to navigate between the [Scylla and Charybdis](#user-content-fn-21)[^21] of deprivation and overload, of excessive order and excessive chaos, of silence and noise.
 
 当游戏无法在谜题中展现新的乐趣时，游戏就会变得枯燥乏味。但游戏必须在剥夺和超载、过度秩序和过度混乱、寂静和嘈杂的[斯库拉和卡律布狄斯](#user-content-fn-22)[^22]之间游刃有余。
 
-This means that it's easy for the player to get bored before the end of the game. After all, people are really good at pattern-matching and dismissing noise and silence that doesn't fit the pattern they have in mind.
+This means that it's easy for the player to get bored before the end of the game. After all, people are *really* good at pattern-matching and dismissing noise and silence that doesn't fit the pattern they have in mind.
 
-这意味着玩家很容易在游戏结束前感到厌倦。毕竟，人们非常善于进行模式匹配，并消除不符合他们心目中模式的噪音和沉默。
+这意味着玩家很容易在游戏结束前感到厌倦。毕竟，人们*非常*善于进行模式匹配，并消除不符合他们心目中模式的噪音和沉默。
 
 <div align="center">
 <img src="images/3.5.png">
