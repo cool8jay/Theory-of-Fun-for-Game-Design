@@ -14,11 +14,11 @@ There's a field called "[game theory](#user-content-fn-1)[^1]," which has someth
 
 Looking up "game" in the dictionary isn't that helpful. Once you leave out the definitions referring to hunting, they wander all over the place. Pastimes or amusements are lumped in with contests. Interestingly, none of the definitions tend to assume that fun is a requirement: amusement or entertainment at best is required.
 
-在字典里查找“游戏”一词并没有什么帮助。一旦撇开有关狩猎的定义，它们就会到处乱窜。消遣或娱乐与竞赛混为一谈。有趣的是，没有一个定义倾向于认为乐趣是必要条件：娱乐或消遣充其量只是必要条件。
+在字典里查找“游戏”一词并没有什么帮助。一旦排除了有关狩猎的定义，它们就变得五花八门。消遣或娱乐被归为竞赛。有趣的是，没有一个定义认为乐趣是必需的：至多需要娱乐或消遣。
 
-Those few academics who have tried to define "game" have offered up everything from [Roger Caillois](#user-content-fn-3)[^3]' "activity which is…voluntary…uncertain, unproductive, governed by rules, make-believe" to [Johan Huizinga](#user-content-fn-4)[^4]'s "free activity…outside 'ordinary' life…" to [Jesper Juul](#user-content-fn-5)[^5]'s more contemporary and precise take: "A game is a rule-based formal system with a variable and quantifiable outcome, where different outcomes are assigned different values, the player exerts effort in order to influence the outcome, the player feels attached to the outcome, and the consequences of the activity are optional and negotiable."
+Those few academics who have tried to define "game" have offered up everything from [Roger Caillois](#user-content-fn-3)[^3]' "activity which is...voluntary...uncertain, unproductive, governed by rules, make-believe" to [Johan Huizinga](#user-content-fn-4)[^4]'s "free activity...outside 'ordinary' life..." to [Jesper Juul](#user-content-fn-5)[^5]'s more contemporary and precise take: "A game is a rule-based formal system with a variable and quantifiable outcome, where different outcomes are assigned different values, the player exerts effort in order to influence the outcome, the player feels attached to the outcome, and the consequences of the activity are optional and negotiable."
 
-那些尝试定义“游戏”的少数学者们提出了各种定义，从[罗杰·卡尤瓦](#user-content-fn-6)[^6]的“自愿的……不确定的，无产出的，受规则制约的，虚构的活动”到[约翰·赫伊津哈](#user-content-fn-7)[^7]的“自由活动……在‘普通’生活之外……”到[杰斯珀·尤尔](#user-content-fn-8)[^8]的更现代和精确的看法：“游戏是一个基于规则的形式系统，具有可变和可量化的结果，在其中不同的结果被赋予不同的价值，玩家付出努力以影响结果，玩家对结果有归属感，并且该活动的后果是可选择和可协商的。”
+一些学者尝试着给出了“游戏”的定义，从[罗杰·卡尤瓦](#user-content-fn-6)[^6]的“自愿的……不确定的，无产出的，受规则制约的，虚构的活动”到[约翰·赫伊津哈](#user-content-fn-7)[^7]的“自由活动……在‘普通’生活之外……”到[杰斯珀·尤尔](#user-content-fn-8)[^8]的更现代和精确的看法：“游戏是一个基于规则的形式系统，具有可变和可量化的结果，在其中不同的结果被赋予不同的价值，玩家付出努力来影响结果，玩家对结果有归属感，并且该活动的后果是可选择和可协商的。”
 
 None of these help designers find "fun," though.
 
@@ -34,13 +34,13 @@ None of these help designers find "fun," though.
 
 Game designers themselves offer a bewildering and often contradictory set of definitions:
 
-游戏设计师们自己给出了一系列令人困惑、往往自相矛盾的定义：
+游戏设计师们则给出了一系列令人困惑、往往自相矛盾的定义：
 
 * To [Chris Crawford](#user-content-fn-9)[^9], outspoken designer and theorist, games are a subset of entertainment limited to conflicts in which players work to foil each other's goals, just one of many leaves off a tree that includes playthings, toys, challenges, stories, competitions, and a lot more.\
     对[克里斯·克劳福德](#user-content-fn-10)[^10]这位直言不讳的设计师和理论家来说，游戏是娱乐的一个子集，仅限于玩家之间相互妨碍对方目标达成的冲突中，这只是包括玩物，玩具、挑战、故事、比赛等众多事物的大树上的一片叶子。
     
-* [Sid Meier](#user-content-fn-11)[^11], designer of the classic Civilization computer games, gave a famous definition of "a series of meaningful choices."\
-    经典电脑游戏《文明》的设计师[席德·梅尔](#user-content-fn-12)[^12]给出了一个著名的定义：“一系列有意义的选择。”
+* [Sid Meier](#user-content-fn-11)[^11], designer of the classic _Civilization_ computer games, gave a famous definition of "a series of meaningful choices."\
+    经典电脑游戏 _《文明》_ 的设计师[席德·梅尔](#user-content-fn-12)[^12]给出了一个著名的定义：“一系列有意义的选择。”
     
 * Ernest Adams and Andrew Rollings, authors of [Andrew Rollings and Ernest Adams on Game Design](#user-content-fn-13)[^13], narrow this further to "one or more causally linked series of challenges in a simulated environment."\
     [《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》](#user-content-fn-14)[^14]一书的作者欧内斯特·亚当斯和安德鲁·罗林斯将这一定义进一步缩小为“模拟环境中一个或多个因果联系的系列挑战。”
@@ -50,13 +50,13 @@ Game designers themselves offer a bewildering and often contradictory set of def
 
 This feels like a quick way to get sucked into quibbling over the classification of individual games. Many simple things can be made complex when you dig into them, but having fun is something so fundamental that surely we can find a more basic concept?
 
-这种说法让人很快陷入对单个游戏分类的争论。许多简单的事情只要深入研究就会变得复杂，但“乐趣”是如此基本的东西，我们肯定能找到一个更基本的概念？
+这种说法让人很快陷入对单个游戏分类的争论。许多简单的事情只要深入研究就会变得复杂，但享受乐趣是如此基本的东西，我们肯定能找到一个更基本的概念？
 
 I found my answer in reading about how the brain works. Based on my reading, the human brain is mostly a voracious consumer of patterns, a soft pudgy gray [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) of concepts. Games are just exceptionally tasty patterns to eat up.
 
-我在阅读大脑工作原理时找到了答案。根据我的阅读，人类大脑主要是一个贪婪的模式消费者，一个柔软而丰满的灰色概念[吃豆人](https://en.wikipedia.org/wiki/Pac-Man)。游戏只是特别美味的模式供其吞噬。
+我在阅读大脑工作原理时找到了答案。根据我的阅读，人类大脑主要是一个贪婪的模式消费者，一个软绵绵、胖乎乎、灰色的、由概念组成的[吃豆人](https://en.wikipedia.org/wiki/Pac-Man)。游戏只是特别美味的模式，供其吞噬。
 
-When you watch kids learn, you see there's a recognizable pattern to what they do. They give it a try once—it seems that kids can't learn just by being taught. They have to make mistakes themselves. They push at boundaries to test them and see how far they will bend. They watch the same video over and over and over and over and over and over…
+When you watch kids learn, you see there's a recognizable pattern to what they do. They give it a try once—it seems that kids can't learn just by being taught. They have to make mistakes themselves. They push at boundaries to test them and see how far they will bend. They watch the same video over and over and over and over and over and over...
 
 当你观察孩子们学习时，你会发现他们的行为有一个可识别的模式。他们尝试一次——看起来孩子们不能仅仅通过被教导来学习。他们必须自己犯错误。他们挑战极限，测试极限，看看极限能弯曲到什么程度。他们一遍又一遍又一遍又一遍又一遍地观看同一个视频……
 
@@ -376,7 +376,7 @@ When our brain is really into practicing something, we'll dream about it. This i
 
 [^20]: 填空和看不到鼻子：一些展示盲点和大脑填补已知数据的有趣实验可在 [http://faculty.washington.edu/chudler/chvision.html](http://faculty.washington.edu/chudler/chvision.html) 上找到。许多流行的视错觉都是基于大脑对我们所看到的事物做出假设这一事实。
 
-[^21]: The brain…: Steven Johnson's book Mind Wide Open (Scribner, 2004) is a wonderful excursion into the mysteries of the human mind.
+[^21]: The brain...: Steven Johnson's book Mind Wide Open (Scribner, 2004) is a wonderful excursion into the mysteries of the human mind.
 
 [^22]: 大脑……：史蒂文·约翰逊的《大开眼界》（斯克里布纳出版社，2004 年）一书是探索人类思维奥秘的绝佳读物。
 
