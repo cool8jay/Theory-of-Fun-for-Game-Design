@@ -190,7 +190,7 @@ This isn't exactly a revelation to anyone in the arts. Excess chaos just doesn't
 
 There's some highly ordered music that doesn't appeal to most of us, though. A lot of folks say that the strain of jazz known as bebop is just noise. But I'm going to offer up an alternate definition of noise: _Noise is any pattern we don't understand_.
 
-不过，有些高度有序的音乐的受众却很小。很多人说，被称为比波普的爵士乐分支只是噪音。但我要给噪音下一个另类的定义：_噪音是我们不理解的任何模式_。
+不过，有些高度有序的音乐的受众却很小。很多人说，被称为比波普的爵士乐分支只是噪音。但我要给噪音下一个另类的定义：_噪音是任何我们不理解的模式_。
 
 [Even static has patterns to it](#user-content-fn-35)[^35]. If the little black and white dots are the output of random numbers, they have the pattern of the output of random number generators—a complex pattern, but a pattern nonetheless. If you happen to know the algorithm used to generate the number, and the seed from which the algorithm started, you could exactly replicate that static. There's really next to nothing in the visible universe that is patternless. If we perceive something as noise, it's most likely a failure in ourselves, not a failure in the universe.
 
@@ -236,9 +236,9 @@ That doesn't mean you are done with jazz, though. There's a long way to go betwe
 
 但这并不意味着你对爵士乐的了解已经结束。在智力理解、直觉理解和 "摸索 "之间，还有很长的路要走。
 
-"Grok" is a really useful word. Robert Heinlein coined it in his novel [Stranger in a Strange Land](#user-content-fn-43)[^43]. It means that you understand something so thoroughly that you have become one with it and even love it. It's a profound understanding beyond intuition or empathy (though those are required steps on the way).
+"Grok" is a really useful word. Robert Heinlein coined it in his novel [Stranger in a Strange Land](#user-content-fn-43)[^43]. It means that you understand something so thoroughly that you have become one with it and even _love_ it. It's a profound understanding beyond intuition or empathy (though those are required steps on the way).
 
-“神入”是一个非常有用的词。罗伯特·海因莱因在他的小说[《异乡异客》](#user-content-fn-44)[^44]中创造了这个词。它的意思是，你对某事物的理解如此透彻，以至于与它融为一体，甚至爱上了它。这是一种超越直觉或共鸣的深刻理解（虽然这些都是理解过程中的必要步骤）。
+“神入”是一个非常有用的词。罗伯特·海因莱因在他的小说[《异乡异客》](#user-content-fn-44)[^44]中创造了这个词。它的意思是，你对某事物的理解如此透彻，以至于与它融为一体，甚至 _爱上_ 了它。这是一种超越直觉或共鸣的深刻理解（虽然这些都是理解过程中的必要步骤）。
 
 "Grokking" has a lot in common with what we call "muscle memory." Some writers on cognition describe the brain as functioning on [three levels](#user-content-fn-45)[^45]. The first level is what we call conscious thought. It's logical and works on a basically mathematical level, assigning values and making lists. It's kind of slow, even in those genius-IQ types. This is the sort of mind we measure when we take IQ tests.
 
