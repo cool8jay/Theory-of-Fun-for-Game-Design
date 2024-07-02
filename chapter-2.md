@@ -112,7 +112,7 @@ We've learned that if you show someone a movie with a lot of basketball players 
 
 我们已经知道，如果你给别人看一部有很多篮球运动员的电影，并事先告诉他们数篮球，他们很可能会错过背景中的[大猩猩](#user-content-fn-24)[^24]，尽管它是一个有点引人注目的物体。_大脑善于剔除无关紧要的东西_。
 
-We've also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. .
+We've also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. _The brain notices a lot more than we think it does_.
 
 我们还发现，如果你让一个人进入催眠恍惚状态，让她描述某件事情，她描述的内容往往会比在大街上问她要多得多。_大脑注意到的东西比我们想象的要多得多_。
 
