@@ -68,7 +68,7 @@ And yet, the choreographer is not the ultimate arbiter in a dance. There are far
 
 然而，舞蹈编导并不是舞蹈的最终决定者。还有太多其他变数。例如，[首席芭蕾舞演员](#user-content-fn-6)[^6]之所以如此重要是有原因的。舞者创造舞蹈，正如演员创造台词。糟糕的演绎意味着体验被破坏——事实上，如果演绎足够糟糕，意义也可能被破坏，就像糟糕的字迹会掩盖一个词的意义一样。
 
-Swan Lake staged on the shore of a lake is a different experience from Swan Lake on a bare stage. There's a recognized profession there, too: the set designer. And there's the lighting, the casting, the costuming, the performance of the music… The choreographer may be the person who creates the dance, but in the end, there's probably a director who creates the dance.
+Swan Lake staged on the shore of a lake is a different experience from Swan Lake on a bare stage. There's a recognized profession there, too: the set designer. And there's the lighting, the casting, the costuming, the performance of the music... The choreographer may be the person who creates the dance, but in the end, there's probably a director who creates the dance.
 
 在湖畔上演的《天鹅湖》与在光秃秃的舞台上上演的《天鹅湖》是两种不同的体验。这里还有一个公认的职业：布景师。还有灯光、选角、服装、音乐表演……编舞可能是创造舞蹈的人，但最终可能还是导演创造了舞蹈。
 

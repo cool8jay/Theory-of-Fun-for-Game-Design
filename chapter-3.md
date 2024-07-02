@@ -222,7 +222,7 @@ One wonders, then, why learning is so damn boring to so many people. It's almost
 
 那么，我们不禁要问，为什么对这么多人来说，学习是如此该死的无聊呢？这几乎可以肯定是因为传授的方法不对。我们称赞好老师，说他们"让学习变得有趣"。游戏是很好的老师……在某些方面。问题是，游戏能教什么？
 
-Either way, I have an answer for my late grandfather, and it looks like what I do fits right alongside the upstanding professions of my various aunts and uncles. Fireman, carpenter, and…teacher.
+Either way, I have an answer for my late grandfather, and it looks like what I do fits right alongside the upstanding professions of my various aunts and uncles. Fireman, carpenter, and...teacher.
 
 无论如何，我已经为我已故的祖父找到了答案，而且看起来我所从事的工作与我的叔叔阿姨们的正直职业是相吻合的。消防员，木匠，还有……老师。
 
