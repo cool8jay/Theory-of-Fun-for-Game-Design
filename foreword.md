@@ -1,3 +1,9 @@
+# Foreword 前言
+
+<p align="center">
+<img src="images/foreword.png"/>
+</p>
+
 The title of this book almost feels wrong to me. As a game designer, seeing the words "theory" and "fun" in such close proximity instinctively makes me a bit uncomfortable. Theories are dry and academic things, found in thick books at the back of the library, whereas fun is light, energetic, playful and...well...fun.
 
 这本书的书名让我感觉有些不对劲。作为一名游戏设计师，看到“理论”和“乐趣”这两个词如此接近，我本能地感到有点不舒服。理论是枯燥的、学术性的东西，出现在图书馆后排厚重的书籍中，而乐趣则是轻松的、充满活力的、俏皮的和……嗯……有趣的。
