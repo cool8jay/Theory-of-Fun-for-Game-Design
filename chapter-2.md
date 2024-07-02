@@ -39,11 +39,11 @@ Game designers themselves offer a bewildering and often contradictory set of def
 * To [Chris Crawford](#user-content-fn-9)[^9], outspoken designer and theorist, games are a subset of entertainment limited to conflicts in which players work to foil each other's goals, just one of many leaves off a tree that includes playthings, toys, challenges, stories, competitions, and a lot more.\
     对[克里斯·克劳福德](#user-content-fn-10)[^10]这位直言不讳的设计师和理论家来说，游戏是娱乐的一个子集，仅限于玩家之间相互妨碍对方目标达成的冲突中，这只是包括玩物，玩具、挑战、故事、比赛等众多事物的大树上的一片叶子。
     
-* [Sid Meier](#user-content-fn-11)[^11], designer of the classic _Civilization_ computer games, gave a famous definition of "a series of meaningful choices."\
-    经典电脑游戏 _《文明》_ 的设计师[席德·梅尔](#user-content-fn-12)[^12]给出了一个著名的定义：“一系列有意义的选择。”
+* [Sid Meier](#user-content-fn-11)[^11], designer of the classic *Civilization* computer games, gave a famous definition of "a series of meaningful choices."\
+    经典电脑游戏 *《文明》* 的设计师[席德·梅尔](#user-content-fn-12)[^12]给出了一个著名的定义：“一系列有意义的选择。”
     
 * Ernest Adams and Andrew Rollings, authors of _[Andrew Rollings and Ernest Adams on Game Design](#user-content-fn-13)[^13]_, narrow this further to "one or more causally linked series of challenges in a simulated environment."\
-    _[《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》](#user-content-fn-14)[^14]_ 一书的作者欧内斯特·亚当斯和安德鲁·罗林斯将这一定义进一步缩小为“模拟环境中一个或多个因果联系的系列挑战。”
+    *[《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》](#user-content-fn-14)[^14]* 一书的作者欧内斯特·亚当斯和安德鲁·罗林斯将这一定义进一步缩小为“模拟环境中一个或多个因果联系的系列挑战。”
     
 * [Katie Salen and Eric Zimmerman say in their book Rules of Play](#user-content-fn-15)[^15] that a game is "a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome."\
     [凯蒂·萨伦和埃里克·齐默尔曼在《游戏规则》](#user-content-fn-16)[^16]一书中称，游戏是“一个系统，在这个系统中，玩家参与由规则定义的人为冲突，并产生可量化的结果。”
@@ -140,9 +140,9 @@ If I asked you to describe how you got to work in the morning in some detail, yo
 
 如果我让你详细描述一下你早上是如何上班的，你会列出起床、跌跌撞撞地去浴室、洗澡、穿衣、吃早餐、出门、开车去工作地点等步骤。这似乎是一个很好的清单，直到我请你具体回顾一下你是如何完成其中一个步骤的。考虑一下穿衣服这个步骤。你可能很难记住所有的步骤。你先拿上衣还是下衣？你把袜子放在最上面还是第二个抽屉？你先把哪条腿放进裤子里？哪只手先触摸衬衫上的纽扣？
 
-Odds are good that you could come to an answer if you thought about it. This is called a morning routine because it _is_ routine. You rely on doing these things on autopilot. This whole routine has been "chunked" in your brain, which is why you have to work to recall the individual steps. It's basically a recipe that is burned into your neurons, and you don't "think" about it anymore.
+Odds are good that you could come to an answer if you thought about it. This is called a morning routine because it *is* routine. You rely on doing these things on autopilot. This whole routine has been "chunked" in your brain, which is why you have to work to recall the individual steps. It's basically a recipe that is burned into your neurons, and you don't "think" about it anymore.
 
-如果你仔细想想，很有可能得出答案。这就是所谓的晨间常规，因为它 _就是_ 常规。你依靠自动驾驶来做这些事情。整个常规已经在你的大脑中“分块”，这就是为什么你必须努力回想各个步骤。这基本上就是一个烙印在你神经元里的食谱，你不再“思考”它。
+如果你仔细想想，很有可能得出答案。这就是所谓的晨间常规，因为它*就是*常规。你依靠自动驾驶来做这些事情。整个常规已经在你的大脑中“分块”，这就是为什么你必须努力回想各个步骤。这基本上就是一个烙印在你神经元里的食谱，你不再“思考”它。
 
 Whatever "thinking" means.
 
@@ -180,9 +180,9 @@ That we live in a world of chunking is fascinating. Maybe you're reading this an
 >
 > 当某些事物发生变化且不在图标中时，这可能会让我们手忙脚乱。
 
-People dislike chaos. We like order—not regimented order, but order with a bit of _texture_ or variation to it. For example, there's a long tradition in art history of observing that many paintings use a system of order called _[the golden section](#user-content-fn-33)[^33]_, which is basically just a way of dividing up the space on the painting into boxes of different proportions. It turns out that doing so makes the painting appear "prettier" to us.
+People dislike chaos. We like order—not regimented order, but order with a bit of *texture* or variation to it. For example, there's a long tradition in art history of observing that many paintings use a system of order called *[the golden section](#user-content-fn-33)[^33]*, which is basically just a way of dividing up the space on the painting into boxes of different proportions. It turns out that doing so makes the painting appear "prettier" to us.
 
-人们不喜欢混乱。我们喜欢秩序——不是严格死板的秩序，而是有点 _质感_ 或变化的秩序。例如，艺术史上有一个悠久的传统，许多画作都使用了一种名为 _[黄金分割](#user-content-fn-34)[^34]_ 的秩序系统，这种系统基本上就是将画作上的空间分割成不同比例的方块。事实证明，这样做会让我们觉得画作更“漂亮”。
+人们不喜欢混乱。我们喜欢秩序——不是严格死板的秩序，而是有点*质感*或变化的秩序。例如，艺术史上有一个悠久的传统，许多画作都使用了一种名为 *[黄金分割](#user-content-fn-34)[^34]* 的秩序系统，这种系统基本上就是将画作上的空间分割成不同比例的方块。事实证明，这样做会让我们觉得画作更“漂亮”。
 
 This isn't exactly a revelation to anyone in the arts. Excess chaos just doesn't have pop appeal. We call it "noise," "ugly," or "formless." My music teacher in college said, "Music is ordered sound and silence." "Ordered" is a pretty important word in that sentence.
 
@@ -208,9 +208,9 @@ The first time you hear bebop jazz it may sound weird to you, especially if you'
 
 第一次听到贝波普爵士乐时，你可能会觉得怪怪的，尤其是如果你是在老式的“[三个和弦和真理](#user-content-fn-38)[^38]”摇滚乐中长大的话。借用无数气急败坏的父母对孩子音乐选择的抨击，这将是“魔鬼音乐”。
 
-If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you'll spot the [flattened fifth](#user-content-fn-39)[^39] that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you get it, and experience a moment of discovery, of joy.
+If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you'll spot the [flattened fifth](#user-content-fn-39)[^39] that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you *get it*, and experience a moment of discovery, of joy.
 
-如果你摆脱了最初的厌恶（可能只持续几分之一秒），你可能会发现其中蕴含的模式。例如，你会发现对爵士乐来说非常重要的[降五度](#user-content-fn-40)[^40]。你开始用手指敲打预期的 4/4 拍子，却沮丧地发现实际上是 7/8 拍或其他拍子。你会茫然一会儿，但一旦你明白了，你可能会体验到一丝喜悦，体验到发现、喜悦的时刻。
+如果你摆脱了最初的厌恶（可能只持续几分之一秒），你可能会发现其中蕴含的模式。例如，你会发现对爵士乐来说非常重要的[降五度](#user-content-fn-40)[^40]。你开始用手指敲打预期的 4/4 拍子，却沮丧地发现实际上是 7/8 拍或其他拍子。你会茫然一会儿，但一旦你*明白*了，你可能会体验到一丝喜悦，体验到发现、喜悦的时刻。
 
 If jazz happens to interest you, you'll sink into these patterns and come to expect them. If you get really into it, you may come to feel that a musical style such as [alternating-bass](#user-content-fn-41)[^41] folk music is hopelessly "square."
 
@@ -236,9 +236,9 @@ That doesn't mean you are done with jazz, though. There's a long way to go betwe
 
 但这并不意味着你对爵士乐的了解已经结束。在智力理解、直觉理解和 "摸索 "之间，还有很长的路要走。
 
-"Grok" is a really useful word. Robert Heinlein coined it in his novel [Stranger in a Strange Land](#user-content-fn-43)[^43]. It means that you understand something so thoroughly that you have become one with it and even _love_ it. It's a profound understanding beyond intuition or empathy (though those are required steps on the way).
+"Grok" is a really useful word. Robert Heinlein coined it in his novel [Stranger in a Strange Land](#user-content-fn-43)[^43]. It means that you understand something so thoroughly that you have become one with it and even *love* it. It's a profound understanding beyond intuition or empathy (though those are required steps on the way).
 
-“神入”是一个非常有用的词。罗伯特·海因莱因在他的小说[《异乡异客》](#user-content-fn-44)[^44]中创造了这个词。它的意思是，你对某事物的理解如此透彻，以至于与它融为一体，甚至 _爱上_ 了它。这是一种超越直觉或共鸣的深刻理解（虽然这些都是理解过程中的必要步骤）。
+“神入”是一个非常有用的词。罗伯特·海因莱因在他的小说[《异乡异客》](#user-content-fn-44)[^44]中创造了这个词。它的意思是，你对某事物的理解如此透彻，以至于与它融为一体，甚至*爱上*了它。这是一种超越直觉或共鸣的深刻理解（虽然这些都是理解过程中的必要步骤）。
 
 "Grokking" has a lot in common with what we call "muscle memory." Some writers on cognition describe the brain as functioning on [three levels](#user-content-fn-45)[^45]. The first level is what we call conscious thought. It's logical and works on a basically mathematical level, assigning values and making lists. It's kind of slow, even in those genius-IQ types. This is the sort of mind we measure when we take IQ tests.
 
@@ -260,13 +260,13 @@ The second level of the brain is really slow. It's integrative, associative, and
 >
 > 需要帮助
 
-The last kind of thinking is not thinking. When you stick your finger in fire, you snatch it back _before_ your brain has time to think about it (seriously, it's been [measured](#user-content-fn-49)[^49]).
+The last kind of thinking is not thinking. When you stick your finger in fire, you snatch it back *before* your brain has time to think about it (seriously, it's been [measured](#user-content-fn-49)[^49]).
 
-最后一种思考不是思考。当你把手指伸进火里时，你会在大脑来不及思考 _之前_ 就把它收回来（说真的，有人[测过](#user-content-fn-50)[^50]）。
+最后一种思考不是思考。当你把手指伸进火里时，你会在大脑来不及思考*之前*就把它收回来（说真的，有人[测过](#user-content-fn-50)[^50]）。
 
 Calling this "muscle memory" is a lie. Muscles don't really have memory. They're just big ol' springs that coil and uncoil when you run electrical current through them. It's really all about nerves. There's a very large part of your body that works based on the _autonomic nervous system_, which is a fancy way of saying that it makes its own decisions. Some of it is stuff you can learn to bring under more conscious control, like your heart rate. Some of it is reflexes, like snatching your fingers out of the fire. And some of it is stuff you train your body to do.
 
-说这是“肌肉记忆”是骗人的。肌肉并没有真正的记忆。它们只是一个大弹簧，当电流通过它们时，它们就会卷起或松开。真正有记忆的是神经。你的身体有很大一部分是基于 _自主神经系统_ 工作的，这是一种花哨的说法，意味着它自己做出决定。其中有些是你可以学会有意识控制，比如你的心率。有些是条件反射，比如把手指从火中拽出来。还有一些是你训练身体去做的事情。
+说这是“肌肉记忆”是骗人的。肌肉并没有真正的记忆。它们只是一个大弹簧，当电流通过它们时，它们就会卷起或松开。真正有记忆的是神经。你的身体有很大一部分是基于*自主神经系统*工作的，这是一种花哨的说法，意味着它自己做出决定。其中有些是你可以学会有意识控制，比如你的心率。有些是条件反射，比如把手指从火中拽出来。还有一些是你训练身体去做的事情。
 
 There's an old joke about a crowd gathered at the bottom of a burning building. Up at the top countless people jump from windows to be caught by the firemen. There's one mother who is unwilling to toss her baby to the waiting rescuers. Finally, one guy at the bottom says, "I can catch the kid, ma'am, I'm a famous football player." So the mother tosses the baby to the football player.
 
@@ -300,17 +300,17 @@ My wife gave me a mandolin for my birthday one year. Mandolins have a different 
 
 有一年我过生日，妻子送了我一把曼陀林。曼陀林的音阶与吉他不同，它的调音方式像小提琴。品之间的距离更近。和弦也不一样。有一些技巧在吉他上是用不到的。音符的延音较少。音乐词汇也不同。然而，要获得基本能力并不难。
 
-The reason isn't just muscle memory; that just accounts for _some_ of my ability to move my fingers quickly along the fingerboard, but not all. For example, the distances I move my fingers are very different and the places I move them to are different, too. What is really going on is that because I have been playing guitar for over two decades, I have grokked enough about stringed instruments to create a library of chunked knowledge to apply. When I was playing the guitar all those years, I was also working on more obscure stuff, [deepening my knowledge](#user-content-fn-53)[^53] of the intervals between notes, mastering rhythm, and understanding harmonic progression.
+The reason isn't just muscle memory; that just accounts for *some* of my ability to move my fingers quickly along the fingerboard, but not all. For example, the distances I move my fingers are very different and the places I move them to are different, too. What is really going on is that because I have been playing guitar for over two decades, I have grokked enough about stringed instruments to create a library of chunked knowledge to apply. When I was playing the guitar all those years, I was also working on more obscure stuff, [deepening my knowledge](#user-content-fn-53)[^53] of the intervals between notes, mastering rhythm, and understanding harmonic progression.
 
-原因不仅仅是肌肉记忆；肌肉记忆只是我手指在指板上快速移动的 _部分_ 能力，但不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年了，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多晦涩难懂的东西，加深对音符之间的音程、节奏的掌握以及和声进程的[理解](#user-content-fn-54)[^54]。
+原因不仅仅是肌肉记忆；肌肉记忆只是我手指在指板上快速移动的*部分*能力，但不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年了，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多晦涩难懂的东西，加深对音符之间的音程、节奏的掌握以及和声进程的[理解](#user-content-fn-54)[^54]。
 
-Building up this library is what we call "[practice](#user-content-fn-55)[^55]." Studies have shown that you don't even have to do it physically. You can just _think_ about doing it and it'll get you much of the way there. This is strong evidence that [the brain is doing the work, not the muscles](#user-content-fn-56)[^56].
+Building up this library is what we call "[practice](#user-content-fn-55)[^55]." Studies have shown that you don't even have to do it physically. You can just *think* about doing it and it'll get you much of the way there. This is strong evidence that [the brain is doing the work, not the muscles](#user-content-fn-56)[^56].
 
-建立这个库就是我们所说的“[练习](#user-content-fn-57)[^57]”。研究表明，你甚至不必身体力行。你只需 _想着_ 去做，就能在很大程度上达到目的。这有力地证明了[大脑在做功，而不是肌肉](#user-content-fn-58)[^58]。
+建立这个库就是我们所说的“[练习](#user-content-fn-57)[^57]”。研究表明，你甚至不必身体力行。你只需*想着*去做，就能在很大程度上达到目的。这有力地证明了[大脑在做功，而不是肌肉](#user-content-fn-58)[^58]。
 
-When our brain is _really_ into practicing something, we'll dream about it. This is the intuitive part of the brain burning neural pathways into our brain, working on turning newly grasped patterns into something that fits within the context of everything else we know. The ultimate goal is to turn it into a routine. Frankly, my impression is that the brain doesn't particularly want to have to deal with it again.
+When our brain is *really* into practicing something, we'll dream about it. This is the intuitive part of the brain burning neural pathways into our brain, working on turning newly grasped patterns into something that fits within the context of everything else we know. The ultimate goal is to turn it into a routine. Frankly, my impression is that the brain doesn't particularly want to have to deal with it again.
 
-当我们的大脑 _真正_ 投入到练习某件事时，我们会梦见它。这是大脑的直觉部分在我们的大脑中燃烧神经通路，努力将新掌握的模式转变为能融入我们已知的一切知识体系的东西。最终目标是将它变成一种常规。坦白说，我的感觉是，大脑并不特别想再次处理这个事。
+当我们的大脑*真正*投入到练习某件事时，我们会梦见它。这是大脑的直觉部分在我们的大脑中燃烧神经通路，努力将新掌握的模式转变为能融入我们已知的一切知识体系的东西。最终目标是将它变成一种常规。坦白说，我的感觉是，大脑并不特别想再次处理这个事。
 
 <div align="center">
 <img src="images/2.11.png">

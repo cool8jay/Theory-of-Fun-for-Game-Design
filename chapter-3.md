@@ -37,9 +37,9 @@ Games are something special and unique. They are concentrated chunks ready for o
 
 游戏是一种特殊而独特的东西。它们是可供我们大脑咀嚼的浓缩块。由于它们是抽象的、标志性的，因此很容易被吸收。由于它们是形式系统，因此舍弃了分散注意力的额外细节。通常情况下，我们的大脑需要做艰苦的工作，才能把杂乱无章的现实变成像游戏一样清晰的东西。
 
-In other words, games serve as very fundamental and powerful learning tools. It's one thing to read in a book that "[the map is not the territory](#user-content-fn-3)[^3]" and another to have your armies rolled over by your opponent in a game. When the latter happens because your map didn't adequately reflect what was going on, you're _gonna get the point_ even if the actual armies aren't marching into your suburban home.
+In other words, games serve as very fundamental and powerful learning tools. It's one thing to read in a book that "[the map is not the territory](#user-content-fn-3)[^3]" and another to have your armies rolled over by your opponent in a game. When the latter happens because your map didn't adequately reflect what was going on, you're *gonna get the point* even if the actual armies aren't marching into your suburban home.
 
-换句话说，游戏是非常基本和强大的学习工具。在书中读到“[地图不是领土](#user-content-fn-4)[^4]”是一回事，而在游戏中你的军队被对手辗过又是另一回事。当后者发生时，是因为你的地图没有充分反映当时的情况，即使真正的军队没有开进你郊区的家，你也会 _明白这一点_。
+换句话说，游戏是非常基本和强大的学习工具。在书中读到“[地图不是领土](#user-content-fn-4)[^4]”是一回事，而在游戏中你的军队被对手辗过又是另一回事。当后者发生时，是因为你的地图没有充分反映当时的情况，即使真正的军队没有开进你郊区的家，你也会*明白这一点*。
 
 The distinctions between toys and games, or between play and sport, start to seem a bit picky and irrelevant when you look at them in this light. There's been a lot of hay made over how play is non-goal-oriented and games tend to have goals; over how toys are aimed at pointless play rather than being games; about how make-believe is a form of play and not a game.
 
@@ -83,9 +83,9 @@ Almost all intentionally designed games fall prey to this. They are limited form
 
 几乎所有有意设计的游戏都会犯这个错误。它们是有限的正式系统。如果你一直玩下去，你最终会摸索出它们的大片可能性空间。从这个意义上说，游戏是一次性的，无聊是不可避免的。
 
-Fun comes from ["richly interpretable" situations](#user-content-fn-9)[^9]. Games that rigidly define rules and situations are more susceptible to mathematical analysis, which is a limitation in itself. We don't think that we can drive just because we know the rules of the road and the controls of a car, but extremely formal games (such as most board games) have fairly few variables, and so you can often extrapolate out everything about how the game will go from the known rule set. This is an important insight for game designers: _[the more rigidly constructed your game is, the more limited it will be.](#user-content-fn-10)[^10]_  To make games more long-lasting, they need to integrate either math problems we don't know the solutions to, or more variables (and less predictable ones) such as human psychology, physics, and so on. These are elements that arise from outside the game's rules and from outside the "magic circle."
+Fun comes from ["richly interpretable" situations](#user-content-fn-9)[^9]. Games that rigidly define rules and situations are more susceptible to mathematical analysis, which is a limitation in itself. We don't think that we can drive just because we know the rules of the road and the controls of a car, but extremely formal games (such as most board games) have fairly few variables, and so you can often extrapolate out everything about how the game will go from the known rule set. This is an important insight for game designers: *[the more rigidly constructed your game is, the more limited it will be.](#user-content-fn-10)[^10]*  To make games more long-lasting, they need to integrate either math problems we don't know the solutions to, or more variables (and less predictable ones) such as human psychology, physics, and so on. These are elements that arise from outside the game's rules and from outside the "magic circle."
 
-乐趣来自于[“丰富的可解释性”](#user-content-fn-11)[^11]。严格定义规则和情境的游戏更容易受到数学分析的影响，这本身就是一种限制。我们不会因为知道了道路规则和汽车的控制方法就认为自己会开车，但极其正式的游戏（如大多数棋盘游戏）变量相当少，因此你往往可以从已知的规则中推断出游戏的一切走向。这对游戏设计者来说是一个重要的启示：_[你的游戏构造得越死板，它的局限性就越大。](#user-content-fn-12)[^12]_ 要想让游戏更持久，就需要融入我们不知道解法的数学问题，或者更多的变量（而且是不那么容易预测的变量），比如人类心理学、物理学等等。这些元素来自游戏规则之外，也来自“魔法阵”之外。
+乐趣来自于[“丰富的可解释性”](#user-content-fn-11)[^11]。严格定义规则和情境的游戏更容易受到数学分析的影响，这本身就是一种限制。我们不会因为知道了道路规则和汽车的控制方法就认为自己会开车，但极其正式的游戏（如大多数棋盘游戏）变量相当少，因此你往往可以从已知的规则中推断出游戏的一切走向。这对游戏设计者来说是一个重要的启示：*[你的游戏构造得越死板，它的局限性就越大。](#user-content-fn-12)[^12]* 要想让游戏更持久，就需要融入我们不知道解法的数学问题，或者更多的变量（而且是不那么容易预测的变量），比如人类心理学、物理学等等。这些元素来自游戏规则之外，也来自“魔法阵”之外。
 
 (If it's any consolation to games, that's where game theory tends to fall down too—psych tends not to be that amenable to math.)
 
