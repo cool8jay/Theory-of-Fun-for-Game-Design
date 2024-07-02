@@ -1,5 +1,9 @@
 # Chapter 9 Games in Context 第九章 情境下的游戏
 
+<p align="center">
+<img src="images/9.0.png"/>
+</p>
+
 Game design is becoming a discipline. In the past 10 years there has been a large increase in the number of books about game design, the beginnings of a critical vocabulary, and the creation of academic programs. The field has started to move away from the hit-or-miss shot-in-the-dark approach, and towards an understanding of how games work.
 
 游戏设计正在成为一门学科。在过去的 10 年中，有关游戏设计的书籍数量大幅增加，批判性词汇开始出现，学术项目也开始设立。这一该领域已开始从碰运气的摸索方式中走出，转向对游戏运作机制的理解。

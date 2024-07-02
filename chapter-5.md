@@ -1,5 +1,9 @@
 # Chapter 5 What Games Aren't? 第五章 游戏不是什么？
 
+<p align="center">
+<img src="images/5.0.png"/>
+</p>
+
 Until now, I've been discussing formal game design—abstract simulations. I've also been pretty loose with the term "game," conflating game systems with games. But we rarely see truly abstract simulations in games. People tend to dress up game systems with some fiction. Designers put artwork on them that is suggestive of some real-world context. Take checkers for example—abstractly, it's a board game about entrapment and forced action, played on a diamond-shaped grid. When we say ["king me"](#user-content-fn-1)[^1] in checkers, we're adding a subtle bit of fiction to the game; suddenly it has acquired feudal overtones and a medieval context. Usually, the pieces have a crown embossed on them.
 
 截至目前，我一直在讨论正式的游戏设计——抽象的模拟。我对“游戏”一词的使用也很随意，把游戏系统和游戏混为一谈。但我们很少在游戏中看到真正抽象的模拟。人们往往会用一些虚构的东西来装扮游戏系统。设计者会在游戏中加入一些艺术元素，让人联想到现实世界中的一些场景。以跳棋为例——抽象地看，这是一种在菱形棋盘上进行的关于围捕和强制行动的棋盘游戏。当我们在跳棋中说[“升王”](#user-content-fn-2)[^2]时，我们就给这个游戏添加了一点微妙的虚构成分；突然间，它就有了封建色彩和中世纪背景。通常情况下，棋子上会刻上王冠图案。

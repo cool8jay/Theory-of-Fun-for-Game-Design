@@ -1,5 +1,9 @@
 # Chapter 10 The Ethics of Entertainment 第十章 娱乐伦理
 
+<p align="center">
+<img src="images/10.0.png"/>
+</p>
+
 Nobody actually interacts with games on an abstract level exclusively. You don't play the abstract diagrams of games that I have drawn on the facing pages; you play the ones that have little spaceships and laser bolts and things that go BOOM! The core of gameplay may be about the emotion I am terming "fun," the emotion that is about learning puzzles and mastering responses to situations, but this doesn't mean that the other sorts of things we lump under fun do not contribute to the overall experience.
 
 实际上，没有人只在抽象层面上与游戏互动。你不会去玩我在对面页面上画的抽象游戏图；你玩的是那些有小飞船、激光枪和会发出“轰！”声的东西的游戏。游戏玩法的核心可能与我所说的“开心”这种情感有关，这种情感是关于学习谜题和掌握应对各种情境的方法，但这并不意味着我们归类到乐趣下的其他各种事物对整体体验没有贡献。

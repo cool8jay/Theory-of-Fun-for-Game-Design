@@ -1,5 +1,9 @@
 # Chapter 12 Taking Their Rightful Place 第十二章 回到应有的位置
 
+<p align="center">
+<img src="images/12.0.png"/>
+</p>
+
 There are games that succeed at portraying concepts like social good or honor through mechanics—the work of [Dani Bunten Berry](#user-content-fn-1)[^1] comes to mind. But far too many games do not do so with conscious intent. Games have the capability to sit on the shelf next to all other communications media. They are capable of art. They are capable of portraying the human condition. They are teaching tools. They carry socially redeeming content. They elicit emotion.
 
 有些游戏通过机制成功地描绘了社会公益或荣誉等概念——我想到了[达妮·本腾·贝瑞](#user-content-fn-2)[^2]的作品。但有太多的游戏并非有意为之。游戏有能力与所有其他传播媒介并驾齐驱。它们可以成为艺术。它们能够描绘人类的状况。它们是教学工具。它们承载着社会救赎的内容。它们能激发情感。
