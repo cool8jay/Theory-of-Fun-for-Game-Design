@@ -1,7 +1,7 @@
 # Chapter 1 Why Write This Book? 第一章 为什么要写这本书？
 
 <p align="center">
-  <img src="images/1.0.png"/>
+<img src="images/1.0.png"/>
 </p>
 
 Our kids took to games at a very early age. Games were all around them, and I brought home a crazy amount of them because of my work. I suppose it's no surprise that children model their parents. But my wife and I are also voracious readers, and the kids were resistant to that. Their attraction to games was more instinctive. As babies, they found the game of hide-the-object to be endlessly fascinating, and even now that they are older it elicits an occasional giggle. As babies there was an intentness about their alien gaze, as they tried to figure out where the rubber duckie had gone, that showed that this game was, for them, in deadly earnest.

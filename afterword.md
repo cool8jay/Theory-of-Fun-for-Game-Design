@@ -1,5 +1,9 @@
 # Afterword: Ten Years Later 跋：十年之后
 
+<p align="center">
+<img src="images/afterword.png"/>
+</p>
+
 It all began as a keynote address at the very first Austin Games Conference.
 
 这一切都源于首届奥斯汀游戏大会的主题演讲。

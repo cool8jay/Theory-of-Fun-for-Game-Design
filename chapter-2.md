@@ -42,7 +42,7 @@ Game designers themselves offer a bewildering and often contradictory set of def
 * [Sid Meier](#user-content-fn-11)[^11], designer of the classic *Civilization* computer games, gave a famous definition of "a series of meaningful choices."\
     经典电脑游戏 *《文明》* 的设计师[席德·梅尔](#user-content-fn-12)[^12]给出了一个著名的定义：“一系列有意义的选择。”
     
-* Ernest Adams and Andrew Rollings, authors of _[Andrew Rollings and Ernest Adams on Game Design](#user-content-fn-13)[^13]_, narrow this further to "one or more causally linked series of challenges in a simulated environment."\
+* Ernest Adams and Andrew Rollings, authors of *[Andrew Rollings and Ernest Adams on Game Design](#user-content-fn-13)[^13]*, narrow this further to "one or more causally linked series of challenges in a simulated environment."\
     *[《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》](#user-content-fn-14)[^14]* 一书的作者欧内斯特·亚当斯和安德鲁·罗林斯将这一定义进一步缩小为“模拟环境中一个或多个因果联系的系列挑战。”
     
 * [Katie Salen and Eric Zimmerman say in their book Rules of Play](#user-content-fn-15)[^15] that a game is "a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome."\
@@ -80,9 +80,9 @@ Simply put, the brain is made to fill in blanks. We do this so much we don't eve
 
 简单来说，大脑天生就是用来填补空白的。我们这样做得如此频繁，以至于我们甚至没有意识到自己在这么做。
 
-Experts have been telling us for a while now that we're not really "conscious" in the way that we think we are; we do most things on autopilot. But autopilot only works when we have a reasonably accurate picture of the world around us. Our noses really ought to be blocking a lot of our view, but when we cross our eyes, our brains magically make our [nose invisible](#user-content-fn-19)[^19]. What the heck has the brain managed to put in its place? The answer, oddly, is an _assumption_—a reasonable construct based on the input from both eyes and what we have seen before.
+Experts have been telling us for a while now that we're not really "conscious" in the way that we think we are; we do most things on autopilot. But autopilot only works when we have a reasonably accurate picture of the world around us. Our noses really ought to be blocking a lot of our view, but when we cross our eyes, our brains magically make our [nose invisible](#user-content-fn-19)[^19]. What the heck has the brain managed to put in its place? The answer, oddly, is an *assumption*—a reasonable construct based on the input from both eyes and what we have seen before.
 
-专家们已经告诉我们一段时间，我们的“意识”并不像我们认为的那样，我们做的大多数事情都是在自动驾驶状态下完成的。但是，只有当我们对周围的世界有一个相当准确的认识时，自动驾驶才会起作用。我们的鼻子本应挡住我们的大部分视线，但当我们双眼交叉时，大脑却神奇地让我们的[鼻子隐形](#user-content-fn-20)[^20]了。大脑究竟用什么取代了鼻子的位置呢？奇怪的是，答案是一种 _假设_——一种基于双眼睛的输入和我们以往所见而形成的合理构想。
+专家们已经告诉我们一段时间，我们的“意识”并不像我们认为的那样，我们做的大多数事情都是在自动驾驶状态下完成的。但是，只有当我们对周围的世界有一个相当准确的认识时，自动驾驶才会起作用。我们的鼻子本应挡住我们的大部分视线，但当我们双眼交叉时，大脑却神奇地让我们的[鼻子隐形](#user-content-fn-20)[^20]了。大脑究竟用什么取代了鼻子的位置呢？奇怪的是，答案是一种*假设*——一种基于双眼睛的输入和我们以往所见而形成的合理构想。
 
 Assumptions are what the brain is best at. Some days, I suspect that makes us despair.
 
@@ -108,17 +108,17 @@ There's a whole branch of science dedicated to figuring out [how the brain knows
 
 有一门科学专门研究[大脑如何知道自己在做什么](#user-content-fn-22)[^22]。这已经带来了一系列奇妙的发现。
 
-We've learned that if you show someone a movie with a lot of basketball players in it and tell them in advance to count the basketballs, they will probably miss [the large gorilla](#user-content-fn-23)[^23] in the background, even though it's a somewhat noticeable object. _The brain is good at cutting out the irrelevant_.
+We've learned that if you show someone a movie with a lot of basketball players in it and tell them in advance to count the basketballs, they will probably miss [the large gorilla](#user-content-fn-23)[^23] in the background, even though it's a somewhat noticeable object. *The brain is good at cutting out the irrelevant*.
 
-我们已经知道，如果你给别人看一部有很多篮球运动员的电影，并事先告诉他们数篮球，他们很可能会错过背景中的[大猩猩](#user-content-fn-24)[^24]，尽管它是一个有点引人注目的物体。_大脑善于剔除无关紧要的东西_。
+我们已经知道，如果你给别人看一部有很多篮球运动员的电影，并事先告诉他们数篮球，他们很可能会错过背景中的[大猩猩](#user-content-fn-24)[^24]，尽管它是一个有点引人注目的物体。*大脑善于剔除无关紧要的东西*。
 
-We've also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. _The brain notices a lot more than we think it does_.
+We've also found that if you get someone into a hypnotic trance and ask her to describe something, she will often describe much more than if she were asked on the street. *The brain notices a lot more than we think it does*.
 
-我们还发现，如果你让一个人进入催眠恍惚状态，让她描述某件事情，她描述的内容往往会比在大街上问她要多得多。_大脑注意到的东西比我们想象的要多得多_。
+我们还发现，如果你让一个人进入催眠恍惚状态，让她描述某件事情，她描述的内容往往会比在大街上问她要多得多。*大脑注意到的东西比我们想象的要多得多*。
 
-We now know that when you ask someone to draw something, he is far more likely to draw the generalized iconic version of the object that he keeps in his head than he is to draw the actual object in front of him. In fact, seeing what is actually there with our conscious mind is really hard to do, and most people never learn how to do it! _The brain is actively hiding the real world from us_.
+We now know that when you ask someone to draw something, he is far more likely to draw the generalized iconic version of the object that he keeps in his head than he is to draw the actual object in front of him. In fact, seeing what is actually there with our conscious mind is really hard to do, and most people never learn how to do it! *The brain is actively hiding the real world from us*.
 
-我们现在知道，当你让一个人画某样东西时，他画出自己脑中保存的该物体的概括性图标版本的可能性要远远大于画出眼前的实际物体。事实上，用我们有意识的思维去看实际存在的东西真的很难做到，而且大多数人永远也学不会！_大脑在积极地向我们隐藏真实的世界_。
+我们现在知道，当你让一个人画某样东西时，他画出自己脑中保存的该物体的概括性图标版本的可能性要远远大于画出眼前的实际物体。事实上，用我们有意识的思维去看实际存在的东西真的很难做到，而且大多数人永远也学不会！*大脑在积极地向我们隐藏真实的世界*。
 
 These things fall under the rubric of "[cognitive theory](#user-content-fn-25)[^25]," a fancy way of saying "how we think we know what we think we know." Most of them are examples of a concept called "[chunking](#user-content-fn-26)[^26]."
 
@@ -188,9 +188,9 @@ This isn't exactly a revelation to anyone in the arts. Excess chaos just doesn't
 
 这对艺术界的人来说并不是什么启示。过度的混乱并没有大众吸引力。我们称之为“噪音”、“丑陋”或者“杂乱”。我大学时的音乐老师说过：“音乐是有序的声音和寂静。”在这句话中，“有序”是一个相当重要的词。
 
-There's some highly ordered music that doesn't appeal to most of us, though. A lot of folks say that the strain of jazz known as bebop is just noise. But I'm going to offer up an alternate definition of noise: _Noise is any pattern we don't understand_.
+There's some highly ordered music that doesn't appeal to most of us, though. A lot of folks say that the strain of jazz known as bebop is just noise. But I'm going to offer up an alternate definition of noise: *Noise is any pattern we don't understand*.
 
-不过，有些高度有序的音乐的受众却很小。很多人说，被称为比波普的爵士乐分支只是噪音。但我要给噪音下一个另类的定义：_噪音是任何我们不理解的模式_。
+不过，有些高度有序的音乐的受众却很小。很多人说，被称为比波普的爵士乐分支只是噪音。但我要给噪音下一个另类的定义：*噪音是任何我们不理解的模式*。
 
 [Even static has patterns to it](#user-content-fn-35)[^35]. If the little black and white dots are the output of random numbers, they have the pattern of the output of random number generators—a complex pattern, but a pattern nonetheless. If you happen to know the algorithm used to generate the number, and the seed from which the algorithm started, you could exactly replicate that static. There's really next to nothing in the visible universe that is patternless. If we perceive something as noise, it's most likely a failure in ourselves, not a failure in the universe.
 
@@ -264,7 +264,7 @@ The last kind of thinking is not thinking. When you stick your finger in fire, y
 
 最后一种思考不是思考。当你把手指伸进火里时，你会在大脑来不及思考*之前*就把它收回来（说真的，有人[测过](#user-content-fn-50)[^50]）。
 
-Calling this "muscle memory" is a lie. Muscles don't really have memory. They're just big ol' springs that coil and uncoil when you run electrical current through them. It's really all about nerves. There's a very large part of your body that works based on the _autonomic nervous system_, which is a fancy way of saying that it makes its own decisions. Some of it is stuff you can learn to bring under more conscious control, like your heart rate. Some of it is reflexes, like snatching your fingers out of the fire. And some of it is stuff you train your body to do.
+Calling this "muscle memory" is a lie. Muscles don't really have memory. They're just big ol' springs that coil and uncoil when you run electrical current through them. It's really all about nerves. There's a very large part of your body that works based on the *autonomic nervous system*, which is a fancy way of saying that it makes its own decisions. Some of it is stuff you can learn to bring under more conscious control, like your heart rate. Some of it is reflexes, like snatching your fingers out of the fire. And some of it is stuff you train your body to do.
 
 说这是“肌肉记忆”是骗人的。肌肉并没有真正的记忆。它们只是一个大弹簧，当电流通过它们时，它们就会卷起或松开。真正有记忆的是神经。你的身体有很大一部分是基于*自主神经系统*工作的，这是一种花哨的说法，意味着它自己做出决定。其中有些是你可以学会有意识控制，比如你的心率。有些是条件反射，比如把手指从火中拽出来。还有一些是你训练身体去做的事情。
 
