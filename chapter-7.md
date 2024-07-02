@@ -96,13 +96,13 @@ There's a good reason why we instinctively and jealously preserve the notions of
 
 我们本能地珍视体育精神和公平竞争的理念是有道理的。如果在现实世界中出现了某个游戏所教给我们的课程，那么作弊就可能不起作用。作弊可能无法让我们做好正确的准备。这也是为什么在足球比赛中踢对手被认为是一种不良行为的原因之一。(另一个原因是两队都不喜欢被踢）。无论足球的基本机制在教导我们什么，踢对手都不在足球的正式框架之内。规则的作用是强化[社会契约](#user-content-fn-4)[^4]。
 
-Players and designers often make the distinction between "cheating" and "exploiting a loophole." They always struggle to define this, but it boils down to whether or not the extraneous action is one that resides within the magic circle of the game's framework or not. Unsurprisingly, exploiters are often the most expert players of a game. They see the places where the rules don't quite jibe. This is also why they often think that it's unfair when sticklers for the rules tell them that what they did is not allowed. Their logic goes something like "if the game permits it, then it's legal."
+Players and designers often make the distinction between "cheating" and "exploiting a loophole." They always struggle to define this, but it boils down to whether or not the extraneous action is one that resides within the magic circle of the game's framework or not. Unsurprisingly, exploiters are often the *most* expert players of a game. They see the places where the rules don't quite jibe. This is also why they often think that it's unfair when sticklers for the rules tell them that what they did is not allowed. Their logic goes something like "if the game permits it, then it's legal."
 
-球员和设计师经常会区分“作弊”和“钻空子”。他们总是费尽心思去界定这一点，但归根结底还是要看不相干的行为是否在游戏框架的魔力圈内。毫不奇怪，钻空子的人往往是游戏中最专业的玩家。他们能看到规则不协调的地方。这也是为什么他们经常会认为，当严格遵守规则的人告诉他们，他们所做的是不被允许的，这是不公平的。他们的逻辑是“如果游戏允许，那就是合法的。”
+球员和设计师经常会区分“作弊”和“钻空子”。他们总是费尽心思去界定这一点，但归根结底还是要看不相干的行为是否在游戏框架的魔力圈内。毫不奇怪，钻空子的人往往是游戏中*最*专业的玩家。他们能看到规则不协调的地方。这也是为什么他们经常会认为，当严格遵守规则的人告诉他们，他们所做的是不被允许的，这是不公平的。他们的逻辑是“如果游戏允许，那就是合法的。”
 
-But the game is usually intended to put players through a particular challenge, and while a bad design may allow the player to circumvent the challenge, we resent it because it's circumvention. It's not exactly evidence of mastery of a technique to solve the problem. Often games are trying to teach techniques; they don't merely give players goals and tell them to solve them any way they please.
+But the game is usually intended to put players through a particular challenge, and while a bad design may allow the player to circumvent the challenge, we resent it *because* it's circumvention. It's not exactly evidence of mastery of a technique to solve the problem. Often games are trying to teach techniques; they don't merely give players goals and tell them to solve them any way they please.
 
-但游戏的目的通常是让玩家通过特定的挑战，虽然糟糕的设计可能会让玩家规避挑战，我们讨厌这样子，因为这是一种欺骗。这并不能证明玩家掌握了解决问题的技巧。游戏通常是在传授技巧，而不仅仅是给玩家一个目标，让他们用自己喜欢的方式去解决问题。
+但游戏的目的通常是让玩家通过特定的挑战，虽然糟糕的设计可能会让玩家规避挑战，我们讨厌这样子，*因为*这是一种欺骗。这并不能证明玩家掌握了解决问题的技巧。游戏通常是在传授技巧，而不仅仅是给玩家一个目标，让他们用自己喜欢的方式去解决问题。
 
 We can rectify this to a degree via good game design (and even better, we can make games that don't prescribe solutions—that's a rather limited game, and it severely undermines what games are about). But in the end, we're fighting a losing battle against a natural human tendency: to get better at things.
 
@@ -128,9 +128,9 @@ These games, however, do not permit progress. [Most games do not permit innovati
 
 然而，这些游戏并不允许进步。[大多数游戏不允许创新和发明](#user-content-fn-6)[^6]。它们呈现的是一种模式。跳出模式进行创新从本质上超出了魔法阵的范围。你几乎永远无法改变游戏的物理原理。
 
-Human beings are all about progress. We like life to be easier. We're lazy that way. We like to find ways to become more efficient. We like to find ways to keep from doing something over and over. We dislike tedium, sure, but the fact is that we crave predictability. Our whole life is built on it. Unpredictable things are stuff like drive-by shootings, lightning bolts that fry us, smallpox, food poisoning—unpredictable things can kill us! We tend to avoid them. We instead prefer sensible shoes, pasteurized milk, vaccines, lightning rods, and laws. These things aren't perfect, but they do significantly reduce the odds of unpredictable things happening to us.
+Human beings are *all* about progress. We like life to be easier. We're lazy that way. We like to find ways to become more efficient. We like to find ways to keep from doing something over and over. We dislike tedium, sure, but the fact is that we crave *predictability*. Our whole life is built on it. Unpredictable things are stuff like drive-by shootings, lightning bolts that fry us, smallpox, food poisoning—unpredictable things can kill us! We tend to avoid them. We instead prefer sensible shoes, pasteurized milk, vaccines, lightning rods, and laws. These things aren't perfect, but they do significantly reduce the odds of unpredictable things happening to us.
 
-人类追求进步。我们喜欢生活变得简单。我们懒惰。我们喜欢想方设法提高效率。我们喜欢想办法避免重复做某事。我们当然不喜欢单调乏味，但事实上，我们渴望可预见性。我们的整个生活都建立在可预测性之上。不可预知的东西，比如驾车枪击、把我们烧焦的闪电、天花、食物中毒——不可预知的东西会要了我们的命！我们倾向于避开它们。相反，我们更倾向于穿合脚的鞋子、喝巴氏杀菌奶、接种疫苗、避雷针和法律。这些东西并不完美，但它们确实大大降低了不可预知的事情发生在我们身上的几率。
+人类*全都*关乎进步。我们喜欢生活变得简单。我们懒惰。我们喜欢想方设法提高效率。我们喜欢想办法避免重复做某事。我们当然不喜欢单调乏味，但事实上，我们渴望*可预见性*。我们的整个生活都建立在可预测性之上。不可预知的东西，比如驾车枪击、把我们烧焦的闪电、天花、食物中毒——不可预知的东西会要了我们的命！我们倾向于避开它们。相反，我们更倾向于穿合脚的鞋子、喝巴氏杀菌奶、接种疫苗、避雷针和法律。这些东西并不完美，但它们确实大大降低了不可预知的事情发生在我们身上的几率。
 
 {% hint style="info" %}
 译者注：drive-by shootings，驾车枪击。犯罪分子在驾车经过目标时进行射击的行为，这种攻击方式往往突然且迅速，使受害者难以防备，同时让犯罪分子能够快速逃离现场。
@@ -160,9 +160,9 @@ This leads to behaviors like "bottom-feeding," where a player will intentionally
 
 这就导致了“抄底”等行为，玩家会故意与较弱的对手较量，其合理的逻辑是，与把全部赌注都押在不确定的赢家通吃的战斗上相比，稳操胜券才是更好的策略。玩家把一个简单的关卡玩上两百次，积累足够的生命值，这样他们就能在几乎没有风险的情况下完成游戏的其余部分，这就相当于为冬天储备食物：这是明智之举。
 
-This is what games are for. They teach us things so that we can minimize risk and know what choices to make. Phrased another way, [the destiny of games](#user-content-fn-7)[^7] is to become boring, not to be fun. Those of us who want games to be fun are fighting a losing battle against the human brain because fun is a process and routine is its destination.
+This is what games are *for*. They teach us things so that we can minimize risk and know what choices to make. Phrased another way, [the destiny of games](#user-content-fn-7)[^7] is to become boring, not to be fun. Those of us who want games to be fun are fighting a losing battle against the human brain because fun is a process and routine is its destination.
 
-这就是游戏的作用。游戏教会我们一些东西，这样我们就能把风险降到最低，并知道该做出怎样的选择。换一种说法，[游戏的命运](#user-content-fn-8)[^8]是变得无聊，而不是变得有趣。我们中那些希望游戏变得有趣的人，正在与人类大脑进行一场失败的战斗，因为有趣是一个过程，而常规才是它的终点。
+这就是游戏的*作用*。游戏教会我们一些东西，这样我们就能把风险降到最低，并知道该做出怎样的选择。换一种说法，[游戏的命运](#user-content-fn-8)[^8]是变得无聊，而不是变得有趣。我们中那些希望游戏变得有趣的人，正在与人类大脑进行一场失败的战斗，因为有趣是一个过程，而常规才是它的终点。
 
 So players often intentionally suck the fun out of a game in hopes they can learn something new (in other words, find something fun) once they complete the task. They'll do it because they perceive it (correctly) as the optimal strategy for getting ahead. They'll do it because they see others doing it, and it's outright unnatural for a human being to see another human being succeeding at something and not want to compete.
 
@@ -259,9 +259,9 @@ Looking at these elementary particles that make up ludemes, it's easy to see why
 > 
 > 过去，大多数长寿游戏都具有竞争性，因为它们会带来无穷无尽的相似但略有不同的谜题。
 
-Historically, competitive game-playing of all sorts has tended to squeeze out the people who most need to learn the skills it provides, simply because they aren't up to the competition and they are eliminated in their first match. This is the essence of the Mastery Problem. Because of this, a lot of people prefer games that take no skill. These people are definitely failing to exercise their brains correctly. Not requiring skill from a player should be considered a cardinal sin in game design. At the same time, designers of games need to be careful not to make the game demand too much skill. They must keep in mind that players are always trying to reduce the difficulty of a task. The easiest way to do that is to not play.
+Historically, competitive game-playing of all sorts has tended to squeeze out the people who most need to learn the skills it provides, simply because they aren't up to the competition and they are eliminated in their first match. This is the essence of the Mastery Problem. Because of this, a lot of people prefer games that take no skill. These people are definitely failing to exercise their brains correctly. *Not requiring skill from a player should be considered a cardinal sin in game design*. At the same time, designers of games need to be careful not to make the game demand too much skill. They must keep in mind that players are always trying to reduce the difficulty of a task. The easiest way to do that is to not play.
 
-从历史上看，各种竞技游戏往往会挤掉最需要学习其所提供技能的人，原因很简单，因为他们不适应竞争，在第一场比赛中就被淘汰了。这就是 “掌握问题”的本质。正因为如此，很多人更喜欢不需要技巧的游戏。这些人肯定没有正确锻炼自己的大脑。不要求玩家掌握技巧应被视为游戏设计中的大忌。同时，游戏设计者也需要注意，不要让游戏对玩家的技能要求过高。他们必须牢记，玩家总是试图降低任务的难度。最简单的方法就是不玩。
+从历史上看，各种竞技游戏往往会挤掉最需要学习其所提供技能的人，原因很简单，因为他们不适应竞争，在第一场比赛中就被淘汰了。这就是 “掌握问题”的本质。正因为如此，很多人更喜欢不需要技巧的游戏。这些人肯定没有正确锻炼自己的大脑。*不要求玩家掌握技巧应被视为游戏设计中的大忌*。同时，游戏设计者也需要注意，不要让游戏对玩家的技能要求过高。他们必须牢记，玩家总是试图降低任务的难度。最简单的方法就是不玩。
 
 This isn't an algorithm for fun, but it's a useful tool for checking for the absence of fun, because designers can identify systems that fail to meet all the criteria. It may also prove useful in terms of game critique. Simply check each system against this list:
 
@@ -320,9 +320,9 @@ Most classic games consist of relatively few systems that fit together elegantly
 
 大多数经典游戏都由相对较少的系统组成，这些系统可以优雅地组合在一起。抽象策略游戏的整个流派都是关于如何优雅地选择游戏元素。但在当今世界，我们想要教授的许多课程可能都需要非常复杂的环境和许多活动部件——网络虚拟世界就是一个明显的例子。
 
-The lesson for designers is simple: a game is destined to become boring, automated, cheated, and exploited. Your sole responsibility is to know what the game is about and to ensure that the game teaches that thing. That one thing, the theme, the core, the heart of the game, might require many systems or it might require few. But no system should be in the game that does not contribute towards that lesson. It is the cynosure of all the systems; it is the moral of the story; it is the point.
+The lesson for designers is simple: a game is destined to become boring, automated, cheated, and exploited. Your sole responsibility is to know what the game is about and to ensure that the game teaches that thing. That one thing, the theme, the core, the heart of the game, might require many systems or it might require few. But *no system should be in the game that does not contribute towards that lesson*. It is the cynosure of all the systems; it is the moral of the story; it is the point.
 
-对于设计者来说，教训很简单：游戏注定会变得无聊、自动化、欺骗和被利用。你唯一的责任就是要知道游戏是关于什么的，并确保游戏教给人们的就是这件事。这一件事，即游戏的主题、核心和心脏，可能需要很多系统，也可能只需要很少系统。但游戏中的任何系统都应该对这一课程有益。它是所有系统的核心；它是故事的寓意；它是重点。
+对于设计者来说，教训很简单：游戏注定会变得无聊、自动化、欺骗和被利用。你唯一的责任就是要知道游戏是关于什么的，并确保游戏教给人们的就是这件事。这一件事，即游戏的主题、核心和心脏，可能需要很多系统，也可能只需要很少系统。但*游戏中的任何系统都应该对这一课程有益*。它是所有系统的核心；它是故事的寓意；它是重点。
 
 In the end, that is both the glory of learning and its fundamental problem: once you learn something, it's over. You don't get to learn it again.
 
