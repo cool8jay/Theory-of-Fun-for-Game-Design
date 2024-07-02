@@ -109,9 +109,9 @@ None of this is to minimize the fact that Deathrace does involve running over pe
 
 这并不是要淡化《亡命赛车》确实涉及碾压行人并将他们压成小墓碑图标的事实。这确实是存在的，而且应该受到谴责。这不是游戏的一个很好设定或舞台，但这也并不是游戏真正要传达的内容。
 
-Learning to see that division is important to our understanding of games, and I'll touch on it at greater length later. For now, suffice it to say that the part of games that is least understood is the formal abstract system portion of it, the mathematical part of it, the chunky part of it. Attacks on other aspects of games are likely to miss the key point—at their core, games need to develop this formal aspect of themselves in order to improve.
+Learning to see that division is important to our understanding of games, and I'll touch on it at greater length later. For now, suffice it to say that the part of games that is *least* understood is the formal abstract system portion of it, the mathematical part of it, the chunky part of it. Attacks on other aspects of games are likely to miss the key point—at their core, games need to develop this formal aspect of themselves in order to improve.
 
-学会看待这种划分对于我们理解游戏非常重要，我稍后会详细论述。现在，我只想说，游戏中最不为人所理解的部分是它的形式化抽象系统部分、数学部分、认知块部分。对游戏其他方面的攻击很可能会错过关键点——游戏的核心就是需要发展其自身的形式方面，才能不断进步。
+学会看待这种划分对于我们理解游戏非常重要，我稍后会详细论述。现在，我只想说，游戏中*最*不为人所理解的部分是它的形式化抽象系统部分、数学部分、认知块部分。对游戏其他方面的攻击很可能会错过关键点——游戏的核心就是需要发展其自身的形式方面，才能不断进步。
 
 <div align="center">
 <img src="images/5.3.png">
@@ -176,13 +176,13 @@ In both cases, when stories and games are good, you can come back to them repeat
 
 在这两种情况下，如果故事和游戏都不错，你就可以反复回味，不断学到新东西。但我们从来没有说过要完全掌握一个好故事。
 
-I don't think anyone would quarrel with the notion that stories are one of humanity's chief teaching tools. One might quarrel with the notion that play is the other and that mere lecturing runs a distant third. I also don't think that many would quarrel with the notion that stories have achieved far greater artistic heights than games have, despite the fact that play probably predates story (after all, even animals play, whereas stories require some form of language).
+I don't think anyone would quarrel with the notion that stories are one of humanity's chief teaching tools. One might quarrel with the notion that play is the other and that mere lecturing runs a distant third. I also don't think that many would quarrel with the notion that stories have achieved far greater artistic heights than games have, despite the fact that play probably *predates* story (after all, even animals play, whereas stories require some form of language).
 
-我想没有人会反对故事是人类主要教学工具之一的观点。有人可能会争论说，游戏是另一种工具，而单纯的说教只能排在第三位。我也不认为有多少人会反对故事的艺术成就远远高于游戏的观点，尽管事实上游戏可能早于故事（毕竟，连动物都会玩，而故事则需要某种形式的语言）。
+我想没有人会反对故事是人类主要教学工具之一的观点。有人可能会争论说，游戏是另一种工具，而单纯的说教只能排在第三位。我也不认为有多少人会反对故事的艺术成就远远高于游戏的观点，尽管事实上游戏可能*早于*故事（毕竟，连动物都会玩，而故事则需要某种形式的语言）。
 
-Are stories superior? We often speak of wanting to make a game that makes players cry. The classic example is the text adventure game [Planetfall](#user-content-fn-25)[^25], where Floyd the robot sacrifices himself for you. But it happens outside of player control, so it isn't a challenge to overcome. It's grafted on, not part of the game. What does it say about games that the peak emotional moment usually cited actually involves cheating, rather than using game systems?
+Are stories superior? We often speak of wanting to make a game that makes players cry. The classic example is the text adventure game [Planetfall](#user-content-fn-25)[^25], where Floyd the robot sacrifices himself for you. But it happens outside of player control, so it isn't a challenge to overcome. It's grafted on, not part of the game. What does it say about games that the peak emotional moment usually cited actually involves *cheating*, rather than using game systems?
 
-故事优越吗？我们经常说要做一款让玩家流泪的游戏。最经典的例子就是文字冒险游戏[《行星陨落》](#user-content-fn-26)[^26]，机器人弗洛伊德为你牺牲了自己。但这是在玩家控制之外发生的，所以并不是一个需要克服的挑战。它是嫁接上去的，不是游戏的一部分。游戏中最激动人心的时刻通常涉及作弊，而不是利用游戏系统，这说明了什么？
+故事优越吗？我们经常说要做一款让玩家流泪的游戏。最经典的例子就是文字冒险游戏[《行星陨落》](#user-content-fn-26)[^26]，机器人弗洛伊德为你牺牲了自己。但这是在玩家控制之外发生的，所以并不是一个需要克服的挑战。它是嫁接上去的，不是游戏的一部分。游戏中最激动人心的时刻通常涉及*作弊*，而不是利用游戏系统，这说明了什么？
 
 Games do better at emotions that relate to mastery. Stories can provide these too, however. Getting these sorts of emotional effects out of games may be the wrong approach—perhaps a better question is whether stories can be fun in the way games can.
 
@@ -299,21 +299,21 @@ A lot of these feel good, but they aren't necessarily "fun."
 > 
 > 让我离开这里！
 
-Aesthetic appreciation is the most interesting form of enjoyment to me. Science fiction writers call it "[sensawunda](#user-content-fn-39)[^39]." It's awe, it's mystery, it's harmony. I call it delight. Aesthetic appreciation, like fun, is about patterns. The difference is that aesthetics is about recognizing patterns, not learning new ones.
+Aesthetic appreciation is the most interesting form of enjoyment to me. Science fiction writers call it "[sensawunda](#user-content-fn-39)[^39]." It's awe, it's mystery, it's harmony. I call it delight. Aesthetic appreciation, like fun, is about patterns. The difference is that aesthetics is about *recognizing* patterns, not learning new ones.
 
-对我来说，审美欣赏是最有趣的享受形式。科幻小说家称之为“[惊奇感](#user-content-fn-40)[^40]”，是敬畏，是神秘，是和谐。我称之为愉悦。审美欣赏和乐趣一样，都是关于模式的。所不同的是，审美是识别模式，而不是学习新的模式。
+对我来说，审美欣赏是最有趣的享受形式。科幻小说家称之为“[惊奇感](#user-content-fn-40)[^40]”，是敬畏，是神秘，是和谐。我称之为愉悦。审美欣赏和乐趣一样，都是关于模式的。所不同的是，审美是*识别*模式，而不是学习新的模式。
 
-Delight strikes when we recognize patterns but are surprised by them. It's the moment at the end of Planet of the Apes when we see the Statue of Liberty. It's the thrill at the end of the mystery novel when everything falls into place. It's looking at the Mona Lisa and seeing that smile hovering at the edge of known expressions, and matching it to our hypothesis of what she's thinking. It's seeing a beautiful landscape and thinking all is right in the world.
+Delight strikes when we recognize patterns but are surprised by them. It's the moment at the end of *Planet of the Apes* when we see the Statue of Liberty. It's the thrill at the end of the mystery novel when everything falls into place. It's looking at the Mona Lisa and seeing that smile hovering at the edge of known expressions, and matching it to our hypothesis of what she's thinking. It's seeing a beautiful landscape and thinking all is right in the world.
 
-当我们认识到模式，却又为它的超乎意料的出现感到惊讶时，愉悦就会悄然而至。就像在《人猿星球》的结尾看到自由女神像的那一瞬间。就像在悬疑小说结尾，一切真相大白时的激动。就像看着蒙娜丽莎，看到那她在已知表情边缘徘徊的微笑，并将其与我们对她所思所想的假设相吻合。就像看到美丽的风景，觉得世界一切都很美好。
+当我们认识到模式，却又为它的超乎意料的出现感到惊讶时，愉悦就会悄然而至。就像在 *《人猿星球》* 的结尾看到自由女神像的那一瞬间。就像在悬疑小说结尾，一切真相大白时的激动。就像看着蒙娜丽莎，看到那她在已知表情边缘徘徊的微笑，并将其与我们对她所思所想的假设相吻合。就像看到美丽的风景，觉得世界一切都很美好。
 
-Why does a beautiful landscape make us feel that way? Because it meets our expectations and exceeds them. We find things beautiful when they are very close to our idealized image of what they should be, but with an additional surprising wrinkle. A perfectly closed-off plot, with just a couple of loose threads. A picture of a farmhouse, but the paint is peeling. Music that comes back to the tonic note and then drops a whole step further to end on an unresolved minor seventh. These send us chasing off after new patterns.
+Why does a beautiful landscape make us feel that way? Because it meets our expectations and *exceeds* them. We find things beautiful when they are very close to our idealized image of what they should be, but with an additional surprising wrinkle. A perfectly closed-off plot, with just a couple of loose threads. A picture of a farmhouse, but the paint is peeling. Music that comes back to the tonic note and then drops a whole step further to end on an unresolved minor seventh. These send us chasing off after new patterns.
 
-为什么美丽的景观会让我们有这种感觉？因为它符合我们的期望，而且超出了我们的期望。当事物非常接近我们理想中的样子，但又多了一个令人惊讶的皱褶时，我们就会觉得它很美。一个完美封闭的情节，却只有几条松散的线索。一幅农舍图，但油漆已经剥落。音乐回到了主音，然后又下降了一大步，以一个悬而未决的小七度结束。这些都让我们去追寻新的模式。
+为什么美丽的景观会让我们有这种感觉？因为它符合我们的期望，而且*超出*了我们的期望。当事物非常接近我们理想中的样子，但又多了一个令人惊讶的皱褶时，我们就会觉得它很美。一个完美封闭的情节，却只有几条松散的线索。一幅农舍图，但油漆已经剥落。音乐回到了主音，然后又下降了一大步，以一个悬而未决的小七度结束。这些都让我们去追寻新的模式。
 
-Beauty is found in the tension between our expectation and the reality. It is only found in settings of extreme order. Nature is full of extremely ordered things. The flowerbed bursting its boundaries is expressing the order of growth, the order of how living things stretch beyond their boundaries, even as it is in tension with the order of the well-manicured walkway.
+Beauty is found in the tension between our expectation and the reality. It is *only* found in settings of extreme order. Nature is full of extremely ordered things. The flowerbed bursting its boundaries is expressing the order of growth, the order of how living things stretch beyond their boundaries, even as it is in tension with the order of the well-manicured walkway.
 
-美在于我们的期望与现实之间的张力之中。它只存在于极端有序的环境中。大自然中充满了极度有序的事物。突破界限的花坛表达了生长的秩序，表达了生物如何超越自身界限的秩序，即使它与修剪整齐的人行道的秩序相冲突。
+美在于我们的期望与现实之间的张力之中。它*只*存在于极端有序的环境中。大自然中充满了极度有序的事物。突破界限的花坛表达了生长的秩序，表达了生物如何超越自身界限的秩序，即使它与修剪整齐的人行道的秩序相冲突。
 
 Delight, unfortunately, doesn't last. It's like the smile from a beautiful stranger in a stairwell—it's fleeting. It cannot be otherwise—recognition is not an extended process.
 
@@ -331,13 +331,13 @@ You can regain delight by staying away from the object that caused it previously
 > 
 > 最后，人们常常会对一些并非挑战的事情感到高兴。
 
-Fun, as I define it, is the feedback the brain gives us when we are absorbing patterns for learning purposes. Consider the basketball team that says, "We went out there to have fun tonight," versus the one that says, "We went out there to win." The latter team is approaching the game as no longer being practice. Fun is primarily about practicing and learning, not about exercising mastery. In fact, the fun often starts before the action does; [anticipating a solution](#user-content-fn-41)[^41] can be as exciting as applying one. Exercising mastery will give us some other feeling, because we are doing it for a reason, such as status enhancement or survival.
+Fun, as I define it, is the feedback the brain gives us when we are absorbing patterns for learning purposes. Consider the basketball team that says, "We went out there to have fun tonight," versus the one that says, "We went out there to win." The latter team is approaching the game as no longer being practice. Fun is primarily about practicing and learning, not about exercising mastery. In fact, the fun often starts before the action does; [anticipating a solution](#user-content-fn-41)[^41] can be as exciting as applying one. Exercising mastery will give us some other feeling, because we are doing it *for a reason*, such as status enhancement or survival.
 
 根据我的定义，“乐趣”是大脑在我们为了学习而吸收模式时给予我们的反馈。想想一支篮球队说："我们今晚上场是为了玩得开心"，而另一支篮球队说：“我们上场是为了赢球。”后一支球队对待比赛的态度不再是练习。乐趣主要在于练习和学习，而不是锻炼掌握技巧。事实上，乐趣往往在行动之前就已经开始了；[期待一个解决方案](#user-content-fn-42)[^42]和应用一个解决方案一样令人兴奋。锻炼掌握技巧会给我们带来其他感觉，因为我们这样做是有原因的，比如提高地位或生存。
 
-The lesson here is that fun is contextual. The reasons why we are engaging in an activity matter a lot. Bernard Suits called this "approaching things with a [lusory attitude](#user-content-fn-43)[^43]," which in part means putting the activity into that "magic circle" of lack of consequence. School is not usually all that fun because we take it seriously—it's not practice, it's for real, and your grades, social standing, and clothing determine whether you are in the in-crowd, or whether you sit at the table close to the cafeteria kitchen.
+The lesson here is that *fun is contextual*. The reasons why we are engaging in an activity matter a lot. Bernard Suits called this "approaching things with a [lusory attitude](#user-content-fn-43)[^43]," which in part means putting the activity into that "magic circle" of lack of consequence. School is not usually all that fun because we take it seriously—it's not practice, it's for real, and your grades, social standing, and clothing determine whether you are in the in-crowd, or whether you sit at the table close to the cafeteria kitchen.
 
-这里的教训是，乐趣是有背景的。我们从事一项活动的原因非常重要。伯纳德·苏伊茨将此称为“以一种[游戏的态度](#user-content-fn-44)[^44]对待事物”，这在一定程度上意味着将活动置于没有后果的“魔法圈”中。学校通常并不那么有趣，因为我们认真对待它——它不是练习，而是真实的，你的成绩、社会地位和衣着决定了你是圈内人，还是坐在靠近食堂厨房的桌子旁。
+这里的教训是，*乐趣是有背景的*。我们从事一项活动的原因非常重要。伯纳德·苏伊茨将此称为“以一种[游戏的态度](#user-content-fn-44)[^44]对待事物”，这在一定程度上意味着将活动置于没有后果的“魔法圈”中。学校通常并不那么有趣，因为我们认真对待它——它不是练习，而是真实的，你的成绩、社会地位和衣着决定了你是圈内人，还是坐在靠近食堂厨房的桌子旁。
 
 It's very telling that when we lose a competition, we often say, "Well, I was just doing it for fun." The implication is that we are shrugging off the loss of social status inherent in a loss. Since it was merely a form of practice, perhaps we didn't put forth our best effort.
 
