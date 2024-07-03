@@ -162,7 +162,7 @@ We're usually running on these [automatic chunked patterns](#user-content-fn-29)
 
 In fact, most of what we see is also a chunked pattern. We rarely look at the real world; we instead recognize something we have chunked and leave it at that. The world could easily be composed of cardboard stand-ins for real objects as far as our brains are concerned. One might argue that the essence of much of art is forcing us to see things as they are rather than as we assume them to be. Poems about trees force us to look at the majesty of bark and the subtlety of leaf, the strength of trunk and the amazing abstractness of the negative space between boughs; they are getting us to ignore the image in our head of "wood, big greenish, whatever" that we take for granted.
 
-事实上，我们所看到的大部分事物也是分块模式。我们很少去看真实的世界，而是去识别一些我们已经分块的东西，然后就不管它了。就我们的大脑而言，这个世界很容易由纸板组成的真实物体的替身。有人可能会说，许多艺术的本质就是迫使我们看到事物的本来面目，而不是我们假定的样子。关于树的诗歌迫使我们观察树皮的壮观和树叶的细腻、树干的力量和枝桠间负空间的惊人抽象性；它们让我们忽略我们头脑中理所当然的“木头、大块的绿色什么的”形象。
+事实上，我们所看到的大部分事物也是分块模式。我们很少去看真实的世界，而是去识别一些我们已经分块的东西，然后就不管它了。就我们的大脑而言，这个世界完全可以由真实物体的硬纸板替代品组成。有人可能会说，许多艺术的精髓在于迫使我们看到事物的本来面貌，而不是我们想当然以为的样子。关于树的诗歌迫使我们观察树皮的壮丽、树叶的微妙、树干的力量和枝桠间负空间的惊人抽象性；它们让我们忽略了我们脑海中“木头，大片绿色，等等”的固有印象。
 
 When something in a chunk does not behave as we expect it to, we have [problems](#user-content-fn-31)[^31]. It can even get us killed. If cars careen sideways on the road instead of moving forward as we expect them to, we no longer have a rapid response routine unless we have trained a "chunk" for it. And sadly, conscious thought is really inefficient. If you have to think about what you're doing, you're more liable to screw up. Your reaction times are orders of magnitude slower, and odds are good you'll get in a wreck.
 
@@ -190,7 +190,7 @@ This isn't exactly a revelation to anyone in the arts. Excess chaos just doesn't
 
 There's some highly ordered music that doesn't appeal to most of us, though. A lot of folks say that the strain of jazz known as bebop is just noise. But I'm going to offer up an alternate definition of noise: *Noise is any pattern we don't understand*.
 
-不过，有些高度有序的音乐的受众却很小。很多人说，被称为比波普的爵士乐分支只是噪音。但我要给噪音下一个另类的定义：*噪音是任何我们不理解的模式*。
+不过，有些高度有序的音乐的受众却很小。很多人说，被称为比波普的爵士乐分支只是噪音。但我要提出一个关于噪音的替代定义：*噪音是任何我们不理解的模式*。
 
 [Even static has patterns to it](#user-content-fn-35)[^35]. If the little black and white dots are the output of random numbers, they have the pattern of the output of random number generators—a complex pattern, but a pattern nonetheless. If you happen to know the algorithm used to generate the number, and the seed from which the algorithm started, you could exactly replicate that static. There's really next to nothing in the visible universe that is patternless. If we perceive something as noise, it's most likely a failure in ourselves, not a failure in the universe.
 
@@ -206,11 +206,11 @@ There's some highly ordered music that doesn't appeal to most of us, though. A l
 
 The first time you hear bebop jazz it may sound weird to you, especially if you've been reared on good old-fashioned "[three chords and the truth](#user-content-fn-37)[^37]" rock 'n' roll. It'll be "devil music," to borrow a term from countless exasperated parents who railed against their kids' choice of music.
 
-第一次听到贝波普爵士乐时，你可能会觉得怪怪的，尤其是如果你是在老式的“[三个和弦和真理](#user-content-fn-38)[^38]”摇滚乐中长大的话。借用无数气急败坏的父母对孩子音乐选择的抨击，这将是“魔鬼音乐”。
+第一次听到贝波普爵士乐时，你可能会觉得怪怪的，尤其是如果你是在老式的“[三个和弦和真理](#user-content-fn-38)[^38]”摇滚乐中长大的话。借用无数气急败坏的父母对孩子音乐选择的抨击，这就是“魔鬼音乐”。
 
 If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you'll spot the [flattened fifth](#user-content-fn-39)[^39] that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you *get it*, and experience a moment of discovery, of joy.
 
-如果你摆脱了最初的厌恶（可能只持续几分之一秒），你可能会发现其中蕴含的模式。例如，你会发现对爵士乐来说非常重要的[降五度](#user-content-fn-40)[^40]。你开始用手指敲打预期的 4/4 拍子，却沮丧地发现实际上是 7/8 拍或其他拍子。你会茫然一会儿，但一旦你*明白*了，你可能会体验到一丝喜悦，体验到发现、喜悦的时刻。
+如果你摆脱了最初的厌恶（可能只持续几分之一秒），你可能会发现其中蕴含的模式。例如，你会发现对爵士乐来说非常重要的[降五度](#user-content-fn-40)[^40]。你开始用手指敲打预期的 4/4 拍子，却沮丧地发现实际上是 7/8 拍或其他拍子。你会茫然一会儿，但一旦你*明白*了，你可能会体验到一丝兴奋的喜悦，感受到发现和快乐的时刻。
 
 If jazz happens to interest you, you'll sink into these patterns and come to expect them. If you get really into it, you may come to feel that a musical style such as [alternating-bass](#user-content-fn-41)[^41] folk music is hopelessly "square."
 
@@ -234,7 +234,7 @@ Congratulations, you just chunked up jazz. (Hmm, I hope that doesn't sound too d
 
 That doesn't mean you are done with jazz, though. There's a long way to go between intellectual understanding, intuitive understanding, and grokking something.
 
-但这并不意味着你对爵士乐的了解已经结束。在智力理解、直觉理解和 "摸索 "之间，还有很长的路要走。
+但这并不意味着你对爵士乐的了解已经结束。在智力理解、直觉理解和“摸索”之间，还有很长的路要走。
 
 "Grok" is a really useful word. Robert Heinlein coined it in his novel [Stranger in a Strange Land](#user-content-fn-43)[^43]. It means that you understand something so thoroughly that you have become one with it and even *love* it. It's a profound understanding beyond intuition or empathy (though those are required steps on the way).
 
@@ -254,7 +254,7 @@ The second level of the brain is really slow. It's integrative, associative, and
 
 > We call this "practicing," and the more we do it,
 >
-> 我们称之为 "练习"，而且练得越多，
+> 我们称之为“练习”，而且练得越多，
 >
 > HELP WANTED
 >
