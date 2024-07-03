@@ -306,19 +306,19 @@ Take the example of playing a musical instrument. I play the guitar—mostly aco
 
 My wife gave me a mandolin for my birthday one year. Mandolins have a different scale than a guitar—they're tuned like a violin. The frets are closer together. The chords are all different. There are a handful of techniques that just aren't used on the guitar. The notes sustain less. The musical vocabulary is different. And yet, it wasn't that hard to get basic competence.
 
-有一年我过生日，妻子送了我一把曼陀林。曼陀林的音阶与吉他不同，它的调音方式像小提琴。品之间的距离更近。和弦也不一样。有一些技巧在吉他上是用不到的。音符的延音较少。音乐词汇也不同。然而，要获得基本能力并不难。
+有一年我过生日，妻子送了我一把曼陀林。曼陀林的音阶与吉他不同，它的调音方式像小提琴。品之间的距离更近。和弦也不一样。有一些技巧在吉他上是用不到的。音符的延续时间较短。音乐词汇也不同。然而，达到基本的熟练程度并不太难。
 
 The reason isn't just muscle memory; that just accounts for *some* of my ability to move my fingers quickly along the fingerboard, but not all. For example, the distances I move my fingers are very different and the places I move them to are different, too. What is really going on is that because I have been playing guitar for over two decades, I have grokked enough about stringed instruments to create a library of chunked knowledge to apply. When I was playing the guitar all those years, I was also working on more obscure stuff, [deepening my knowledge](#user-content-fn-53)[^53] of the intervals between notes, mastering rhythm, and understanding harmonic progression.
 
-原因不仅仅是肌肉记忆；肌肉记忆只是我手指在指板上快速移动的*部分*能力，但不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年了，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多晦涩难懂的东西，加深对音符之间的音程、节奏的掌握以及和声进程的[理解](#user-content-fn-54)[^54]。
+原因不仅仅是肌肉记忆；那只能解释我在指板上快速移动手指能力的*部分*原因，而不是全部。例如，我移动手指的距离很不一样，移动的位置也不一样。实际上，因为我弹吉他已经有二十多年，我对弦乐器已经有了足够的了解，建立了一个可以应用的成块知识库。在弹吉他的这些年里，我也在研究更多复杂难懂的东西，[深化音符之间的音程知识](#user-content-fn-54)[^54]、节奏的掌控以及和声进程的理解。
 
 Building up this library is what we call "[practice](#user-content-fn-55)[^55]." Studies have shown that you don't even have to do it physically. You can just *think* about doing it and it'll get you much of the way there. This is strong evidence that [the brain is doing the work, not the muscles](#user-content-fn-56)[^56].
 
-建立这个库就是我们所说的“[练习](#user-content-fn-57)[^57]”。研究表明，你甚至不必身体力行。你只需*想着*去做，就能在很大程度上达到目的。这有力地证明了[大脑在做功，而不是肌肉](#user-content-fn-58)[^58]。
+建立这个知识库就是我们所说的“[练习](#user-content-fn-57)[^57]”。研究表明，你甚至不需要身体力行地去做。你只需*想象*自己在做，就能在很大程度上达到目的。这有力地证明了[大脑在做功，而不是肌肉](#user-content-fn-58)[^58]。
 
 When our brain is *really* into practicing something, we'll dream about it. This is the intuitive part of the brain burning neural pathways into our brain, working on turning newly grasped patterns into something that fits within the context of everything else we know. The ultimate goal is to turn it into a routine. Frankly, my impression is that the brain doesn't particularly want to have to deal with it again.
 
-当我们的大脑*真正*投入到练习某件事时，我们会梦见它。这是大脑的直觉部分在我们的大脑中燃烧神经通路，努力将新掌握的模式转变为能融入我们已知的一切知识体系的东西。最终目标是将它变成一种常规。坦白说，我的感觉是，大脑并不特别想再次处理这个事。
+当我们的大脑*真正*投入到某项练习时，我们会梦见它。这是大脑的直觉部分在我们的大脑中燃烧神经通路，努力将新掌握的模式转变为能融入我们已知的一切知识体系的东西。最终目标是将它变成一种常规。坦率地说，我觉得大脑并不特别想再次处理这个事。
 
 <div align="center">
 <img src="images/2.11.png">
@@ -346,23 +346,23 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^1]: Game theory: A field of mathematics that studies decision making in formal models. Most games can be interpreted as formal models, but game theory (like economics) tends to run afoul of real-world data when the mathematical hypotheses are tested, largely because game theory is based on optimal strategies. Most people aren't optimal all the time. Game theory doesn't always help you design a better game, but it can help explain why people make certain choices in a game.
 
-[^2]: 博弈论：研究形式模型中决策制定的数学领域。大多数博弈都可以被解释为形式模型，但博弈论（和经济学一样）在检验数学假设时往往会与现实世界的数据相冲突，这主要是因为博弈论是建立在最优策略的基础上的。大多数人并不是一直都是最优的。博弈论并不总能帮你设计出更好的游戏，但它可以帮助解释为什么人们会在游戏中做出某些选择。
+[^2]: 博弈论：研究形式模型中决策制定的数学领域。大多数博弈都可以被解释为形式模型，但博弈论（和经济学一样）在检验数学假设时往往会与现实世界的数据相冲突，主要是因为博弈论基于最优策略。然而，并非所有人在所有时刻都能做出最优的选择。博弈论并不总能帮你设计出更好的游戏，但它可以帮助解释为什么人们会在游戏中做出某些选择。
 
-[^3]: Roger Caillois: An anthropologist who wrote a book called Man, Play and Games in 1958. In it, he also categorized games into four types, based on chance, competition, make-believe or pretense, and vertigo. He saw games primarily as tools of acculturation.
+[^3]: Roger Caillois: An anthropologist who wrote a book called [Man, Play and Games](https://www.amazon.com/dp/025207033X) in 1958. In it, he also categorized games into four types, based on chance, competition, make-believe or pretense, and vertigo. He saw games primarily as tools of acculturation.
 
-[^4]: Johan Huizinga: Author of Homo Ludens (1938), a book primarily focusing on the importance of play in human culture. Huizinga defines the concept of the "magic circle" within which play takes place as a protected and even sacred space that must not be violated.
+[^4]: Johan Huizinga: Author of [Homo Ludens](https://www.amazon.com/dp/1614277060) (1938), a book primarily focusing on the importance of play in human culture. Huizinga defines the concept of the "magic circle" within which play takes place as a protected and even sacred space that must not be violated.
 
-[^5]: Jesper Juul: An academic who is a leader of the relatively recent "ludology" movement. His website is [https://www.jesperjuul.net](https://www.jesperjuul.net). I recommend his book Half-Real (MIT Press, 2011) for an introduction to ludology.
+[^5]: Jesper Juul: An academic who is a leader of the relatively recent "ludology" movement. His website is [https://www.jesperjuul.net](https://www.jesperjuul.net). I recommend his book [Half-Real](https://www.amazon.com/dp/0262516519) (MIT Press, 2011) for an introduction to ludology.
 
-[^6]: 约翰·赫伊津哈：《游戏的人》（1938 年）的作者，该书主要关注玩乐在人类文化中的重要性。赫伊津哈提出了“魔法圈”的概念，认为游戏是一个受保护的、甚至是神圣的、不可侵犯的空间。
+[^6]: 罗杰·卡尤瓦：人类学家，1958 年著有[《人、玩和游戏》](https://www.amazon.com/dp/025207033X)一书。在这本书中，他还将游戏分为四种类型，分别基于机会、竞争、虚构或伪装以及晕眩。他认为游戏主要是文化适应的工具。
 
-[^7]: 罗杰·卡尤瓦：人类学家，1958 年著有《人、玩和游戏》一书。在这本书中，他还将游戏分为四种类型，分别基于机会、竞争、虚构或伪装以及眩晕。他认为游戏主要是文化适应的工具。
+[^7]: 约翰·赫伊津哈：[《游戏的人》](https://www.amazon.com/dp/1614277060)（1938 年）的作者，该书主要关注玩乐在人类文化中的重要性。赫伊津哈提出了“魔法圈”的概念，认为游戏是一个受保护的、甚至是神圣的、不可侵犯的空间。
 
-[^8]: 杰斯珀·尤尔：最近兴起的 “游戏学”（ludology）运动的领军学者。他的网站是 [https://www.jesperjuul.net](https://www.jesperjuul.net)。我推荐他的《半真实》（麻省理工学院出版社，2011 年）一书，以介绍游戏学。
+[^8]: 杰斯珀·尤尔：最近兴起的 “游戏学”（ludology）运动的领军学者。他的网站是 [https://www.jesperjuul.net](https://www.jesperjuul.net)。我推荐他的[《半真实》](https://www.amazon.com/dp/0262516519)（麻省理工学院出版社，2011 年）一书，以介绍游戏学。
 
-[^9]: Chris Crawford: One of the grand old men of computer game design, his seminal works include [Eastern Front 1941](https://en.wikipedia.org/wiki/Eastern_Front_(1941)) and [Balance of Power](https://en.wikipedia.org/wiki/Balance_of_Power_(video_game)). Crawford has long advocated games as art, and has also been a major proponent of interactive storytelling. His book, The Art of Computer Game Design, is considered a classic.
+[^9]: Chris Crawford: One of the grand old men of computer game design, his seminal works include [Eastern Front 1941](https://en.wikipedia.org/wiki/Eastern_Front_(1941)) and [Balance of Power](https://en.wikipedia.org/wiki/Balance_of_Power_(video_game)). Crawford has long advocated games as art, and has also been a major proponent of interactive storytelling. His book, [The Art of Computer Game Design](https://www.amazon.com/dp/B0052QA5WU), is considered a classic.
 
-[^10]: 克里斯·克劳福德：克劳福德是电脑游戏设计界的老前辈之一，他的开创性作品包括[《1941 年东部前线》](https://en.wikipedia.org/wiki/Eastern_Front_(1941))和[《权力平衡》](https://en.wikipedia.org/wiki/Balance_of_Power_(video_game))。长期以来，克劳福德一直主张将游戏作为艺术，也是互动故事的主要倡导者。他的著作《电脑游戏设计艺术》被奉为经典。
+[^10]: 克里斯·克劳福德：克劳福德是电脑游戏设计界的老前辈之一，他的开创性作品包括[《1941 年东部前线》](https://en.wikipedia.org/wiki/Eastern_Front_(1941))和[《权力平衡》](https://en.wikipedia.org/wiki/Balance_of_Power_(video_game))。长期以来，克劳福德一直主张将游戏作为艺术，也是互动故事的主要倡导者。他的著作[《电脑游戏设计艺术》](https://www.amazon.com/dp/B0052QA5WU)被奉为经典。
 
 [^11]: Sid Meier: One of the most highly regarded computer game designers working today, Meier has been responsible for [Civilization](https://en.wikipedia.org/wiki/Civilization_(series)) (the computer version, not the board game version, although there is now a board game version of the computer game), [Pirates!](https://en.wikipedia.org/wiki/Sid_Meier's_Pirates!), and [Gettysburg](https://en.wikipedia.org/wiki/Sid_Meier's_Gettysburg!).
 
@@ -370,25 +370,25 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^13]: Andrew Rollings and Ernest Adams on Game Design: This book was published by New Riders in 2003. It is a solid "how-to" book covering a variety of game genres as well as general game design principles. Disclaimer: I helped write the chapter on online games, so I am biased.
 
-[^14]: 《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》：这本书由 New Riders 于 2003 年出版。这是一本扎实的“如何做”的书，涵盖了各种游戏类型以及一般的游戏设计原则。免责声明：我参与撰写了关于网络游戏的章节，因此有失偏颇。
+[^14]: 《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》：这本书由 New Riders 于 2003 年出版。这是一本扎实的“如何做”的书，涵盖了多种游戏类型以及一般的游戏设计原则。免责声明：我参与撰写了关于网络游戏的章节，因此我可能有所偏颇。
 
-[^15]: Katie Salen and Eric Zimmerman and Rules of Play: Rules of Play is one of the most important books on what games are and how they work. It was published by the MIT Press in 2003. The authors are academics and also game designers in their own right.
+[^15]: Katie Salen and Eric Zimmerman and [Rules of Play](https://www.amazon.com/dp/0262240459): Rules of Play is one of the most important books on what games are and how they work. It was published by the MIT Press in 2003. The authors are academics and also game designers in their own right.
 
-[^16]: 凯蒂·萨伦和埃里克·齐默尔曼和《游戏规则》：《游戏规则》是关于游戏是什么以及游戏如何运作的最重要的书籍之一。该书于 2003 年由麻省理工学院出版社出版。作者是学者，同时也是游戏设计师。
+[^16]: 凯蒂·萨伦和埃里克·齐默尔曼和[《游戏规则》](https://www.amazon.com/dp/0262240459)：《游戏规则》是关于游戏是什么以及游戏如何运作的最重要的书籍之一。该书于 2003 年由麻省理工学院出版社出版。作者是学者，同时也是游戏设计师。
 
 [^17]: Recognizing faces: The part of the brain that recognizes faces is called the fusiform face area, and it's actually used for recognizing individuals of a given class (as opposed to the parts of the brain that recognize classes of things). When people get brain damage in this part of the brain, they become unable to recognize the photographs of famous people, even though they can still classify them as women, men, blondes, brunettes, young, or old. The fusiform face area has to be trained; most people are experts in other people, so they recognize individuals and read their emotions easily. Autistics show reduced functioning of the fusiform face area when examined via MRI. Birdwatchers and car experts show activation of the fusiform face area when they are identifying particular birds or cars.
 
-[^18]: 识别面孔：大脑中识别面孔的部分叫做“梭状回（fusiform）面孔（face）区（area）”，它实际上是用来识别特定类别中的个体的（与大脑中识别事物类别的部分不同）。当人的这部分大脑受到损伤时，他们就无法识别名人的照片，尽管他们仍然可以把名人分为女性、男性、金发、黑发、年轻或年老。梭状回面孔区必须经过训练；大多数人是识人专家，因此他们很容易识别出个人并读懂他们的情绪。通过核磁共振成像检查，自闭症患者的梭状回面孔区功能减弱。观鸟者和汽车专家在识别特定的鸟类或汽车时，梭状回面孔区会被激活。
+[^18]: 识别面孔：大脑中识别面孔的部分叫做“梭状回（fusiform）面孔（face）区（area）”，它实际上是用来识别特定类别中的个体的（与大脑中识别事物类别的部分相对）。当人的这部分大脑受到损伤时，他们就无法识别名人的照片，尽管他们仍然可以把名人分为女性、男性、金发、棕发、年轻或年老。梭状回面孔区必须经过训练；大多数人是识人专家，因此他们很容易识别出个体并读懂他们的情绪。通过核磁共振成像检查，发现自闭症患者的梭状回面孔区功能减弱。观鸟者和汽车专家在识别特定的鸟类或汽车时，梭状回面孔区会被激活。
 
 [^19]: Filling in blanks and not seeing your nose: Some fun experiments to demonstrate blind spots and the brain filling in known data can be found at [http://faculty.washington.edu/chudler/chvision.html](http://faculty.washington.edu/chudler/chvision.html). Many popular optical illusions are based on the fact that the brain makes assumptions about what we are seeing.
 
-[^20]: 填空和看不到鼻子：一些展示盲点和大脑填补已知数据的有趣实验可在 [http://faculty.washington.edu/chudler/chvision.html](http://faculty.washington.edu/chudler/chvision.html) 上找到。许多流行的视错觉都是基于大脑对我们所看到的事物做出假设这一事实。
+[^20]: 填空和看不见你的鼻子：一些展示盲点和大脑填补已知数据的有趣实验可在 [http://faculty.washington.edu/chudler/chvision.html](http://faculty.washington.edu/chudler/chvision.html) 上找到。许多常见的视错觉都是基于大脑对我们所看事物的假设。
 
-[^21]: The brain...: Steven Johnson's book Mind Wide Open (Scribner, 2004) is a wonderful excursion into the mysteries of the human mind.
+[^21]: The brain...: Steven Johnson's book [Mind Wide Open](https://www.amazon.com/dp/0743241665) (Scribner, 2004) is a wonderful excursion into the mysteries of the human mind.
 
-[^22]: 大脑……：史蒂文·约翰逊的《大开眼界》（斯克里布纳出版社，2004 年）一书是探索人类思维奥秘的绝佳读物。
+[^22]: 大脑……：史蒂文·约翰逊的[《心思大开》](https://www.amazon.com/dp/0743241665)（斯克里布纳出版社，2004 年）一书是探索人类思维奥秘的奇妙之旅。
 
-[^23]: The large gorilla: The original Harvard study on this is whimsically titled "Gorillas in our midst: sustained inattentional blindness,” and was done by Simons and Chabris. It was published in Perception in 1999.
+[^23]: The large gorilla: The original Harvard study on this is whimsically titled "Gorillas in our midst: sustained inattentional blindness," and was done by Simons and Chabris. It was published in Perception in 1999.
 
 [^24]: 大猩猩：哈佛大学对此的最初研究被奇怪地命名为《我们身边的大猩猩：对动态事件的持续无意识失明》，由西蒙斯和查布里斯完成。该研究发表在 1999 年的《感知》杂志上。
 
@@ -408,9 +408,9 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^32]: 大块的行为与我们的预期不符：当人们学习信息时，大脑总是将其标记为“正确”，而很少考虑信息来源的可信度。要确定并非如此需要有意识的努力。在缺乏完整数据的情况下，人们也倾向于自动将相似的事物归为一类——因此，一个对两者都不太了解的人可能会认为南瓜和篮球是同一种物体。这可能会在你尝试制作馅饼时带来令人不快的意外。记忆研究中有一个名为“来源监控”的领域，致力于研究这些问题。
 
-[^33]: The golden section: Also called the golden mean, golden ratio, and divine proportion. This is too large a topic to discuss in an endnote; whole books have been written about it (such as Mario Livio's The Golden Ratio: The Story of Phi, the World's Most Astonishing Number). The golden ratio is the irrational number, approximately 1.618, called phi or ϕ. Ever since the ancient Greeks, art composed using this ratio in the composition has been deemed more beautiful. Some degree of this perception seems to be hardwired into our brain, perhaps because the ratio manifests in a wide range of natural phenomena, including the spiral pattern of seeds and petals around a flower stem, the shape of curling sea-shells, and certain proportions of the human body.
+[^33]: The golden section: Also called the golden mean, golden ratio, and divine proportion. This is too large a topic to discuss in an endnote; whole books have been written about it (such as Mario Livio's [The Golden Ratio: The Story of Phi, the World's Most Astonishing Number](https://www.amazon.com/dp/B00CPRZCL8)). The golden ratio is the irrational number, approximately 1.618, called phi or ϕ. Ever since the ancient Greeks, art composed using this ratio in the composition has been deemed more beautiful. Some degree of this perception seems to be hardwired into our brain, perhaps because the ratio manifests in a wide range of natural phenomena, including the spiral pattern of seeds and petals around a flower stem, the shape of curling sea-shells, and certain proportions of the human body.
 
-[^34]: 黄金分割：又称黄金平均数、黄金比例和神圣比例。这个话题太大，不可能在尾注中讨论；关于它已经写了很多书（如马里奥·利维奥的《黄金比例：世界上最惊人的数字——ϕ的故事》）。黄金比例是一个无理数，约为 1.618，称为 phi 或 ϕ。自古希腊以来，运用这一比例进行创作的艺术作品就被认为更加美观。某种程度上，这种感知似乎植根于我们的大脑中，可能是因为这一比例广泛体现在众多自然现象中，包括花茎周围种子和花瓣的螺旋排列、海螺的卷曲形状，以及人体的某些比例。
+[^34]: 黄金分割：又称黄金平均数、黄金比例和神圣比例。这个话题太大，不可能在尾注中讨论；关于它已经写了很多书（如马里奥·利维奥的[《黄金比例：世界上最惊人的数字——ϕ的故事》](https://www.amazon.com/dp/B00CPRZCL8)）。黄金比例是一个无理数，约为 1.618，称为 phi 或 ϕ。自古希腊以来，运用这一比例进行创作的艺术作品就被认为更加美观。某种程度上，这种感知似乎植根于我们的大脑中，可能是因为这一比例广泛体现在众多自然现象中，包括花茎周围种子和花瓣的螺旋排列、海螺的卷曲形状，以及人体的某些比例。
 
 [^35]: Even static has patterns: A concept from algorithmic information theory. An algorithm is an elegant way to describe complex information. The fraction "22 divided by 7" is a lot shorter than writing out 3.1428571. When we look at 3.1428571, it looks like chaos (it might look like π, but it's only an approximation). And yet the 22/7 expresses this very big, dense piece of information in a concise manner when we use the algorithm of long division on it. What looks like highly disordered information may actually be highly ordered information—we just might not know what the algorithm to describe it is. Three people described algorithmic information theory nearly simultaneously: Andrei Kolmogorov, Raymond Solomonoff, and Gregory Chaitin, all of whom arrived at it independently.
 
@@ -432,9 +432,9 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^44]: 神入和罗伯特·海因莱因：书中给出的定义是：“神入意味着理解得如此透彻，以至于观察者成为被观察者的一部分——在群体经验中融合、交融、通婚、失去个体特性。它几乎意味着我们所说的宗教、哲学和科学的一切——它对我们（因为我们来自地球）的意义就像颜色对盲人的意义一样微不足道”。然而，在火星语中，这个词的意思是“喝”。
 
-[^45]: Brain functioning on three levels: A good book describing this theory is Hare Brain, Tortoise Mind by cognitive scientist Guy Claxton, published by Ecco in 2000. He describes how many problems are best solved by the unconscious mind rather than the conscious, or "D-mode," brain.
+[^45]: Brain functioning on three levels: A good book describing this theory is [Hare Brain, Tortoise Mind](https://www.amazon.com/dp/0060955414) by cognitive scientist Guy Claxton, published by Ecco in 2000. He describes how many problems are best solved by the unconscious mind rather than the conscious, or "D-mode," brain.
 
-[^46]: 大脑功能分三个层次：认知科学家盖伊·克莱克斯顿于 2000 年由 Ecco 出版社出版的《兔头龟脑》就是一本描述这一理论的好书。他描述了许多问题的最佳解决方式是通过无意识思维而非有意识，或者“深思（Deliberation）模式”大脑。
+[^46]: 大脑功能分三个层次：认知科学家盖伊·克莱克斯顿于 2000 年由 Ecco 出版社出版的[《兔头龟脑》](https://www.amazon.com/dp/0060955414)就是一本描述这一理论的好书。他描述了许多问题的最佳解决方式是通过无意识思维而非有意识，或者“深思（Deliberation）模式”大脑。
 
 [^47]: Approximations of reality: We deal with approximations all the time, and perhaps they are our only reality. Is color a hue, or electromagnetic radiation? The best example of this that I can come up with is "weight." Physics tells us that mass is the correct concept. But in everyday life weight is "good enough." Another example: hot water is composed of highly excited molecules. But even hot water has molecules that are barely moving (and are therefore "cold"). When we speak of the temperature of water, we don't consider the trillions of water molecules with varying levels of excitation—we instead consider the average of all of them and call it "temperature," a convenience that makes sense for us because we're so big and molecules are so small. Ludwig Boltzmann explained the difference between "temperature" and "individual molecule excitation" as the difference between a macrostate and a microstate. The schemata the brain works with are macrostates—they are algorithmic representations of reality. All of these are models for a reality where temperature and excited molecules are both "real," but some levels of abstraction are a lot easier to cope with than others.
 
@@ -444,9 +444,9 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^50]: 把手指伸进火里：像这样的反射反应一般需要 250 毫秒左右。而有意识地去做则需要大约 500 毫秒。
 
-[^51]: The football player and instinctive reactions: In the book Sources of Power: How People Make Decisions, Gary Klein describes how most complex decisions are made based on the first impulse that came to mind and not conscious thought. Eerily, the first impulse is usually right. When it is wrong, however, it can be disastrous. The joke about the football player is funny because it rings true—we recognize something about how the brain works in it.
+[^51]: The football player and instinctive reactions: In the book [Sources of Power: How People Make Decisions](https://www.amazon.com/dp/B08QDS5HLK), Gary Klein describes how most complex decisions are made based on the first impulse that came to mind and not conscious thought. Eerily, the first impulse is usually right. When it is wrong, however, it can be disastrous. The joke about the football player is funny because it rings true—we recognize something about how the brain works in it.
 
-[^52]: 足球运动员和本能反应：加里·克莱因在《力量之源：人们如何做决定》一书中描述了大多数复杂的决定是如何根据脑海中的第一冲动而不是有意识的思考做出的。令人震惊的是，第一反应通常是正确的。然而，当它是错误的时候，就会带来灾难性的后果。关于足球运动员的笑话很有趣，因为它是真实的——我们从中认识到了大脑是如何工作的。
+[^52]: 足球运动员和本能反应：加里·克莱因在[《力量之源：人们如何做决定》](https://www.amazon.com/dp/B08QDS5HLK)一书中描述了大多数复杂的决定是如何根据脑海中的第一冲动而不是有意识的思考做出的。令人震惊的是，第一反应通常是正确的。然而，当它是错误的时候，就会带来灾难性的后果。关于足球运动员的笑话很有趣，因为它是真实的——我们从中认识到了大脑是如何工作的。
 
 [^53]: Deepening my knowledge: This is also an expression of information theory. In 1948, Claude Shannon developed the basics of information theory, proposing the notion that you could regard an information stream as a chain of probability events. Assume a limited set of symbols (like, say, the alphabet). When you get one given symbol in a sequence (like, say, the letter Q), you can reduce the possible symbols that might come next (like, say, to just the letter U) because you know enough about the symbolic system within which Q and U exist. You're not likely to pick K, but you might think of E for Q.E.D. or A for Qatar. Music happens to be a highly ordered and fairly limited formal system, and so as you develop a "musical vocabulary," you are also developing a sense of the shape of the entire problem domain, even though a few new letters in the alphabet (such as tremolo on the mandolin) might be new to you.
 
