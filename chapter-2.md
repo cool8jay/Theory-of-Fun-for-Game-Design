@@ -274,7 +274,7 @@ There's an old joke about a crowd gathered at the bottom of a burning building. 
 
 It's a bad toss, so he has to run a little ways. He dives to catch the little tyke, and rolls on the ground in a perfect tumble, and finally stands, holding the baby up to a cheering crowd. Everyone is amazed.
 
-扔得不好，所以他不得不跑一段路。他俯身接住小家伙，在地上翻滚了一个完美的跟头，最后站了起来，把孩子举到欢呼的人群中。所有人都惊呆了。
+扔得不好，所以他不得不跑一段路。他扑向那个小家伙，在地上翻滚了一个完美的跟头，最后站起来，把孩子举到欢呼的人群中。所有人都惊呆了。
 
 Then he drop-kicks the baby.
 
@@ -288,13 +288,21 @@ OK, sick joke aside, it illustrates that we're not just talking about muscle mem
 <img src="images/2.10.png">
 </div>
 
+> snif
+> 
+> 抽鼻子
+> 
+> yawn
+> 
+> 打哈欠
+> 
 > the less we have to think about what we're doing.
 >
 > 我们就越不用思考我们在做什么。
 
 Take the example of playing a musical instrument. I play the guitar—mostly acoustic guitar. I've also dabbled in piano and keyboards, and I've had enough musical training that I can fake it with a banjo or mountain dulcimer.
 
-以演奏乐器为例。我弹吉他，主要是木吉他。我还涉猎过钢琴和键盘乐器，受过足够的音乐训练，可以用班卓琴或山地扬琴假弹。
+以演奏乐器为例。我弹吉他，主要是原声吉他。我还涉猎过钢琴和键盘乐器，受过足够的音乐训练，可以用班卓琴或山地扬琴假弹。
 
 My wife gave me a mandolin for my birthday one year. Mandolins have a different scale than a guitar—they're tuned like a violin. The frets are closer together. The chords are all different. There are a handful of techniques that just aren't used on the guitar. The notes sustain less. The musical vocabulary is different. And yet, it wasn't that hard to get basic competence.
 
