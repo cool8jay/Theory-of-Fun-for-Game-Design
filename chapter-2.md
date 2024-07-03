@@ -154,7 +154,7 @@ Whatever "thinking" means.
 
 > Humans are really good at doing this -- we can drive barely seeing the road.
 >
-> 人类很擅长这样做——我们开车时几乎看不到路。
+> 人类很擅长这样做——我们甚至能在几乎看不清道路的情况下开车。
 
 We're usually running on these [automatic chunked patterns](#user-content-fn-29)[^29]. Thinking is, in fact, mostly memory, pattern-matching against past experiences.
 
