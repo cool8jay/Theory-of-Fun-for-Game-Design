@@ -234,7 +234,7 @@ Congratulations, you just chunked up jazz. (Hmm, I hope that doesn't sound too d
 
 That doesn't mean you are done with jazz, though. There's a long way to go between intellectual understanding, intuitive understanding, and grokking something.
 
-但这并不意味着你对爵士乐的了解已经结束。在智力理解、直觉理解和“摸索”之间，还有很长的路要走。
+这并不意味着你与爵士乐就此结束。在智力理解、直觉理解和神入某事之间，还有很长的路要走。
 
 "Grok" is a really useful word. Robert Heinlein coined it in his novel [Stranger in a Strange Land](#user-content-fn-43)[^43]. It means that you understand something so thoroughly that you have become one with it and even *love* it. It's a profound understanding beyond intuition or empathy (though those are required steps on the way).
 
@@ -260,13 +260,13 @@ The second level of the brain is really slow. It's integrative, associative, and
 >
 > 需要帮助
 
-The last kind of thinking is not thinking. When you stick your finger in fire, you snatch it back *before* your brain has time to think about it (seriously, it's been [measured](#user-content-fn-49)[^49]).
+The last kind of thinking is *not* thinking. When you stick your finger in fire, you snatch it back *before* your brain has time to think about it (seriously, it's been [measured](#user-content-fn-49)[^49]).
 
-最后一种思考不是思考。当你把手指伸进火里时，你会在大脑来不及思考*之前*就把它收回来（说真的，有人[测过](#user-content-fn-50)[^50]）。
+最后一种思考*不是*思考。当你把手指伸进火里时，你会在大脑来不及思考*之前*就把它收回来（说真的，有人[测过](#user-content-fn-50)[^50]）。
 
 Calling this "muscle memory" is a lie. Muscles don't really have memory. They're just big ol' springs that coil and uncoil when you run electrical current through them. It's really all about nerves. There's a very large part of your body that works based on the *autonomic nervous system*, which is a fancy way of saying that it makes its own decisions. Some of it is stuff you can learn to bring under more conscious control, like your heart rate. Some of it is reflexes, like snatching your fingers out of the fire. And some of it is stuff you train your body to do.
 
-说这是“肌肉记忆”是骗人的。肌肉并没有真正的记忆。它们只是一个大弹簧，当电流通过它们时，它们就会卷起或松开。真正有记忆的是神经。你的身体有很大一部分是基于*自主神经系统*工作的，这是一种花哨的说法，意味着它自己做出决定。其中有些是你可以学会有意识控制，比如你的心率。有些是条件反射，比如把手指从火中拽出来。还有一些是你训练身体去做的事情。
+说这是“肌肉记忆”是错误的。肌肉并没有真正的记忆。它们只是一个大弹簧，当电流通过它们时，它们就会卷曲或展开。真正有记忆的是神经。你的身体有很大一部分是基于*自主神经系统*工作的，这是一种花哨的说法，意味着它自己做出决定。其中有些是你可以学会有意识控制，比如你的心率。有些是反射动作，比如从火中迅速抽回你的手指。还有一些是你训练身体去做的事情。
 
 There's an old joke about a crowd gathered at the bottom of a burning building. Up at the top countless people jump from windows to be caught by the firemen. There's one mother who is unwilling to toss her baby to the waiting rescuers. Finally, one guy at the bottom says, "I can catch the kid, ma'am, I'm a famous football player." So the mother tosses the baby to the football player.
 
