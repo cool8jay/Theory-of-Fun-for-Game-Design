@@ -46,7 +46,7 @@ The distinctions between toys and games, or between play and sport, start to see
 
 A game designer might find those distinctions useful because they provide helpful guideposts. But all these things are the same at their most fundamental level. Perhaps this is the reason why language hasn't done a very good job of making distinctions between "play," "game," and "sport." Playing a goal-oriented game involves simply recognizing a particular sort of pattern; playing make-believe is recognizing another one. Both deservedly belong in the same category of "iconified representations of human experience that we can practice with and learn patterns from."
 
-游戏设计师可能会觉得这些区别很有用，因为它们提供了有益的指导原则。但所有这些东西在最根本的层面上都是一样的。也许这就是为什么语言没有很好地区分“玩耍”、“游戏”和“运动”的原因。玩一种以目标为导向的游戏，只涉及识别一种特定的模式；而玩“假装”游戏则是识别另一种模式。两者理所当然地属于同一类“人类经验的图标化表征，我们可以从中练习和学习模式”。
+游戏设计师可能会觉得这些区别很有用，因为它们提供了有益的指导原则。但所有这些东西在最根本的层面上都是一样的。也许这就是为什么语言没有很好地区分“玩耍”、“游戏”和“运动”的原因。玩一种以目标为导向的游戏，只涉及识别一种特定的模式；而玩“假装”游戏则是识别另一种模式。两者都应属于“人类经验的图标化表征，我们可以从中练习和学习模式”的同一类别。。
 
 Consider the key difference between something like a book and different kinds of games. A book can do the logical conscious part of the brain pretty well. And really good readers have an ability to slurp that info directly into the subconscious, intuitive mind. But what a book will never be able to do is accelerate the grokking process to the degree that games do, because you cannot practice a pattern and [run permutations on it with a book](#user-content-fn-5)[^5], and have the book respond with feedback.
 
@@ -118,16 +118,15 @@ This finally brings us to the title of the book and the fundamental question: Wh
 
 这最终引出了本书的标题和根本问题：什么是乐趣？
 
-If you dig into the origins of the word, you'll find that it comes either from "fonne," which is "fool" in Middle English, or from "fonn," which means "pleasure" in Gaelic. Either way, fun is defined as "a source of enjoyment." This can happen via physical stimuli, aesthetic appreciation, or direct chemical manipulation.
+If you dig into the origins of the word, you'll find that it comes either from "*fonne*," which is "fool" in Middle English, or from "*fonn*," which means "pleasure" in Gaelic. Either way, fun is defined as "a source of enjoyment." This can happen via physical stimuli, aesthetic appreciation, or direct chemical manipulation.
 
-如果你仔细研究这个词的起源，就会发现它要么来自“fonne”，在中古英语中是“傻瓜”的意思，要么来自“fonn”，在盖尔语中是“快乐”的意思。无论哪种说法，“乐趣”都被定义为“享受的源泉”。这可以通过物理刺激、审美鉴赏或直接化学操纵来实现。
+如果你仔细研究这个词的起源，就会发现它要么来自“*fonne*”，在中古英语中是“傻瓜”的意思，要么来自“*fonn*”，在盖尔语中是“快乐”的意思。无论哪种说法，“乐趣”都被定义为“享受的源泉”。这可以通过物理刺激、审美鉴赏或直接化学操纵来实现。
 
 Fun is all about our brains feeling good—the release of [endorphins](#user-content-fn-13)[^13] into our system. There are a variety of complex cocktails of chemicals that result in different sensations. Science has shown that the pleasurable chills that we get down the spine after exceptionally powerful music or a really great book are caused by the same sorts of chemicals we get when we have cocaine, an orgasm, or chocolate. Basically, our brains are on drugs pretty much all the time.
 
 乐趣就是让我们的大脑感觉良好——[内啡肽](#user-content-fn-14)[^14]释放到我们的身体中。各种复杂的化学物质混合在一起，会产生不同的感觉。科学表明，我们在听了特别震撼的音乐或读了一本非常棒的书之后，脊背会感到阵阵凉意，这与我们吸食可卡因、达到性高潮或吃巧克力时产生的化学物质是一样的。基本上，我们的大脑无时无刻不在吸毒。
 
-One of the releases of chemicals triggering good feelings is at that moment of triumph when we learn something or master a task. This almost always causes us to [break out into a smile](#user-content-fn-15)[^15]. After all, it is important to the survival of the species that we learn—therefore our bodies reward us for it with moments of pleasure. There are many ways we find fun in games, and I will talk about the
-others. But learning is the one I believe to be the most important.
+One of the releases of chemicals triggering good feelings is at that moment of triumph when we learn something or master a task. This almost always causes us to [break out into a smile](#user-content-fn-15)[^15]. After all, it is important to the survival of the species that we learn—therefore our bodies reward us for it with moments of pleasure. There are many ways we find fun in games, and I will talk about the others. But learning is the one I believe to be the most important.
 
 当我们学到某样东西或掌握了某项任务时，释放出的化学物质会引发美好的感觉。这几乎总是会让我们[绽放笑容](#user-content-fn-16)[^16]。毕竟，学习对人类的生存非常重要，因此我们的身体会用快乐的时刻来奖励我们。我们在游戏中找到乐趣的方式有很多，下面我将谈谈其他方式。但我认为学习是最重要的。
 
@@ -137,7 +136,7 @@ Fun from games arises out of mastery. It arises out of comprehension. It is the 
 
 In other words, with games, [learning is the drug](#user-content-fn-17)[^17].
 
-换句话说，在游戏中，[学习就是毒品](#user-content-fn-18)[^18]。
+换句话说，对于游戏来说，[学习是毒品](#user-content-fn-18)[^18]。
 
 <div align="center">
 <img src="images/3.4.png">
@@ -149,7 +148,7 @@ In other words, with games, [learning is the drug](#user-content-fn-17)[^17].
 
 Boredom is the opposite of learning. When a game stops teaching us, we feel bored. Boredom is the brain casting about for new information. It is the feeling you get when there are no new visible patterns to absorb. When a book is dull and fails to lead you on to the next chapter, it is failing to exhibit a captivating pattern. When you feel a piece of music is repetitive or derivative, it grows boring because it presents no cognitive challenge. And of course, it could arise when a pattern is present but "going over our heads."
 
-无聊是学习的反面。当一个游戏不再教我们任何东西时，我们会感到无聊。无聊是大脑在寻找新信息。当没有新的可见模式可供吸收时，你就会有这种感觉。当一本书枯燥乏味，无法引导你进入下一章时，它就没有展现出吸引人的模式。当你觉得一首音乐是重复或模仿时，它就会变得乏味，因为它没有给你带来认知上的挑战。当然，当一种模式存在但“超出我们的理解范围”时，也可能产生这种感觉。
+无聊是学习的反面。当一个游戏不再教我们任何东西时，我们会感到无聊。无聊是大脑在寻找新信息。当没有新的可见模式可供吸收时，你就会有这种感觉。当一本书枯燥乏味，无法引导你进入下一章时，它就没有展现出吸引人的模式。当你觉得一首音乐是重复或模仿时，它就会变得乏味，因为它没有给你带来认知上的挑战。当然，当存在一种模式但“超出我们的理解范围”时，也可能产生这种感觉。
 
 We shouldn't underestimate the brain's desire to learn. If you put a person in a sensory deprivation chamber, he or she will get very unhappy very quickly. The brain craves stimuli. At all times, the brain is casting about trying to learn something, trying to integrate information into its worldview. It is insatiable in that way.
 
@@ -157,7 +156,7 @@ We shouldn't underestimate the brain's desire to learn. If you put a person in a
 
 This *doesn't* mean it necessarily craves new *experiences*—mostly, it just craves new data. New data is all it needs to flesh out a pattern. A new experience might force a whole new system on the brain, and often the brain doesn't *like* that. It's disruptive. The brain doesn't like to do more work than it has to. That's why it chunks in the first place. That's why we have the term "[sensory overload](#user-content-fn-19)[^19]," as an opposite to "sensory deprivation."
 
-这并*不*意味着它一定渴望新*体验*——主要是渴望新数据。它需要新数据来充实模式。新的体验可能会给大脑带来全新的系统，而大脑往往不喜欢这样。这具有破坏性。大脑不*喜欢*做比它必须做的更多的工作。这就是为什么它首先要分块。这就是为什么我们有“[感官超载](#user-content-fn-20)[^20]”这个词，作为“感官剥夺”的反义词。
+这并*不*意味着它一定渴望新*体验*——主要是渴望新数据。它需要新数据来充实模式。新的体验可能会给大脑带来全新的系统，而大脑往往不*喜欢*这样。这具有破坏性。大脑不喜欢超负荷地工作。这就是为什么它首先要分块。这就是为什么我们有“[感官超载](#user-content-fn-20)[^20]”这个词，作为“感官剥夺”的反义词。
 
 Games grow boring when they fail to unfold new niceties in the puzzles they present. But they have to navigate between the [Scylla and Charybdis](#user-content-fn-21)[^21] of deprivation and overload, of excessive order and excessive chaos, of silence and noise.
 
