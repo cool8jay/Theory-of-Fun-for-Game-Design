@@ -46,7 +46,7 @@ The distinctions between toys and games, or between play and sport, start to see
 
 A game designer might find those distinctions useful because they provide helpful guideposts. But all these things are the same at their most fundamental level. Perhaps this is the reason why language hasn't done a very good job of making distinctions between "play," "game," and "sport." Playing a goal-oriented game involves simply recognizing a particular sort of pattern; playing make-believe is recognizing another one. Both deservedly belong in the same category of "iconified representations of human experience that we can practice with and learn patterns from."
 
-游戏设计师可能会觉得这些区别很有用，因为它们提供了有益的指导。但所有这些东西在最根本的层面上都是一样的。也许这就是为什么语言没有很好地区分“玩耍”、“游戏”和“运动”的原因。玩一种以目标为导向的游戏，只涉及识别一种特定的模式；而玩“假装”游戏则是识别另一种模式。两者当之无愧地属于同一类“人类经验的图标化表征，我们可以从中练习和学习模式”。
+游戏设计师可能会觉得这些区别很有用，因为它们提供了有益的指导原则。但所有这些东西在最根本的层面上都是一样的。也许这就是为什么语言没有很好地区分“玩耍”、“游戏”和“运动”的原因。玩一种以目标为导向的游戏，只涉及识别一种特定的模式；而玩“假装”游戏则是识别另一种模式。两者理所当然地属于同一类“人类经验的图标化表征，我们可以从中练习和学习模式”。
 
 Consider the key difference between something like a book and different kinds of games. A book can do the logical conscious part of the brain pretty well. And really good readers have an ability to slurp that info directly into the subconscious, intuitive mind. But what a book will never be able to do is accelerate the grokking process to the degree that games do, because you cannot practice a pattern and [run permutations on it with a book](#user-content-fn-5)[^5], and have the book respond with feedback.
 
