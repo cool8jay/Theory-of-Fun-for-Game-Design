@@ -386,7 +386,7 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^21]: The brain...: Steven Johnson's book [Mind Wide Open](https://www.amazon.com/dp/0743241665) (Scribner, 2004) is a wonderful excursion into the mysteries of the human mind.
 
-[^22]: 大脑……：史蒂文·约翰逊的[《心思大开》](https://www.amazon.com/dp/0743241665)（斯克里布纳出版社，2004 年）一书是探索人类思维奥秘的奇妙之旅。
+[^22]: 大脑……：史蒂文·约翰逊的[《心思大开》](https://www.amazon.com/dp/0743241665)（Scribner，2004 年）一书是探索人类思维奥秘的奇妙之旅。
 
 [^23]: The large gorilla: The original Harvard study on this is whimsically titled "Gorillas in our midst: sustained inattentional blindness," and was done by Simons and Chabris. It was published in Perception in 1999.
 
@@ -398,11 +398,11 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^27]: 认知理论：认知领域细分为几个不同的区域。认知心理学是这一领域的主流传统，主要是抽象的，并不太涉及到生物学，而相对较新的认知神经科学领域则试图将信息流与大脑如何工作联系起来。后一领域相对较新，本书的大部分评论都参考了这一领域。
 
-[^28]: 分块记忆：根据乔治·阿米蒂奇·米勒在 1958 年发表的极具影响力的论文《神奇的数字七，正负二》，我们的短期记忆（你可以把它想象成我们进行脑力劳动的“便签本”）只能处理大约七个信息单元。如果你的短期记忆超过上限，你就会忘记其中的一些项目。每个信息单元可以相当复杂，只要我们能够将其简化为一个“块”，或一个带有单一易记标签的信息集合单元。这对语言学、界面设计和游戏等多个领域都有重要影响，当然还有游戏——这有助于解释为什么在游戏中添加更多需要记录的数字很快就会让游戏变得太难。只有短期记忆才有这种局限性，而大脑本身的能力要大得多。最典型的例子就是要求你记住一串看似杂乱无章的数字和字母。当发现这些数字和字母与之前掌握的模式有关联时，记忆就会变得容易得多。请在 [http://www.youramazingbrain.org.uk/yourmemory/chunk01.htm](http://www.youramazingbrain.org.uk/yourmemory/chunk01.htm) 上亲自尝试一下。
+[^28]: 分块：根据乔治·阿米蒂奇·米勒在 1958 年发表的极具影响力的论文《神奇的数字，7±2》，我们的短期记忆（你可以把它想象成我们进行脑力劳动的“便签本”）只能处理大约七个信息单元。如果你的短期记忆超过上限，你就会忘记其中的一些项目。每个信息单元可以相当复杂，只要我们能够将其简化为一个“块”，或一个带有单一易记标签的信息集合单元。这对语言学、界面设计当然还有游戏在内的多个领域都有重要影响——它有助于解释为什么在游戏中添加更多需要记录的数字很快就会让游戏变得太难。只有短期记忆才有这种局限性，而大脑本身的能力要大得多。最典型的例子就是要求你记住一串看似杂乱无章的数字和字母。当发现这些数字和字母与之前掌握的模式有关联时，记忆就会变得容易得多。请在 [http://www.youramazingbrain.org.uk/yourmemory/chunk01.htm](http://www.youramazingbrain.org.uk/yourmemory/chunk01.htm) 上亲自尝试一下。
 
 [^29]: Automatic chunked patterns: Cognitive science uses numerous terms for many of these related concepts, including chunks, routines, categories, and mental models. In this book I used "chunk" because it's already used in different ways by different disciplines, plus it makes sense on a layman's level. Technically, most of the big "chunked patterns" to which I refer are called schemata.
 
-[^30]: 自动分块模式：认知科学为许多相关概念使用了大量术语，包括块、常规/例程、类别和心智模型。在本书中，我之所以使用“块”，是因为不同学科已经以不同的方式使用了“块”这个词，而且这个词也很通俗易懂。从技术上讲，我提到的大多数大型“分块模式”都被称为图式。
+[^30]: 自动分块模式：认知科学为许多相关概念使用了大量术语，包括块、常规/例程、类别和心智模型。在本书中，我之所以使用“块”，是因为不同学科已经以不同的方式使用了“块”这个词，而且普通人也能理解它。从技术上讲，我提到的大多数大型“分块模式”都被称为图式。
 
 [^31]: Chunks not behaving as we expect them to: When people learn information, the brain always tags it as "correct" and rarely considers the source's credibility. It takes conscious work to determine otherwise. People also tend to automatically group similar things together in the absence of complete data—thus, a person who didn't know much about either might consider a pumpkin and a basketball to be the same type of object. This can lead to unpleasant surprises when you try to make a pie. There is a field called "source monitoring" within the study of memory that works on examining these issues.
 
