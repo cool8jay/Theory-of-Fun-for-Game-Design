@@ -456,6 +456,6 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^56]: Mental practice: This is called "mental imagery," and it is widely used in sports training. One study by Anne Isaac in 1992 showed that mental imagery helps an athlete improve in a skill. Other studies have found that autonomic nervous system responses are triggered by detailed mental imagery. It's important to note that actual practice is still better than just imagining yourself doing something—the mental images have to be highly detailed and specific to provide a benefit. One of the most famous examples of mental imagery in the last 100 years is shown in the film The Pianist, where Wladyslaw Szpilman, played by Adrien Brody, "plays" piano while hovering his fingers above the keys, so as to avoid detection by the Nazis.
 
-[^57]: 实践：现代计算机之父艾伦·图灵也是“图灵停机问题”的创造者。我们知道，你可以让计算机解决令人难以置信的难题。但是，我们不知道需要多长时间才能得到答案；没有一种预测方法是有效的。这是因为丘奇·图灵理论，它简单地指出你可以计算任何已经计算过的问题，但我们尚未计算过的问题是未知领域。只有经验才能告诉我们问题的范围。简而言之，只有亲身经历，我们才能真正学到东西。
+[^57]: 练习：现代计算机之父艾伦·图灵也是“图灵停机问题”的创造者。我们知道，你可以让计算机解决极其困难的问题。但是，我们不知道需要多长时间才能得到答案；没有一种预测方法是有效的。这是因为丘奇·图灵理论，它简单地指出你可以计算任何已经计算过的问题，但我们还未计算过的问题是未知领域。只有经验才能告诉我们问题的范围。简而言之，只有亲身经历，我们才能真正学到东西。
 
-[^58]: 心理练习：这被称为“心理想象”，在体育训练中被广泛使用。安妮·艾萨克在 1992 年进行的一项研究表明，心理想象有助于运动员提高技能。其他研究发现，详细的心理想象会引发自主神经系统的反应。值得注意的是，实际练习仍比想象自己在做某事要好——心理想象必须非常详细和具体，才能带来益处。在电影《钢琴师》中，阿德里安·布罗迪扮演的弗拉迪斯拉夫·席皮尔曼一边“弹钢琴”，一边将手指悬停在琴键上方，以避免被纳粹发现。
+[^58]: 心理练习：这被称为“心理想象”，在体育训练中被广泛使用。安妮·艾萨克在 1992 年进行的一项研究表明，心理想象有助于运动员提高技能。其他研究发现，详细的心理想象会引发自主神经系统的反应。值得注意的是，实际练习仍比想象自己在做某事要好——心理想象必须非常详细和具体，才能带来益处。在电影《钢琴师》中，阿德里安·布罗迪扮演的弗拉迪斯拉夫·席皮尔曼，把手指悬停在琴键上方，“弹奏”钢琴，以避免被纳粹发现。
