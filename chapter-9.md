@@ -77,7 +77,7 @@ My second grid shows how we can analyze music. When I look at the chart for musi
 
 "Game" is a very fuzzy word. A few times in this book I have mentioned game systems as being distinct from games, or as the core element that makes something a game (in some senses). But "game systems" are not a medium. They are, depending on the definition, one *use* of a medium. The medium is really an unwieldy phrase like "formal abstract models for teaching patterns." I have taken to calling these "[ludic artifacts](#user-content-fn-1)[^1]" to distinguish them from the fuzziness of "game." Even though ludic artifacts—like fire drills or CIA model war games of the future of the Middle East—may not necessarily be fun, they still belong on the chart. The fact that they are not fun has more to do with their implementation than with their intrinsic nature.
 
-“游戏”是一个非常模糊的词。在本书中，我曾多次提到游戏系统有别于游戏，或者游戏系统是游戏的核心要素（在某些意义上）。但 “游戏系统”并不是一种媒介。根据不同的定义，它们只是媒介的一种*用途*。媒介实际上是一个难以理解的短语，比如“教学模式的形式抽象模型”。我习惯于称这些为“[游戏机制](#user-content-fn-2)[^2]”，以区别于“游戏”的模糊性。尽管游戏机制——如消防演习或中情局关于中东未来的战争游戏模型——不一定有趣，但它们仍然属于图表。它们之所以不好玩，与其说与它们的内在本质有关，不如说与它们的实施方式有关。
+“游戏”是一个非常模糊的词。在本书中，我曾多次提到游戏系统有别于游戏，或者游戏系统是游戏的核心要素（在某些意义上）。但“游戏系统”并不是一种媒介。根据不同的定义，它们只是媒介的一种*用途*。媒介实际上是一个难以理解的短语，比如“教学模式的形式抽象模型”。我习惯于称这些为“[游戏机制](#user-content-fn-2)[^2]”，以区别于“游戏”的模糊性。尽管游戏机制——如消防演习或中情局关于中东未来的战争游戏模型——不一定有趣，但它们仍然属于图表。它们之所以不好玩，与其说与它们的内在本质有关，不如说与它们的实施方式有关。
 
 Interaction happens with all media (at a minimum, we interact by engaging with the work). Actively and constructively interacting with stage-based media is termed "acting" and interacting with prose-based media is termed "writing." There's been a lot of discussion in professional video game design circles about "the surrender of authorship" inherent in adding greater flexibility to games and in the ["mod" community](#user-content-fn-3)[^3]. I think the key insight here is that players are simply "interacting with the medium" in a way that isn't purely experiential.
 
@@ -144,7 +144,7 @@ The chills that go down your back are not always indicative of something that yo
 
 In other words, games can take forms we don't recognize. They might not be limited to being "a game" or even a "[software toy](#user-content-fn-9)[^9]." The definition of "game" implies certain things, as do the words "toy," "sport," and "hobby." The layman's definition of "game" covers only some of the boxes in the grid. Arguably, all of the boxes in the grid are fun to *someone*. We need to start thinking of games a little more broadly. Otherwise, we will be missing out on large chunks of their potential as a medium.
 
-换句话说，游戏可以有我们不认识的形式。它们可能并不局限于“游戏”，甚至是“[软件玩具](#user-content-fn-10)[^10]”。与“玩具”、“运动”和“爱好”等词一样，“游戏”的定义也暗示着某些东西。外行人对 “游戏”的定义只包括网格中的部分方框。可以说，网格中的所有方框对*某些人*来说都是有趣的。我们需要从更广阔的角度来看待游戏。否则，我们就会错过游戏作为一种媒介所具有的巨大潜力。
+换句话说，游戏可以有我们不认识的形式。它们可能并不局限于“游戏”，甚至是“[软件玩具](#user-content-fn-10)[^10]”。与“玩具”、“运动”和“爱好”等词一样，“游戏”的定义也暗示着某些东西。外行人对“游戏”的定义只包括网格中的部分方框。可以说，网格中的所有方框对*某些人*来说都是有趣的。我们需要从更广阔的角度来看待游戏。否则，我们就会错过游戏作为一种媒介所具有的巨大潜力。
 
 The reason why the rise of critique and academia surrounding games is important is that it finally adds the missing element to put games in context with the rest of human endeavor. It signals their arrival as a medium. Considering how long they have been around, they're a little late to the party.
 
@@ -388,7 +388,7 @@ The fact that playing games—good ones, anyway—is fundamentally a creative ac
 
 No other artistic medium is defined around a single intended *effect* on the user, such as "fun." They all embrace a wider array of emotional impact. Now, we may be running into definitional questions for the word "fun" here, obviously, but even so, I'd prefer to approach things from a more [formalist](#user-content-fn-19)[^19] perspective to actually arrive at what the basic building blocks of the medium are. From a formalist point of view, music can be considered ordered sound and silence, poetry can be considered the placement of words and gaps between words, and so on.
 
-没有任何一种艺术媒介是围绕对用户的单一预期*效果*（如“乐趣”）来定义的。它们都包含更广泛的情感影响。现在，我们可能会遇到 “趣味”一词的定义问题，但即便如此，我还是倾向于从[形式主义](#user-content-fn-20)[^20]的角度来看待问题，以真正了解艺术媒介的基本构成要素是什么。从形式主义的角度来看，音乐可以被视为有序的声音和寂静，诗歌可以被视为词语的位置和词语之间的间隙，等等。
+没有任何一种艺术媒介是围绕对用户的单一预期*效果*（如“乐趣”）来定义的。它们都包含更广泛的情感影响。现在，我们可能会遇到“趣味”一词的定义问题，但即便如此，我还是倾向于从[形式主义](#user-content-fn-20)[^20]的角度来看待问题，以真正了解艺术媒介的基本构成要素是什么。从形式主义的角度来看，音乐可以被视为有序的声音和寂静，诗歌可以被视为词语的位置和词语之间的间隙，等等。
 
 The closer we get to understanding the basic building blocks of games—the things that players and creators alike manipulate in interacting with the medium—the more likely we are to achieve the heights of art.
 

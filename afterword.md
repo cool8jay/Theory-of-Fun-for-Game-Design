@@ -20,7 +20,7 @@ The reception of the book is still difficult for me to believe. It has become st
 
 这本书的受欢迎程度至今仍让我难以相信。它已成为全世界游戏设计专业的标准读物。能感动这么多崭露头角的设计师，我感到无比幸运。我衷心希望我没有对他们造成终生的伤害。这很可能是我在这个星球上，除了我的孩子之外，留下的最大一笔财富。
 
-Writing the book changed my own approaches to my work, and led me on an intellectual and creative journey that is still ongoing today. Ten years after the original talk, I attended the last Game Developers Conference ever held in Austin, and delivered a “ten years later” retrospective. Sometimes, there is closure.
+Writing the book changed my own approaches to my work, and led me on an intellectual and creative journey that is still ongoing today. Ten years after the original talk, I attended the last Game Developers Conference ever held in Austin, and delivered a "ten years later" retrospective. Sometimes, there is closure.
 
 写这本书改变了我的工作方式，引领我踏上了一段至今仍在继续的智力和创意之旅。在最初的演讲十年之后，我参加了在奥斯汀举行的最后一次游戏开发者大会，并发表了“十年之后”的回顾。有时候，故事会画上圆满的句点。
 

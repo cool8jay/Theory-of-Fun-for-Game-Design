@@ -16,7 +16,7 @@ Watching my kids play and learn through playing had been a revelation for me. Ev
 
 看着孩子们在游戏中学习，对我来说是一种启示。尽管我的职业是制作游戏，但我经常感到迷失在制作大型现代娱乐产品的复杂性中，而不是理解游戏为什么有趣以及什么是乐趣。
 
-My kids were leading me, without my quite knowing it, towards a theory of fun. And so I told my grandfather, “Yes, this is something worthwhile. I connect people, and I teach people.” But as I said it, I didn't really have any evidence to offer.
+My kids were leading me, without my quite knowing it, towards a theory of fun. And so I told my grandfather, "Yes, this is something worthwhile. I connect people, and I teach people." But as I said it, I didn't really have any evidence to offer.
 
 我的孩子们在不知不觉中把我引向了趣味理论。于是我对祖父说：“是的，这是一件有价值的事情。我连接人们，我教导人们。”但当我说出来的时候，我并没有任何证据。
 

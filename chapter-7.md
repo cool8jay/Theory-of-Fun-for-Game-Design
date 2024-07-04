@@ -261,7 +261,7 @@ Looking at these elementary particles that make up ludemes, it's easy to see why
 
 Historically, competitive game-playing of all sorts has tended to squeeze out the people who most need to learn the skills it provides, simply because they aren't up to the competition and they are eliminated in their first match. This is the essence of the Mastery Problem. Because of this, a lot of people prefer games that take no skill. These people are definitely failing to exercise their brains correctly. *Not requiring skill from a player should be considered a cardinal sin in game design*. At the same time, designers of games need to be careful not to make the game demand too much skill. They must keep in mind that players are always trying to reduce the difficulty of a task. The easiest way to do that is to not play.
 
-从历史上看，各种竞技游戏往往会挤掉最需要学习其所提供技能的人，原因很简单，因为他们不适应竞争，在第一场比赛中就被淘汰了。这就是 “掌握问题”的本质。正因为如此，很多人更喜欢不需要技巧的游戏。这些人肯定没有正确锻炼自己的大脑。*不要求玩家掌握技巧应被视为游戏设计中的大忌*。同时，游戏设计者也需要注意，不要让游戏对玩家的技能要求过高。他们必须牢记，玩家总是试图降低任务的难度。最简单的方法就是不玩。
+从历史上看，各种竞技游戏往往会挤掉最需要学习其所提供技能的人，原因很简单，因为他们不适应竞争，在第一场比赛中就被淘汰了。这就是“掌握问题”的本质。正因为如此，很多人更喜欢不需要技巧的游戏。这些人肯定没有正确锻炼自己的大脑。*不要求玩家掌握技巧应被视为游戏设计中的大忌*。同时，游戏设计者也需要注意，不要让游戏对玩家的技能要求过高。他们必须牢记，玩家总是试图降低任务的难度。最简单的方法就是不玩。
 
 This isn't an algorithm for fun, but it's a useful tool for checking for the absence of fun, because designers can identify systems that fail to meet all the criteria. It may also prove useful in terms of game critique. Simply check each system against this list:
 
