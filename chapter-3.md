@@ -34,7 +34,7 @@ The world is full of systems that we can choose to approach as games, and by app
 
 Games are something special and unique. They are concentrated chunks ready for our brains to chew on. Since they are abstracted and iconic, they are readily absorbed. Since they are formal systems, they exclude distracting extra details. Usually, our brains have to do hard work to turn messy reality into something as clear as a game is.
 
-游戏是一种特殊而独特的东西。它们是可供我们大脑咀嚼的浓缩块。由于它们是抽象的、标志性的，因此很容易被吸收。由于它们是形式系统，因此舍弃了分散注意力的额外细节。通常情况下，我们的大脑需要做艰苦的工作，才能把杂乱无章的现实变成像游戏一样清晰的东西。
+游戏是一种特殊而独特的东西。它们是可供我们大脑咀嚼的浓缩块。由于它们是抽象的、标志性的，因此很容易被吸收。由于它们是形式系统，因此舍弃了分散注意力的额外细节。通常，我们的大脑需要做艰苦的工作，才能把杂乱无章的现实变成像游戏一样清晰的东西。
 
 In other words, games serve as very fundamental and powerful learning tools. It's one thing to read in a book that "[the map is not the territory](#user-content-fn-3)[^3]" and another to have your armies rolled over by your opponent in a game. When the latter happens because your map didn't adequately reflect what was going on, you're gonna get the point even if the actual armies aren't marching into your suburban home.
 
@@ -50,7 +50,7 @@ A game designer might find those distinctions useful because they provide helpfu
 
 Consider the key difference between something like a book and different kinds of games. A book can do the logical conscious part of the brain pretty well. And really good readers have an ability to slurp that info directly into the subconscious, intuitive mind. But what a book will never be able to do is accelerate the grokking process to the degree that games do, because you cannot practice a pattern and [run permutations on it with a book](#user-content-fn-5)[^5], and have the book respond with feedback.
 
-考虑一下像书这样的东西与不同种类的游戏之间的主要区别。一本书可以很好地完成大脑的逻辑意识部分。而真正优秀的读者有能力将这些信息直接吸收到潜意识、直觉思维中。但书永远无法做到的是，像游戏那样加速理解过程，因为你无法[用一本书来实践某种模式和运行模式的各种变化组合](#user-content-fn-6)[^6]，然后让书做出反馈。
+考虑一下像书这样的东西与不同种类的游戏之间的主要区别。一本书可以很好地完成大脑的逻辑意识部分。而真正优秀的读者有能力将这些信息直接吸收到潜意识、直觉思维中。但书永远无法做到的是，像游戏那样加速神入过程，因为你无法[用一本书来实践某种模式和运行模式的各种变化组合](#user-content-fn-6)[^6]，然后让书做出反馈。
 
 <div align="center">
 <img src="images/3.2.png">
@@ -72,15 +72,15 @@ Consider the key difference between something like a book and different kinds of
 
 Linguists have noticed that language obeys fairly strict mathematical rules. For example, humans cannot understand a sentence that is too [deeply nested](#user-content-fn-7)[^7]. "The house the cheese the rat the cat the dog chased caught ate lay in was built by Jack" is a bad sentence because it violates this rule. The clauses are too deeply nested. We can puzzle it out with our slow logical conscious brain, but we work against our own natures when we do so.
 
-语言学家注意到，语言遵守相当严格的数学规则。例如，人类无法理解[嵌套太深](#user-content-fn-8)[^8]的句子。“放有被老鼠吃掉、老鼠又被猫抓、猫又被狗追的奶酪的房子是杰克造的。”就是一个糟糕的句子，因为它违反了这一规则。分句嵌套太深。我们可以用逻辑思维迟钝的大脑来解题，但这样做违背了我们的本性。
+语言学家注意到，语言遵守相当严格的数学规则。例如，人类无法理解[嵌套太深](#user-content-fn-8)[^8]的句子。“放有被老鼠吃掉、老鼠又被猫抓、猫又被狗追的奶酪的房子是杰克造的。”就是一个糟糕的句子，因为它违反了这一规则。从句嵌套太深。我们可以用逻辑思维迟钝的大脑来解题，但这样做违背了我们的本性。
 
 Games run into similar limitations. The biggest of these lies in games' very nature as exercises for our brains. Games that fail to exercise the brain become boring. This is why tic-tac-toe ends up falling down—it's exercise, but so limited we don't need to spend much time on it. As we learn more patterns, more novelty is needed to make a game attractive. Practicing can keep a game fresh for a while, but in many cases we'll say, "Eh, I get it, I don't need to practice this task," and we'll move on.
 
-游戏也有类似的局限性。其中最大的限制在于游戏作为大脑运动的本质。无法锻炼大脑的游戏会变得枯燥乏味。这就是为什么井字游戏最终会失败的原因——它是一种锻炼，但却非常有限，我们不需要花太多时间在上面。当我们学会更多的游戏模式时，就需要更多的新颖性来吸引我们。练习可以让游戏保持一段时间的新鲜感，但在很多情况下，我们会说：“诶，我懂了，我不需要练习这个任务了”，然后我们就会继续前进。
+游戏也有类似的局限性。其中最大的限制在于游戏作为大脑练习的本质。无法锻炼大脑的游戏会变得枯燥乏味。这就是为什么井字游戏最终会失败的原因——它是一种练习，但却非常有限，我们不需要花太多时间在它上面。当我们学会更多的游戏模式时，就需要更多的新颖性来吸引我们。练习可以让游戏保持一段时间的新鲜感，但在很多情况下，我们会说：“嗯，我懂了，我不需要练习这个任务了”，然后我们就会转移到其它事物上。
 
 Almost all intentionally designed games fall prey to this. They are limited formal systems. If you keep playing them, you'll eventually grok wide swaths of their possibility space. In that sense, games are disposable, and boredom is inevitable.
 
-几乎所有有意设计的游戏都会犯这个错误。它们是有限的正式系统。如果你一直玩下去，你最终会摸索出它们的大片可能性空间。从这个意义上说，游戏是一次性的，无聊是不可避免的。
+几乎所有有意设计的游戏都会遇到这个问题。它们是有限的形式系统。如果你一直玩下去，你最终会完全摸索出它们可能性空间的全部区域。从这个意义上说，游戏是一次性的，厌倦不可避免。
 
 Fun comes from ["richly interpretable" situations](#user-content-fn-9)[^9]. Games that rigidly define rules and situations are more susceptible to mathematical analysis, which is a limitation in itself. We don't think that we can drive just because we know the rules of the road and the controls of a car, but extremely formal games (such as most board games) have fairly few variables, and so you can often extrapolate out everything about how the game will go from the known rule set. This is an important insight for game designers: _[the more rigidly constructed your game is, the more limited it will be.](#user-content-fn-10)[^10]_  To make games more long-lasting, they need to integrate either math problems we don't know the solutions to, or more variables (and less predictable ones) such as human psychology, physics, and so on. These are elements that arise from outside the game's rules and from outside the "magic circle."
 
@@ -247,7 +247,7 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^5]: Run permutations on a book: This statement is a bit too forceful. There exist works of literature that are intended in this manner. Examples include the entire genre of hypertext fiction (Victory Garden by Stuart Moulthrop is a good starting point). There are also books such as Julio Cortázar's Rayuela (translated as Hopscotch) that are intended to be read in multiple different orders. And of course, the genre of games known as "interactive fiction," or text adventures, can be seen as a computer-assisted form of this type of book.
 
-[^6]: 用一本书进行排列组合：这种说法有点过于武断。有一些文学作品就是以这种方式创作的。例如整个超文本小说流派（斯图而特·莫而特洛普的《胜利花园》就是一个很好的起点）。还有像胡里奥·科塔萨尔的《Rayuela》（译为《跳房子》）这样可以按照多种不同顺序阅读的书籍。当然，被称为“互动小说”或文字冒险的游戏类型也可以被视为这类书籍的计算机辅助形式。
+[^6]: 用一本书运行排列组合：这种说法有点过于武断。有一些文学作品就是以这种方式创作的。例如整个超文本小说流派（斯图而特·莫而特洛普的《胜利花园》就是一个很好的起点）。还有像胡里奥·科塔萨尔的《Rayuela》（译为《跳房子》）这样可以按照多种不同顺序阅读的书籍。当然，被称为“互动小说”或文字冒险的游戏类型也可以被视为这类书籍的计算机辅助形式。
 
 [^7]: Deeply nested clauses: This is typically seen as an expression of G. A. Miller's number cited in the endnote on "chunking" in Chapter Two: 7±2. In assessing a deeply nested sentence, it's important to realize that each word is itself already being "chunked" from a collection of letters. The example sentence comes from Jane Robinson's 1974 paper ["Performance Grammars"](http://www.sri.com/sites/default/files/uploads/publications/pdf/1384.pdf).
 
