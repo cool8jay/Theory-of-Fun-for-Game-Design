@@ -14,7 +14,7 @@ For the first few decades of interactive game design, we were able to blithely i
 
 "What is this new medium that we're working in?"
 
-"我们所从事的新媒介是什么？"
+“我们所从事的新媒介是什么？”
 
 The academic interest seems twofold: First is the recognition that video games probably represent an emerging new medium, a new design field, and possibly a new art form. All of these are worthy of study. Second, there are an increasing number of motivated students that grew up playing these games and now find themselves inspired to work in the field one day. They want to find schools that will help them understand what games are and how to make them.
 
