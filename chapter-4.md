@@ -648,7 +648,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^44]: 通过虚拟枪支射击进行训练：在训练关系到生死存亡的职业中，训练的设计要尽可能与真实情况相吻合。鼠标或在屏幕上点击并不能传达后坐力、质量、大小或人类在不同位置被击中时的反应等真实情况。操作坦克或客机等交通工具也是如此。界面非常重要。
 
-[^45]: Games about rationing: The specific game was called simply Ration Board Game and was made by the Jay-line Mfg. Co. Inc., in 1943. The wonderful BoardGameGeek website has an [entry](http://boardgamegeek.com/boardgame/27313/ration-board) on it:.
+[^45]: Games about rationing: The specific game was called simply Ration Board Game and was made by the Jay-line Mfg. Co. Inc., in 1943. The wonderful BoardGameGeek website has an [entry](http://boardgamegeek.com/boardgame/27313/ration-board) on it.
 
 [^46]: 关于配给的游戏：具体的游戏名为《配给委员会》，由 Jay-line 制造公司于 1943 年制作。精彩的 BoardGameGeek 网站上有一个关于它的[条目](http://boardgamegeek.com/boardgame/27313/ration-board)。
 
@@ -658,7 +658,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^49]: Mancala: This family of games goes under many names including mancala, oware, wari, and many more. They all involve moving seeds or pebbles through wells on a board. The variant where you are not supposed to leave the opponent with no seeds is called oware, and is widely played in Africa. The name literally means "he/she marries."
 
-[^50]: 《曼卡拉》：这个游戏家族有很多名字，包括曼卡拉、奥瓦、瓦里等等。它们都是在棋盘上的凹槽中移动种子或鹅卵石。不能让对手没有种子的变体叫做播棋，在非洲广为流传。这个名字的字面意思是 "他/她结婚"。
+[^50]: 《曼卡拉》：这个游戏家族有很多名字，包括曼卡拉、奥瓦、瓦里等等。它们都是在棋盘上的凹槽中移动种子或鹅卵石。不能让对手没有种子的变体叫做播棋，在非洲广为流传。这个名字的字面意思是“他/她结婚”。
 
 [^51]: Modern games about farming: There are a number of these, including Euro games like [Agricola](https://en.wikipedia.org/wiki/Agricola_(board_game)), social games like [Farmville](https://en.wikipedia.org/wiki/FarmVille), and card games like [Bohnanza](https://en.wikipedia.org/wiki/Bohnanza). However, none of them encode the same set of social practices as mancala does.
 
@@ -702,7 +702,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^71]: Topology: More specifically, the branch of geometry that is interested in the properties of shapes that do not change when you "squish" a shape. In theory, if you had a cube that you could squish all you wanted, you could shape it into a sphere. However, to change it into a donut, you have to punch a hole in it. The donut, however, can easily become a teapot; the hole becomes the handle. This is called a "continuous deformation," and we term shapes that can be squished into one another "homeomorphic." Quite often, we find that different game designs are more or less homeomorphic, too: the variances between them have more in common with the difference between a cube and a sphere than they do between a cube and a donut.
 
-[^72]: 拓扑学：更具体地说，是几何学的一个分支，研究的是“挤压”形状时不会改变的形状属性。从理论上讲，如果你有一个立方体，你可以随心所欲地挤压它，你可以把它捏成一个球体。但是，要把它变成一个甜甜圈，就必须在上面打一个洞。然而，甜甜圈可以很容易地变成茶壶；孔变成了把手。这就是所谓的 "连续变形"，我们把可以相互挤压的形状称为“同胚”"。很多时候，我们会发现不同的游戏设计也或多或少具有同胚性：它们之间的差异更像是立方体和球体之间的差异，而不是立方体和甜甜圈之间的差异。
+[^72]: 拓扑学：更具体地说，是几何学的一个分支，研究的是“挤压”形状时不会改变的形状属性。从理论上讲，如果你有一个立方体，你可以随心所欲地挤压它，你可以把它捏成一个球体。但是，要把它变成一个甜甜圈，就必须在上面打一个洞。然而，甜甜圈可以很容易地变成茶壶；孔变成了把手。这就是所谓的“连续变形”，我们把可以相互挤压的形状称为“同胚”。很多时候，我们会发现不同的游戏设计也或多或少具有同胚性：它们之间的差异更像是立方体和球体之间的差异，而不是立方体和甜甜圈之间的差异。
 
 [^73]: Platform games: Any of a broad class of games where you attempt to traverse a landscape collecting objects or touching every space on the map. Platform games originally featured platforms as their setting, hence the name.
 
