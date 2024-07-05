@@ -228,7 +228,7 @@ Successful [games tend to incorporate the following elements](#user-content-fn-1
 > 
 > ...they are so clueless. Don't they know about the entire second half of the game?
 > 
-> ......他们真是没脑子。难道他们不知道整个游戏的后半部分吗？
+> ……他们真是没脑子。难道他们不知道整个游戏的后半部分吗？
 
 A game having all of these elements hits the right cognitive buttons to be fun. If a game involves no preparation, we say it relies on chance. If there's no sense of space, we call it trivial. If there's no core mechanic, there's no game system at all. If there's no range of challenges, we exhaust it quickly. If there aren't multiple choices to make, it's simplistic. And if skill isn't required, it's tedious.
 
@@ -334,7 +334,7 @@ In the end, that is both the glory of learning and its fundamental problem: once
 
 > In fact, the desperate hunt for more puzzles to put into a given game has led to something called "kitchen-sink design."
 > 
-> 事实上，为了在游戏中加入更多的谜题，人们不惜一切代价，这就是所谓的 "厨房水槽设计"。
+> 事实上，为了在游戏中加入更多的谜题，人们不惜一切代价，这就是所谓的“厨房水槽设计”。
 > 
 > IT'S A MASSIVELY MULTIPLAYER STRATEGY-BASED REAL-TIME SHOOTER WITH RPG CHARACTER DEVELOPMENT, PUZZLE GAME COMBAT, A RACING SUBGAME, AND YOU PLAY IT ON A DANCE MAT!
 > 
@@ -350,7 +350,7 @@ In the end, that is both the glory of learning and its fundamental problem: once
 
 [^3]: Cheating during a soccer match: On the flip side, if the referee fails to see that we are offside, we'll take it and often say, "Them's the breaks." It is still a violation of the rules, but since the ref (who is part of the formal construct) is fallible, we accept the violation.
 
-[^4]: 在足球比赛中作弊：反过来说，如果裁判没有发现我们越位，我们也会接受，并经常说“这就是比赛的一部分。"这仍然是违反规则的行为，但由于裁判（他是正式结构的一部分）也可能犯错，所以我们接受这种违规行为。
+[^4]: 在足球比赛中作弊：反过来说，如果裁判没有发现我们越位，我们也会接受，并经常说:“这就是比赛的一部分。”这仍然是违反规则的行为，但由于裁判（他是正式结构的一部分）也可能犯错，所以我们接受这种违规行为。
 
 [^5]: Most games do not permit innovation and invention: There does exist a game, called Nomic, whose rules you rewrite as you play; it's part of the game. It too has limits; you bump up against the physics of reality if you try to change too much. In Nomic's case, the changing rules are themselves part of the pattern—but declaring atoms to be the size of Jupiter, or pulling out a gun and shooting another player, are still off-limits even if you make a rule allowing it. Nomic was designed by Peter Suber of the Philosophy Department at Earlham College.
 
