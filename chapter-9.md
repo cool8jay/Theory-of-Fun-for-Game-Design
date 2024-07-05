@@ -436,7 +436,7 @@ Impressionist music was based primarily on repetition; it went on to influence m
 
 And of course, there was "Impressionist" writing. [Virginia Woolf](#user-content-fn-33)[^33], [Gertrude Stein](#user-content-fn-34)[^34], and many other writers worked with the idea that characters are unknowable. Books like *Jacob's Room* and *The Autobiography of Alice B. Toklas* play with the established notions of self and work towards a realization that other people are essentially unknowable. However, they also propose an alternate notion of knowability: that of "negative space," whereby a form is understood and its nature grasped by observing the perturbations around it. The term is from the world of pictorial art, which provides many useful insights when discussing the problem of representation of reality.
 
-当然，还有“印象派”写作。[弗吉尼亚·伍尔夫](#user-content-fn-35)[^35]、[格特鲁德·斯坦因](#user-content-fn-36)[^36]和其他许多作家都曾提出过“人物是不可知的”这个观点。*《雅各布的房间》* 和 *《爱丽丝·B·托克拉斯自传》* 等书玩弄了既定的自我概念，并努力让人们认识到其他人本质上是不可知的。然而，它们也提出了可知性的一个替代概念："负空间"，即通过观察周围的扰动变化来理解一种形式并把握其本质。这个术语来自绘画艺术世界，在讨论现实的再现问题时提供了许多有用的见解。
+当然，还有“印象派”写作。[弗吉尼亚·伍尔夫](#user-content-fn-35)[^35]、[格特鲁德·斯坦因](#user-content-fn-36)[^36]和其他许多作家都曾提出过“人物是不可知的”这个观点。*《雅各布的房间》* 和 *《爱丽丝·B·托克拉斯自传》* 等书玩弄了既定的自我概念，并努力让人们认识到其他人本质上是不可知的。然而，它们也提出了可知性的一个替代概念：“负空间”，即通过观察周围的扰动变化来理解一种形式并把握其本质。这个术语来自绘画艺术世界，在讨论现实的再现问题时提供了许多有用的见解。
 
 All of these are organized around the same principles: negative space, embellishing the space around a central theme, and observing perturbations and reflections. There was a [zeitgeist](#user-content-fn-37)[^37] at that time; these approaches were "in the air," but there was also conscious borrowing from art form to art form. This occurred in large part because no art form stands alone; they bleed into one another.
 
