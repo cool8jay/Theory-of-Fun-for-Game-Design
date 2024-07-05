@@ -200,7 +200,7 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^6]: 我们仍在摔跤：2009 年，心理科学协会的期刊《APS》发表了一份关于“学习风格”研究的[调查报告](https://journals.sagepub.com/doi/full/10.1111/j.1539-6053.2009.01038.x)，得出的结论是，在测试针对特定学习风格的方法和广泛的方法时，还不够严谨。换句话说，我们需要对班级学生进行正式实验，一组学生在教学时考虑到了学习风格，另一组则没有，以真正评估以多种不同方式呈现课程是否有意义。毕竟，教师的资源是有限的，以一种覆盖面相当广的方式授课可能会更有效率（尽管可能无法最大限度地发挥每个学生的潜能）。不过，无论如何，学习风格方法在教育理论界非常普遍。
 
-[^7]: 智商的钟形曲线分布：标准智商（IQ）测试围绕平均分 100 进行归一化。测试每隔几年就需要重新归一化，因为我们显然都变得越来越聪明了；这就是所谓的弗林效应。并非所有人都认为智商是衡量各种智力的有效标准。还有一个概念叫做“情绪智能"，它认为我们对情绪的理解和应对能力至少同样重要，甚至更为重要。
+[^7]: 智商的钟形曲线分布：标准智商（IQ）测试围绕平均分 100 进行归一化。测试每隔几年就需要重新归一化，因为我们显然都变得越来越聪明了；这就是所谓的弗林效应。并非所有人都认为智商是衡量各种智力的有效标准。还有一个概念叫做“情绪智能”，它认为我们对情绪的理解和应对能力至少同样重要，甚至更为重要。
 
 [^8]: 霍华德·加德纳：加德纳在《心智框架》一书中定义了七种智能，认为智商测验只能测量前两种智能。最近，他又提出了另外两种智能类型：自然主义智能和存在主义智能。
 
@@ -282,7 +282,7 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^47]: Aging game players: Nick Yee was able to graph the differences in male and female behavior across ages after surveying a few thousand players of massively multiplayer online games, aka "MMOs." Younger males tended towards the more violent activities in the game, and older males tended to more closely match the behavior of females. The percentage of the respondents who were of a given gender showed markedly different distributions across age; there was a huge spike in younger males, whereas the number of females tended to remain relatively even across ages. Yee's Daedalus Project can be found [here](http://www.nickyee.com/daedalus/). We should not equate this to the theory of "dedifferentiation," which asserted that as we age, our cognitive strengths and weaknesses get "smoothed out." In 2003, the APA issued a press release about dedifferentiation stating that longitudinal studies had disproven it.
 
-[^48]: 老年游戏玩家：尼克·易在对几千名大型多人在线游戏（又称 "网络游戏"）玩家进行调查后，绘制出了不同年龄段的男女行为差异图。年轻男性倾向于游戏中更暴力的活动，而年长男性则更接近女性的行为。受访者中特定性别的比例在不同年龄段的分布明显不同；年轻男性的比例激增，而女性的比例在不同年龄段相对均衡。易的代达罗斯项目可在[这里](http://www.nickyee.com/daedalus/)找到。我们不应该把这等同于“去差异化”理论，该理论断言随着年龄的增长，我们的认知强项和弱项都会被“抹平”。2003 年，美国心理学会发布了一份关于“去差异化”的新闻稿，称纵向研究已经推翻了这一理论。
+[^48]: 老年游戏玩家：尼克·易在对几千名大型多人在线游戏（又称“网络游戏”）玩家进行调查后，绘制出了不同年龄段的男女行为差异图。年轻男性倾向于游戏中更暴力的活动，而年长男性则更接近女性的行为。受访者中特定性别的比例在不同年龄段的分布明显不同；年轻男性的比例激增，而女性的比例在不同年龄段相对均衡。易的代达罗斯项目可在[这里](http://www.nickyee.com/daedalus/)找到。我们不应该把这等同于“去差异化”理论，该理论断言随着年龄的增长，我们的认知强项和弱项都会被“抹平”。2003 年，美国心理学会发布了一份关于“去差异化”的新闻稿，称纵向研究已经推翻了这一理论。
 
 [^49]: Girls breaking out of traditional gender roles: Reuters reported in September 2004 on a study performed at Penn State that showed that the games played by kids at age 10 had a significant correlation with their academic performance years later. Girls who played sports at age 10 became more interested in math at age 12 than girls who didn't do sports. Girls who spent time on stereotypically "girly" activities such as knitting, reading, dancing, and playing with dolls tended to perform better later in subjects such as English.
 
