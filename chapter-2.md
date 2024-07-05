@@ -246,7 +246,7 @@ That doesn't mean you are done with jazz, though. There's a long way to go betwe
 
 The second level of the brain is really slow. It's integrative, associative, and intuitive. It links things that don't make much sense. This is the part of the brain that packages things up and chunks them. This part of how we think isn't something we can access directly—it doesn't use words. It's also frequently wrong. It's the source of "common sense," which is often self-contradictory ("look before you leap, but he who hesitates is lost"). It's the thing that builds [approximations of reality](#user-content-fn-47)[^47].
 
-大脑的第二个层次非常缓慢。它具有整合性、联想性和直觉性。它能将没有多大意义的事物联系起来。这部分大脑会将事物打包并分块。这部分思考方式我们无法直接获取——它不使用语言。它也经常出错。它是“常识”的来源，而“常识”往往是自相矛盾的（“三思而后行，但是，当断不断，反受其乱"）。它是构建[现实的近似](#user-content-fn-48)[^48]的那部分功能。
+大脑的第二个层次非常缓慢。它具有整合性、联想性和直觉性。它能将没有多大意义的事物联系起来。这部分大脑会将事物打包并分块。这部分思考方式我们无法直接获取——它不使用语言。它也经常出错。它是“常识”的来源，而“常识”往往是自相矛盾的（“三思而后行，但是，当断不断，反受其乱”）。它是构建[现实的近似](#user-content-fn-48)[^48]的那部分功能。
 
 <div align="center">
 <img src="images/2.9.png">
