@@ -151,7 +151,7 @@ The stories in many video games serve the same purpose as calling the über-chec
 > 
 > SURE, IT'S ANOTHER FIRST-PERSON SHOOTER, BUT WITH THE MOVIE LICENSE, I AM SURE IT'LL BE A HIT...
 > 
-> 当然，这又是一款第一人称射击游戏，但有了电影授权，我相信它会大受欢迎......
+> 当然，这又是一款第一人称射击游戏，但有了电影授权，我相信它会大受欢迎……
 
 Games are not stories (though [players can create stories](#user-content-fn-23)[^23] from them). It is interesting to make the comparison, though:
 
@@ -333,7 +333,7 @@ You can regain delight by staying away from the object that caused it previously
 
 Fun, as I define it, is the feedback the brain gives us when we are absorbing patterns for learning purposes. Consider the basketball team that says, "We went out there to have fun tonight," versus the one that says, "We went out there to win." The latter team is approaching the game as no longer being practice. Fun is primarily about practicing and learning, not about exercising mastery. In fact, the fun often starts before the action does; [anticipating a solution](#user-content-fn-41)[^41] can be as exciting as applying one. Exercising mastery will give us some other feeling, because we are doing it *for a reason*, such as status enhancement or survival.
 
-根据我的定义，“乐趣”是大脑在我们为了学习而吸收模式时给予我们的反馈。想想一支篮球队说："我们今晚上场是为了玩得开心"，而另一支篮球队说：“我们上场是为了赢球。”后一支球队对待比赛的态度不再是练习。乐趣主要在于练习和学习，而不是锻炼掌握技巧。事实上，乐趣往往在行动之前就已经开始了；[期待一个解决方案](#user-content-fn-42)[^42]和应用一个解决方案一样令人兴奋。锻炼掌握技巧会给我们带来其他感觉，因为我们这样做是有原因的，比如提高地位或生存。
+根据我的定义，“乐趣”是大脑在我们为了学习而吸收模式时给予我们的反馈。想想一支篮球队说：“我们今晚上场是为了玩得开心”，而另一支篮球队说：“我们上场是为了赢球。”后一支球队对待比赛的态度不再是练习。乐趣主要在于练习和学习，而不是锻炼掌握技巧。事实上，乐趣往往在行动之前就已经开始了；[期待一个解决方案](#user-content-fn-42)[^42]和应用一个解决方案一样令人兴奋。锻炼掌握技巧会给我们带来其他感觉，因为我们这样做是有原因的，比如提高地位或生存。
 
 The lesson here is that *fun is contextual*. The reasons why we are engaging in an activity matter a lot. Bernard Suits called this "approaching things with a [lusory attitude](#user-content-fn-43)[^43]," which in part means putting the activity into that "magic circle" of lack of consequence. School is not usually all that fun because we take it seriously—it's not practice, it's for real, and your grades, social standing, and clothing determine whether you are in the in-crowd, or whether you sit at the table close to the cafeteria kitchen.
 
@@ -443,7 +443,7 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 [^1]: "King me": The phrase spoken when you move a checkers piece to the last row on the board. There's an interesting political undertone to checkers, in that it is assumed that common soldiers must only charge forward, whereas kings have more freedom of movement (and may retreat)—and yet, it is also assumed that any soldier may become a king.
 
-[^2]: "升王"：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
+[^2]: “升王”：当你把跳棋棋子移动到棋盘最后一行时说的一句话。跳棋有一个有趣的政治含义，即人们认为普通士兵只能向前冲锋，而国王则有更多的行动自由（可以后退）——然而，人们也认为任何士兵都可以成为国王。
 
 [^3]: Abstract games: In the gamer community, religious wars occur over whether or not a game should include fictional dressing or not. There is an entire genre of abstract strategy games that is arguably not enhanced by the inclusion of back story or art treatments.
 
@@ -487,7 +487,7 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 [^23]: Players can create stories: to be precise, there are three terms that are often used interchangeably, but which can also mean very distinct things: plot, story, and narrative. A plot is a sequence of causal events created by an author: "and then they broke up because of his indiscretion." A narrative is a sequence of events from a perspective: "and then this happened." We can build a narrative out of any experience at all, and it is very common to build narratives out of gameplay, either after the game is over or even while it is still going on. A story is basically the narrative constructed out of interacting with a plot. In game design circles, we often speak of the author's story and the player's story, because these can end up diverging widely.
 
-[^24]: 玩家可以创作故事：确切地说，有三个术语经常被互换使用，但它们也可以有非常不同的含义：情节、故事和叙事。情节是作者创作的一连串因果事件："然后他们因为他的轻率而分手了"。叙事是从一个角度出发的一系列事件："然后就发生了这样的事"。我们可以从任何经历中构建叙事，而从游戏中构建叙事是非常常见的，可以是在游戏结束后，甚至是在游戏仍在进行时。故事基本上就是在与情节互动的过程中构建的叙事。在游戏设计圈子里，我们经常谈论作者的故事和玩家的故事，因为这两者最终可能会大相径庭。
+[^24]: 玩家可以创作故事：确切地说，有三个术语经常被互换使用，但它们也可以有非常不同的含义：情节、故事和叙事。情节是作者创作的一连串因果事件：“然后他们因为他的轻率而分手了”。叙事是从一个角度出发的一系列事件：“然后就发生了这样的事”。我们可以从任何经历中构建叙事，而从游戏中构建叙事是非常常见的，可以是在游戏结束后，甚至是在游戏仍在进行时。故事基本上就是在与情节互动的过程中构建的叙事。在游戏设计圈子里，我们经常谈论作者的故事和玩家的故事，因为这两者最终可能会大相径庭。
 
 [^25]: Planetfall: Designed by Steve Mereztky, Planetfall was a very funny text adventure game published by Infocom in 1983.
 
@@ -527,7 +527,7 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 [^43]: Bernard Suits and lusory attitude: The term comes from his book [The Grasshopper: Games, Life, and Utopia](https://www.amazon.com/dp/1554812151). In it, he defines a game this way: "To play a game is to attempt to achieve a specific state of affairs [prelusory goal], using only means permitted by rules [lusory means], where the rules prohibit use of more efficient means in favor of less efficient means [constitutive rules], and where the rules are accepted just because they make possible such activity [lusory attitude]."
 
-[^44]: 伯纳德·苏伊茨和游戏的态度：这个词来自他的[《蚱蜢：游戏、生活与乌托邦》](https://www.amazon.com/dp/1554812151)一书中。在书中，他是这样定义游戏的：“玩游戏就是试图达到一种特定的状态[前游戏目标]，只使用规则允许的手段[游戏手段]，规则禁止使用效率较高的手段，而使用效率较低的手段[构成性规则]，规则被接受只是因为它们使这种活动成为可能[游戏态度]"。
+[^44]: 伯纳德·苏伊茨和游戏的态度：这个词来自他的[《蚱蜢：游戏、生活与乌托邦》](https://www.amazon.com/dp/1554812151)一书中。在书中，他是这样定义游戏的：“玩游戏就是试图达到一种特定的状态[前游戏目标]，只使用规则允许的手段[游戏手段]，规则禁止使用效率较高的手段，而使用效率较低的手段[构成性规则]，规则被接受只是因为它们使这种活动成为可能[游戏态度]”。
 
 [^45]: Flow: A term coined by Mihaly Csikszentmihalyi to describe the frame of mind characterized by intense attention and maximum performance on a task. The sensation of flow appears to be linked to increased release of dopamine, which is a neurotransmitter that apparently increases attention ability in the frontal cortex. Evidence seems to be mounting that dopamine is not, in itself, the chemical that provides positive feedback. For an introduction to the concept, try [Flow: The Psychology of Optimal Experience](https://www.amazon.com/dp/0061339202).
 
