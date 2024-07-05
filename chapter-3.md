@@ -218,7 +218,7 @@ That's what games are, in the end. Teachers. [Fun is just another word for learn
 
 One wonders, then, why learning is so damn boring to so many people. It's almost certainly because the method of transmission is wrong. We praise good teachers by saying that they "make learning fun." Games are very good teachers...of something. The question is, what do they teach?
 
-那么，我们不禁要问，为什么对这么多人来说，学习是如此该死的无聊呢？这几乎可以肯定是因为传授的方法不对。我们称赞好老师，说他们"让学习变得有趣"。游戏是很好的老师……在某些方面。问题是，游戏能教什么？
+那么，我们不禁要问，为什么对这么多人来说，学习是如此该死的无聊呢？这几乎可以肯定是因为传授的方法不对。我们称赞好老师，说他们“让学习变得有趣”。游戏是很好的老师……在某些方面。问题是，游戏能教什么？
 
 Either way, I have an answer for my late grandfather, and it looks like what I do fits right alongside the upstanding professions of my various aunts and uncles. Fireman, carpenter, and...teacher.
 
@@ -286,4 +286,4 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^25]: Fun is another word for learning: The theoretician of play Brian Sutton-Smith called this just one of the "rhetorics of play." He identified several more in his book The Ambiguity of Play, including using games of chance to determine your fate, or using games to determine the fate of nations. I tend to regard almost all of the rhetorics he identifies as differing sources of learning and practice, and the balance (such as the two I just mentioned) as more like alternative uses of games. More recently, designer Craig Perko has written a series of articles identifying what he calls "aesthetics of play," once again identifying learning and mastery as just two possible things to value within a game structure. "Play" can be taken in a Derridean sense to mean "movement" or "freedom," as several games academics have pointed out (Salen, Zimmerman, and Bogost). In my definition of fun, the sort of learning we are doing is essentially mapping the space of that movement.
 
-[^26]: 乐趣是学习的另一个词：游戏理论家布赖恩·萨顿·史密斯称这只是“游戏修辞”之一。他在《游戏的歧义》一书中还指出了其他几种游戏修辞，包括用机会游戏来决定你的命运，或用游戏来决定国家的命运。我倾向于把他指出的几乎所有修辞方法都看作是学习和实践的不同来源，而其余的（比如我刚才提到的两种）更像是游戏的其他用途。最近，设计师克雷格·佩尔科撰写了一系列文章，指出了他所谓的"游戏美学"，并再次指出学习和掌握只是游戏结构中两种可能的价值。正如几位游戏学者（萨伦，齐默尔曼和博格斯特）所指出的，“游戏”在德里达意义上可以理解为“运动”或“自由”。在我对“乐趣”的定义中，我们正在进行的学习本质上就是在映射这种运动的空间。
+[^26]: 乐趣是学习的另一个词：游戏理论家布赖恩·萨顿·史密斯称这只是“游戏修辞”之一。他在《游戏的歧义》一书中还指出了其他几种游戏修辞，包括用机会游戏来决定你的命运，或用游戏来决定国家的命运。我倾向于把他指出的几乎所有修辞方法都看作是学习和实践的不同来源，而其余的（比如我刚才提到的两种）更像是游戏的其他用途。最近，设计师克雷格·佩尔科撰写了一系列文章，指出了他所谓的“游戏美学”，并再次指出学习和掌握只是游戏结构中两种可能的价值。正如几位游戏学者（萨伦，齐默尔曼和博格斯特）所指出的，“游戏”在德里达意义上可以理解为“运动”或“自由”。在我对“乐趣”的定义中，我们正在进行的学习本质上就是在映射这种运动的空间。
