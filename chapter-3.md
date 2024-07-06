@@ -222,7 +222,7 @@ One wonders, then, why learning is so damn boring to so many people. It's almost
 
 Either way, I have an answer for my late grandfather, and it looks like what I do fits right alongside the upstanding professions of my various aunts and uncles. Fireman, carpenter, and...teacher.
 
-无论如何，我已经为我已故的祖父找到了答案，而且看起来我所从事的工作与我的叔叔阿姨们的正直职业是相吻合的。消防员，木匠，还有……老师。
+无论如何，我已经为我已故的祖父找到了答案，而且看起来我所从事的工作正好与我的叔叔阿姨们的正直职业相提并论。消防员，木匠，还有……老师。
 
 <div align="center">
 <img src="images/3.7.png">
