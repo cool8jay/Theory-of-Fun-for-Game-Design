@@ -238,7 +238,7 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^1]: Our perception of reality is basically abstraction: An important paper called "What the Frog's Eye Tells the Frog's Brain," by Lettvin, Maturana, McCulloch, and Pitts, described the fact that what the brain "sees" as output from the eyes is not even vaguely close to the literal visual image. A significant amount of processing turns the literal input of light and shadow into something that the brain copes with. In a very real sense, we do not see the world—we see what our brain tells us we see. Solipsism is five blocks down and to the left.
 
-[^2]: 我们对现实的感知基本上是抽象的：莱特文、马图拉纳、麦克库洛赫和皮茨的一篇重要论文《青蛙的眼睛告诉青蛙的大脑什么》描述了这样一个事实：大脑从眼睛中“看到”的输出与字面上的视觉图像相差甚远。大量的处理过程将光影的直接输入转化为大脑可以应对的东西。从真正意义上说，我们看到的不是世界，而是大脑告诉我们看到了什么。唯我论就在左下方五个街区的地方。
+[^2]: 我们对现实的感知基本上是抽象的：莱特文、马图拉纳、麦克库洛赫和皮茨的一篇重要论文《青蛙的眼睛告诉青蛙的大脑什么》描述了这样一个事实：大脑从眼睛中“看到”的输出与字面上的视觉图像相差甚远。大量的处理过程将光影的直接输入转化为大脑可以应对的东西。从真正意义上说，我们看到的不是世界，而是大脑告诉我们看到了什么。唯我论就在左下方五个街区的地方（离我们不远了）。
 
 [^3]:The map is not the territory: This is a condensation of a statement by the father of general semantics, Alfred Korzybski: "A map is not the territory it represents, but if correct, it has a similar structure to the territory, which accounts for its usefulness."
 
