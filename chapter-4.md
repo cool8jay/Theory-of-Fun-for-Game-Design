@@ -26,7 +26,7 @@ The population that uses games as learning tools the most effectively is the you
 
 > This shouldn't surprise us -- after all, the young of all species play.
 > 
-> 我们不应该对此感到惊讶——毕竟，所有物种的年轻人都在玩耍。
+> 我们不应该对此感到惊讶——毕竟，所有物种的幼体都在玩耍。
 
 We don't actually put away the notion of "having fun," as far as I can tell. We migrate it into other contexts. Many claim that work is fun, for example (me included). Just getting together with friends can be enough to give us the little burst of endorphins we crave.
 
@@ -34,15 +34,15 @@ We don't actually put away the notion of "having fun," as far as I can tell. We 
 
 We also don't put aside the notion of constructing abstract models of reality in order to practice with them. We practice our speeches in front of mirrors, run fire drills, go through training programs, and role-play in therapy sessions. There are games all around us. We just don't call them that.
 
-我们也不会抛开构建抽象的现实模型的概念，以便用它们进行练习。我们对着镜子练习演讲，进行消防演习，参加培训项目，在治疗过程中进行角色扮演。游戏就在我们身边。只是我们不这样称呼它们。
+我们也没有放弃构建现实世界的抽象模型来进行练习的想法。我们对着镜子练习演讲，进行消防演习，参加培训项目，在治疗过程中进行角色扮演。游戏就在我们身边。只是我们不这样称呼它们。
 
 As we age, we think that things are more serious and that we must leave frivolous things behind. Is that a value judgment on games or is it a value judgment on the content of a given game? Do we avoid the notion of fun because we view the content of the fire drill as being of greater import?
 
-随着年龄的增长，我们认为事情变得更加严肃，必须抛开无聊的事情。这是对游戏的价值判断，还是对特定游戏内容的价值判断？我们是否因为认为消防演习的内容更重要而回避了趣味的念头？
+随着年龄的增长，我们认为事情变得更加严肃，必须抛开轻浮的事情。这是对游戏的价值判断，还是对特定游戏内容的价值判断？我们是否因为认为消防演习的内容更重要而回避了趣味的念头？
 
 Most importantly, would fire drills be more effective if they were fun activities? There is a design practice called "gamification" which attempts to use the trappings of games (reward structures, points, etc.) to make people engage more with product offerings. Does it miss the point of games? It is often layered on top of systems that lack the rich interpretability of a good game. A reward structure alone does not a [game make](#user-content-fn-7)[^7].
 
-最重要的是，如果消防演习是有趣的活动，它们会更有效吗？有一种设计实践被称为“游戏化”，它试图利用游戏的外在特征（奖励结构、积分等）让人们更多地参与到产品中来。这种做法是否忽略了游戏的本质？游戏化经常被添加到那些缺乏优质游戏丰富解读性的系统上。单凭奖励结构并不能[构成游戏](#user-content-fn-8)[^8]。
+最重要的是，如果消防演习是有趣的活动，它们会更有效吗？有一种设计实践被称为“游戏化”，它试图利用游戏的外在特征（奖励结构、积分等）让人们更多地参与到产品中来。这种做法是否忽略了游戏的本质？游戏化经常被添加到那些缺乏优质游戏丰富可解释性的系统上。单凭奖励结构并不能[构成游戏](#user-content-fn-8)[^8]。
 
 <div align="center">
 <img src="images/4.2.png">
