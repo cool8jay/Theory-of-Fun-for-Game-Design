@@ -274,11 +274,11 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^19]: Sensory overload: The input capacity of the conscious mind is only around 16 bits a second. Sensory overload can be thought of as the difference between the amount of information and the amount of meaning. You can have a large stack of information—such as a book typed by monkeys—that is very low in meaning. When the amount of information is too high and we fail to extract meaning from it, we say we're in overload.
 
-[^20]: 感官超载：意识的输入能力每秒只有 16 比特左右。感官超载可以理解为信息量和意义量之间的差异。你可以有一大堆信息，比如一本由猴子打出来的书，但其意义却很低。当信息量过大，我们无法从中提取意义时，我们就会说自己超载了。
+[^20]: 感官超载：意识思维的输入能力每秒只有 16 比特左右。感官超载可以理解为信息量和意义量之间的差异。你可以有一大堆信息，比如一本由猴子打出来的书，但其意义却很低。当信息量过大，我们无法从中提取意义时，我们就会说自己超载了。
 
 [^21]: Scylla and Charybdis: In Greek myth, these two monsters sat on opposite sides of a narrow strait. Sailors wishing to pass inevitably ran too close to one or the other.
 
-[^22]: 斯库拉和卡律布狄斯：在希腊神话中，这两只怪兽分居狭窄海峡的两岸。想要通过的水手不可避免地会过于靠近其中之一。
+[^22]: 斯库拉和卡律布狄斯：在希腊神话中，这两只怪物分别位于一条狭窄海峡的两侧。想要通过的海员不可避免地会过于靠近其中之一。
 
 [^23]: RBI: "Runs batted in" in baseball. This statistic is tracked per player and is incremented by one each time a run is scored as a result of the player's turn at bat, no matter who actually scores the run, provided it wasn't the result of an opponent error or the cause of a forced double play.
 
@@ -286,4 +286,4 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^25]: Fun is another word for learning: The theoretician of play Brian Sutton-Smith called this just one of the "rhetorics of play." He identified several more in his book The Ambiguity of Play, including using games of chance to determine your fate, or using games to determine the fate of nations. I tend to regard almost all of the rhetorics he identifies as differing sources of learning and practice, and the balance (such as the two I just mentioned) as more like alternative uses of games. More recently, designer Craig Perko has written a series of articles identifying what he calls "aesthetics of play," once again identifying learning and mastery as just two possible things to value within a game structure. "Play" can be taken in a Derridean sense to mean "movement" or "freedom," as several games academics have pointed out (Salen, Zimmerman, and Bogost). In my definition of fun, the sort of learning we are doing is essentially mapping the space of that movement.
 
-[^26]: 乐趣是学习的另一个词：游戏理论家布赖恩·萨顿·史密斯称这只是“游戏修辞”之一。他在《游戏的歧义》一书中还指出了其他几种游戏修辞，包括用机会游戏来决定你的命运，或用游戏来决定国家的命运。我倾向于把他指出的几乎所有修辞方法都看作是学习和实践的不同来源，而其余的（比如我刚才提到的两种）更像是游戏的其他用途。最近，设计师克雷格·佩尔科撰写了一系列文章，指出了他所谓的“游戏美学”，并再次指出学习和掌握只是游戏结构中两种可能的价值。正如几位游戏学者（萨伦，齐默尔曼和博格斯特）所指出的，“游戏”在德里达意义上可以理解为“运动”或“自由”。在我对“乐趣”的定义中，我们正在进行的学习本质上就是在映射这种运动的空间。
+[^26]: 乐趣只是学习的另一种说法：游戏理论家布赖恩·萨顿·史密斯称这只是“游戏修辞”之一。他在《游戏的歧义》一书中还指出了其他几种游戏修辞，包括用机会游戏来决定你的命运，或用游戏来决定国家的命运。我倾向于把他指出的几乎所有修辞方法都看作是学习和实践的不同来源，而其余的（比如我刚才提到的两种）更像是游戏的其他用途。最近，设计师克雷格·佩尔科撰写了一系列文章，指出了他所谓的“游戏美学”，并再次指出学习和掌握只是游戏结构中两种可能的价值。正如几位游戏学者（萨伦，齐默尔曼和博格斯特）所指出的，“游戏”在德里达意义上可以理解为“运动”或“自由”。在我对“乐趣”的定义中，我们正在进行的学习本质上就是在映射这种运动的空间。
