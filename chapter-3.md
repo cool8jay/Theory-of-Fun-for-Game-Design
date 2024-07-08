@@ -258,7 +258,7 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^11]: 丰富的可解释情境：这不仅是我对人类认为引人入胜的游戏模式的理解，也是比德曼和韦塞尔在研究大脑内啡肽和愉悦反馈时使用的短语。关于这句话在游戏中的适用性，请参阅克雷格·佩尔科的博客：[http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html](http://blog.ihobo.com/2012/05/implicit-game-aesthetics-4-cooks-chemistry.html)。
 
-[^12]: 规则的局限性：这是解释哥德尔定理的一种特定游戏方式。库尔特·哥德尔在 1931 年发表的论文《论数学原理及相关体系中形式上不可判定的命题》中证明，总有一些命题处于特定形式系统的边界之外。任何形式系统都无法完全描述自身。“魔法圈”基本上是试图保护模型的完整性，就像希尔伯特的数学观试图完全定义一个系统一样。真正长寿的严格定义的游戏往往是那些给玩家带来真正困难的数学问题的游戏——属于 NP 困难 复杂性类别的游戏。关于这方面的更多信息，请参阅我在 2009 年 GDCO 大会上的演讲《游戏即数学》：[http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/](http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/)。
+[^12]: 规则的局限性：这是解释哥德尔定理的一种特定游戏方式。库尔特·哥德尔在 1931 年发表的论文《论数学原理及相关体系中形式上不可判定的命题》中证明，总有一些命题处于特定形式系统的边界之外。任何形式系统都无法完全描述自身。“魔法圈”本质上是试图保护模型的完整性，就像希尔伯特的数学观试图完全定义一个系统一样。真正长寿的严格定义的游戏往往是那些给玩家带来真正困难的数学问题的游戏——属于 NP 困难 复杂性类别的游戏。关于这方面的更多信息，请参阅我在 2009 年 GDCO 大会上的演讲《游戏即数学》：[http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/](http://www.raphkoster.com/2009/09/22/gdca-games-are-math-slides-posted/)。
 
 [^13]: Endorphins: "Endorphin" is abbreviated from "endogenous morphine." I'm not kidding when I say we're on drugs when we're having fun! Endorphins are an opiate. The "chill down the spine" effect is often explained as the release of endorphins into the spinal fluid. Pleasure is not the only thing that gives us this effect, of course—adrenaline rushes caused by fear provide a similar sensation.
 
