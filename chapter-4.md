@@ -18,7 +18,7 @@ My thinking about what fun is led me to similar conclusions about games. I can't
 
 The population that uses games as learning tools the most effectively is the young. Certainly folks in every generation keep playing games into old age ([pinochle](#user-content-fn-3)[^3], anyone?), but as we get older we view those people more as the exception, though this is changing as digital gaming continues to rise in popularity. Games are viewed as frivolity. In the Bible in [1 Corinthians](#user-content-fn-4)[^4], we are told, "When I was a child, I spoke like a child, I thought like a child, I reasoned like a child; when I became a man, I gave up childish ways." But children speak honestly—sometimes too much so. Their reasoning is far from impaired—it is simply inexperienced. We often assume that games are childish ways, but is that really so?
 
-将游戏作为学习工具最有效的人群是年轻人。当然，每一代人都会一直玩游戏到老年（[皮纳克尔](#user-content-fn-5)[^5]，有人玩吗？），但随着年龄的增长，我们更多地将这些人视为例外，尽管随着数字游戏的不断普及，这种情况正在发生变化。游戏被视为无聊。《圣经》[哥林多前书](#user-content-fn-6)[^6]告诉我们：“我作孩子的时候，说话像孩子，思想像孩子，推理像孩子；及至我作了成人，就弃绝了孩子的事。”但孩子们说话坦诚——有时过于坦诚。他们的推理能力远远没有受损，只是缺乏经验而已。我们常常认为游戏是幼稚的方式，但事实真的如此吗？
+将游戏作为学习工具最有效的人群是年轻人。当然，每一代人都会一直玩游戏到老年（[皮纳克尔](#user-content-fn-5)[^5]，有人玩吗？），但随着年龄的增长，我们更多地将这些人视为例外，尽管随着数字游戏的不断普及，这种情况正在发生变化。游戏被视为轻浮的事情。《圣经》[哥林多前书](#user-content-fn-6)[^6]告诉我们：“我作孩子的时候，说话像孩子，思想像孩子，推理像孩子；及至我作了成人，就弃绝了孩子的事。”但孩子们说话坦诚——有时过于坦诚。他们的推理能力远远没有受损，只是缺乏经验而已。我们常常认为游戏是幼稚的方式，但事实真的如此吗？
 
 <div align="center">
 <img src="images/4.1.png">
@@ -556,7 +556,7 @@ This offers a possible algorithm for innovation: *find a new dimension to add to
 
 [^1]: University programs for game designers: To investigate this more, I urge you to look at the website for the International Game Developers Association and its academic outreach [page](www.igda.org/academia/).
 
-[^2]: 针对游戏设计师的大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广[页面](www.igda.org/academia/)。
+[^2]: 游戏设计师大学课程：要进一步了解这方面的情况，我建议你访问国际游戏开发者协会的网站及其学术推广[页面](www.igda.org/academia/)。
 
 [^3]: Pinochle: A game of cards. You play with a slightly different deck than the standard 52-card deck used for poker or bridge. Points are scored based on the number of particular combinations of cards (called "melds") that you hold in your hand, which is similar to poker, but you also bid for "trumps" (naming a suit higher ranking than all other suits), similar to bridge.
 
