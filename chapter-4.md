@@ -102,7 +102,7 @@ Spatial relationships are, of course, critically important to us. Some animals m
 
 Examining space also fits into our nature as toolmakers. We learn how things [fit together](#user-content-fn-21)[^21]. We often abstract this a lot—we play games where things fit together not only physically, but [conceptually](#user-content-fn-22)[^22] as well. We map things like temperature. We map social relationships (as graphs of edges and vertices, in fact). We map things over time. By playing [games of classification and taxonomy](#user-content-fn-23)[^23], we extend mental maps of relationships between objects. With these maps, we can extrapolate behaviors of these objects.
 
-研究空间也符合我们作为工具制造者的天性。我们学习如何将[事物组合](#user-content-fn-24)[^24]在一起。我们经常把这一点抽象化——在我们玩的游戏中，事物不仅是物理上的组合，也是[概念上的组合](#user-content-fn-25)[^25]。我们将温度等事物绘制成图。我们绘制社会关系图（实际上是边和顶点的图）。我们绘制事物的时间图。通过[玩分类游戏](#user-content-fn-26)[^26]，我们扩展了物体间关系的心理地图。有了这些地图，我们就能推断出这些物体的行为。
+研究空间也符合我们作为工具制造者的天性。我们学习如何将[事物组合](#user-content-fn-24)[^24]在一起。我们经常把这一点抽象化——在我们玩的游戏中，事物不仅是物理上的组合，也是[概念上的组合](#user-content-fn-25)[^25]。我们将温度等事物绘制成图。我们绘制社会关系图（实际上是边和顶点的图）。我们绘制事物的时间图。通过玩[分类游戏](#user-content-fn-26)[^26]，我们扩展了物体间关系的心理地图。有了这些地图，我们就能推断出这些物体的行为。
 
 <div align="center">
 <img src="images/4.4.png">
