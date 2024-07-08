@@ -126,7 +126,7 @@ Consider games that intentionally create situations that we have long since move
 
 These games, however, do not permit progress. [Most games do not permit innovation and invention](#user-content-fn-5)[^5]. They present a pattern. Innovating out of a pattern is by definition outside the magic circle. You almost never get to change the physics of a game.
 
-然而，这些游戏并不允许进步。[大多数游戏不允许创新和发明](#user-content-fn-6)[^6]。它们呈现的是一种模式。跳出模式进行创新从本质上超出了魔法阵的范围。你几乎永远无法改变游戏的物理原理。
+然而，这些游戏并不允许进步。[大多数游戏不允许创新和发明](#user-content-fn-6)[^6]。它们呈现的是一种模式。跳出模式进行创新从本质上超出了魔法圈的范围。你几乎永远无法改变游戏的物理原理。
 
 Human beings are *all* about progress. We like life to be easier. We're lazy that way. We like to find ways to become more efficient. We like to find ways to keep from doing something over and over. We dislike tedium, sure, but the fact is that we crave *predictability*. Our whole life is built on it. Unpredictable things are stuff like drive-by shootings, lightning bolts that fry us, smallpox, food poisoning—unpredictable things can kill us! We tend to avoid them. We instead prefer sensible shoes, pasteurized milk, vaccines, lightning rods, and laws. These things aren't perfect, but they do significantly reduce the odds of unpredictable things happening to us.
 
