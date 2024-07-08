@@ -98,7 +98,7 @@ Games also teach us how to [examine the environment, or space, around us](#user-
 
 Spatial relationships are, of course, critically important to us. Some animals might be able to navigate the world using the Earth's magnetic field, but not us. Instead, we use maps and we use them to map all sorts of things, not just space. Learning to interpret symbols on a map, assess distance, assess risk, and remember caches must have been a critically important survival skill when we were nomadic tribesmen. Most games incorporate some element of spatial reasoning. The space may be a [Cartesian coordinate space](#user-content-fn-15)[^15], like what we see on a soccer field, or it may be a [directed graph](#user-content-fn-16)[^16] like we see in "racetrack" board games. Mathematicians might even point out that something like [a tennis court could be both](#user-content-fn-17)[^17] at the same time. Classifying, collating, and exercising power over the contents of a space is one of the fundamental lessons of all kinds of gameplay.
 
-当然，空间关系对我们来说至关重要。有些动物也许可以利用地球磁场来导航，但我们不行。相反，我们使用地图，而且我们用地图来描绘各种事物，而不仅仅是空间。当我们还是游牧部落的人时，学会解释地图上的符号、评估距离、评估风险和记住藏匿地点一定是一项极其重要的生存技能。大多数游戏都包含一些空间推理元素。空间可能是[笛卡尔坐标空间](#user-content-fn-18)[^18]，就像我们在足球场上看到的那样；也可能是[有向图](#user-content-fn-19)[^19]，就像我们在“赛道”棋类游戏中看到的那样。数学家甚至会指出，像网球场这样的东西可以同时是这[两种空间](#user-content-fn-20)[^20]。对空间内容进行分类、整理和行使权力，是各种游戏的基本课程之一。
+当然，空间关系对我们来说至关重要。有些动物也许可以利用地球磁场来导航，但我们人类不行。相反，我们使用地图，而且我们用地图来描绘各种事物，而不仅仅是空间。当我们还是游牧部落的人时，学会解释地图上的符号、评估距离、评估风险和记住藏匿地点一定是一项极其重要的生存技能。大多数游戏都包含一些空间推理元素。空间可能是[笛卡尔坐标空间](#user-content-fn-18)[^18]，就像我们在足球场上看到的那样；也可能是[有向图](#user-content-fn-19)[^19]，就像我们在“赛道”棋盘游戏中看到的那样。数学家甚至会指出，像网球场这样的东西可以同时是这[两种空间](#user-content-fn-20)[^20]。对空间内容进行分类、整理和行使权力，是各种游戏的基本课程之一。
 
 Examining space also fits into our nature as toolmakers. We learn how things [fit together](#user-content-fn-21)[^21]. We often abstract this a lot—we play games where things fit together not only physically, but [conceptually](#user-content-fn-22)[^22] as well. We map things like temperature. We map social relationships (as graphs of edges and vertices, in fact). We map things over time. By playing [games of classification and taxonomy](#user-content-fn-23)[^23], we extend mental maps of relationships between objects. With these maps, we can extrapolate behaviors of these objects.
 
@@ -598,7 +598,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^19]: 有向图：有向图是指点或节点由线（数学术语为顶点和边）连接，但线是有方向的。想想经典的儿童棋盘游戏“滑梯和梯子”：棋盘上的滑梯和梯子是棋盘上各点之间的有向连接。在滑梯上只能单向移动。这是一个不使用笛卡尔空间的游戏；点与点之间的最短距离与棋盘上的物理距离无关，而是与到达指定地点所需的移动次数有关。所有的“轨道”游戏，如大富翁，实际上都是有向图。
 
-[^20]: 网球场可以两者兼而有之：网球场有两个独立的空间，由球网分割开来，因此可以从任意一个方面来看。如果用节点来表示，我们可以说有四个节点：两个半场和两端的出界区。比赛就是要把球从你的节点打到对面的出界区。当然，这也是一场在传统坐标空间中进行的比赛。球员在节点内的位置实际上是大部分策略的所在。
+[^20]: 两种空间：网球场有两个独立的空间，由球网分割开来，因此可以从任意一个方面来看。如果用节点来表示，我们可以说有四个节点：两个半场和两端的出界区。比赛就是要把球从你的节点打到对面的出界区。当然，这也是一场在传统坐标空间中进行的比赛。球员在节点内的位置实际上是大部分策略的所在。
 
 [^21]: Games where things fit together physically: My favorites include Tetris, [Blokus](https://en.wikipedia.org/wiki/Blokus), and [Rumis](https://en.wikipedia.org/wiki/Rumis).
 
