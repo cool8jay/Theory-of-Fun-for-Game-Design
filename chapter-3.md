@@ -262,7 +262,7 @@ Either way, I have an answer for my late grandfather, and it looks like what I d
 
 [^13]: Endorphins: "Endorphin" is abbreviated from "endogenous morphine." I'm not kidding when I say we're on drugs when we're having fun! Endorphins are an opiate. The "chill down the spine" effect is often explained as the release of endorphins into the spinal fluid. Pleasure is not the only thing that gives us this effect, of course—adrenaline rushes caused by fear provide a similar sensation.
 
-[^14]: 内啡肽：“内啡肽”是“内源性吗啡”的缩写。当我说我们在玩乐时会嗑药时，我不是在开玩笑！内啡肽是一种鸦片制剂。“脊柱发凉”的效果通常被解释为内啡肽释放到脊髓液中。当然，给我们带来这种效果的不仅仅是快乐，恐惧导致的肾上腺素激增也会带来类似的感觉。
+[^14]: 内啡肽：“内啡肽”是“内源性吗啡”的缩写。当我说我们在玩乐时会嗑药时，我不是在开玩笑！内啡肽是一种鸦片。“脊柱发凉”的效果通常被解释为内啡肽释放到脊髓液中。当然，给我们带来这种效果的不仅仅是快乐，恐惧导致的肾上腺素激增也会带来类似的感觉。
 
 [^15]: Break out in a smile: There's good evidence that the smile can cause us to be happy and not just the other way around. For more reading on emotions, I recommend the work of Paul Ekman.
 
