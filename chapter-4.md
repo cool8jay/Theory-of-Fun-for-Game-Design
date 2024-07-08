@@ -26,7 +26,7 @@ The population that uses games as learning tools the most effectively is the you
 
 > This shouldn't surprise us -- after all, the young of all species play.
 > 
-> 我们不应该对此感到惊讶——毕竟，所有物种的幼体都在玩耍。
+> 我们不应该对此感到惊讶——毕竟，所有物种的幼崽都在玩耍。
 
 We don't actually put away the notion of "having fun," as far as I can tell. We migrate it into other contexts. Many claim that work is fun, for example (me included). Just getting together with friends can be enough to give us the little burst of endorphins we crave.
 
