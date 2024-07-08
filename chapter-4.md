@@ -62,11 +62,11 @@ My first thought was that games are models of hypothetical realities, since they
 
 As I looked deeper, though, I found that even whacked-out abstract games do reflect underlying reality. The guys who told me these games were all about vertices were correct. Since formal rule sets are basically mathematical constructs, they always end up reflecting forms of mathematical truth, at the very least. (Formal rule sets are the basis for most games, but not all—there are classes of [games with informal rule sets](#user-content-fn-9)[^9], but you can bet that little kids will cry "no fair" when someone violates an unstated assumption in their tea party.)
 
-但随着我的深入研究，我发现即使是古怪抽象的游戏也确实反映了潜在的现实。那些告诉我这些游戏都是关于顶点的人是对的。由于形式规则集基本上是数学构造，因此它们最终总会反映出数学真理的形式，至少是这样。(正式规则集是大多数游戏的基础，但并不是所有游戏的基础——有一些[游戏的规则集是非正式的](#user-content-fn-10)[^10]，但你可以放心，当有人在他们的茶话会上违反了一个未说明的假设时，小孩子们一定会大叫“不公平”。）
+但随着我的深入研究，我发现即使是古怪抽象的游戏也确实反映了潜在的现实。那些告诉我这些游戏都是关于顶点的人是对的。由于形式规则集基本上是数学构造，因此它们最终总会至少反映出数学真理的形式(形式规则集是大多数游戏的基础，但并不是所有游戏的基础——有一些[游戏的规则集是非形式的](#user-content-fn-10)[^10]，但你可以放心，当有人在他们的茶话会上违反了一个未说明的假设时，小孩子们一定会大叫“不公平”。）
 
 Sadly, reflecting mathematical structures is also the *only* thing many games do. The real-life challenges that games prepare us for are almost exclusively ones based on the calculation of odds. They teach us how to predict events. A huge number of games simulate forms of combat. Even games ostensibly about building are usually framed competitively.
 
-可悲的是，反映数学结构也是许多游戏*唯一*能做的事情。游戏让我们为现实生活中的挑战做好准备，而这些挑战几乎都是基于几率计算的。它们教我们如何预测事件。大量游戏模拟了各种形式的战斗。即使是表面上是关于建设的游戏，通常也是以竞争为框架的。
+可悲的是，反映数学结构也是许多游戏*唯一*能做的事情。游戏让我们为现实生活中的挑战做好准备，而这些挑战几乎都是基于几率计算的。它们教我们如何预测事件。大量游戏模拟了各种形式的战斗。即使是表面上是关于建设的游戏，通常也是基于竞争性构建的。
 
 Given that we're basically [hierarchical and strongly tribal primates](#user-content-fn-11)[^11],  it's not surprising that so many of the basic lessons taught by our early childhood play are about power and status. Think about how important these lessons still are within society, regardless of your particular culture. Games almost always teach us tools for being the top monkey or tribe of monkeys.
 
@@ -94,7 +94,7 @@ Given that we're basically [hierarchical and strongly tribal primates](#user-con
 
 Games also teach us how to [examine the environment, or space, around us](#user-content-fn-13)[^13]. From games where we fit together odd shapes to games where we learn to see the invisible lines of power projection across a grid, much effort is spent in teaching us about territory. That is what tic-tac-toe is essentially all about.
 
-游戏还教会我们如何[审视周围的环境或空间](#user-content-fn-14)[^14]。从拼凑奇形怪状的游戏，到让我们学会看清权力投射的无形线条的游戏，都在教我们认识领地方面花费了大量精力。这也是井字游戏的本质所在。
+游戏还教会我们如何[审视周围的环境或空间](#user-content-fn-14)[^14]。从拼凑奇形怪状的游戏，到让我们学会看清网格上权力投射的无形线条的游戏，它们花费大量努力来教我们认识领地。这也是井字游戏的意图所在。
 
 Spatial relationships are, of course, critically important to us. Some animals might be able to navigate the world using the Earth's magnetic field, but not us. Instead, we use maps and we use them to map all sorts of things, not just space. Learning to interpret symbols on a map, assess distance, assess risk, and remember caches must have been a critically important survival skill when we were nomadic tribesmen. Most games incorporate some element of spatial reasoning. The space may be a [Cartesian coordinate space](#user-content-fn-15)[^15], like what we see on a soccer field, or it may be a [directed graph](#user-content-fn-16)[^16] like we see in "racetrack" board games. Mathematicians might even point out that something like [a tennis court could be both](#user-content-fn-17)[^17] at the same time. Classifying, collating, and exercising power over the contents of a space is one of the fundamental lessons of all kinds of gameplay.
 
@@ -578,7 +578,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^9]: Games with informal rule sets: Many theorists have established a spectrum from "game" to "play." Bruno Bettelheim, the child psychologist, defined forms of play as make-believe (solo or cooperative), joint storytelling, community building, and play with toys. He saw games as team-based, or individual competitions against other people or against self-imposed marker thresholds. Of course, joint storytelling or social tie-building proceed by concrete if unspoken rules. I'd argue that what we tend to think of as "play" or "informal" games may have more rules than the classic definition of game.
 
-[^10]: 具有非正式规则集的游戏：许多理论家建立了一个从“游戏”到“玩耍”的谱系。儿童心理学家布鲁诺·贝特尔海姆把游戏的形式定义为虚构（独自或合作）、共同讲故事、社区建设和玩玩具。他认为游戏是以团队为基础的，或者是个人与他人的竞争，或者是与自我设定的标记阈值的竞争。当然，共同讲故事或建立社会纽带的游戏是根据具体的规则进行的。我认为，我们通常认为的“游戏”或“非正式”游戏可能比游戏的经典定义有更多的规则。
+[^10]: 具有非形式规则集的游戏：许多理论家建立了一个从“游戏”到“玩耍”的谱系。儿童心理学家布鲁诺·贝特尔海姆把游戏的形式定义为虚构（独自或合作）、共同讲故事、社区建设和玩玩具。他认为游戏是以团队为基础的，或者是个人与他人的竞争，或者是与自我设定的标记阈值的竞争。当然，共同讲故事或建立社会纽带的游戏是根据具体的规则进行的。我认为，我们通常认为的“游戏”或“非正式”游戏可能比游戏的经典定义有更多的规则。
 
 [^11]: Hierarchical and strongly tribal primates: For marvelous insight into the tribal and animalistic nature of human societies, I highly recommend the work of Jared Diamond, particularly The Third Chimpanzee (Harper, 2006) and Guns, Germs, and Steel (W.W. Norton and Company, 1999).
 
