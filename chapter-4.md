@@ -114,19 +114,19 @@ Examining space also fits into our nature as toolmakers. We learn how things [fi
 
 Exploring conceptual spaces is critical to our success in life. Merely understanding a space and how the rules make it work isn't enough, though. We also need to understand how it will react to change to exercise power over it. This is why games progress over time. There are almost no games that take just [one turn](#user-content-fn-27)[^27].
 
-探索概念空间是我们人生成功的关键。不过，仅仅了解一个空间以及它的运行规则还不够。我们还需要了解它对变化的反应，才能对它行使权力。这就是为什么游戏会随着时间的推移而进步。几乎没有游戏是只进行[一轮](#user-content-fn-28)[^28]的。
+探索概念空间是我们人生成功的关键。不过，仅仅了解一个空间以及它的运行规则还不够。我们还需要了解它对变化的反应，才能对它行使权力。这就是为什么游戏会随着时间的推移而进展。几乎没有游戏是只进行[一轮](#user-content-fn-28)[^28]的。
 
 Let's consider "games of chance" that use a six-sided die. Here we have a possibility space—values labeled 1 through 6. If you roll dice against someone, the game you are playing might seem to end very quickly. You also might feel you don't have much control over the outcome. You might think an activity like this shouldn't be called a game. It certainly seems like a game you can play in one turn.
 
 让我们考虑一下使用六面骰子的“机会游戏”。这里我们有一个可能性空间——标有 1 到 6 的数值。如果你和别人掷骰子，你所玩的游戏似乎很快就会结束。你也可能会觉得自己无法控制结果。你可能会认为这样的活动不应该叫做游戏。当然，这似乎是一个你可以一局玩完的游戏。
 
-But I suggest gambling games like this are actually designed to teach us about odds. You usually don't just play for one turn, and with each turn you try to learn more about how odds work. (Unfortunately, you often prove you didn't learn the lesson—especially if you are [gambling for money](#user-content-fn-29)[^29].) We know from experiments that probability is something our brains have serious trouble grasping.
+But I suggest gambling games like this are actually designed to teach us about odds. You usually don't just play for one turn, and with each turn you try to learn more about how odds work. (Unfortunately, you often prove [you didn't learn the lesson](#user-content-fn-29)[^29]—especially if you are gambling for money.) We know from experiments that probability is something our brains have serious trouble grasping.
 
-但我认为，这样的赌博游戏实际上是为了让我们了解赔率而设计的。你通常不会只玩一局，每一局你都会试图了解更多关于赔率如何运作的知识。(不幸的是，你往往会证明自己并没有学到这门课——尤其是如果你是[为了钱而赌博](#user-content-fn-30)[^30]的话。) 我们从实验中得知，概率是我们大脑很难掌握的东西。
+但我认为，这样的赌博游戏实际上是为了让我们了解赔率而设计的。你通常不会只玩一局，每一局你都会试图了解更多关于赔率如何运作的知识。(不幸的是，你往往会证明自己并[没有学会这门课](#user-content-fn-30)[^30]——尤其是如果你是为了钱而赌博的话。) 我们从实验中得知，概率是我们大脑很难掌握的东西。
 
 Exploring a possibility space is the only way to learn about it. Most games repeatedly throw evolving spaces at you so that you can explore the recurrence of symbols within them. A modern video game will give you tools to navigate a complicated space, and when you finish, the game will give you another space, and another, and another.
 
-探索可能性空间是了解它的唯一途径。大多数游戏都会反复向你抛出不断演变的空间，让你探索其中符号的反复出现。现代电子游戏会给你一些工具来浏览一个复杂的空间，当你完成后，游戏会给你另一个空间，再一个，再一个。
+探索可能性空间是了解它的唯一途径。大多数游戏都会反复向你抛出不断演变的空间，让你探索其中符号的反复出现。现代电子游戏会给你一些工具来浏览一个复杂的空间，当你完成后，游戏会给你另一个空间，，然后是另一个，再另一个。
 
 Some of the really important parts of exploration involve memory. A huge number of games involve recalling and managing very long and complex chains of information. (Think about counting cards in [blackjack](#user-content-fn-31)[^31] or playing competitive [dominoes](#user-content-fn-32)[^32].) Many games involve thoroughly exploring the possibility space as part of their victory condition.
 
@@ -154,7 +154,7 @@ Consider the games that get all the attention lately: [shooters](#user-content-f
 
 Think about it: teamwork is a far deadlier tool than sharpshooting.
 
-想想看：团队合作是比神枪手更致命的工具。
+想想看：团队合作是比精准枪法更强大的工具。
 
 <div align="center">
 <img src="images/4.6.png">
@@ -618,7 +618,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^29]: You didn't learn the lesson (games of chance): Some wags have called gambling "a tax on the math-impaired." Probability is one of those areas where the human mind just seems to have trouble. The classic example is the repeated coin toss—there are only two possibilities, heads or tails. If you throw a coin and it lands on heads seven times in a row, what are the odds that it will land on tails next? The answer is still 50 percent because of how the question is phrased. If you ask, "What are the odds that eight consecutive throws will land on heads?" the answer is very different (1 in 2^8). Playing on this weakness has been a classic tool of marketers and con men. Unfortunately, this inherent inability to properly assess probability leads our brain to treat it as a "richly interpretable" situation, resulting in positive feedback for gambling even though the house always wins in the long run.
 
-[^30]: 你没有学到课程（机会游戏）：有些人把赌博称为“对数学障碍者的征税”。概率是人类思维似乎有问题的领域之一。最典型的例子就是反复抛掷硬币——只有两种可能，正面或反面。如果你扔硬币，连续七次都是正面，那么下一次是反面的概率是多少？答案仍然是 50%，因为问题的措辞是这样的。如果你问：“连续八次掷出正面的概率是多少？”答案就大不相同了（1/2^8）。利用这一弱点一直是营销人员和骗子的经典手段。不幸的是，这种天生无法正确评估概率的情况导致我们的大脑将其视为一种“可解释性很强”的情况，从而为赌博带来正反馈，尽管从长远来看，庄家总是赢家。
+[^30]: 你没有学会这门课（机会游戏）：有些人把赌博称为“对数学障碍者的征税”。概率是人类思维似乎有问题的领域之一。最典型的例子就是反复抛掷硬币——只有两种可能，正面或反面。如果你扔硬币，连续七次都是正面，那么下一次是反面的概率是多少？答案仍然是 50%，因为问题的措辞是这样的。如果你问：“连续八次掷出正面的概率是多少？”答案就大不相同了（1/2^8）。利用这一弱点一直是营销人员和骗子的经典手段。不幸的是，这种天生无法正确评估概率的情况导致我们的大脑将其视为一种“可解释性很强”的情况，从而为赌博带来正反馈，尽管从长远来看，庄家总是赢家。
 
 [^31]: Blackjack card counting: Card counting is based on rough statistical analysis to determine what the odds are of receiving a card of the right value next. This is possible because the game is played with a finite deck of known configuration. A detailed explanation of card counting methods can be found at [here](http://en.wikipedia.org/wiki/Card_counting).
 
