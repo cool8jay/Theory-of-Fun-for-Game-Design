@@ -14,7 +14,7 @@ But we have to believe that they do, in order for them to reach their potential.
 
 It's time for games to move on from only teaching patterns about territory, aiming, timing, and the rest. These subjects aren't the preeminent challenges of our day.
 
-现在是时候让游戏不再仅仅教授关于领地、瞄准、时机和其他方面的模式了。这些话题并不是我们这个时代最重要的挑战。
+现在是时候让游戏不再仅仅教授关于领土、瞄准、时机和其他方面的模式了。这些话题并不是我们这个时代最重要的挑战。
 
 <div align="center">
 <img src="images/12.1.png">

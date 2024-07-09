@@ -94,7 +94,7 @@ Given that we're basically [hierarchical and strongly tribal primates](#user-con
 
 Games also teach us how to [examine the environment, or space, around us](#user-content-fn-13)[^13]. From games where we fit together odd shapes to games where we learn to see the invisible lines of power projection across a grid, much effort is spent in teaching us about territory. That is what tic-tac-toe is essentially all about.
 
-游戏还教会我们如何[审视周围的环境或空间](#user-content-fn-14)[^14]。从拼凑奇形怪状的游戏，到让我们学会看清网格上权力投射的无形线条的游戏，它们花费大量努力来教我们认识领地。这也是井字游戏的意图所在。
+游戏还教会我们如何[审视周围的环境或空间](#user-content-fn-14)[^14]。从拼凑奇形怪状的游戏，到让我们学会看清网格上权力投射的无形线条的游戏，它们花费大量努力来教我们认识领土。这也是井字游戏的意图所在。
 
 Spatial relationships are, of course, critically important to us. Some animals might be able to navigate the world using the Earth's magnetic field, but not us. Instead, we use maps and we use them to map all sorts of things, not just space. Learning to interpret symbols on a map, assess distance, assess risk, and remember caches must have been a critically important survival skill when we were nomadic tribesmen. Most games incorporate some element of spatial reasoning. The space may be a [Cartesian coordinate space](#user-content-fn-15)[^15], like what we see on a soccer field, or it may be a [directed graph](#user-content-fn-16)[^16] like we see in "racetrack" board games. Mathematicians might even point out that something like [a tennis court could be both](#user-content-fn-17)[^17] at the same time. Classifying, collating, and exercising power over the contents of a space is one of the fundamental lessons of all kinds of gameplay.
 
@@ -271,7 +271,7 @@ Of course, games are a "compound" medium, and can have stories, artwork, and mus
 > 
 > territory
 > 
-> 领地
+> 领土
 > 
 > aiming
 > 
@@ -586,7 +586,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^13]: Examining the space around us: A lot of games can be treated as problems in graph theory—and this is where those guys saying that the game was all vertices were right. These were people who had essentially "leveled up" in how they viewed space; they were practiced enough in territory problems that they were able to abstract any given territory game into a graph and discern patterns that I, stuck in my perception of it, was unable to see.
 
-[^14]: 审视我们周围的空间：很多游戏都可以被视为图论中的问题——这也是那些说游戏都是顶点的人说对了的地方。这些人在看待空间方面基本上已经“升级”了；他们在领地问题上已经练得足够好，能够将任何给定的领地游戏抽象成图形，并找出我无法看到的模式，而我却还停留在对它的认知上。
+[^14]: 审视我们周围的空间：很多游戏都可以被视为图论中的问题——这也是那些说游戏都是顶点的人说对了的地方。这些人在看待空间方面基本上已经“升级”了；他们在领地问题上已经练得足够好，能够将任何给定的领土游戏抽象成图形，并找出我无法看到的模式，而我却还停留在对它的认知上。
 
 [^15]: Cartesian coordinate space: This is the classic method, developed by René Descartes, of locating a point in 2-D space on a grid defined by two orthogonal axes. It serves as the basis of much of algebra (as well as most of computer graphics). This tends to be our default assumption for how space is "shaped," but within graph theory many other types of spaces are possible.
 
