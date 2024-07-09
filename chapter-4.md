@@ -291,11 +291,11 @@ It's worth asking ourselves what skills are more commonly needed today. Games sh
 
 The entire spread of games for children is fairly limited, and hasn't changed much over time. The basic skills needed by children are the same. Perhaps we need a few more games about using touchscreens, but that's about it. Adults, on the other hand, could use new games that teach more relevant skills. Most of us no longer hunt our own food, and we no longer live in danger every moment of our lives. It's still valuable to train ourselves in some of the caveman traits, but we need to adapt.
 
-儿童游戏的整个传播范围相当有限，而且随着时间的推移变化不大。儿童需要的基本技能是一样的。也许我们需要更多关于使用触摸屏的游戏，但也仅此而已。另一方面，成年人则需要新游戏来传授更多相关技能。我们中的大多数人不再自己捕猎食物，也不再每时每刻都生活在危险之中。训练自己的一些穴居人特征仍然很有价值，但我们需要适应。
+儿童游戏的整个传播范围相当有限，而且随着时间的推移变化不大。儿童需要的基本技能是一样的。也许我们需要更多关于使用触摸屏的游戏，但也仅此而已。另一方面，成人可能需要一些教授更相关技能的新游戏。我们中的大多数人不再自己捕猎食物，也不再每时每刻都生活在危险之中。训练自己的一些穴居人特征仍然很有价值，但我们需要适应。
 
 Some traits are relevant but need to change because conditions have changed. Interesting research has been done into what people find disgusting, for example. [Disgust](#user-content-fn-57)[^57] is a survival trait that points us away from grayish-green, mucousy, slimy things.It does so because that was the most likely vector for illness.
 
-有些特质是有意义的，但需要改变，因为条件已经改变。例如，人们对什么感到恶心进行了有趣的研究。[恶心](#user-content-fn-58)[^58]是一种生存特征，它让我们远离灰绿色、粘液状、黏糊糊的东西。之所以如此，是因为那是最有可能致病的媒介。
+有些特征是有意义的，但需要改变，因为条件已经改变。例如，人们发现什么令人恶心的研究就很有趣。[恶心](#user-content-fn-58)[^58]是一种生存特征，它让我们远离灰绿色、粘液状、黏糊糊的东西。之所以如此，是因为那是最有可能致病的媒介。
 
 Today it might be the electric blue fluid that is the real risk—don't drink any drain cleaner—and we have no inborn revulsion towards it. In fact, it's made electric blue to make it seem aseptic and clean. That's a case where we should supplement our instincts with training, since I doubt there's anything I can drink under my kitchen sink.
 
