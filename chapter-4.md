@@ -218,11 +218,11 @@ Games do adapt, but perhaps not as fast as we might wish, since almost all of th
 
 In some ways games can be compared to music (which is even more mathematically driven). Music excels at conveying a few things—emotion being paramount among them—but as a medium, is not very good at conveying things outside of its "sweet spot." Games also seem to have a sweet spot. They do very well at active verbs: controlling, projecting, surrounding, matching, remembering, counting, and so on. Games are also very good at quantification.
 
-在某些方面，游戏可以与音乐相提并论（音乐的数学驱动力更强）。音乐擅长传达一些东西——情感是其中最重要的，但作为一种媒介，它并不擅长传达其“甜蜜点”之外的东西。游戏似乎也有一个“甜蜜点”。它们在主动动词方面表现出色：控制、投射、环绕、匹配、记忆、计数等等。游戏还非常擅长量化。
+在某些方面，游戏可以与音乐相提并论（音乐的数学驱动力更强）。音乐擅长传达一些东西——情感是其中最重要的，但作为一种媒介，它并不擅长传达其“甜蜜点”之外的东西。游戏似乎也有一个甜蜜点。它们在主动动词方面表现出色：控制、投射、环绕、匹配、记忆、计数等等。游戏还非常擅长量化。
 
 By contrast, literature can tackle all of the above and more. Over time, language-based media have tackled increasingly broader subjects. Are game systems simply more limited than literature, like music is?
 
-相比之下，文学作品可以解决上述所有问题，甚至更多。随着时间的推移，以语言为基础的媒体所涉及的主题越来越广泛。难道游戏系统就像音乐一样，比文学作品更有局限性吗？
+相比之下，文学作品可以解决上述所有问题，甚至更多。随着时间的推移，以语言为基础的媒介所涉及的主题越来越广泛。难道游戏系统就像音乐一样，比文学作品更有局限性吗？
 
 Pure systems probably cannot convey the same breadth of content that literature can. That said, games are capable of modeling situations of greater richness and complexity than many assume. Games like [Diplomacy](#user-content-fn-53)[^53] are evidence that remarkably subtle interactions can be modeled within the confines of a rule set, and traditional [role-playing](#user-content-fn-54)[^54]  can reach the same heights as literature in the right hands. But it is an uphill battle for the medium nonetheless, simply because games, at their core, are about teaching us survival skills. As we all know, when you're worried about subsistence and survival, more refined things tend to fall by the wayside.
 
@@ -230,7 +230,7 @@ Pure systems probably cannot convey the same breadth of content that literature 
 
 Of course, games are a "compound" medium, and can have stories, artwork, and music all working alongside the game system. And at that point, games can have an incredible expressive breadth, with potential that has not yet been fulfilled.
 
-当然，游戏是一种“复合”媒体，可以有故事、艺术作品和音乐与游戏系统并行不悖。在这一点上，游戏的表现力可以达到令人难以置信的广度，其潜力尚未得到发挥。 
+当然，游戏是一种“复合”媒介，可以有故事、艺术作品和音乐与游戏系统并行不悖。在这一点上，游戏的表现力拥有令人难以置信的广度，其潜力尚未得到完全发挥。 
 
 <div align="center">
 <img src="images/4.9.png">

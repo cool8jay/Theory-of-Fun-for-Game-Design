@@ -500,7 +500,7 @@ Let's not kid ourselves—the sonnet is caged about with as many formal systems 
 
 If anything, the great irony about games, put in context with other media, is that they may afford less scope to the designer, who has less freedom to impose, less freedom to propagandize. Game systems are not good at conveying specifics, only generalities. It is easy to make a game system that tells you that small groups can prevail over large ones, or the converse. And that may be a valuable and deeply personal statement to make. It's a lot harder to make an abstract ludic artifact that conveys the specific struggle of a group of World War II soldiers to rescue one other man from behind enemy lines, as the film Saving Private Ryan does, without resorting to the tools of writing. The designer who wants to use game system design as an expressive medium must be like the painter and the musician and the writer, in that she must learn what the strengths of the medium are, and what messages are best conveyed by it.
 
-如果要说有什么的话，与其他媒体相比，游戏最大的讽刺之处在于，它为设计者提供的发挥空间可能更小，设计者在施加意图、进行宣传鼓吹方面的自由度更低。游戏系统不善于传达具体内容，只能传达一般性内容。制作一个游戏系统，告诉你小团队能够战胜大团队，或者相反的情况，这相对容易做到。这可能是一个有价值的、深刻的个人声明。但要像电影《拯救大兵瑞恩》那样，不借助文字工具，仅通过抽象的游戏机制，传达一群二战士兵为从敌后营救一个人而进行的具体斗争，这就困难得多。想要把游戏系统设计作为一种表现媒介的设计师，必须像画家、音乐家和作家一样，了解这种媒介的优势所在，以及哪些信息最适合通过它传达。
+如果要说有什么的话，与其他媒介相比，游戏最大的讽刺之处在于，它为设计者提供的发挥空间可能更小，设计者在施加意图、进行宣传鼓吹方面的自由度更低。游戏系统不善于传达具体内容，只能传达一般性内容。制作一个游戏系统，告诉你小团队能够战胜大团队，或者相反的情况，这相对容易做到。这可能是一个有价值的、深刻的个人声明。但要像电影《拯救大兵瑞恩》那样，不借助文字工具，仅通过抽象的游戏机制，传达一群二战士兵为从敌后营救一个人而进行的具体斗争，这就困难得多。想要把游戏系统设计作为一种表现媒介的设计师，必须像画家、音乐家和作家一样，了解这种媒介的优势所在，以及哪些信息最适合通过它传达。
 
 <div align="center">
 <img src="images/9.11.png">

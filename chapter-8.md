@@ -234,7 +234,7 @@ Games, however, are always formal. The historical trend in games has shown that 
 
 In most media, the way out of this has been the development of a new formal principle (as well as a cultural shift). Sometimes it was a development in knowledge of the form. Sometimes it was the development of a competing medium that usurped the place of the old medium, as when photography forced painters to undergo a radical reevaluation of their art form. Games, though, aren't tending to do this all that much. By and large, we have seen an inexorable march towards greater complexity. This has led to a priesthood of those who can speak the language, master the intricacies, and keep up-to-date.
 
-在大多数媒体中，解决这一问题的出路在于制定新的形式原则（以及文化转变）。有时是形式知识的发展。有时是一种竞争性媒介的发展篡夺了旧媒介的位置，如摄影迫使画家对其艺术形式进行彻底的重新评估。然而，游戏并不倾向于这样做。总的来说，我们看到的是，游戏正以不可避免之势向着更加复杂的方向发展。这就导致一群能说这门语言、掌握错综复杂细节并能与时俱进的人成为神职人员。
+在大多数媒介中，解决这一问题的出路在于制定新的形式原则（以及文化转变）。有时是形式知识的发展。有时是一种竞争性媒介的发展篡夺了旧媒介的位置，如摄影迫使画家对其艺术形式进行彻底的重新评估。然而，游戏并不倾向于这样做。总的来说，我们看到的是，游戏正以不可避免之势向着更加复杂的方向发展。这就导致一群能说这门语言、掌握错综复杂细节并能与时俱进的人成为神职人员。
 
 Every once in a while games come along that appeal to the masses, and thank goodness. Because frankly, priesthoods are a perversion of what games are about as well. The worst possible fate for games (and by extension, for our species) would be for games to become niche, something played by only a few elite who have the training to do so. It was bad for sports, it was bad for music, it was bad for writing, and it would be bad for games as well.
 
