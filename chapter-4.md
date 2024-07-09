@@ -295,7 +295,7 @@ The entire spread of games for children is fairly limited, and hasn't changed mu
 
 Some traits are relevant but need to change because conditions have changed. Interesting research has been done into what people find disgusting, for example. [Disgust](#user-content-fn-57)[^57] is a survival trait that points us away from grayish-green, mucousy, slimy things.It does so because that was the most likely vector for illness.
 
-有些特征是有意义的，但需要改变，因为条件已经改变。例如，人们发现什么令人恶心的研究就很有趣。[恶心](#user-content-fn-58)[^58]是一种生存特征，它让我们远离灰绿色、粘液状、黏糊糊的东西。之所以如此，是因为那是最有可能致病的媒介。
+有些特征是有意义的，但需要改变，因为条件已经改变。例如，人们发现什么令人恶心的研究就很有趣。[恶心](#user-content-fn-58)[^58]是一种生存特征，它让我们远离灰绿色、粘液状、黏糊糊的东西。之所以如此，是因为那是疾病最可能的传播媒介。
 
 Today it might be the electric blue fluid that is the real risk—don't drink any drain cleaner—and we have no inborn revulsion towards it. In fact, it's made electric blue to make it seem aseptic and clean. That's a case where we should supplement our instincts with training, since I doubt there's anything I can drink under my kitchen sink.
 
