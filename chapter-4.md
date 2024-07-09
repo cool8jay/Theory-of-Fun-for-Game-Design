@@ -202,7 +202,7 @@ In general, the level of mathematical sophistication required by games has risen
 
 Games do adapt, but perhaps not as fast as we might wish, since almost all of these games are still, at their core, about the same activities even though they may involve different skill sets: resource allocation, force projection, territory control, and so on.
 
-游戏确实在适应环境，但也许并没有我们希望的那么快，因为几乎所有这些游戏的核心仍然是相同的活动，尽管它们可能涉及不同的技能组合：资源分配、武力投射、领土控制等等。
+游戏确实在改变适应，但也许并没有我们希望的那么快，因为几乎所有这些游戏的核心仍然是相同的活动，尽管它们可能涉及不同的技能组合：资源分配、武力投射、领土控制等等。
 
 <div align="center">
 <img src="images/4.8.png">
