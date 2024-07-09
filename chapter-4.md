@@ -299,7 +299,7 @@ Some traits are relevant but need to change because conditions have changed. Int
 
 Today it might be the electric blue fluid that is the real risk—don't drink any drain cleaner—and we have no inborn revulsion towards it. In fact, it's made electric blue to make it seem aseptic and clean. That's a case where we should supplement our instincts with training, since I doubt there's anything I can drink under my kitchen sink.
 
-如今，真正危险的可能是电光蓝的液体——不要喝任何下水道清洁剂——但我们对它并没有天生的反感。事实上，为了让它看起来无菌、干净，我们把它做成了电光蓝色。在这种情况下，我们应该通过培训来补充我们的直觉，因为我怀疑厨房水槽下方的东西没有一样是可以喝的。
+如今，真正危险的可能是电光蓝的液体——不要喝任何下水道清洁剂——但我们对它并没有天生的反感。事实上，为了让它看起来无菌、干净，我们把它做成了电光蓝色。在这种情况下，我们应该通过培训来补充我们的直觉，因为我怀疑厨房水槽下面有什么我可以喝的东西。
 
 <div align="center">
 <img src="images/4.10.png">
@@ -309,7 +309,7 @@ Today it might be the electric blue fluid that is the real risk—don't drink an
 > 
 > 它们大多是在人类早期进化过程中对我们有用的东西。
 
-Some of the new patterns we need to learn in our brave new world run contrary to our instinctive behaviors. For example, humans are tribal creatures. We not only fall readily into [groups run by outsize personalities](#user-content-fn-59)[^59],but we'll often subsume our better judgment in doing so. We also seem to have an [inbred dislike of groups not our own](#user-content-fn-60)[^60]. It is very easy to get humans to regard a different tribe as less than human, particularly if they look or act differently in some way.
+Some of the new patterns we need to learn in our brave new world run contrary to our instinctive behaviors. For example, humans are tribal creatures. We not only fall readily into [groups run by outsize personalities](#user-content-fn-59)[^59], but we'll often subsume our better judgment in doing so. We also seem to have an [inbred dislike of groups not our own](#user-content-fn-60)[^60]. It is very easy to get humans to regard a different tribe as less than human, particularly if they look or act differently in some way.
 
 在我们这个勇敢的新世界中，我们需要学习的一些新模式与我们的本能行为背道而驰。例如，人类是部落性生物。我们不仅容易加入由[强势人物领导的群体](#user-content-fn-61)[^61]，而且在这样做时往往会削弱自己的判断力。我们还似乎[天生厌恶不属于我们自己的群体](#user-content-fn-62)[^62]。人类很容易把不同的部族视为低人一等，尤其是当他们的外表或行为在某些方面与我们不同的时候。
 
