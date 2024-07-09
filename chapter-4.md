@@ -166,7 +166,7 @@ Think about it: teamwork is a far deadlier tool than sharpshooting.
 
 Many games, particularly those that have evolved into the classic Olympian sports, can be directly traced back to the needs of primitive humans to survive under very difficult conditions. Many things we have fun doing are in fact training us to be better cavemen. We learn skills that are antiquated. Most folks never need to shoot something with an arrow to eat, and nowadays we run marathons or other long races mostly to raise funds for charities.
 
-许多游戏，特别是那些演变成经典奥林匹克运动的游戏，可以直接追溯到原始人类在非常困难的条件下生存的需要。我们所做的许多有趣的事情实际上是在训练我们成为更好的穴居人。我们学习的是过时的技能。大多数人从来不需要箭射抓东西吃，如今，我们参加马拉松或其他长跑比赛，主要是为了给慈善机构筹款。
+许多游戏，特别是那些演变成经典奥林匹克运动的游戏，可以直接追溯到原始人类在非常艰苦的条件下生存的需要。我们所做的许多有趣的事情实际上是在训练我们成为更好的穴居人。我们学习的是过时的技能。大多数人永远不需要用箭射杀动物来吃，如今，我们参加马拉松或其他长跑比赛，主要是为了给慈善机构筹款。
 
 Many games have become obsolete and are no longer played. During World War II, there were [games about rationing supplies](#user-content-fn-45)[^45].
 
