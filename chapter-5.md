@@ -47,7 +47,7 @@ Games, by the very nature of what they teach, push towards this sort of understa
 > player
 > 玩家
 > force projection
-> 力量投射
+> 武力投射
 > playfield
 > 游戏场地
 > enemies
