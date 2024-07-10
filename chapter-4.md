@@ -323,7 +323,7 @@ Most games encourage "othering" the opponent, treating him as "not like us," tea
 
 If I were to identify other basic human traits that game designs currently tend to reinforce, and that may be obsolete legacies of our heritage, I might call out traits like:
 
-如果让我找出游戏设计目前倾向于强化的其他人类基本特征，而这些特征可能是我们传统中过时的遗产，我可能会指出以下特征：
+如果让我找出游戏设计目前倾向于强化的其他人类基本特征，而这些特征可能是我们遗传的过时遗产，我可能会指出以下特征：
 
 * **[Blind obedience](#user-content-fn-65)[^65] to leaders and cultism:** We're willing to do things in games simply because "those are the rules."\
 **[盲目服从](#user-content-fn-66)[^66]领导和偶像：** 我们愿意在游戏中做事，只是因为“这是规则”。
