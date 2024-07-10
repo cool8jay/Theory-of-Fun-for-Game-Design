@@ -650,7 +650,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^45]: Games about rationing: The specific game was called simply Ration Board Game and was made by the Jay-line Mfg. Co. Inc., in 1943. The wonderful BoardGameGeek website has an [entry](http://boardgamegeek.com/boardgame/27313/ration-board) on it.
 
-[^46]: 关于配给的游戏：具体的游戏名为《配给委员会》，由 Jay-line 制造公司于 1943 年制作。精彩的 BoardGameGeek 网站上有一个关于它的[条目](http://boardgamegeek.com/boardgame/27313/ration-board)。
+[^46]: 关于物资配给的游戏：具体的游戏名为《配给委员会》，由 Jay-line 制造公司于 1943 年制作。精彩的 BoardGameGeek 网站上有一个关于它的[条目](http://boardgamegeek.com/boardgame/27313/ration-board)。
 
 [^47]: Chess and queens: Chess most likely originated in India 1400 years ago. The most mobile piece is the queen, which is allowed to move any distance it likes across the board, be it horizontally, diagonally, or vertically. This mobility only arrived in the game in the fifteenth century, and some argue that it arose as a result of the increasing presence of queens as heads of state in European politics.
 
