@@ -367,10 +367,10 @@ The mathematical field of studying shape, and the way in which apparent shapes c
 
 Early [platform video games](#user-content-fn-73)[^73] followed a few basic gameplay paradigms:
 
-早期的[平台电子游戏](#user-content-fn-74)[^74]遵循一些基本的游戏模式：
+早期的[平台电子游戏](#user-content-fn-74)[^74]遵循一些基本的玩法范式：
 
 * "Get to the other side" games: [Frogger](#user-content-fn-75)[^75], [Donkey Kong](#user-content-fn-76)[^76], [Kangaroo](#user-content-fn-77)[^77]. These are not really very dissimilar. Some of these featured a time limit, some didn't.\
-“到达另一边”的游戏：[《青蛙过河》](#user-content-fn-78)[^78]、[《大金刚》](#user-content-fn-79)[^79]、[《袋鼠》](#user-content-fn-80)[^80]。这些游戏本质上并没有太大的区别，其中有些有时间限制，有些则没有。
+“到达另一边”的游戏：[《青蛙过河》](#user-content-fn-78)[^78]、[《大金刚》](#user-content-fn-79)[^79]、[《袋鼠》](#user-content-fn-80)[^80]。这些游戏本质上并没有太大的区别，其中有些有时间限制，有些没有。
 
 * "Visit every location" games: Probably the best-known early platformer like this was [Miner 2049er](#user-content-fn-81)[^81]. Pac-Man and [Q*Bert](#user-content-fn-82)[^82] also made use of this mechanic. The most cerebral of these were probably [Lode Runner and Apple Panic](#user-content-fn-83)[^83], where the map traversal could get very complex, given the fact that you could modify the map to a degree.\
 “访问每个地点”的游戏：最著名的早期平台游戏可能是[《矿工 2049》](#user-content-fn-84)[^84]。《吃豆人》和[《Q*伯特》](#user-content-fn-85)[^85] 也使用了这种机制。其中最有创意的可能是[《淘金者》和《Apple Panic》](#user-content-fn-86)[^86]，由于可以在一定程度上修改地图，因此地图的穿越可以变得非常复杂。
