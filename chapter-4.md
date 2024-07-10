@@ -365,7 +365,7 @@ The mathematical field of studying shape, and the way in which apparent shapes c
 
 研究形状的数学领域，以及研究表面形状变化但本质上保持不变的方式，被称为[拓扑学](#user-content-fn-72)[^72]。从拓扑学的角度来思考游戏可能会有所帮助。
 
-Early [platform videogames](#user-content-fn-73)[^73] followed a few basic gameplay paradigms:
+Early [platform video games](#user-content-fn-73)[^73] followed a few basic gameplay paradigms:
 
 早期的[平台电子游戏](#user-content-fn-74)[^74]遵循一些基本的游戏模式：
 
@@ -698,7 +698,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^69]: Tile-based: A term for computer graphics that are based on drawing discrete squares, or tiles, each with an image on them. Generally, nothing in the game can straddle the boundary between two tiles.
 
-[^70]: 基于瓷砖的图形：这是一个计算机图形学术语，指基于绘制离散方格或瓷砖的图形，每个方格或瓷砖上都有一个图像。通常，游戏中的任何物体都不能跨越两个瓷砖之间的边界。
+[^70]: 以瓷砖为基础：这是一个计算机图形学术语，指基于绘制离散方格或瓷砖的图形，每个方格或瓷砖上都有一个图像。通常，游戏中的任何物体都不能跨越两个瓷砖之间的边界。
 
 [^71]: Topology: More specifically, the branch of geometry that is interested in the properties of shapes that do not change when you "squish" a shape. In theory, if you had a cube that you could squish all you wanted, you could shape it into a sphere. However, to change it into a donut, you have to punch a hole in it. The donut, however, can easily become a teapot; the hole becomes the handle. This is called a "continuous deformation," and we term shapes that can be squished into one another "homeomorphic." Quite often, we find that different game designs are more or less homeomorphic, too: the variances between them have more in common with the difference between a cube and a sphere than they do between a cube and a donut.
 
