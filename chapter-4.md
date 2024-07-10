@@ -335,7 +335,7 @@ If I were to identify other basic human traits that game designs currently tend 
 **使用武力解决问题：** 在国际象棋中，我们往往看不到与对手缔结条约的方法。
 
 * **Like seeking like, and its converse, xenophobia:** Seen in countless role-playing games where we slaughter endless orcs.\
-**物以类聚，人以群分：** 在无数的角色扮演游戏中，我们屠杀着无穷无尽的兽人。
+**求同，但不存异：** 在无数的角色扮演游戏中，我们屠杀着无穷无尽的兽人。
 
 <div align="center">
 <img src="images/4.11.png">
