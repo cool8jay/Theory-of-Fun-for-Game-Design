@@ -458,7 +458,7 @@ We've evolved exquisite sensitivity to visceral challenges. A survey of games fe
 
 You don't tend to see "[time attack](#user-content-fn-99)[^99]" modes in strategy games for this same reason. The tasks in the strategic games are not about automatic responses, and therefore the training to execute at reflex levels of speed would be misguided. (If anything, a good strategy game will teach you not to get too familiar with the situation and will keep you on your toes.)
 
-出于同样的原因，在策略游戏中往往看不到“[时间挑战](#user-content-fn-100)[^100]”模式。战略游戏中的任务并不是无意识反应，因此训练以条件反射的速度执行任务是错误的。(如果有的话，好的策略游戏会教你不要对环境习以为常，并让你时刻保持警惕）。
+出于同样的原因，在策略游戏中往往看不到“[时间挑战](#user-content-fn-100)[^100]”模式。战略游戏的考验并不是无意识反应，因此训练以条件反射的速度进行操作是错误的。(如果有的话，好的策略游戏会教你不要对环境习以为常，并让你时刻保持警惕）。
 
 This whole approach is intended for learning by rote. When I was a kid, I had a game for the [Atari 2600](#user-content-fn-101)[^101] console called [Laser Blast](#user-content-fn-102)[^102]. I got to the point where I could get a million points at the maximum difficulty setting without ever dying. With my eyes closed. This is the same sort of training that we put our militaries through—the training of rote and reflex. It's not a very *adaptable* mode of training, but it is desirable in many cases.
 
@@ -478,11 +478,11 @@ This whole approach is intended for learning by rote. When I was a kid, I had a 
 
 A more interesting tactic that applies to a wider range of games is asking the player to be thorough. This is a broader survival skill. It requires patience, and a certain enjoyment in discovery. It also works against our inclination to work directly on the final goal.
 
-一种更有趣的战术适用于更广泛的游戏，那就是要求玩家做到彻底。这是一种更广泛的生存技能。它需要耐心，也需要某种探索的乐趣。这也与我们直接追求最终目标的倾向背道而驰。
+一种更有趣的战术适用于更广泛的游戏，那就是要求玩家做到全面彻底。这是一种更广泛的生存技能。它需要耐心，也需要某种探索的乐趣。这也与我们直接追求最终目标的倾向背道而驰。
 
 In many games, you are asked to find "secrets", or to explore an area completely. This teaches many interesting things, such as considering a problem from all angles, making sure that you have all the necessary information before you make a decision, and that thoroughness is often better than speed. Not to denigrate training by rote and reflex, but this is a much subtler and interesting set of skills to teach, and one that is more widely applicable to the modern world.
 
-在许多游戏中，玩家被要求寻找“秘密”，或彻底探索一个区域。这能教给你很多有趣的东西，比如从各个角度考虑问题，确保在做决定之前掌握所有必要的信息，以及全面往往胜于快速。我并不是要诋毁死记硬背和条件反射式的训练，但这是一套更微妙、更有趣的技能教学，而且更广泛地适用于现代社会。
+在许多游戏中，玩家被要求寻找“秘密”，或彻底探索一个区域。这能教给你很多有趣的东西，比如从各个角度考虑问题，确保在做决定之前掌握所有必要的信息，以及全面往往好于快速。我并不是要诋毁死记硬背和条件反射式的训练，但这是一套更微妙、更有趣的技能教学，而且更广泛地适用于现代社会。
 
 Games have these characteristics:
 
