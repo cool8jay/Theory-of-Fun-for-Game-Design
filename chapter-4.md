@@ -570,9 +570,9 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 我们如今仿佛对着镜子观看，模糊不清；到那时就要面对面了。我如今所知道的有限，到那时就全知道，如同主知道我一样。
 如今常存的有信，有望，有爱；这三样，其中最大的是爱。`
 
-[^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson's blog post on ["pointsification"](http://bit.ly/cant-play-wont-play) and Ian Bogost's critique ["Gamification is Bullshit,"](https://www.theatlantic.com/technology/archive/2011/08/gamification-is-bullshit/243338/) published in The Atlantic.
+[^7]: Gamification: Two solid critiques of this practice can be found in Margaret Robertson's blog post on ["pointsification"](https://kotaku.com/cant-play-wont-play-5686393) and Ian Bogost's critique ["Gamification is Bullshit,"](https://bogost.com/writing/blog/gamification_is_bullshit/) published in The Atlantic.
 
-[^8]: 游戏化：玛格丽特·罗伯逊的博客文章[《点数化 》](http://bit.ly/cant-play-wont-play)和伊恩·博格斯特在《大西洋月刊》发表的批评文章[《游戏化是胡扯》](http://bit.ly/gamification-bogost-atlantic)，是对这种做法的两个有力批判。
+[^8]: 游戏化：玛格丽特·罗伯逊的博客文章[《点数化 》](https://kotaku.com/cant-play-wont-play-5686393)和伊恩·博格斯特在《大西洋月刊》发表的批评文章[《游戏化是胡扯》](https://bogost.com/writing/blog/gamification_is_bullshit/)，是对这种做法的两个有力批判。
 
 [^9]: Games with informal rule sets: Many theorists have established a spectrum from "game" to "play." Bruno Bettelheim, the child psychologist, defined forms of play as make-believe (solo or cooperative), joint storytelling, community building, and play with toys. He saw games as team-based, or individual competitions against other people or against self-imposed marker thresholds. Of course, joint storytelling or social tie-building proceed by concrete if unspoken rules. I'd argue that what we tend to think of as "play" or "informal" games may have more rules than the classic definition of game.
 
