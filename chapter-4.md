@@ -584,7 +584,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^13]: Examining the space around us: A lot of games can be treated as problems in graph theory—and this is where those guys saying that the game was all vertices were right. These were people who had essentially "leveled up" in how they viewed space; they were practiced enough in territory problems that they were able to abstract any given territory game into a graph and discern patterns that I, stuck in my perception of it, was unable to see.
 
-[^14]: 审视我们周围的空间：很多游戏都可以被视为图论中的问题——这也是那些说游戏都是顶点的人说对了的地方。这些人在看待空间方面基本上已经“升级”了；他们在领地问题上已经练得足够好，能够将任何给定的领土游戏抽象成图形，并找出我无法看到的模式，而我却还停留在对它的认知上。
+[^14]: 审视我们周围的空间：很多游戏都可以被视为图论中的问题——这也是那些说游戏都是顶点的人说对了的地方。这些人在看待空间方面基本上已经“升级”了；他们在领土问题上已经练得足够好，能够将任何给定的领土游戏抽象成图形，并找出我无法看到的模式，而我却还停留在对它的认知上。
 
 [^15]: Cartesian coordinate space: This is the classic method, developed by René Descartes, of locating a point in 2-D space on a grid defined by two orthogonal axes. It serves as the basis of much of algebra (as well as most of computer graphics). This tends to be our default assumption for how space is "shaped," but within graph theory many other types of spaces are possible.
 
