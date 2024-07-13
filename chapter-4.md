@@ -798,7 +798,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^115]: 《太空侵略者》：由太东公司制作的《太空侵略者》是最原始的射击游戏，游戏中的坦克沿着屏幕底部边缘移动，一些障碍物保护着坦克，但在遭到射击时会被侵蚀，还有一支外星人大军一边射击一边向屏幕下方移动。随着你减少接近的敌人数量，他们接近的速度也越来越快。
 
-[^116]: 《小蜜蜂》：《太空入侵者》的改良版，一些外星人会离开队形俯冲轰炸玩家，而不是队形向屏幕下方移动。
+[^116]: 《小蜜蜂》：《太空入侵者》的改良版，一些外星人会离开队形俯冲轰炸玩家，而不是保持队形向屏幕下方移动。
 
 [^117]: Gyruss: A spin-off from Galaxian that distorted the playfield into a circle. The player moved along the outer rim, and enemies emerged in spirals from the center.
 
