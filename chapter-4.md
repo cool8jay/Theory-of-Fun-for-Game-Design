@@ -622,7 +622,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^32]: Dominoes: Because a line of dominoes can only fork when a "double" is played (a domino with the same value on both squares), you can count how many times a given value has been played, and how many are likely to be in players' hands, in order to determine whether it will be possible to play a given number in the future. Assuming the other players are playing optimally to remove the highest-value dominoes from their hand, you can determine which particular dominoes they are likely to have in their hands based on what play choices they make.
 
-[^33]: 二十一点算牌：算牌是基于粗略的统计分析来确定接下来得到一张合适数值的牌的几率。之所以能做到这一点，是因为游戏使用的是有限且已知配置的牌组。有关算牌方法的详细解释，请访问[这里](http://en.wikipedia.org/wiki/Card_counting)。
+[^33]: 二十一点算牌：算牌是基于粗略的统计分析来确定接下来得到一张合适点数牌的几率。之所以能做到这一点，是因为游戏使用的是有限且已知配置的牌组。有关算牌方法的详细解释，请访问[这里](http://en.wikipedia.org/wiki/Card_counting)。
 
 [^34]: 多米诺骨牌：因为一排多米诺骨牌只有在打出“双牌”（两个方格上的点数相同）时才能分叉，所以你可以计算给定点数的骨牌被打出的次数，以及玩家手中可能有的骨牌数量，从而确定未来是否有可能打出给定数字的骨牌。假设其他玩家的最佳策略是从手中打出点数最高的多米诺骨牌，你可以根据他们的出牌选择来判定他们手中可能会有哪些特定的多米诺骨牌。
 
