@@ -734,9 +734,9 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^88]: True 3-D: A term used to refer to games that use both 3-D rendering and a 3-D space in which the player can move.
 
-[^89]: 轨道三维：指的是有 3-D 呈现但不允许在环境中自由移动的游戏。
+[^89]: 轨道三维：指的是有三维度呈现但不允许在环境中自由移动的游戏。
 
-[^90]: 真正的三维：指同时使用 3-D 渲染和玩家可以移动的 3-D 空间的游戏。
+[^90]: 真正的三维：指同时使用三维渲染和玩家可以移动的三维空间的游戏。
 
 [^91]: Secrets: A term for hidden objects scattered throughout a level of a game. Many games offer up the collection of secrets as an additional axis for success in order to reward thorough exploration.
 
