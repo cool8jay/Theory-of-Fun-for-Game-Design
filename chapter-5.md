@@ -142,7 +142,7 @@ For another, since the games are generally about power, control, and those other
 
 The stories in many video games serve the same purpose as calling the über-checker a "king." It adds interesting shading to the game but the game at its core is unchanged. Often the story elements are reduced to being positive feedback to the player, to tell her that she is doing well. Remember—my background is as a writer, so this actually pisses me off. Story deserves better treatment than that.
 
-许多电子游戏中的故事与把超级跳棋称为“国王”的目的是一样的。它为游戏增添了有趣的色彩，但游戏的核心却没有改变。故事元素往往沦为对玩家的积极反馈，告诉玩家她做得很好。请记住，我的背景是作家，所以这实际上让我很生气。故事应该得到更好的处理。
+许多电子游戏中的故事与把超级跳棋称为“国王”的目的是一样的。它为游戏增添了有趣的色彩，但游戏的核心却没有改变。故事元素往往沦为对玩家的积极反馈，告诉玩家她做得很好。请记住，我的职业背景是作家，所以这实际上让我很生气。故事应该得到更好的处理。
 
 <div align="center">
 <img src="images/5.4.png">
