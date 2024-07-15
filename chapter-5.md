@@ -6,11 +6,11 @@
 
 Until now, I've been discussing formal game design—abstract simulations. I've also been pretty loose with the term "game," conflating game systems with games. But we rarely see truly abstract simulations in games. People tend to dress up game systems with some fiction. Designers put artwork on them that is suggestive of some real-world context. Take checkers for example—abstractly, it's a board game about entrapment and forced action, played on a diamond-shaped grid. When we say ["king me"](#user-content-fn-1)[^1] in checkers, we're adding a subtle bit of fiction to the game; suddenly it has acquired feudal overtones and a medieval context. Usually, the pieces have a crown embossed on them.
 
-截至目前，我一直在讨论形式化的游戏设计——抽象的模拟。我对“游戏”一词的使用也很随意，把游戏系统和游戏混为一谈。但我们很少在游戏中看到真正抽象的模拟。人们往往会用一些虚构的东西来装扮游戏系统。设计者会在游戏中加入一些艺术元素，让人联想到现实世界中的一些场景。以跳棋为例——抽象地看，这是一种在菱形棋盘上进行的关于围捕和强制行动的棋盘游戏。当我们在跳棋中说[“升王”](#user-content-fn-2)[^2]时，我们就给这个游戏添加了一点微妙的虚构成分；突然间，它就有了封建色彩和中世纪背景。通常情况下，棋子上会刻上王冠图案。
+截至目前，我一直在讨论形式化的游戏设计——抽象的模拟。我对“游戏”一词的使用也很随意，把游戏系统和游戏混为一谈。但我们很少在游戏中看到真正抽象的模拟。人们往往会用一些虚构表现来装扮游戏系统。设计者会在游戏中加入一些艺术元素，让人联想到现实世界中的一些场景。以跳棋为例——抽象地看，这是一种在菱形棋盘上进行的关于围捕和强制行动的棋盘游戏。当我们在跳棋中说[“升王”](#user-content-fn-2)[^2]时，我们就给这个游戏添加了一点微妙的虚构成分；突然间，它就有了封建色彩和中世纪背景。通常情况下，棋子上会刻上王冠图案。
 
 This is similar to word problems in math class. The fiction serves two purposes: it trains you to see past it to the underlying math problem, and it also trains you to recognize real-world situations where that math problem might be lurking. 
 
-这类似于数学课上的应用题。虚构有两个目的：一是训练你透过虚构看到潜在的数学问题，二是训练你识别现实世界中可能潜伏着数学问题的情况。
+这类似于数学课上的应用题。虚构表象有两个目的：一是训练你透过虚构看到潜在的数学问题，二是训练你识别现实世界中可能潜伏着数学问题的情况。
 
 Games in general tend to be like word problems. You won't find many games that are pure unclothed [abstractions](#user-content-fn-3)[^3]. Most games have more in common with chess or checkers—they provide some level of misdirection. Usually there are metaphors for what is going on in the game.
 
@@ -22,7 +22,7 @@ While metaphors are fun to play with, players can basically ignore them. The nam
 
 Games, by the very nature of what they teach, push towards this sort of understanding. Since they are about teaching underlying patterns, they train their players to ignore the fiction that wraps the patterns.
 
-游戏根据它们所教授的内容的本质，推动了这种理解的形成。由于它们的目的是教授底层模式，所以他们训练玩家忽略包裹这些模式的虚构元素。
+游戏根据它们所教授的内容的本质，推动了这种理解的形成。由于它们的目的是教授底层模式，所以他们训练玩家忽略包裹这些模式的虚构表象。
 
 <div align="center">
 <img src="images/5.1.png">
