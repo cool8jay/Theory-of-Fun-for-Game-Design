@@ -150,7 +150,7 @@ The stories in many video games serve the same purpose as calling the über-chec
 
 > Story, setting, and backplot in games are nothing more than an attempt to give a side dish to the brain while it completes its challenges -- sometimes the hope is that it makes up for an otherwise unremarkable game.
 > 
-> 游戏中的故事、设定和背景情节不过是在大脑完成挑战的同时为其提供的一道配菜——有时，人们希望它能弥补游戏中的不足之处。
+> 游戏中的故事、设定和背景情节不过是在大脑完成挑战的同时为其提供的一道配菜——有时，人们希望它能补偿一个本身平淡无奇的游戏。
 > 
 > SURE, IT'S ANOTHER FIRST-PERSON SHOOTER, BUT WITH THE MOVIE LICENSE, I AM SURE IT'LL BE A HIT...
 > 
@@ -161,7 +161,7 @@ Games are not stories (though [players can create stories](#user-content-fn-23)[
 游戏不是故事（尽管玩家可以从中[创造故事](#user-content-fn-24)[^24]）。不过，做这样的比较还是很有意思的：
 
 * Games tend to be experiential teaching. Stories teach vicariously.\
-    游戏倾向于体验式教学。故事则是替代性教学。
+    游戏倾向于体验式教学。故事则是间接性教学。
     
 * Games are good at objectification. Stories are good at empathy.\
     游戏擅长物化。故事善于移情。
