@@ -6,11 +6,11 @@
 
 Until now, I've been discussing formal game design—abstract simulations. I've also been pretty loose with the term "game," conflating game systems with games. But we rarely see truly abstract simulations in games. People tend to dress up game systems with some fiction. Designers put artwork on them that is suggestive of some real-world context. Take checkers for example—abstractly, it's a board game about entrapment and forced action, played on a diamond-shaped grid. When we say ["king me"](#user-content-fn-1)[^1] in checkers, we're adding a subtle bit of fiction to the game; suddenly it has acquired feudal overtones and a medieval context. Usually, the pieces have a crown embossed on them.
 
-截至目前，我一直在讨论形式化的游戏设计——抽象的模拟。我对“游戏”一词的使用也很随意，把游戏系统和游戏混为一谈。但我们很少在游戏中看到真正抽象的模拟。人们往往会用一些虚构表现来装扮游戏系统。设计者会在游戏中加入一些艺术元素，让人联想到现实世界中的一些场景。以跳棋为例——抽象地看，这是一种在菱形棋盘上进行的关于围捕和强制行动的棋盘游戏。当我们在跳棋中说[“升王”](#user-content-fn-2)[^2]时，我们就给这个游戏添加了一点微妙的虚构成分；突然间，它就有了封建色彩和中世纪背景。通常情况下，棋子上会刻上王冠图案。
+截至目前，我一直在讨论形式化的游戏设计——抽象的模拟。我对“游戏”一词的使用也很随意，把游戏系统和游戏混为一谈。但我们很少在游戏中看到真正抽象的模拟。人们往往会用一些虚构表象来装扮游戏系统。设计者会在游戏中加入一些艺术元素，让人联想到现实世界中的一些场景。以跳棋为例——抽象地看，这是一种在菱形棋盘上进行的关于围捕和强制行动的棋盘游戏。当我们在跳棋中说[“升王”](#user-content-fn-2)[^2]时，我们就给这个游戏添加了一点微妙的虚构表象；突然间，它就有了封建色彩和中世纪背景。通常情况下，棋子上会刻上王冠图案。
 
 This is similar to word problems in math class. The fiction serves two purposes: it trains you to see past it to the underlying math problem, and it also trains you to recognize real-world situations where that math problem might be lurking. 
 
-这类似于数学课上的应用题。虚构表象有两个目的：一是训练你透过虚构看到潜在的数学问题，二是训练你识别现实世界中可能潜伏着数学问题的情况。
+这类似于数学课上的应用题。虚构表象有两个目的：一是训练你透过它看到潜在的数学问题，二是训练你识别现实世界中可能潜伏着数学问题的情况。
 
 Games in general tend to be like word problems. You won't find many games that are pure unclothed [abstractions](#user-content-fn-3)[^3]. Most games have more in common with chess or checkers—they provide some level of misdirection. Usually there are metaphors for what is going on in the game.
 
@@ -46,16 +46,19 @@ Games, by the very nature of what they teach, push towards this sort of understa
 > 
 > player
 > 玩家
+> 
 > force projection
 > 武力投射
+> 
 > playfield
 > 游戏场地
+> 
 > enemies
 > 敌人
 > 
 > Games are largely about getting people to see past the variations and look instead at the underlying patterns. Because of this, gamers are very good at seeing past fiction.
 > 
-> 游戏在很大程度上是要让人们看穿游戏的变化，转而关注它潜在的模式。正因为如此，游戏玩家非常善于透过虚构看本质。
+> 游戏在很大程度上是要让人们看穿游戏的变化，转而关注它潜在的模式。正因为如此，游戏玩家非常善于透过虚构表象看本质。
 
 Back in 1976, a company called Exidy scored a first in video game history: its game [Deathrace](#user-content-fn-5)[^5] was taken off the market because of public concerns about the game's violent nature. Deathrace was loosely based on a movie called [Deathrace 2000](#user-content-fn-6)[^6]. The premise involved driving a car to run over pedestrians for points.
 
