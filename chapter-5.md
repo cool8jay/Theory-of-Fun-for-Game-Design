@@ -62,11 +62,11 @@ Games, by the very nature of what they teach, push towards this sort of understa
 
 Back in 1976, a company called Exidy scored a first in video game history: its game [Deathrace](#user-content-fn-5)[^5] was taken off the market because of public concerns about the game's violent nature. Deathrace was loosely based on a movie called [Deathrace 2000](#user-content-fn-6)[^6]. The premise involved driving a car to run over pedestrians for points.
 
-早在 1976 年，一家名为 Exidy 的公司创造了视频游戏史上的一个第一：其游戏[《亡命赛车》](#user-content-fn-7)[^7]因公众对游戏暴力性质的担忧而被下架。《亡命赛车》是根据一部名为[《亡命赛车 2000》](#user-content-fn-8)[^8]的电影改编的。游戏的前提是驾驶汽车碾压行人以获得分数。
+早在 1976 年，一家名为 Exidy 的公司创造了视频游戏史上的一个第一：其游戏[《亡命赛车》](#user-content-fn-7)[^7]因公众对游戏暴力性质的担忧而被下架。《亡命赛车》是根据一部名为[《亡命赛车 2000》](#user-content-fn-8)[^8]的电影改编的。游戏的前提是驾驶汽车碾压行人得分。
 
 Mechanically, Deathrace was the same as any other game that involved catching objects moving around the screen. If you looked at this game today, with its crude pixelated graphics and its tiny iconic people, you wouldn't be particularly shocked. After all, countless other gore-fests have come along that make the game look quaint.
 
-从机制上讲，《亡命赛车》与其他任何涉及捕捉屏幕上移动物体的游戏一样。如果你今天来看看这款游戏，看看它粗糙的像素化画面和微小的标志性人物，你不会感到特别震惊。毕竟，无数其他血腥游戏的出现让这款游戏显得古色古香。
+从机制上讲，《亡命赛车》与其他任何涉及捕捉屏幕上移动物体的游戏一样。如果你今天来看看这款游戏，看看它粗糙的像素化画面和微小的象征性人物，你不会感到特别震惊。毕竟，无数其他血腥游戏的出现让这款游戏显得相当古朴。
 
 I don't think debates about the suitability of violence in the media will disappear. Much evidence shows that [media have some effect on how we act](#user-content-fn-9)[^9]. If media didn't have an effect, we wouldn't spend so much effort on using them as teaching tools. But evidence also shows that media aren't mind-control devices (of course they aren't, or else we'd all behave like the people in the children's stories we read in elementary school).
 
