@@ -138,7 +138,7 @@ By and large, people don't play with game systems because of the stories. The st
 
 For another, since the games are generally about power, control, and those other primitive things, the stories tend to be as well. This means they tend to be power fantasies. That's generally considered a pretty juvenile sort of story.
 
-另外，由于游戏一般都与权力、控制和其他原始事物有关，故事也往往如此。这意味着它们往往是权力幻想。这通常被认为是一种非常幼稚的故事。
+另外，由于游戏一般都与权力、控制和其他人类本能行为有关，故事也往往如此。这意味着它们往往是权力幻想。这通常被认为是一种非常幼稚的故事。
 
 The stories in many video games serve the same purpose as calling the über-checker a "king." It adds interesting shading to the game but the game at its core is unchanged. Often the story elements are reduced to being positive feedback to the player, to tell her that she is doing well. Remember—my background is as a writer, so this actually pisses me off. Story deserves better treatment than that.
 
