@@ -114,7 +114,7 @@ None of this is to minimize the fact that Deathrace does involve running over pe
 
 Learning to see that division is important to our understanding of games, and I'll touch on it at greater length later. For now, suffice it to say that the part of games that is *least* understood is the formal abstract system portion of it, the mathematical part of it, the chunky part of it. Attacks on other aspects of games are likely to miss the key point—at their core, games need to develop this formal aspect of themselves in order to improve.
 
-学会看待这种划分对于我们理解游戏非常重要，我稍后会详细论述。现在，我只想说，游戏中*最*不为人所理解的部分是它的形式化抽象系统部分、数学部分、认知块部分。对游戏其他方面的攻击很可能会错过关键点——游戏的核心就是需要发展其自身的形式方面，才能不断进步。
+学会看待这种划分对于我们理解游戏非常重要，我稍后会详细论述。现在，我只想说，游戏中*最*不为人所理解的部分是它的形式化抽象系统部分、数学部分、成块的部分。对游戏其他方面的攻击很可能会错过关键点——游戏的核心就是需要发展其自身的形式方面，才能不断进步。
 
 <div align="center">
 <img src="images/5.3.png">
