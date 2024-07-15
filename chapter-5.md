@@ -10,7 +10,7 @@ Until now, I've been discussing formal game design—abstract simulations. I've 
 
 This is similar to word problems in math class. The fiction serves two purposes: it trains you to see past it to the underlying math problem, and it also trains you to recognize real-world situations where that math problem might be lurking. 
 
-这类似于数学课上的文字题。虚构有两个目的：一是训练你透过虚构看到潜在的数学问题，二是训练你识别现实世界中可能潜伏着数学问题的情况。
+这类似于数学课上的应用题。虚构有两个目的：一是训练你透过虚构看到潜在的数学问题，二是训练你识别现实世界中可能潜伏着数学问题的情况。
 
 Games in general tend to be like word problems. You won't find many games that are pure unclothed [abstractions](#user-content-fn-3)[^3]. Most games have more in common with chess or checkers—they provide some level of misdirection. Usually there are metaphors for what is going on in the game.
 
