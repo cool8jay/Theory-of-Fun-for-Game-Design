@@ -14,7 +14,7 @@ This is similar to word problems in math class. The fiction serves two purposes:
 
 Games in general tend to be like word problems. You won't find many games that are pure unclothed [abstractions](#user-content-fn-3)[^3]. Most games have more in common with chess or checkers—they provide some level of misdirection. Usually there are metaphors for what is going on in the game.
 
-一般来说，游戏往往就像文字题。你不会找到很多纯粹的[抽象游戏](#user-content-fn-4)[^4]。大多数游戏与国际象棋或跳棋有更多的共同之处——它们提供了某种程度的误导。通常游戏中发生的事情都有一些隐喻。
+一般来说，游戏往往就像应用题。你不会找到很多纯粹的[抽象游戏](#user-content-fn-4)[^4]。大多数游戏与国际象棋或跳棋有更多的共同之处——它们提供了某种程度的误导。通常游戏中发生的事情都有一些隐喻。
 
 While metaphors are fun to play with, players can basically ignore them. The name of the unique checker piece that has made it to the other side is irrelevant, mathematically speaking. We could call the regular pieces chickens and the crowned ones wolves and the game would not change one whit.
 
