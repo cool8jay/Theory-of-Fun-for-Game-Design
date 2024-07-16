@@ -233,7 +233,7 @@ My personal breakdown would look a lot like Lazzaro's:
 
 All of these things make us feel good when we're successful at them, but lumping them all together as "fun" just renders the word meaningless. So throughout this book, when I have referred to "fun," I've meant only the first one: mentally mastering problems. Often, the problems mastered are aesthetic, physical, or social, so fun can appear in any of those settings. That's because all of these are feedback mechanisms the brain gives us for successfully exercising survival tactics.
 
-当我们在这些方面取得成功时，所有这些都会让我们感觉良好，但把它们统统归结为“乐趣”只会让这个词失去意义。因此，在本书中，当我提到“乐趣”时，我指的只是第一种：在智力上解决问题。通常，要解决的问题是涉及到审美、体能或社交方面的，所以乐趣可以出现在这些情景中的任何一种当中。那是因为，所有这些都是大脑在我们成功运用生存策略时给予我们的反馈机制。
+当我们在这些方面取得成功时，所有这些都会让我们感觉良好，但把它们统统归结为“乐趣”只会让这个词失去意义。因此，在本书中，当我提到“乐趣”时，我指的只是第一种：在头脑中解决问题。通常，解决的问题涉及到审美、体能或社交方面，所以乐趣可以出现在这些情景中的任何一种当中。那是因为，所有这些都是大脑在我们成功运用生存策略时给予我们的反馈机制。
 
 <div align="center">
 <img src="images/5.6.png">
@@ -265,7 +265,7 @@ Physical challenges alone aren't fun. The feeling of triumph when you break a pe
 
 Similarly, autonomic responses aren't fun in and of themselves. You have them developed already, so the brain only rewards you for doing them in the context of a mental challenge. You don't get a high from just typing, you get it from typing while pondering what to say, or from typing during a typing game.
 
-同样，自主神经反应本身并不有趣。你已经开发了这些反应，所以大脑只会在你进行心智挑战时才会奖励你。你不会从单纯的打字中获得快感，你会从一边打字一边思考说什么或者在打字游戏中打字中获得快感。
+同样，自主神经反应本身并不有趣。你已经发展出了这些反应，所以大脑只会在你进行心智挑战时才会奖励你。你不会仅仅因为打字而感到兴奋，你会因为边打字边思考说什么，或者在打字游戏中打字而感到兴奋。
 
 Social interactions of all sorts are often enjoyable as well. The constant maneuvering for social status that all humans engage in is a cognitive exercise, and therefore essentially a game. There is a constellation of positive emotions surrounding interpersonal interactions. Almost all of them are signals of either pushing someone else down, or pushing yourself up, on the social ladder. Some of the most notable include:
 
