@@ -329,7 +329,7 @@ If I were to identify other basic human traits that game designs currently tend 
 **[盲目服从](#user-content-fn-66)[^66]领导和偶像：** 我们愿意在游戏中做事，只是因为“这是规则”。
 
 * **Rigid hierarchies or binary thinking:** Games, because they are simplified, quantized models, usually reinforce notions about class, jobs, identity, and other fluid concepts.\
-**僵化的等级制度或二元思维：** 游戏是一种简化、量化的模型，通常会强化阶级、工作、身份和其他流动概念的观念。
+**僵化的等级制度或二元思维：** 游戏是一种简化、量子化的模型，通常会强化阶级、工作、身份和其他流动概念的观念。
 
 * **The use of force to resolve problems:** We don't tend to see a way to form a treaty with our opponent in chess.\
 **使用武力解决问题：** 在国际象棋中，我们往往看不到与对手缔结条约的方法。

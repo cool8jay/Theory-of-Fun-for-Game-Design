@@ -167,7 +167,7 @@ Games are not stories (though [players can create stories](#user-content-fn-23)[
     游戏擅长物化。故事善于移情。
 
 * Games tend to quantize, reduce, and classify. Stories tend to blur, deepen,and make subtle distinctions.\
-    游戏倾向于量化、缩小和分类。故事则倾向于模糊、深化和细微区分。
+    游戏倾向于量子化、缩小和分类。故事则倾向于模糊、深化和细微区分。
 
 * Games are external—they are about people's actions. Stories (good ones,anyway) are internal—they are about people's emotions and thoughts.\
     游戏是外在的，是关于人的行为的。故事（至少好故事是这样）是内在的——它们关乎人们的情感和思想。
