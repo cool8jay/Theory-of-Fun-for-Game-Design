@@ -468,7 +468,7 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 [^13]: 校园枪击案：多起校园枪击案被归咎于电子游戏的影响。也有罪犯声称从电子游戏中的犯罪行为中获得灵感。游戏业的立场是，游戏是一种艺术形式，值得受到第一修正案的保护，而不让儿童接触暴力媒体的责任在于家长。此外，还可以引用一些统计数据来证明电子游戏对暴力犯罪没有显著影响的观点；例如，随着电子游戏的普及，暴力犯罪的发生率急剧下降。如果两者之间存在因果关系，人们就会认为两者会同步上升。
 
-[^14]: 杀人模拟器：戴夫·格罗斯曼中校是媒体和电子游戏导致暴力行为这一观点最直率的拥护者，他是《停止教孩子杀人》一书的作者：该书由 Crown Books 于 1999 年出版。“谋杀模拟器”一词就是他提出的。
+[^14]: 杀人模拟器：戴夫·格罗斯曼中校是媒体和电子游戏导致暴力行为这一观点最直率的拥护者，他是《停止教我们的孩子杀人：对抗电视、电影和电子游戏暴力的行动呼吁》一书的作者：该书由 Crown Books 于 1999 年出版。“谋杀模拟器”一词就是他提出的。
 
 [^15]: Cumbia: A Colombian folk dance style in 4/4 with a distinctive "heartbeat" rhythm. It has become popular worldwide and is one of the commonest Latin music rhythms heard.
 
@@ -476,7 +476,7 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 [^17]: 昆比亚：一种哥伦比亚民间舞蹈风格，节奏为 4/4 拍，具有独特的“心跳”节奏。它已风靡全球，是最常见的拉丁音乐节奏之一。
 
-[^18]: 马里内拉：秘鲁民间舞蹈，具有独特的“嗒嗒”节拍。这是一种高度戏剧化的求爱舞蹈。
+[^18]: 马里内拉：秘鲁民间舞蹈，具有独特的“嗒嗒”节拍。这是一种极具戏剧性的求爱舞蹈。
 
 [^19]: Games that put story first: some of the best examples come from the genre of interactive fiction, such as Galatea by Emily Short, or Photopia by Adam Cadre.
 
