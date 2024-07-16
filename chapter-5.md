@@ -170,7 +170,7 @@ Games are not stories (though [players can create stories](#user-content-fn-23)[
     游戏倾向于量子化、缩小和分类。故事则倾向于模糊、深化和细微区分。
 
 * Games are external—they are about people's actions. Stories (good ones,anyway) are internal—they are about people's emotions and thoughts.\
-    游戏是外在的，是关于人的行为的。故事（至少好故事是这样）是内在的——它们关乎人们的情感和思想。
+    游戏是外在的——它们关注人们的行动。故事（至少好故事是这样）是内在的——它们关注人们的情感和思想。
 
 * Games are generators of player narratives. Stories provide a narrative.\
     游戏是玩家叙事的生成器。故事则提供了一种叙事方式。
