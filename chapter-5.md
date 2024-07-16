@@ -181,7 +181,7 @@ In both cases, when stories and games are good, you can come back to them repeat
 
 I don't think anyone would quarrel with the notion that stories are one of humanity's chief teaching tools. One might quarrel with the notion that play is the other and that mere lecturing runs a distant third. I also don't think that many would quarrel with the notion that stories have achieved far greater artistic heights than games have, despite the fact that play probably *predates* story (after all, even animals play, whereas stories require some form of language).
 
-我想没有人会反对故事是人类主要教学工具之一的观点。有人可能会争论说，游戏是另一种工具，而单纯的说教只能排在第三位。我也不认为有多少人会反对故事的艺术成就远远高于游戏的观点，尽管事实上游戏可能*早于*故事（毕竟，连动物都会玩，而故事则需要某种形式的语言）。
+我想没有人会反对故事是人类主要教学工具之一的观点。有人可能会对游戏是另一种教学工具，而单纯的讲授则远远地排在第三位这一观点提出异议。我也不认为有多少人会反对故事的艺术成就远远高于游戏的观点，尽管事实上游戏可能*早于*故事出现（毕竟，连动物都会玩，而故事则需要某种形式的语言）。
 
 Are stories superior? We often speak of wanting to make a game that makes players cry. The classic example is the text adventure game [Planetfall](#user-content-fn-25)[^25], where Floyd the robot sacrifices himself for you. But it happens outside of player control, so it isn't a challenge to overcome. It's grafted on, not part of the game. What does it say about games that the peak emotional moment usually cited actually involves *cheating*, rather than using game systems?
 
