@@ -320,11 +320,11 @@ Beauty is found in the tension between our expectation and the reality. It is *o
 
 Delight, unfortunately, doesn't last. It's like the smile from a beautiful stranger in a stairwell—it's fleeting. It cannot be otherwise—recognition is not an extended process.
 
-遗憾的是，喜悦不会持久。它就像楼梯间美丽陌生人的微笑——转瞬即逝。不可能有其他的情况——认识不是一个漫长的过程。
+遗憾的是，愉悦不会持久。它就像楼梯间美丽陌生人的微笑——转瞬即逝。不可能有其他的情况——认识不是一个漫长的过程。
 
 You can regain delight by staying away from the object that caused it previously, then returning. You'll get that recognition again. But it's not quite what I would call fun. It's something else—our brains rewarding us for having learned well. It is the epilogue to the story. The story itself is the fun of learning.
 
-你可以通过远离之前引起愉悦的对象，然后再回来，重新获得愉悦。你会再次获得这种认可。但这并不是我所说的乐趣。它是另一种东西——我们的大脑在奖励我们学得好。这是故事的尾声。故事本身才是学习的乐趣所在。
+你可以通过远离之前引起愉悦的对象，然后再回来，重新获得愉悦。你会再次获得这种认识。但这并不是我所说的乐趣。它是另一种东西——我们的大脑在奖励我们学得好。这是故事的尾声。故事本身才是学习的乐趣所在。
 
 <div align="center">
 <img src="images/5.8.png">
@@ -332,7 +332,7 @@ You can regain delight by staying away from the object that caused it previously
 
 > Last, people often take DELIGHT in things that are not challenges.
 > 
-> 最后，人们常常会对一些并非挑战的事情感到高兴。
+> 最后，人们常常会对一些并非挑战的事情感到愉悦。
 
 Fun, as I define it, is the feedback the brain gives us when we are absorbing patterns for learning purposes. Consider the basketball team that says, "We went out there to have fun tonight," versus the one that says, "We went out there to win." The latter team is approaching the game as no longer being practice. Fun is primarily about practicing and learning, not about exercising mastery. In fact, the fun often starts before the action does; [anticipating a solution](#user-content-fn-41)[^41] can be as exciting as applying one. Exercising mastery will give us some other feeling, because we are doing it *for a reason*, such as status enhancement or survival.
 
@@ -364,11 +364,11 @@ I think there's a good case to be made that having fun is a key evolutionary adv
 
 > But delight tends to wear thin very quickly. Real fun comes from challenges that are always at the margin of our ability.
 > 
-> 但快乐往往很快就会被消磨殆尽。真正的乐趣总是来自于我们能力边缘的挑战。
+> 但愉悦往往很快就会被消磨殆尽。真正的乐趣总是来自于我们能力边缘的挑战。
 
 So how does it feel? Well, the moment a lot of players like to cite is "being in the zone." If you get academic about it, you might reference Csikszentmihalyi's concept of "[flow](#user-content-fn-45)[^45]." This is the state you enter when you are experiencing absolute concentration on a task. When you're in absolute control, the challenges that come at you are met precisely by your skills.
 
-感觉如何？嗯，很多球员喜欢引用的时刻是“进入状态”。如果你对此有学术研究，你可能会参考西克森特米哈伊的“[心流](#user-content-fn-46)[^46]”概念。这是当你绝对专注于某项任务时所进入的状态。当你处于绝对控制状态时，你的技能就能准确地应对各种挑战。
+真正的乐趣感觉如何？嗯，很多球员喜欢引用的时刻是“进入状态”。如果你对此有学术研究，你可能会参考西克森特米哈伊的“[心流](#user-content-fn-46)[^46]”概念。这是当你绝对专注于某项任务时所进入的状态。当你处于绝对控制状态时，你的技能就能准确地应对各种挑战。
 
 Flow doesn't happen very often, but when it does it feels pretty darn wonderful. The problem is that precisely matching challenges to capability is incredibly hard. For one thing, the brain is churning away, and might make a conceptual breakthrough at any moment, rendering the rest of the challenge trivial. For another, an automated system isn't likely to be able to assess the player's shifting skill very well.
 
@@ -376,7 +376,7 @@ Flow doesn't happen very often, but when it does it feels pretty darn wonderful.
 
 As we succeed in mastering patterns thrown at us, the brain gives us little jolts of pleasure. But if the flow of new patterns slows, then we won't get the jolts, and we'll start to feel boredom. If the flow of new patterns increases beyond our ability to resolve them, we won't get the jolts either because we're not making progress.
 
-当我们成功掌握抛给我们的模式时，大脑会给我们带来小小的快感。但如果新图案的出现速度减慢，我们就不会获得这种快感，从而开始感到无聊。如果新模式的增加超出了我们的解决能力，我们也不会得到快感，因为我们没有取得进展。
+当我们成功掌握抛给我们的模式时，大脑会给我们带来小小的快感。但如果新模式的出现速度减慢，我们就不会获得这种快感，从而开始感到无聊。如果新模式的增加超出了我们的解决能力，我们也不会得到快感，因为我们没有取得进展。
 
 The absence of flow doesn't preclude fun—it just means that instead of a steady drip-drip-drip of endorphins, you're getting occasional bits. And in fact, there can be flow that isn't fun; meditation induces similar brain waves, for example. Instead, fun tends to hit when bumping up at the top edge of flow.
 
@@ -384,9 +384,7 @@ The absence of flow doesn't preclude fun—it just means that instead of a stead
 
 A more fruitful reference might be the educational concept of the "[zone of proximal development](#user-content-fn-47)[^47]." This is the idea that a given learner has things he can do without help, things he just cannot do, and things he can do with some help. Fun tends to come in this last one, and the help is provided by the game system.
 
-“[最近发展区](#user-content-fn-48)[^48]”这一教育概念可能是一个更有意义的参考。这个概念认为，一个特定的学习者在没有帮助的情况下可以做一些事情，他只是不能做一些事情，以及他在一些帮助下可以做一些事情。趣味往往属于最后一种，而帮助则是由游戏系统提供的。
-
-一个更有成效的参考可能是教育概念中的“最近发展区”。这个观点认为，一个学习者有他无需帮助就能做的事情，有他根本无法做到的事情，以及有他借助些许帮助就能做到的事情。乐趣往往出现在这最后一种情况中，而帮助是由游戏系统提供的。
+一个更有成效的参考可能是教育概念中的“[最近发展区](#user-content-fn-48)[^48]”。这个观点认为，一个学习者有他无需帮助就能做的事情，有他根本无法做到的事情，以及有他借助些许帮助就能做到的事情。乐趣往往出现在最后一种情况中，而帮助是由游戏系统提供的。
 
 So fun isn't flow. You can find flow in countless activities, but they aren't all fun. Most of the cases where we typically cite flow relate to exercising mastery, not learning.
 
@@ -402,7 +400,7 @@ So fun isn't flow. You can find flow in countless activities, but they aren't al
 
 Fun isn't the only reason to play a game with a system, of course:
 
-当然，乐趣并不是玩系统游戏的唯一原因：
+当然，乐趣并不是玩一个有系统的游戏的唯一理由：
 
 * **Practice.** Practice is a very common thing to do with games. Studies have shown that mastering a field can take many hours of what is termed "[deliberate practice](#user-content-fn-49)[^49]," where the person practicing drills herself on challenging tasks, over and over. It is very hard work. In some sense games are "deliberate practice machines" that make this work easier.\
     **练习。** 在游戏中，练习是一件非常常见的事情。研究表明，掌握一个领域需要很多小时的所谓“[刻意练习](#user-content-fn-50)[^50]”，即练习者一遍又一遍地练习自己完成具有挑战性的任务。这是一项非常艰苦的工作。从某种意义上说，游戏就是“刻意练习的机器”，让这项工作变得更轻松。
@@ -422,7 +420,7 @@ There is nothing wrong with using a game or a game system for these purposes! Bu
 
 To recap the preceding pages: Games aren't stories. Games aren't about beauty or delight. Games aren't about jockeying for social status. They stand, in their own right, as something incredibly valuable. Fun is about learning in a context where there is no pressure from consequence, and that is why games matter.
 
-总结一下前面的内容：游戏不是故事。游戏与美或快乐无关。游戏不是为了争夺社会地位。游戏本身就具有令人难以置信的价值。乐趣在于在没有后果压力的环境中学习，这也是游戏重要的原因。
+总结一下前面的内容：游戏不是故事。游戏与美或愉悦无关。游戏不是为了争夺社会地位。游戏本身就具有令人难以置信的价值。乐趣在于在没有后果压力的环境中学习，这也是游戏重要的原因。
 
 <div align="center">
 <img src="images/5.11.png">
