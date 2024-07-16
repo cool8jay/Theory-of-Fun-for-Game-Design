@@ -304,15 +304,15 @@ A lot of these feel good, but they aren't necessarily "fun."
 
 Aesthetic appreciation is the most interesting form of enjoyment to me. Science fiction writers call it "[sensawunda](#user-content-fn-39)[^39]." It's awe, it's mystery, it's harmony. I call it delight. Aesthetic appreciation, like fun, is about patterns. The difference is that aesthetics is about *recognizing* patterns, not learning new ones.
 
-对我来说，审美欣赏是最有趣的享受形式。科幻小说家称之为“[惊奇感](#user-content-fn-40)[^40]”，是敬畏，是神秘，是和谐。我称之为愉悦。审美欣赏和乐趣一样，都是关于模式的。所不同的是，审美是*识别*模式，而不是学习新的模式。
+对我来说，审美欣赏是最有趣的享受形式。科幻作家称之为“[惊奇感](#user-content-fn-40)[^40]”，是敬畏，是神秘，是和谐。我称之为愉悦。审美欣赏和乐趣一样，都是关于模式的。所不同的是，审美是*识别*模式，而不是学习新的模式。
 
 Delight strikes when we recognize patterns but are surprised by them. It's the moment at the end of *Planet of the Apes* when we see the Statue of Liberty. It's the thrill at the end of the mystery novel when everything falls into place. It's looking at the Mona Lisa and seeing that smile hovering at the edge of known expressions, and matching it to our hypothesis of what she's thinking. It's seeing a beautiful landscape and thinking all is right in the world.
 
-当我们认识到模式，却又为它的超乎意料的出现感到惊讶时，愉悦就会悄然而至。就像在 *《人猿星球》* 的结尾看到自由女神像的那一瞬间。就像在悬疑小说结尾，一切真相大白时的激动。就像看着蒙娜丽莎，看到那她在已知表情边缘徘徊的微笑，并将其与我们对她所思所想的假设相吻合。就像看到美丽的风景，觉得世界一切都很美好。
+当我们认识到模式，却又为它的超乎意料的出现感到惊讶时，愉悦就会悄然而至。就像在 *《人猿星球》* 的结尾看到自由女神像的那一瞬间。就像在悬疑小说结尾，一切真相大白时的激动。就像看着蒙娜丽莎，看到她那在已知表情边缘徘徊的微笑，并将其与我们对她所思所想的假设相匹配。就像看到美丽的风景，觉得世界一切都很美好。
 
 Why does a beautiful landscape make us feel that way? Because it meets our expectations and *exceeds* them. We find things beautiful when they are very close to our idealized image of what they should be, but with an additional surprising wrinkle. A perfectly closed-off plot, with just a couple of loose threads. A picture of a farmhouse, but the paint is peeling. Music that comes back to the tonic note and then drops a whole step further to end on an unresolved minor seventh. These send us chasing off after new patterns.
 
-为什么美丽的景观会让我们有这种感觉？因为它符合我们的期望，而且*超出*了我们的期望。当事物非常接近我们理想中的样子，但又多了一个令人惊讶的皱褶时，我们就会觉得它很美。一个完美封闭的情节，却只有几条松散的线索。一幅农舍图，但油漆已经剥落。音乐回到了主音，然后又下降了一大步，以一个悬而未决的小七度结束。这些都让我们去追寻新的模式。
+为什么美丽的风景会让我们有这种感觉？因为它符合我们的期望，而且*超出*了我们的期望。当事物非常接近我们理想中的样子，但又多了一个令人惊讶的皱褶时，我们就会觉得它很美。一个完美封闭的情节，却只有几条松散的线索。一幅农舍图，但油漆已经剥落。音乐回到了主音，然后又下降了一大步，以一个悬而未决的小七度结束。这些都让我们去追寻新的模式。
 
 Beauty is found in the tension between our expectation and the reality. It is *only* found in settings of extreme order. Nature is full of extremely ordered things. The flowerbed bursting its boundaries is expressing the order of growth, the order of how living things stretch beyond their boundaries, even as it is in tension with the order of the well-manicured walkway.
 
