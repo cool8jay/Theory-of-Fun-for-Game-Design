@@ -161,7 +161,7 @@ Games are not stories (though [players can create stories](#user-content-fn-23)[
 游戏不是故事（尽管玩家可以从中[创造故事](#user-content-fn-24)[^24]）。不过，做这样的比较还是很有意思的：
 
 * Games tend to be experiential teaching. Stories teach vicariously.\
-    游戏倾向于体验式教学。故事则是间接性教学。
+    游戏倾向于体验式教学。故事则是代入式教学。
     
 * Games are good at objectification. Stories are good at empathy.\
     游戏擅长物化。故事善于移情。
