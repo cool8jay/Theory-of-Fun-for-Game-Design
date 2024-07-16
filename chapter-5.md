@@ -532,11 +532,11 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 [^45]: Flow: A term coined by Mihaly Csikszentmihalyi to describe the frame of mind characterized by intense attention and maximum performance on a task. The sensation of flow appears to be linked to increased release of dopamine, which is a neurotransmitter that apparently increases attention ability in the frontal cortex. Evidence seems to be mounting that dopamine is not, in itself, the chemical that provides positive feedback. For an introduction to the concept, try [Flow: The Psychology of Optimal Experience](https://www.amazon.com/dp/0061339202).
 
-[^46]: 心流：这是米哈里·西克森特米哈伊创造的一个术语，用来描述注意力高度集中并在某项任务中发挥最大效能的心境。流的感觉似乎与多巴胺的释放增加有关，多巴胺是一种神经递质，显然能提高额叶皮层的注意力。越来越多的证据表明，多巴胺本身并不是提供正反馈的化学物质。如需了解这一概念，请阅读[《心流：最佳体验心理学》](https://www.amazon.com/dp/0061339202)。
+[^46]: 心流：米哈里·西克森特米哈伊创造的一个术语，用来描述注意力高度集中并在某项任务中发挥最大效能的心境。流的感觉似乎与多巴胺的释放增加有关，多巴胺是一种神经递质，显然能提高额叶皮层的注意力。越来越多的证据表明，多巴胺本身并不是提供正反馈的化学物质。如需了解这一概念，请阅读[《心流：最佳体验心理学》](https://www.amazon.com/dp/0061339202)。
 
 [^47]: Zone of proximal development: originally described Lev Vygotsky, and since expanded into a wide swath of educational theory. Also important here is the concept of "scaffolding," the notion that learning builds on learning. The way in which Super Mario taught you the unfolding power of jumping is often cited as the perfect way to teach a game, and it also lines up very well with the ideal of scaffolding.
 
-[^48]: 最近发展区：最初由列夫·维果茨基描述，后被广泛应用于教育理论中。同样重要的是“脚手架”的概念，即学习建立在学习之上的概念。超级马里奥教你跳跃的展开能力的方式经常被认为是完美的游戏教学方式，它也非常符合脚手架的理想。
+[^48]: 最近发展区：最初由列夫·维果茨基描述，后被广泛应用于教育理论中。同样重要的是“脚手架”的概念，即学习建立在学习之上的概念。超级马里奥教你跳跃的展开能力的方式经常被认为是完美的游戏教学方式，它也非常符合脚手架的理念。
 
 [^49]: Deliberate practice: This has popularized as the notion that it takes 10,000 hours of practice to get good at something, which is an inaccurate summary of the work of K. Anders Ericsson. What matters more is the quality of those hours. Ericsson describes the necessary characteristics of deliberate practice: it has to be designed to improve performance, repeated a lot, demanding of focus and concentration, hard (as in, off the top end of flow), and oriented around clear goals. Engaging in this sort of practice can let you get away with less practice time, ironically!
 
