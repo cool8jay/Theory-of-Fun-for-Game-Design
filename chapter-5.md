@@ -468,7 +468,7 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 [^13]: 校园枪击案：多起校园枪击案被归咎于电子游戏的影响。也有罪犯声称从电子游戏中的犯罪行为中获得灵感。游戏业的立场是，游戏是一种艺术形式，值得受到第一修正案的保护，而不让儿童接触暴力媒体的责任在于家长。此外，还可以引用一些统计数据来证明电子游戏对暴力犯罪没有显著影响的观点；例如，随着电子游戏的普及，暴力犯罪的发生率急剧下降。如果两者之间存在因果关系，人们就会认为两者会同步上升。
 
-[^14]: 杀人模拟器：戴夫·格罗斯曼中校是媒体和电子游戏导致暴力行为这一观点最直率的倡导者，他是《停止教孩子杀人》一书的作者：该书由 Crown Books 于 1999 年出版。“谋杀模拟器”一词就是他提出的。
+[^14]: 杀人模拟器：戴夫·格罗斯曼中校是媒体和电子游戏导致暴力行为这一观点最直率的拥护者，他是《停止教孩子杀人》一书的作者：该书由 Crown Books 于 1999 年出版。“谋杀模拟器”一词就是他提出的。
 
 [^15]: Cumbia: A Colombian folk dance style in 4/4 with a distinctive "heartbeat" rhythm. It has become popular worldwide and is one of the commonest Latin music rhythms heard.
 
@@ -540,4 +540,4 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 [^49]: Deliberate practice: This has popularized as the notion that it takes 10,000 hours of practice to get good at something, which is an inaccurate summary of the work of K. Anders Ericsson. What matters more is the quality of those hours. Ericsson describes the necessary characteristics of deliberate practice: it has to be designed to improve performance, repeated a lot, demanding of focus and concentration, hard (as in, off the top end of flow), and oriented around clear goals. Engaging in this sort of practice can let you get away with less practice time, ironically!
 
-[^50]: 刻意练习：这个概念因为一种观点而变得流行，即要在某件事上变得擅长需要练习10,000小时，这是对安德斯·爱立信的工作的不准确总结。更重要的是那些小时的质量。爱立信描述了刻意练习的必要特征：它必须是为了提高成绩而设计的，要多次重复练习，要求专注和集中注意力，难度大（就像心流的顶端之外），并且围绕着明确的目标。具有讽刺意味的是，进行这种练习可以让你减少练习时间！
+[^50]: 刻意练习：这个概念因为一种观点而变得流行，即要在某件事上变得擅长需要练习一万小时，这是对安德斯·爱立信的工作的不准确总结。更重要的是那些小时的质量。爱立信描述了刻意练习的必要特征：它必须是为了提高成绩而设计的，要多次重复练习，要求专注和集中注意力，难度大（就像心流的顶端之外），并且围绕着明确的目标。具有讽刺意味的是，进行这种练习可以让你减少练习时间！
