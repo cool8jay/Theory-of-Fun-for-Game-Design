@@ -185,9 +185,11 @@ I don't think anyone would quarrel with the notion that stories are one of human
 
 Are stories superior? We often speak of wanting to make a game that makes players cry. The classic example is the text adventure game [Planetfall](#user-content-fn-25)[^25], where Floyd the robot sacrifices himself for you. But it happens outside of player control, so it isn't a challenge to overcome. It's grafted on, not part of the game. What does it say about games that the peak emotional moment usually cited actually involves *cheating*, rather than using game systems?
 
-故事优越吗？我们经常说要做一款让玩家流泪的游戏。最经典的例子就是文字冒险游戏[《行星陨落》](#user-content-fn-26)[^26]，机器人弗洛伊德为你牺牲了自己。但这是在玩家控制之外发生的，所以并不是一个需要克服的挑战。它是嫁接上去的，不是游戏的一部分。游戏中最激动人心的时刻通常涉及*作弊*，而不是利用游戏系统，这说明了什么？
+故事更优越吗？我们经常说要做一款让玩家流泪的游戏。最经典的例子就是文字冒险游戏[《行星陨落》](#user-content-fn-26)[^26]，机器人弗洛伊德为你牺牲了自己。但这发生在玩家控制之外，所以并不是一个需要克服的挑战。它是嫁接上去的，不是游戏的一部分。经常被人们引用的情绪巅峰时刻竟然涉及*作弊*，而不是利用游戏系统，这反映出游戏的什么问题呢？
 
 Games do better at emotions that relate to mastery. Stories can provide these too, however. Getting these sorts of emotional effects out of games may be the wrong approach—perhaps a better question is whether stories can be fun in the way games can.
+
+游戏更擅长于与掌握相关的情感。故事也可以提供这些情感。从游戏中获得这类情感效果可能是错误的方法——也许一个更好的问题是，故事是否能像游戏那样有趣。
 
 <div align="center">
 <img src="images/5.5.png">
@@ -204,8 +206,6 @@ Games do better at emotions that relate to mastery. Stories can provide these to
 > Stories are powerful teaching tool in their own right, but games are not stories.
 > 
 > 故事本身是强有力的教学工具，但游戏不是故事。
-
-游戏更擅长于表达与掌握技能相关的情感。故事当然也能提供这些情感。从游戏中获取这类情感效果可能是个错误的方法——也许更好的问题是，故事是否能像游戏一样有趣。
 
 When we speak of enjoyment, we actually mean a constellation of different feelings. Having a nice dinner out can be fun. Riding a roller coaster can be fun. Trying on new clothes can be fun. Winning at table tennis can be fun. Watching your hated high school rival trip and fall in a puddle of mud can be fun. Lumping all of these under "fun" is a rather horribly vague use of the term.
 
