@@ -38,7 +38,7 @@ That extended moment when tic-tac-toe ceased to interest them was a moment of gr
 
 This isn't unfamiliar to most people. I do many things without fully understanding them, even things I feel I have mastered. I don't need a degree in automotive engineering to drive my car. I don't even need to understand torque, wheels and how the brakes work. I don't need to remember the ins and outs of the rules of grammar to speak grammatically in everyday conversation. I don't need to know whether tic-tac-toe is [NP-hard or NP-complete](#user-content-fn-5)[^5] to know that it's a dumb game.
 
-这对大多数人来说并不陌生。我做很多事情时都没有完全理解它们，即使是我觉得自己已经掌握的事情。我不需要汽车工程学位就能开车。我甚至不需要了解扭矩、车轮和刹车的工作原理。我不需要记住语法规则的来龙去脉，就能在日常对话中用语法说话。我不需要知道井字游戏是[NP 困难还是 NP 完全](#user-content-fn-6)[^6]，就知道这是一个愚蠢的游戏。
+这对大多数人来说并不陌生。我做很多事情时都没有完全理解它们，即使是我觉得自己已经掌握的事情。我不需要汽车工程学位就能开车。我甚至不需要了解扭矩、车轮和刹车的工作原理。我不需要记住语法规则的来龙去脉，就能在日常对话中用语法说话。我不需要知道井字游戏是[NP 困难或是 NP 完全](#user-content-fn-6)[^6]，就知道这是一个愚蠢的游戏。
 
 <p align="center">
   <img src="images/1.2.png"/>
@@ -84,9 +84,9 @@ From everything I hear, this feeling is likely to increase as I age. More and mo
 > 
 > 水。真的。
 
-When I work on games that are more my speed, I can still crush them ([mu ha ha ha](#user-content-fn-9)[^9]). We read all the time about people who play Scrabble or other mentally challenging games delaying the onset of [Alzheimer's](#user-content-fn-10)[^10]. Surely keeping the mind active keeps it flexible and keeps you young?
+When I work on games that are more my speed, I can still crush them ([mu ha ha ha](#user-content-fn-9)[^9]). We read all the time about people who play *Scrabble* or other [mentally challenging games delaying the onset of Alzheimer's](#user-content-fn-10)[^10]. Surely keeping the mind active keeps it flexible and keeps you young?
 
-当我玩那些更适合我的游戏时，我仍然可以碾压他们（[哞哈哈哈](#user-content-fn-11)[^11]）。我们经常读到关于玩拼字游戏或其他智力挑战游戏的人会延缓[老年痴呆症](#user-content-fn-12)[^12]发病的报道。当然，保持思维活跃可以保持头脑灵活，让你永葆青春？
+当我玩那些更适合我的游戏时，我仍然可以碾压他们（[哞哈哈哈](#user-content-fn-11)[^11]）。我们经常读到关于玩*拼字游戏*或其他智力挑战游戏的人会[延缓老年痴呆症](#user-content-fn-12)[^12]发病的报道。当然，保持思维活跃可以保持头脑灵活，让你永葆青春？
 
 Games don't last forever, though. There just comes a point where you say, "You know, I think I've seen most everything that this game has to offer." This happened to me most recently with a typing game I found on the Internet—it was a cute game where I played a diver and sharks were trying to eat me. Each shark had a word on its side, and as I typed the words in, the sharks went belly-up.
 
@@ -144,7 +144,7 @@ I also find it curious that as parents, we'll insist that kids be given the time
 
 [^2]: Deaf children in Nicaragua: Many articles have been written on Nicaraguan Sign Language, also called NSL or ISN (after the initials of the phrase in Spanish). Deaf children in Nicaragua did not have access to each other, nor to training in sign language, until 1979, when schools for the deaf began to be opened. Over a few generations, the children developed a fully functional sign language that enabled them to communicate. This is believed to be the first time in history that scientists have been able to observe a language spontaneously created (as opposed to created intentionally, like Esperanto). A good overview of the story can be found at www.nytimes.com/library/magazine/home/19991024mag-sign-language.html.
 
-[^3]: 源于共同词根、意义相似的词，尽管它们使用的是不同的语言。语言之间经常会相互借词，因此不同语言中也会出现类似的词。通常情况下，词义、发音或拼写会出现偏差，以至于无法辨认。
+[^3]: 同源词：源于共同词根、意义相似的词，尽管它们使用的是不同的语言。语言之间经常会相互借词，因此不同语言中也会出现类似的词。通常情况下，词义、发音或拼写会出现偏差，以至于无法辨认。
 
 [^4]: 尼加拉瓜的聋哑儿童：关于尼加拉瓜手语（又称 NSL 或 ISN，取自西班牙语中该词组的首字母）的文章很多。尼加拉瓜的聋哑儿童没有机会相互交流，也没有机会接受手语培训，直到 1979 年才开始开设聋哑学校。经过几代人的努力，聋哑儿童发展出了一种功能齐全的手语，使他们能够进行交流。这被认为是历史上科学家第一次观察到一种自发创造的语言（而不是像世界语那样有意创造的语言）。有关该故事的精彩概述，请访问 www.nytimes.com/library/magazine/home/19991024mag-sign-language.html。
 
@@ -162,12 +162,12 @@ I also find it curious that as parents, we'll insist that kids be given the time
 
 [^11]: 哞哈哈哈：网络游戏中常见的得意洋洋的笑声。
 
-[^12]: 智力挑战游戏与阿尔茨海默氏症：2003 年 6 月，《新英格兰医学杂志》上的一项研究表明，游戏等智力挑战可延缓阿尔茨海默氏症的发展。游戏并不是研究中唯一的智力挑战，演奏乐器、学习新语言和跳舞也有类似的效果。2013年进行的另一项名为“爱荷华州健康和活跃思维研究”的研究表明，某些电子游戏对整体认知功能有积极影响，而填字游戏则没有（研究结果发表在《PLOS ONE》上，http://bit.y/plos-one-random）。
+[^12]: 智力挑战游戏与老年痴呆症：2003 年 6 月，《新英格兰医学杂志》上的一项研究表明，游戏等智力挑战可延缓阿尔茨海默氏症的发展。游戏并不是研究中唯一的智力挑战，演奏乐器、学习新语言和跳舞也有类似的效果。2013年进行的另一项名为“爱荷华州健康和活跃思维研究”的研究表明，某些电子游戏对整体认知功能有积极影响，而填字游戏则没有（研究结果发表在《PLOS ONE》上，http://bit.y/plos-one-random）。
 
 [^13]: Games as vertices: Many games that require you to place one piece adjacent to another can be expressed as problems in graph theory, a field of mathematics that studies points and links between them. Each node is called a vertex, and each link is called an edge. Analyzing games in this highly abstract way can reveal many fundamental characteristics about how to play them well.
 
-[^14]: 游戏即顶点：图论是研究点和点之间联系的数学领域。每个节点称为顶点，每个链接称为边。以这种高度抽象的方式分析游戏，可以揭示出如何玩好游戏的许多基本特征。
+[^14]: 游戏即顶点：许多游戏需要你把一个棋子放到另一棋子旁边，这类游戏可以被表达为图论问题。图论是研究点和点之间链接的数学领域。每个节点称为顶点，每个链接称为边。以这种高度抽象的方式分析游戏，可以揭示出如何玩好游戏的许多基本特征。
 
 [^15]: Make more money than the movie industry: In 2011, the L.A. Times reported that global box-office receipts were \$31.8 billion, and the research firm Gartner stated that the videogame industry (where the bulk of game revenues reside) reached \$74 billion. However, box-office receipts are not the only income streams for movies: they have physical copies on disc, streaming, airplane showings, TV showings, and even videogame licensing fees in their downstream revenues. On the flip side, the games industry figures include the sales of hardware—and game consoles can be purchased for use as media devices. And so the debate continues.
 
-[^16]: 赚的钱比电影业还多：2011 年，据《洛杉矶时报》报道，全球电影票房收入为 318 亿美元，研究公司 Gartner 称，电子游戏产业（游戏收入的大头）达到 740 亿美元。然而，票房收入并不是电影的唯一收入来源：电影的下游收入包括光盘实体拷贝、流媒体、飞机放映、电视放映，甚至还有电子游戏授权费。另一方面，游戏产业的数据包括硬件的销售额——游戏机也可以作为媒体设备购买使用。争论还在继续。
+[^16]: 比电影业更赚钱：2011 年，据《洛杉矶时报》报道，全球电影票房收入为 318 亿美元，研究公司 Gartner 称，电子游戏产业（游戏收入的大头）达到 740 亿美元。然而，票房收入并不是电影的唯一收入来源：电影的下游收入包括光盘实体拷贝、流媒体、飞机放映、电视放映，甚至还有电子游戏授权费。另一方面，游戏产业的数据包括硬件的销售额——游戏机也可以作为媒体设备购买使用。争论还在继续。
