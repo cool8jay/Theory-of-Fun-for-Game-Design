@@ -1,5 +1,3 @@
-# Foreword 前言
-
 <p align="center">
 <img src="images/foreword.png"/>
 </p>
