@@ -34,7 +34,7 @@ There aren't really standardized tests for these other types of intelligences (n
 > 
 > MATHEMATICIAN
 > 
-> 数学
+> 数学家
 > 
 > VIOLINIST
 > 
