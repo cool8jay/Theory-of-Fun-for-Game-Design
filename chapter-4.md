@@ -112,9 +112,9 @@ Examining space also fits into our nature as toolmakers. We learn how things [fi
 > 
 > 有些游戏教你空间关系。
 
-Exploring conceptual spaces is critical to our success in life. Merely understanding a space and how the rules make it work isn't enough, though. We also need to understand how it will react to change to exercise power over it. This is why games progress over time. There are almost no games that take just [one turn](#user-content-fn-27)[^27].
+Exploring conceptual spaces is critical to our success in life. Merely understanding a space and how the rules make it work isn't enough, though. We also need to understand how it will react to change to exercise power over it. This is why games progress over time. There are almost no [games that take just one turn](#user-content-fn-27)[^27].
 
-探索概念空间是我们人生成功的关键。不过，仅仅了解一个空间以及它的运行规则还不够。我们还需要了解它对变化的反应，才能对它行使权力。这就是为什么游戏会随着时间的推移而进展。几乎没有游戏是只进行[一轮](#user-content-fn-28)[^28]的。
+探索概念空间是我们人生成功的关键。不过，仅仅了解一个空间以及它的运行规则还不够。我们还需要了解它对变化的反应，才能对它行使权力。这就是为什么游戏会随着时间的推移而进展。几乎没有游戏是只进行[一局](#user-content-fn-28)[^28]的。
 
 Let's consider "games of chance" that use a six-sided die. Here we have a possibility space—values labeled 1 through 6. If you roll dice against someone, the game you are playing might seem to end very quickly. You also might feel you don't have much control over the outcome. You might think an activity like this shouldn't be called a game. It certainly seems like a game you can play in one turn.
 
@@ -526,7 +526,7 @@ Consider the evolution of the 2-D shooter or "[shmup](#user-content-fn-111)[^111
 
 Simple topological variants then ensued: [Gyruss](#user-content-fn-117)[^117] and [Tempest](#user-content-fn-118)[^118] are just [Galaxian](#user-content-fn-119)[^119] in a circle. [Gorf](#user-content-fn-120)[^120] and others added scrolling, and also had an end boss and stages that changed in nature as you progressed. [Zaxxon](#user-content-fn-121)[^121] added verticality, which was then quickly thrown away in the development of the genre. [Centipede](#user-content-fn-122)[^122] gave you some room to maneuver at the bottom, and a charming setting, but isn't really that different from Galaxian and Space Invaders. [Asteroids](#user-content-fn-123)[^123] is an inverted circle: you're in the middle, and the enemies come from outside.
 
-随后又出现了简单的拓扑变体：[《Gyruss》](#user-content-fn-124)[^124]和[《暴风雨》](#user-content-fn-125)[^125]只是在一个圆圈中的[《小蜜蜂》](#user-content-fn-126)[^126]。[《Gorf》](#user-content-fn-127)[^127]和其他游戏增加了滚动屏幕，也有终结头目和随着游戏进程而改变性质的关卡。[《Zaxxon》](#user-content-fn-128)[^128]增加了垂直性，但在该类型游戏的发展过程中很快就被抛弃了。[《蜈蚣》](#user-content-fn-129)[^129]在底部给了你一些操作空间和迷人的设定，但其实与《小蜜蜂》和《太空入侵者》并无太大区别。[《小行星》](#user-content-fn-130)[^130]是一个倒置的圆圈：你在中间，敌人来自外面。
+随后又出现了简单的拓扑变体：[《太阳系战机》](#user-content-fn-124)[^124]和[《暴风雨》](#user-content-fn-125)[^125]只是在一个圆圈中的[《小蜜蜂》](#user-content-fn-126)[^126]。[《太空蜜蜂》](#user-content-fn-127)[^127]和其他游戏增加了滚动屏幕，也有终结头目和随着游戏进程而改变性质的关卡。[《立体空战》](#user-content-fn-128)[^128]增加了垂直性，但在该类型游戏的发展过程中很快就被抛弃了。[《蜈蚣》](#user-content-fn-129)[^129]在底部给了你一些操作空间和迷人的设定，但其实与《小蜜蜂》和《太空入侵者》并无太大区别。[《小行星》](#user-content-fn-130)[^130]是一个倒置的圆圈：你在中间，敌人来自外面。
 
 Galaga was probably the most influential of all of these, because it added bonus levels and the power-up, a concept that has become standard in every shmup since. Xevious and Vanguard added alternate modes of fire (bombs and firing in other directions). [Robotron](#user-content-fn-131)[^131] and [Defender](#user-content-fn-132)[^132] are special cases. Both have the element of rescuing. This has been pretty much abandoned today (sadly—though [Choplifter](#user-content-fn-133)[^133] was a wonderful sidetrack there).
 
@@ -596,7 +596,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^19]: 有向图：有向图是指点或节点由线（数学术语为顶点和边）连接，但线是有方向的。想想经典的儿童棋盘游戏“滑梯和梯子”：棋盘上的滑梯和梯子是棋盘上各点之间的有向连接。在滑梯上只能单向移动。这是一个不使用笛卡尔空间的游戏；点与点之间的最短距离与棋盘上的物理距离无关，而是与到达指定地点所需的移动次数有关。所有的“轨道”游戏，如大富翁，实际上都是有向图。
 
-[^20]: 两种空间：网球场有两个独立的空间，由球网分割开来，因此可以从任意一个方面来看。如果用节点来表示，我们可以说有四个节点：两个半场和两端的出界区。比赛就是要把球从你的节点打到对面的出界区。当然，这也是一场在传统坐标空间中进行的比赛。球员在节点内的位置实际上是大部分策略的所在。
+[^20]: 网球场可以是两种空间：网球场有两个独立的空间，由球网分割开来，因此可以从任意一个方面来看。如果用节点来表示，我们可以说有四个节点：两个半场和两端的出界区。比赛就是要把球从你的节点打到对面的出界区。当然，这也是一场在传统坐标空间中进行的比赛。球员在节点内的位置实际上是大部分策略的所在。
 
 [^21]: Games where things fit together physically: My favorites include Tetris, [Blokus](https://en.wikipedia.org/wiki/Blokus), and [Rumis](https://en.wikipedia.org/wiki/Rumis).
 
@@ -764,7 +764,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^103]: 雅达利 2600：雅达利 2600 是游戏机行业中第一款大获成功的游戏机，其全盛时期是上世纪 70 年代末和 80 年代初。
 
-[^104]: [激光爆炸](https://en.wikipedia.org/wiki/Laser_Blast)：由大卫·克雷恩设计，动视公司推出的简单射击游戏。游戏中有一个配备枪械的飞碟，可以向五个向下的不同角度射击。在下面的地形上，每屏有三辆坦克。射击几乎是瞬间完成的，所以这是一个在坦克开火前对准正确角度并射击的游戏。
+[^104]: [《激光爆炸》](https://en.wikipedia.org/wiki/Laser_Blast)：由大卫·克雷恩设计，动视公司推出的简单射击游戏。游戏中有一个配备枪械的飞碟，可以向五个向下的不同角度射击。在下面的地形上，每屏有三辆坦克。射击几乎是瞬间完成的，所以这是一个在坦克开火前对准正确角度并射击的游戏。
 
 [^105]: Quantized: Quantizing is the act of taking continuous values in data and forcing the data to fit to a pattern; for example, turning a picture with infinite shades of gray into an image with 256 levels of gray, or taking music that isn't quite on the beat and forcing it to fit perfect mathematical rhythm.
 
@@ -814,15 +814,15 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^123]: Asteroids: A shooter played on a toroidal field. The torus was never displayed to the user as such, of course; the player was presented with a stark black screen with asteroids drifting on it. The top and bottom edges wrapped around, as did the left and right edges. Every time you shot an asteroid, it broke into smaller pieces. Only the smaller pieces could be removed from play. You controlled your ship using a reasonable 2-D simulation of inertial physics. Most people chose not to move very much and instead played the game as a turret, as it was difficult to control your ship.
 
-[^124]: 《Gyruss》：《小蜜蜂》的衍生游戏，将游戏场地扭曲成一个圆形。玩家沿着外圈移动，敌人则从中心呈螺旋状出现。
+[^124]: 《太阳系战机》：《小蜜蜂》的衍生游戏，将游戏场地扭曲成一个圆形。玩家沿着外圈移动，敌人则从中心呈螺旋状出现。
 
 [^125]: 《暴风雨》：雅达利推出的一款街机游戏，在这款相当标准的射击游戏中，玩家沿着各种形状的边缘移动，所有这些都有效地扭曲了游戏场地的视角。有些游戏场地在拓扑上是圆形的，有些则是线形的。
 
 [^126]: 《大蜜蜂》：《小蜜蜂》的续作，引入了各种关键概念，如奖励关卡和强化道具（你的飞船可以被捕获，然后再夺回，这样你就能获得双倍火力）。
 
-[^127]: 《Gorf》：一款异想天开的街机射击游戏，在不同的关卡中会遇到明显不同的对手，包括作为各阶段最终敌人的母舰。
+[^127]: 《太空蜜蜂》：一款异想天开的街机射击游戏，在不同的关卡中会遇到明显不同的对手，包括作为各阶段最终敌人的母舰。
 
-[^128]: Zaxxon：等轴滚动射击游戏并非闻所未闻，但它们通常只是视觉上的小把戏，为真正的二维射击游戏增添色彩。然而，Zaxxon 允许沿垂直轴移动，并在不同高度设置障碍和目标。这种视角使飞船的对齐变得十分困难，但其画面在当时却是令人惊叹的。很少有其他游戏采用这种游戏方式，但《蓝色麦克斯》及其续集是个例外，该游戏将游戏背景设定在第一次世界大战，并加入了轰炸目标的功能。
+[^128]: 《立体空战》：等轴滚动射击游戏并非闻所未闻，但它们通常只是视觉上的小把戏，为真正的二维射击游戏增添色彩。然而，《立体空战》允许沿垂直轴移动，并在不同高度设置障碍和目标。这种视角使飞船的对齐变得十分困难，但其画面在当时却是令人惊叹的。很少有其他游戏采用这种游戏方式，但《蓝色麦克斯》及其续集是个例外，该游戏将游戏背景设定在第一次世界大战，并加入了轰炸目标的功能。
 
 [^129]: 《蜈蚣》：《蜈蚣》是史上最有魅力的射击游戏之一，其显著特点是扩展了早期游戏的几个关键概念。它允许玩家在屏幕底部的限制区域内进行完全平面的移动，允许敌人位于玩家身后的空间。它使用了《太空入侵者》中的障碍物，只是把它们描述成蘑菇，并把它们分布在整个屏幕上。游戏中的敌人种类繁多，有的沿着屏幕向下行进，有的则是俯冲轰炸机。最后，该游戏的控制装置是一个轨迹球，玩家可以控制加速度，而不仅仅是操纵杆控制的射击游戏所采用的线性移动速度。
 
