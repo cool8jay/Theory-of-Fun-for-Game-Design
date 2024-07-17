@@ -30,7 +30,7 @@ There aren't really standardized tests for these other types of intelligences (n
 > 
 > Some people have musical talent, others can integrate equations in their heads, and others are intensely charismatic.
 > 
-> 有的人有音乐天赋，有的人能在脑子里整合方程式，还有的人极具魅力。
+> 有的人有音乐天赋，有的人能在脑子里对方程积分，还有的人极具魅力。
 > 
 > MATHEMATICIAN
 > 
