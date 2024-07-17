@@ -206,7 +206,7 @@ There's some highly ordered music that doesn't appeal to most of us, though. A l
 
 The first time you hear bebop jazz it may sound weird to you, especially if you've been reared on good old-fashioned "[three chords and the truth](#user-content-fn-37)[^37]" rock 'n' roll. It'll be "devil music," to borrow a term from countless exasperated parents who railed against their kids' choice of music.
 
-第一次听到贝波普爵士乐时，你可能会觉得怪怪的，尤其是如果你是在老式的“[三个和弦和真理](#user-content-fn-38)[^38]”摇滚乐中长大的话。借用无数气急败坏的父母对孩子音乐选择的抨击，这就是“魔鬼音乐”。
+第一次听到贝波普爵士乐时，你可能会觉得怪怪的，尤其是如果你是在老式的“[三和弦与真理](#user-content-fn-38)[^38]”摇滚乐中长大的话。借用无数气急败坏的父母对孩子音乐选择的抨击，这就是“魔鬼音乐”。
 
 If you get past your initial distaste (which may last only a fraction of a second), you may come to see the patterns inherent in it. For example, you'll spot the [flattened fifth](#user-content-fn-39)[^39] that is so important to a jazzy sound. You'll start drumming your fingers to the expected 4/4 beat, and find to your dismay that it's actually 7/8 or some other meter. You'll be at sea for a bit, but you may experience a little thrill of delight once you *get it*, and experience a moment of discovery, of joy.
 
