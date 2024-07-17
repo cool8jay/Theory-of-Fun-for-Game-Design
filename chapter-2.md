@@ -164,9 +164,9 @@ In fact, most of what we see is also a chunked pattern. We rarely look at the re
 
 事实上，我们所看到的大部分事物也是分块模式。我们很少去看真实的世界，而是去识别一些我们已经分块的东西，然后就不管它了。就我们的大脑而言，这个世界完全可以由真实物体的硬纸板替代品组成。有人可能会说，许多艺术的精髓在于迫使我们看到事物的本来面貌，而不是我们想当然以为的样子。关于树的诗歌迫使我们观察树皮的壮丽、树叶的微妙、树干的力量和枝桠间负空间的惊人抽象性；它们让我们忽略了我们脑海中“木头，大片绿色，等等”的固有印象。
 
-When something in a chunk does not behave as we expect it to, we have [problems](#user-content-fn-31)[^31]. It can even get us killed. If cars careen sideways on the road instead of moving forward as we expect them to, we no longer have a rapid response routine unless we have trained a "chunk" for it. And sadly, conscious thought is really inefficient. If you have to think about what you're doing, you're more liable to screw up. Your reaction times are orders of magnitude slower, and odds are good you'll get in a wreck.
+When something in a [chunk does not behave as we expect it to](#user-content-fn-31)[^31], we have problems. It can even get us killed. If cars careen sideways on the road instead of moving forward as we expect them to, we no longer have a rapid response routine unless we have trained a "chunk" for it. And sadly, conscious thought is really inefficient. If you have to think about what you're doing, you're more liable to screw up. Your reaction times are orders of magnitude slower, and odds are good you'll get in a wreck.
 
-当成块的某些东西的行为与我们的预期不符时，我们就会遇到[问题](#user-content-fn-32)[^32]。它甚至会让我们丧命。如果汽车在道路上发生侧滑，而不是按照我们的预期向前行驶，我们就不再有快速反应的常规，除非我们为此训练了一个“块”。可悲的是，有意识的思考实在是效率低下。如果你必须思考你在做什么，你就更容易搞砸。你的反应时间会慢上几个数量级，很有可能就会出车祸。
+当[成块的某些东西的行为与我们的预期不符](#user-content-fn-32)[^32]时，我们就会遇到问题。它甚至会让我们丧命。如果汽车在道路上发生侧滑，而不是按照我们的预期向前行驶，我们就不再有快速反应的常规，除非我们为此训练了一个“块”。可悲的是，有意识的思考实在是效率低下。如果你必须思考你在做什么，你就更容易搞砸。你的反应时间会慢上几个数量级，很有可能就会出车祸。
 
 That we live in a world of chunking is fascinating. Maybe you're reading this and feeling uncomfortable about whether you're really reading this. But what I really want to talk about is how chunks and routines are built in the first place.
 
@@ -378,7 +378,7 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^17]: Recognizing faces: The part of the brain that recognizes faces is called the fusiform face area, and it's actually used for recognizing individuals of a given class (as opposed to the parts of the brain that recognize classes of things). When people get brain damage in this part of the brain, they become unable to recognize the photographs of famous people, even though they can still classify them as women, men, blondes, brunettes, young, or old. The fusiform face area has to be trained; most people are experts in other people, so they recognize individuals and read their emotions easily. Autistics show reduced functioning of the fusiform face area when examined via MRI. Birdwatchers and car experts show activation of the fusiform face area when they are identifying particular birds or cars.
 
-[^18]: 识别面孔：大脑中识别面孔的部分叫做“梭状回（fusiform）面孔（face）区（area）”，它实际上是用来识别特定类别中的个体的（与大脑中识别事物类别的部分相对）。当人的这部分大脑受到损伤时，他们就无法识别名人的照片，尽管他们仍然可以把名人分为女性、男性、金发、棕发、年轻或年老。梭状回面孔区必须经过训练；大多数人是识人专家，因此他们很容易识别出个体并读懂他们的情绪。通过核磁共振成像检查，发现自闭症患者的梭状回面孔区功能减弱。观鸟者和汽车专家在识别特定的鸟类或汽车时，梭状回面孔区会被激活。
+[^18]: 面部识别：大脑中识别面孔的部分叫做“梭状回（fusiform）面孔（face）区（area）”，它实际上是用来识别特定类别中的个体的（与大脑中识别事物类别的部分相对）。当人的这部分大脑受到损伤时，他们就无法识别名人的照片，尽管他们仍然可以把名人分为女性、男性、金发、棕发、年轻或年老。梭状回面孔区必须经过训练；大多数人是识人专家，因此他们很容易识别出个体并读懂他们的情绪。通过核磁共振成像检查，发现自闭症患者的梭状回面孔区功能减弱。观鸟者和汽车专家在识别特定的鸟类或汽车时，梭状回面孔区会被激活。
 
 [^19]: Filling in blanks and not seeing your nose: Some fun experiments to demonstrate blind spots and the brain filling in known data can be found at [http://faculty.washington.edu/chudler/chvision.html](http://faculty.washington.edu/chudler/chvision.html). Many popular optical illusions are based on the fact that the brain makes assumptions about what we are seeing.
 
