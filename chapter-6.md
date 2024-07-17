@@ -4,9 +4,9 @@
 <img src="images/6.0.png"/>
 </p>
 
-We all know that people learn at different rates and in different ways. Some of these [differences manifest at a very early age](#user-content-fn-1)[^1]. Some people visualize things when they think of them; others are more verbal. Some people employ logic readily; others rely on leaps of intuition. We [still wrestle](#user-content-fn-2)[^2] with how to apply this knowledge to education. We're all familiar with the [bell curve distribution of IQ](#user-content-fn-3)[^3], and we're also familiar with the fact that IQ tests do not measure all forms of intelligence. [Howard Gardner](#user-content-fn-4)[^4] said there were in fact seven forms:
+We all know that people learn at different rates and in different ways. Some of these [differences manifest at a very early age](#user-content-fn-1)[^1]. Some people visualize things when they think of them; others are more verbal. Some people employ logic readily; others rely on leaps of intuition. [We still wrestle](#user-content-fn-2)[^2] with how to apply this knowledge to education. We're all familiar with the [bell curve distribution of IQ](#user-content-fn-3)[^3], and we're also familiar with the fact that IQ tests do not measure all forms of intelligence. [Howard Gardner](#user-content-fn-4)[^4] said there were in fact seven forms:
 
-我们都知道，人们的学习速度和方式各不相同。有些[差异在很小的时候就表现](#user-content-fn-5)[^5]出来了。有些人在思考问题时会将其形象化；有些人则更善于口头表达。有些人善于运用逻辑思维，有些人则依靠跳跃式的直觉。我们仍在[苦苦思索](#user-content-fn-6)[^6]如何将这些知识应用到教育中。我们都很熟悉[智商的钟形曲线分布](#user-content-fn-7)[^7]，我们也很熟悉智商测试并不能衡量所有形式的智能这一事实。[霍华德·加德纳](#user-content-fn-8)[^8]说，实际上有七种形式：
+我们都知道，人们的学习速度和方式各不相同。有些[差异在很小的时候就显现出来](#user-content-fn-5)[^5]。有些人在思考问题时会将其形象化；有些人则更善于口头表达。有些人善于运用逻辑思维，有些人则依靠跳跃式的直觉。[我们仍在苦苦思索](#user-content-fn-6)[^6]如何将这些知识应用到教育中。我们都很熟悉[智商的钟形曲线分布](#user-content-fn-7)[^7]，我们也很熟悉智商测试并不能衡量所有形式的智能这一事实。[霍华德·加德纳](#user-content-fn-8)[^8]说，实际上有七种形式：
 
 1. Linguistic 语言
 2. Logical-mathematical 逻辑-数学
@@ -198,7 +198,7 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^5]: 差异在很小的时候就显现出来：特别是，我们可以从男孩和女孩的发育时间表中看到这一点。
 
-[^6]: 我们仍在摔跤：2009 年，心理科学协会的期刊《APS》发表了一份关于“学习风格”研究的[调查报告](https://journals.sagepub.com/doi/full/10.1111/j.1539-6053.2009.01038.x)，得出的结论是，在测试针对特定学习风格的方法和广泛的方法时，还不够严谨。换句话说，我们需要对班级学生进行正式实验，一组学生在教学时考虑到了学习风格，另一组则没有，以真正评估以多种不同方式呈现课程是否有意义。毕竟，教师的资源是有限的，以一种覆盖面相当广的方式授课可能会更有效率（尽管可能无法最大限度地发挥每个学生的潜能）。不过，无论如何，学习风格方法在教育理论界非常普遍。
+[^6]: 我们仍在苦苦思索：2009 年，心理科学协会的期刊《APS》发表了一份关于“学习风格”研究的[调查报告](https://journals.sagepub.com/doi/full/10.1111/j.1539-6053.2009.01038.x)，得出的结论是，在测试针对特定学习风格的方法和广泛的方法时，还不够严谨。换句话说，我们需要对班级学生进行正式实验，一组学生在教学时考虑到了学习风格，另一组则没有，以真正评估以多种不同方式呈现课程是否有意义。毕竟，教师的资源是有限的，以一种覆盖面相当广的方式授课可能会更有效率（尽管可能无法最大限度地发挥每个学生的潜能）。不过，无论如何，学习风格方法在教育理论界非常普遍。
 
 [^7]: 智商的钟形曲线分布：标准智商（IQ）测试围绕平均分 100 进行归一化。测试每隔几年就需要重新归一化，因为我们显然都变得越来越聪明了；这就是所谓的弗林效应。并非所有人都认为智商是衡量各种智力的有效标准。还有一个概念叫做“情绪智能”，它认为我们对情绪的理解和应对能力至少同样重要，甚至更为重要。
 
