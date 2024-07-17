@@ -14,7 +14,7 @@ If you review those definitions of "game" I presented earlier, you'll see that t
 
 But games are very real to me. Games might seem abstracted from reality because they are iconic depictions of patterns in the world. They have more in common with how our brain visualizes things than they do with how reality is actually formed. Since [our perception of reality is basically abstraction](#user-content-fn-1)[^1] anyway, I call it a wash.
 
-但对我来说，游戏是非常真实的。游戏看似从现实中抽象出来，因为它们是对世界模式的标志性描述。它们与我们大脑将事物视觉化的方式有更多共通之处，而不是与现实的实际形成方式有更多共通之处。既然[我们对现实的感知基本上都是抽象的](#user-content-fn-2)[^2]，我称之为洗脑。
+但对我来说，游戏是非常真实的。游戏看似从现实中抽象出来，因为它们是对世界模式的标志性描述。它们与我们大脑将事物视觉化的方式有更多共通之处，而不是与现实的实际形成方式有更多共通之处。既然[我们对现实的感知基本上是抽象的](#user-content-fn-2)[^2]，我称之为洗脑。
 
 The pattern depicted may or may not exist in reality. Nobody is claiming that tic-tac-toe is a decent mimicry of warfare, for example. But the rules we perceive—what I'll call the pattern—get processed exactly the same way we process very real things like "fire burns" and "how cars move forward."
 
