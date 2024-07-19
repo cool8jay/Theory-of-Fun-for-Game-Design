@@ -50,7 +50,7 @@ In recent years, much study has been centered on [gender differences](#user-cont
 
 It speaks well of the power of video games that they can contribute to this disappearance. After all, the equation is both nature and nurture. Research has shown that if people who have trouble with spatial rotation tests are given a video game that encourages them to practice rotating objects and matching particular configurations in 3-D, not only will they master the spatial perception necessary, but the [results will be permanent](#user-content-fn-19)[^19].
 
-电子游戏可以促进这种差异的消失，这充分说明了电子游戏的力量。毕竟，等式中既有天性，也有培养。研究表明，如果给那些在空间旋转测试中遇到困难的人提供一款电子游戏，鼓励他们练习旋转物体和匹配三维空间中的特定结构，他们不仅能掌握必要的空间感知能力，而且[效果将是永久性的](#user-content-fn-20)[^20]。
+电子游戏可以促进这种差异的消失，这充分说明了电子游戏的力量。毕竟，这个过程中既有天性，也有培养。研究表明，如果给那些在空间旋转测试中遇到困难的人提供一款电子游戏，鼓励他们练习旋转物体和匹配三维空间中的特定结构，他们不仅能掌握必要的空间感知能力，而且[效果将是永久性的](#user-content-fn-20)[^20]。
 
 One researcher in the U.K., [Simon Baron-Cohen](#user-content-fn-21)[^21], has concluded that there are "systematizing brains" and "empathizing brains." He identifies extreme systematizing brains as being autistic and ones just slightly less so as being those diagnosed as having [Asperger's syndrome](#user-content-fn-22)[^22]. The distribution curve of systematizing brains versus empathizing brains, according to Baron-Cohen, is apparently influenced by gender. Men are somewhat more likely to have systematizing brains, and women more likely to have empathizing brains.
 
@@ -174,7 +174,7 @@ As games become more prevalent in society, we'll likely see more young girls usi
 
 This argues pretty strongly that if people are to achieve their maximum potential, they need to do the hard work of playing the games they *don't* get, the games that *don't* appeal to their natures. Taking these on may serve as the nurture part of the equation, counterbalancing the brains that they were born with or culturally trained to have. The result would be people who move freely between worldviews, and who bring a wider array of skills to bear on a given problem.
 
-这就有力地证明，如果人们要发挥自己的最大潜能，就需要付出艰苦的努力，去玩那些他们*不*理解的游戏，那些对他们的天性*没有*吸引力的游戏。玩这些游戏可以作为等式中的培养部分，抵消他们与生俱来的或文化训练出来的大脑。这样，人们就能在各种世界观之间自由转换，并在解决特定问题时发挥更广泛的技能。
+这就有力地证明，如果人们要发挥自己的最大潜能，就需要付出艰苦的努力，去玩那些他们*不*理解的游戏，那些对他们的天性*没有*吸引力的游戏。玩这些游戏可以作为过程中的培养部分，抵消他们与生俱来的或文化训练出来的大脑。这样，人们就能在各种世界观之间自由转换，并在解决特定问题时发挥更广泛的技能。
 
 The converse trick, of training boys up, might be harder for single-player games to achieve because it does not play to the strength of game systems as a medium. Nonetheless, games should try—perhaps with [designs emphasizing social interaction](#user-content-fn-51)[^51], such as in Diplomacy or online virtual worlds. The thought that games could be limited because of their fundamentally mathematical nature is somewhat depressing; but it hasn't stopped music from being a highly emotional medium, and language manages to convey mathematical thoughts, so there is hope for games yet.
 
