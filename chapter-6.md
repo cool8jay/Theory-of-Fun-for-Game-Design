@@ -86,7 +86,7 @@ According to Baron-Cohen's theory, there are people who have high abilities in b
 
 Another way to look at this is not in terms of intelligence but in terms of [learning styles](#user-content-fn-25)[^25]. Here again, gender shows itself. Men not only navigate space differently, but they tend to learn by trying, whereas women prefer to learn through modeling another's behavior. Recent research suggests that [men and women may even see differently](#user-content-fn-26)[^26], which cannot help but lead to different learning styles.
 
-另一种方法不是从智力的角度，而是从[学习风格](#user-content-fn-27)[^27]的角度来看待这个问题。在这里，性别再次显现出来。男性不仅浏览空间的方式不同，而且他们倾向于通过尝试来学习，而女性则更喜欢通过模仿他人的行为来学习。最近的研究表明，[男性和女性的视角甚至可能不同](#user-content-fn-28)[^28]，这必然会导致不同的学习风格。
+另一种方法不是从智力的角度，而是从[学习风格](#user-content-fn-27)[^27]的角度来看待这个问题。在这里，性别再次显现出来。男性不仅浏览空间的方式不同，而且他们倾向于通过尝试来学习，而女性则更喜欢通过模仿他人的行为来学习。最近的研究表明，[男性和女性的看到的不同](#user-content-fn-28)[^28]，这必然会导致不同的学习风格。
 
 The classic ways of looking at learning styles and personalities are the [Keirsey Temperament Sorter](#user-content-fn-29)[^29] and the [Myers-Briggs personality type](#user-content-fn-30)[^30]. These are the ones with the four letter codes like INTP, ENFJ, and so on. Of course, there's also astrology, [enneagrams](#user-content-fn-31)[^31], and lots of others. Virtually all of these lack scientific basis. But there is a model based on widespread surveys of individuals from around the world: the [Five Factor Model](#user-content-fn-32)[^32]. This model finds five big domains of personality: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
 
@@ -242,7 +242,7 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^27]: 学习风格：谢里·格拉纳·雷的《游戏设计中的性别包容》是一本很好的书，它专门介绍了适用于游戏设计的学习风格。
 
-[^28]: 男性和女性的观察方式不同：[这里](https://bsd.biomedcentral.com/articles/10.1186/2042-6410-3-21)和加布里埃尔·乔丹博士的[工作](https://www.discovermagazine.com/mind/the-humans-with-super-human-vision)是这方面科学研究的两个例子。在第一项研究中，研究人员发现女性发现静止物体的反应时间稍快，而男性看到移动物体的反应时间更快。按照经典的进化心理学方式，媒体迅速将其称为“采集眼”和“狩猎眼”。另一项研究是关于颜色感知的。典型的人类有三个锥状体和杆状体来观察颜色。许多男性只有两个，这导致色盲的发生率要高得多。最近发现，有些女性有四个。拥有四个视锥和视杆细胞的女性被称为“真正的四色人”，她们比其他人能看到更多的颜色。
+[^28]: 男性和女性的看到的不同：[这里](https://bsd.biomedcentral.com/articles/10.1186/2042-6410-3-21)和加布里埃尔·乔丹博士的[工作](https://www.discovermagazine.com/mind/the-humans-with-super-human-vision)是这方面科学研究的两个例子。在第一项研究中，研究人员发现女性发现静止物体的反应时间稍快，而男性看到移动物体的反应时间更快。按照经典的进化心理学方式，媒体迅速将其称为“采集眼”和“狩猎眼”。另一项研究是关于颜色感知的。典型的人类有三个锥状体和杆状体来观察颜色。许多男性只有两个，这导致色盲的发生率要高得多。最近发现，有些女性有四个。拥有四个视锥和视杆细胞的女性被称为“真正的四色人”，她们比其他人能看到更多的颜色。
 
 [^29]: Kiersey Temperament Sorter: A derivation of the Myers-Briggs personality type that uses a slightly different organizing metaphor based on the Hippocratic temperaments.
 
