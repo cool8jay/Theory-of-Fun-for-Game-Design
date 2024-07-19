@@ -162,7 +162,7 @@ You would also expect to see this change as the culture shifts towards greater e
 > 
 > People will usually choose to play the games they are already good at, that reflect their strengths.
 > 
-> 人们通常会选择玩自己擅长的游戏，这反映了他们的优势。
+> 人们通常会选择玩自己擅长的游戏，它们展现了他们的优势。
 
 As it happens, we *did* see all of these in demographic data of game players (along with much more). Games may have been the province of 14-year-old boys because that's what games have selected for. Over the last ten years, far more *kinds* of games have been made, and there are now slightly more female players than male players.
 
