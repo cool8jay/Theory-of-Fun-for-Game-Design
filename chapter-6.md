@@ -90,7 +90,7 @@ Another way to look at this is not in terms of intelligence but in terms of [lea
 
 The classic ways of looking at learning styles and personalities are the [Keirsey Temperament Sorter](#user-content-fn-29)[^29] and the [Myers-Briggs personality type](#user-content-fn-30)[^30]. These are the ones with the four letter codes like INTP, ENFJ, and so on. Of course, there's also astrology, [enneagrams](#user-content-fn-31)[^31], and lots of others. Virtually all of these lack scientific basis. But there is a model based on widespread surveys of individuals from around the world: the [Five Factor Model](#user-content-fn-32)[^32]. This model finds five big domains of personality: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
 
-观察学习风格和性格的经典方法是[凯尔西性格分类器](#user-content-fn-33)[^33]和[迈尔斯·布里格斯性格类型指标](#user-content-fn-34)[^34]。这些是带有像INTP、ENFJ等四字母代码的类型。当然，还有占星术、[九型人格](#user-content-fn-35)[^35]等许多其他方法。几乎所有这些都没有科学依据。但是，有一个基于对世界各地个体进行广泛调查的模型：[五因素模型](#user-content-fn-36)[^36]。这个模型发现了性格的五个大领域：开放性、责任心、外向性、宜人性和神经质。
+观察学习风格和性格的经典方法是[凯尔西性格分类器](#user-content-fn-33)[^33]和[迈尔斯·布里格斯性格类型](#user-content-fn-34)[^34]。这些是带有像INTP、ENFJ等四字母代码的类型。当然，还有占星术、[九型人格](#user-content-fn-35)[^35]等许多其他方法。几乎所有这些都没有科学依据。但是，有一个基于对世界各地个体进行广泛调查的模型：[五因素模型](#user-content-fn-36)[^36]。这个模型发现了性格的五个大领域：开放性、责任心、外向性、宜人性和神经质。
 
 Anecdotally, players tend to prefer certain types of games in ways that seem to correspond to their personalities. There is an effort now by game designer [Jason VandenBerghe](#user-content-fn-37)[^37] to find hard data on correlations between the Five Factor Model and the types of games that people play. 
 
@@ -114,7 +114,7 @@ What does this all mean for game designers? Not only will a given game be unlike
 
 This may indicate a fundamental limitation of game systems. Since they are formal abstract systems, they are by their very nature biased towards certain types of brains, just as books are biased. (Most [book purchases](#user-content-fn-41)[^41] in the U.S. are made by women, and half are made by individuals over the age of 45.)
 
-这可能表明了游戏系统的根本局限性。由于游戏系统是形式化的抽象系统，其本质是偏向于某些类型的大脑，就像书籍一样。(在美国，大多数[购买图书](#user-content-fn-42)[^42]的人都是女性，其中一半是 45 岁以上的人。)
+这可能表明了游戏系统的根本局限性。由于游戏系统是形式化的抽象系统，其本质是偏向于某些类型的大脑，就像书籍一样。(在美国，大多数[购买图书](#user-content-fn-42)[^42]的人都是女性，其中一半人年龄在是 45 岁以上。)
 
 For years, the video game industry struggled with the lack of appeal of games to the female audience. Many possible reasons have been advanced for this: the rampant sexism in video games, the lack of a distribution channel that reached the female demographic, the juvenile themes, the fact that there were relatively few female creators in the industry, the fact that the games focused on violence.
 
