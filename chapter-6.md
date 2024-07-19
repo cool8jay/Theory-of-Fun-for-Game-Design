@@ -166,7 +166,7 @@ You would also expect to see this change as the culture shifts towards greater e
 
 As it happens, we *did* see all of these in demographic data of game players (along with much more). Games may have been the province of 14-year-old boys because that's what games have selected for. Over the last ten years, far more *kinds* of games have been made, and there are now slightly more female players than male players.
 
-事实上，我们*确实*在游戏玩家的人口统计数据中看到了所有这些数据（还有更多数据）。游戏可能一直是 14 岁男孩的专利，因为那就是游戏的选择的群体。在过去的十年里，游戏的*种类*大大增加，现在女性玩家的数量略多于男性玩家。
+事实上，我们*确实*在游戏玩家的人口统计数据中看到了所有这些数据（还有更多数据）。游戏可能曾经是 14 岁男孩的领域，因为那就是游戏所选择的群体。在过去的十年里，游戏的*种类*大大增加，现在女性玩家的数量略多于男性玩家。
 
 As games become more prevalent in society, we'll likely see more young girls using the amazing brain-rewiring abilities of games to train themselves up and become more comfortable with the kinds of games the boys always liked. There has been research showing that girls who play "boys' games," such as sports, [tend to break out of traditional gender roles](#user-content-fn-49)[^49] years later, whereas girls who stick to "girls' games" tend to adhere to the traditional stereotypes more strictly.
 
