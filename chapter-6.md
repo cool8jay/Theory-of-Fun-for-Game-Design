@@ -58,7 +58,7 @@ One researcher in the U.K., [Simon Baron-Cohen](#user-content-fn-21)[^21], has c
 
 According to Baron-Cohen's theory, there are people who have high abilities in both systematizing and empathizing. One would surmise that these people tend to go into the arts, which are heavily systematic and also require a high degree of empathy. Baron-Cohen postulates that having high abilities in both is a contraindicated survival trait, since it means that they are almost certainly not as good at either as the "specialists." This may explain all those consumptive poets dying in garrets.
 
-根据巴伦·科恩的理论，有些人在系统化和移情方面都有很高的能力。我们可以推测，这些人倾向于从事艺术工作，因为艺术工作系统性很强，同时也需要高度的移情能力。巴隆·科恩推测，在这两方面都具有较高能力是一种禁忌的生存特征，因为这意味着他们几乎肯定在这两方面都不如“专家”。这或许可以解释那些死在阁楼里的肺痨病诗人。
+根据巴伦·科恩的理论，有些人在系统化和移情方面都有很高的能力。我们可以推测，这些人倾向于从事艺术工作，因为艺术工作系统性很强，同时也需要高度的移情能力。巴隆·科恩推测，在这两方面都具有较高能力是一种不利的生存特征，因为这意味着他们几乎肯定在这两方面都不如“专家”。这或许可以解释那些死在阁楼里的肺痨病诗人。
 
 <div align="center">
 <img src="images/6.2.png">
