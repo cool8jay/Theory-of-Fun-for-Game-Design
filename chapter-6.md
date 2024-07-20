@@ -86,7 +86,7 @@ According to Baron-Cohen's theory, there are people who have high abilities in b
 
 Another way to look at this is not in terms of intelligence but in terms of [learning styles](#user-content-fn-25)[^25]. Here again, gender shows itself. Men not only navigate space differently, but they tend to learn by trying, whereas women prefer to learn through modeling another's behavior. Recent research suggests that [men and women may even see differently](#user-content-fn-26)[^26], which cannot help but lead to different learning styles.
 
-另一种方法不是从智力的角度，而是从[学习风格](#user-content-fn-27)[^27]的角度来看待这个问题。在这里，性别再次显现出来。男性不仅浏览空间的方式不同，而且他们倾向于通过尝试来学习，而女性则更喜欢通过模仿他人的行为来学习。最近的研究表明，[男性和女性的看到的不同](#user-content-fn-28)[^28]，这必然会导致不同的学习风格。
+另一种方法不是从智力的角度，而是从[学习风格](#user-content-fn-27)[^27]的角度来看待这个问题。在这里，性别再次显现出来。男性不仅浏览空间的方式不同，而且他们倾向于通过尝试来学习，而女性则更喜欢通过模仿他人的行为来学习。最近的研究表明，[男性和女性的可能在视觉方面存在差异](#user-content-fn-28)[^28]，这必然会导致不同的学习风格。
 
 The classic ways of looking at learning styles and personalities are the [Keirsey Temperament Sorter](#user-content-fn-29)[^29] and the [Myers-Briggs personality type](#user-content-fn-30)[^30]. These are the ones with the four letter codes like INTP, ENFJ, and so on. Of course, there's also astrology, [enneagrams](#user-content-fn-31)[^31], and lots of others. Virtually all of these lack scientific basis. But there is a model based on widespread surveys of individuals from around the world: the [Five Factor Model](#user-content-fn-32)[^32]. This model finds five big domains of personality: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
 
@@ -232,9 +232,9 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^22]: Asperger's syndrome: Commonly called "high-functioning autism," this syndrome is characterized by difficulty with social interactions and reading emotions. In DSM V Asperger's has been removed as a separate diagnosis, and instead will be simply considered to be on the autism spectrum.
 
-[^23]: 西蒙·巴伦·科恩：巴伦·科恩在其《本质区别：男人、女人和极端的男性大脑》一书中阐明了这一理论，虽然与早先关于思考和感觉大脑的理论相呼应，但仍存在争议。巴龙·科恩是一名自闭症研究者，因此他并不只是从性别研究中得出这一结论；男孩患自闭症和阿斯伯格症的比例过高，而他的假设是，这些都是“极端系统化大脑”的功能障碍。网上有一些[测试](https://www.theguardian.com/life/news/page/0,12983,937443,00.html)，可以测出你的“系统化商数”和“情商”。
+[^23]: 西蒙·巴伦·科恩：巴伦·科恩在其《本质区别：男人、女人和极端的男性大脑》一书中阐明了这一理论，虽然与早先关于思考和感觉大脑的理论相呼应，但仍存在争议。巴龙·科恩是一名自闭症研究者，因此他并不只是从性别研究中得出这一结论；男孩患自闭症和阿斯伯格症的比例过高，而他的假设是，这些都是“极端系统化大脑”的功能障碍。网上有一些[测试](https://www.theguardian.com/life/news/page/0,12983,937443,00.html)，可以测出你的“系统化商数”和“共情商数”。
 
-[^24]: 阿斯伯格综合症：这种综合症通常被称为“高功能自闭症”，其特点是难以进行社会交往和解读情绪。在精神障碍诊断和统计手册第五版中，阿斯伯格综合症已不再作为一个单独的诊断，而是被简单地视为自闭症谱系。
+[^24]: 阿斯伯格综合症：通常被称为“高功能自闭症”，其特点是难以进行社会交往和解读情绪。在《精神障碍诊断和统计手册》第五版中，阿斯伯格综合症已不再作为一个单独的诊断，而是被简单地视为自闭症谱系的一部分。
 
 [^25]: Learning styles: Sheri Graner Ray's Gender Inclusive Game Design is an excellent book covering learning styles as they apply specifically to game design.
 
@@ -242,7 +242,7 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^27]: 学习风格：谢里·格拉纳·雷的《游戏设计中的性别包容》是一本很好的书，它专门介绍了适用于游戏设计的学习风格。
 
-[^28]: 男性和女性的看到的不同：[这里](https://bsd.biomedcentral.com/articles/10.1186/2042-6410-3-21)和加布里埃尔·乔丹博士的[工作](https://www.discovermagazine.com/mind/the-humans-with-super-human-vision)是这方面科学研究的两个例子。在第一项研究中，研究人员发现女性发现静止物体的反应时间稍快，而男性看到移动物体的反应时间更快。按照经典的进化心理学方式，媒体迅速将其称为“采集眼”和“狩猎眼”。另一项研究是关于颜色感知的。典型的人类有三个锥状体和杆状体来观察颜色。许多男性只有两个，这导致色盲的发生率要高得多。最近发现，有些女性有四个。拥有四个视锥和视杆细胞的女性被称为“真正的四色人”，她们比其他人能看到更多的颜色。
+[^28]: 男性和女性的可能在视觉方面存在差异：[这里](https://bsd.biomedcentral.com/articles/10.1186/2042-6410-3-21)和加布里埃尔·乔丹博士的[工作](https://www.discovermagazine.com/mind/the-humans-with-super-human-vision)是这方面科学研究的两个例子。在第一项研究中，研究人员发现女性发现静止物体的反应时间稍快，而男性看到移动物体的反应时间更快。按照经典的进化心理学方式，媒体迅速将其称为“采集眼”和“狩猎眼”。另一项研究是关于颜色感知的。典型的人类有三种视锥细胞和视杆细胞来感知颜色。许多男性只有两种功能正常，这导致色盲的发生率要高得多。最近发现，有些女性有四种。拥有四种功能正常的视锥细胞和视杆细胞的女性被称为“真正的四色视者”，她们比其他人能看到更多的颜色。
 
 [^29]: Kiersey Temperament Sorter: A derivation of the Myers-Briggs personality type that uses a slightly different organizing metaphor based on the Hippocratic temperaments.
 
@@ -254,11 +254,11 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^33]: 凯尔西性格分类器：迈尔斯·布里格斯人格类型的衍生，使用了一种基于希波克拉底气质的略有不同的组织隐喻。
 
-[^34]: 迈尔斯·布里格斯性格类型：这种心理测量工具以卡尔·荣格的理论为基础，测量受试者对四种不同二分法中的某一方或另一方的偏好。其结果可被解读为将一个人划分为 16 种人格类型中的一种，但在心理学中，其目的是表示对特定解决问题方法的偏好。
+[^34]: 迈尔斯·布里格斯性格类型：这种心理测量工具以卡尔·荣格的理论为基础，测量受试者对四种不同二分法中的某一方或另一方的偏好。其结果可被解读为将一个人归类为 16 种性格类型中的一种，但在心理学中，其目的是表示对特定解决问题方法的偏好。
 
-[^35]: 九型人格：九型人格是另一种人格分类系统，它将人分为九种不同的类型。每种类型都有两个附属特征；九型人格的图解是一个圆形，因此“翅膀”或次级类型就是圆形上的邻居。九型人格不是基于经验研究或心理学理论，而是基于七宗罪和命理学。
+[^35]: 九型人格：九型人格是另一种性格分类系统，它将人分为九种不同的类型。每种类型都有两个附属特征；九型人格的图解是一个圆圈，因此“翅膀”或次级类型就是圆圈上的邻近类型。九型人格不是基于经验研究或心理学理论，而是基于七宗罪和数字命理学。
 
-[^36]: 五因素模型：也称为大五性格、OCEAN、CANOE 等。这五种因素中的每一种又进一步细分为更多的子类别。这五个因素是通过跨文化元研究发现的，尽管对该模型的某些方面仍有争议，但它在心理学界被广泛使用。五因素模型确实在平均水平上显示出一些性别差异，以及跨文化的显著差异。有些文化可能不具备五个因子中某些因子。
+[^36]: 五因素模型：也称为大五性格、OCEAN、CANOE 等。这五种因素中的每一种又进一步细分为更多的子类别。这五个因素是通过跨文化元研究发现的，尽管对该模型的某些方面仍有争议，但它在心理学界被广泛使用。五因素模型确实在平均水平上显示出一些性别差异，以及跨文化的显著差异。有些文化可能不具备五个因素中某些因素。
 
 [^37]: Jason VandenBerghe: His work has been presented at a few Game Developer Conference events, and you can see his presentation [here](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2012/slides/Design%20Track/VandenBerghe_Jason_The_5_Domains.pdf).
 
