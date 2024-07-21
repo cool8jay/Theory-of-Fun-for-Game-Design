@@ -10,7 +10,7 @@ Learning can be problematic. For one thing, it's kind of hard work. Our brains m
 
 When I was a kid taking math classes, teachers always made us write out proofs. Many of the students were good enough at algebra that they could look at a given problem and see the answer and then write it down, but it didn't matter—the teacher made them actually work it out:
 
-我小时候上数学课时，老师总是让我们写出证明。很多学生代数学得很好，他们可以看着一道题，看到答案，然后写下来，但这并不重要——老师让他们真正地去解决它：老师让他们真正算出来：
+我小时候上数学课时，老师总是让我们写出证明。很多学生代数学得很好，他们可以看完一道题，就知道答案，然后直接写下来，但这并不重要——老师却要他们真正一步一步解答出来：
 
 x^2 + 5 = 30
 
@@ -30,11 +30,11 @@ We always thought this was stupid. If we could just look at the problem and see 
 
 Of course, the good reason is that multiplying -5 by -5 is also 25, and thus there are actually two answers. Skipping to the end, we're more likely to forget that.
 
-当然，好的理由是 -5 乘以 -5 也是 25，因此实际上有两个答案。跳到最后，我们更容易忘记这一点。
+当然，好的理由是 -5 乘以 -5 也是 25，因此实际上有两个答案。直接跳到最后，我们更容易忘记这一点。
 
 That doesn't stop the human mind from wanting to take shortcuts, however.
 
-不过，这并不妨碍人类的大脑想走捷径。
+不过，这并不能阻止人类的大脑想走捷径。
 
 <div align="center">
 <img src="images/7.1.png">
@@ -56,7 +56,7 @@ That doesn't stop the human mind from wanting to take shortcuts, however.
 
 Once players look at a game and ascertain the pattern and the ultimate goal, they'll try to find the optimal path to getting there. And one of the classic problems with games of all sorts is that players often have little compunction about violating the theoretical "magic circle" that encompasses games and makes them protected spaces in which to practice.
 
-一旦玩家看懂了一个游戏，并确定了游戏的模式和最终目标，他们就会努力寻找达到目标的最佳路径。而各种游戏的一个典型问题是，玩家往往会毫不犹豫地违反理论上的“魔法圈”，因为这个魔法圈涵盖了游戏，并使游戏成为受保护的练习空间。
+一旦玩家看懂了一个游戏，并确定了游戏的模式和最终目标，他们就会努力寻找达到目标的最佳路径。而各种游戏的一个典型问题是，玩家往往会毫不犹豫地违反理论上的“魔法圈”，这个魔法圈涵盖了游戏，并使游戏成为受保护的实践空间。
 
 In other words, many players are willing to cheat.
 
@@ -64,7 +64,7 @@ In other words, many players are willing to cheat.
 
 This is a natural impulse. It's not a sign of people being bad (though we can call it bad sportsmanship). It's actually a sign of lateral thinking, which is a very important and valuable mental skill to learn. When someone cheats at a game, they may be acting unethically, but they're also exercising a skill that makes them more likely to survive. It's often called "cunning."
 
-这是一种自然的冲动。这并不是人们变坏的表现（尽管我们可以称之为不良体育道德）。这实际上是横向思维的一种表现，而横向思维是一种非常重要且值得学习的心智技能。当有人在游戏中作弊时，他们的行为可能是不道德的，但他们同时也在锻炼一种技能，使他们更有可能生存下去。这通常被称为“狡猾”。
+这是一种自然的冲动。它不是人们品行不端的标志（尽管我们可以称之为不良体育道德）。这实际上是横向思维的一种表现，而横向思维是一种非常重要且值得学习的心智技能。当有人在游戏中作弊时，他们的行为可能是不道德的，但他们同时也在锻炼一种技能，使他们更有可能生存下去。这通常被称为“狡猾”。
 
 "Cheating" is a long-standing tradition in warfare. The first recorded "[rules of proper warfare](#user-content-fn-1)[^1]" date back to the sixth century BCE! And once conventions are followed, violating them is a powerful tactic. "Let's throw sand in our opponent's eyes." "Let's attack by night." "Let's not charge out of the woods and ambush them instead." "Let's make them walk through the mud so we can shoot them full of arrows." As one of the most important strategic adages has it, "If you cannot choose the battle, at least choose the battlefield."
 
