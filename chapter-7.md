@@ -6,7 +6,7 @@
 
 Learning can be problematic. For one thing, it's kind of hard work. Our brains may unconsciously direct us to learn, but if we're pushed by parents, teachers, or even our own logical brains, we often resist most mightily.
 
-学习是个问题。首先，学习是一项艰苦的工作。我们的大脑可能会无意识地引导我们学习，但如果父母、老师，甚至我们自己的逻辑思维催促我们，我们往往会极力反抗。
+学习有时候是个难题。首先，学习是一项艰苦的工作。我们的大脑可能会无意识地引导我们学习，但如果父母、老师，甚至我们自己的逻辑思维催促我们，我们往往会极力反抗。
 
 When I was a kid taking math classes, teachers always made us write out proofs. Many of the students were good enough at algebra that they could look at a given problem and see the answer and then write it down, but it didn't matter—the teacher made them actually work it out:
 
