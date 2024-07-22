@@ -86,7 +86,7 @@ According to Baron-Cohen's theory, there are people who have high abilities in b
 
 Another way to look at this is not in terms of intelligence but in terms of [learning styles](#user-content-fn-25)[^25]. Here again, gender shows itself. Men not only navigate space differently, but they tend to learn by trying, whereas women prefer to learn through modeling another's behavior. Recent research suggests that [men and women may even see differently](#user-content-fn-26)[^26], which cannot help but lead to different learning styles.
 
-另一种方法不是从智力的角度，而是从[学习风格](#user-content-fn-27)[^27]的角度来看待这个问题。在这里，性别再次显现出来。男性不仅浏览空间的方式不同，而且他们倾向于通过尝试来学习，而女性则更喜欢通过模仿他人的行为来学习。最近的研究表明，[男性和女性的看到的不同](#user-content-fn-28)[^28]，这必然会导致不同的学习风格。
+另一种方法不是从智力的角度，而是从[学习风格](#user-content-fn-27)[^27]的角度来看待这个问题。在这里，性别再次显现出来。男性不仅浏览空间的方式不同，而且他们倾向于通过尝试来学习，而女性则更喜欢通过模仿他人的行为来学习。最近的研究表明，[男性和女性的可能在视觉方面存在差异](#user-content-fn-28)[^28]，这必然会导致不同的学习风格。
 
 The classic ways of looking at learning styles and personalities are the [Keirsey Temperament Sorter](#user-content-fn-29)[^29] and the [Myers-Briggs personality type](#user-content-fn-30)[^30]. These are the ones with the four letter codes like INTP, ENFJ, and so on. Of course, there's also astrology, [enneagrams](#user-content-fn-31)[^31], and lots of others. Virtually all of these lack scientific basis. But there is a model based on widespread surveys of individuals from around the world: the [Five Factor Model](#user-content-fn-32)[^32]. This model finds five big domains of personality: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
 
@@ -190,21 +190,21 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^1]: Differences manifest at a very early age: In particular, we see this in the developmental schedule of boys versus girls.
 
-[^2]: We still wrestle: A survey of "learning style" [studies](https://journals.sagepub.com/doi/full/10.1111/j.1539-6053.2009.01038.x) published in 2009 in APS, a journal of the Association for Psychological Science, concluded that there hasn't been enough rigor in testing learning-style-specific approaches alongside broad-based approaches. In other words, we'd need to run formal experiments with classes of students, one group taught with learning styles in mind, and the other not, to really assess whether it makes sense to essentially present curricula in multiple different ways. After all, teachers are a limited resource, and presenting the classes in one way that covers a reasonably broad base might actually net out as more efficient (though perhaps not maximizing each individual student's potential). That said, learning styles approaches are pretty widespread in educational theory circles, anyway.
+[^2]: We still wrestle: A survey of "learning style" [studies](https://journals.sagepub.com/doi/full/10.1111/j.1539-6053.2009.01038.x) published in 2009 in *APS*, a journal of the Association for Psychological Science, concluded that there hasn't been enough rigor in testing learning-style-specific approaches alongside broad-based approaches. In other words, we'd need to run formal experiments with classes of students, one group taught with learning styles in mind, and the other not, to really assess whether it makes sense to essentially present curricula in multiple different ways. After all, teachers are a limited resource, and presenting the classes in one way that covers a reasonably broad base might actually net out as more efficient (though perhaps not maximizing each individual student's potential). That said, learning styles approaches are pretty widespread in educational theory circles, anyway.
 
 [^3]: Bell curve distribution of IQ: The standard IQ (intelligence quotient) tests are normalized around an average score of 100. The tests need to be renormalized every few years, because we're all apparently getting smarter; this is called the Flynn Effect. IQ is not accepted by everyone as a valid measure of all sorts of intelligence. There is a concept called "emotional intelligence" as well, which argues that how well we understand and cope with emotions is at least as important, if not more so.
 
-[^4]: Howard Gardner: In his book Frames of Mind, Gardner defined seven types of intelligence, arguing that IQ tests only measured the first two. More recently, he has argued that there are two more types of intelligence: naturalist intelligence and existentialist intelligence.
+[^4]: Howard Gardner: In his book *Frames of Mind*, Gardner defined seven types of intelligence, arguing that IQ tests only measured the first two. More recently, he has argued that there are two more types of intelligence: naturalist intelligence and existentialist intelligence.
 
 [^5]: 差异在很小的时候就显现出来：特别是，我们可以从男孩和女孩的发育时间表中看到这一点。
 
-[^6]: 我们仍在苦苦思索：2009 年，心理科学协会的期刊《APS》发表了一份关于“学习风格”研究的[调查报告](https://journals.sagepub.com/doi/full/10.1111/j.1539-6053.2009.01038.x)，得出的结论是，在测试针对特定学习风格的方法和广泛的方法时，还不够严谨。换句话说，我们需要对班级学生进行正式实验，一组学生在教学时考虑到了学习风格，另一组则没有，以真正评估以多种不同方式呈现课程是否有意义。毕竟，教师的资源是有限的，以一种覆盖面相当广的方式授课可能会更有效率（尽管可能无法最大限度地发挥每个学生的潜能）。不过，无论如何，学习风格方法在教育理论界非常普遍。
+[^6]: 我们仍在苦苦思索：2009 年，心理科学协会的期刊《APS》发表了一份关于“学习风格”研究的[调查报告](https://journals.sagepub.com/doi/full/10.1111/j.1539-6053.2009.01038.x)，得出的结论是，在测试针对特定学习风格的方法和广泛的方法时，还不够严谨。换句话说，我们需要进行正式的实验，将学生分成两组，一组在教学时考虑学习风格，另一组则不考虑，以真正评估是否有必要以多种不同方式呈现课程。毕竟，教师资源是有限的，以一种覆盖面相当广的方式授课可能会更有效率（尽管可能无法最大限度地发挥每个学生的潜能）。话虽如此，学习风格方法在教育理论界已经非常普遍。
 
-[^7]: 智商的钟形曲线分布：标准智商（IQ）测试围绕平均分 100 进行归一化。测试每隔几年就需要重新归一化，因为我们显然都变得越来越聪明了；这就是所谓的弗林效应。并非所有人都认为智商是衡量各种智力的有效标准。还有一个概念叫做“情绪智能”，它认为我们对情绪的理解和应对能力至少同样重要，甚至更为重要。
+[^7]: 智商的钟形曲线分布：标准智商（IQ）测试围绕平均分 100 进行归一化。测试每隔几年就需要重新归一化，因为我们显然都变得越来越聪明了；这就是所谓的弗林效应。并非所有人都认为智商是衡量各种智力的有效标准。还有一个概念叫做“情商”，它认为我们对情绪的理解和应对能力至少同样重要，甚至更为重要。
 
 [^8]: 霍华德·加德纳：加德纳在《心智框架》一书中定义了七种智能，认为智商测验只能测量前两种智能。最近，他又提出了另外两种智能类型：自然主义智能和存在主义智能。
 
-[^9]: Gender differences: Two books that provide differing surveys of the field are Sex on the Brain: The Biological Differences Between Men and Women by Deborah Blum and Brain Sex: The Real Difference Between Men and Women by Anne Moir and David Jessel. Differences can be seen across large populations using statistical analysis. One example is the use of textual analysis to identify the gender of an author of a piece of text. Some papers on this subject can be found [here](https://www.joycerain.com/uploads/2/3/2/0/23207256/gender_differences_in_language_use.pdf) and [here](https://u.cs.biu.ac.il/~koppel/papers/male-female-text-final.pdf). To try this out yourself, visit [here](http://www.hackerfactor.com/GenderGuesser.php).
+[^9]: Gender differences: Two books that provide differing surveys of the field are *Sex on the Brain: The Biological Differences Between Men and Women* by Deborah Blum and *Brain Sex: The Real Difference Between Men and Women* by Anne Moir and David Jessel. Differences can be seen across large populations using statistical analysis. One example is the use of textual analysis to identify the gender of an author of a piece of text. Some papers on this subject can be found [here](https://www.joycerain.com/uploads/2/3/2/0/23207256/gender_differences_in_language_use.pdf) and [here](https://u.cs.biu.ac.il/~koppel/papers/male-female-text-final.pdf). To try this out yourself, visit [here](http://www.hackerfactor.com/GenderGuesser.php).
 
 [^10]: Variations between individuals: A [survey](https://psycnet.apa.org/record/2014-04853-004) of available literature by Carothers and Reis in 2013 showed that virtually all psychological differences are "dimensional" rather than "taxonic." In other words, on average, yes, there are differences. But men and women overlap to an enormous degree on everything from personality types, to how they think of potential mates, measures of empathy, orientation towards care, fear of success, and many more. For any given trait, an individual might lean more towards one side or the other, so you cannot use measurements of any given trait as a predictor of gender. As yet unclear: the degree to which acculturation affects these results; psychological studies are notoriously biased demographically towards educated Westerners in college, because most psych studies use psych students as their subjects. An excellent survey of the differences that have been shown to exist can be found in The Cambridge Handbook of Intelligence (Cambridge University Press, 2011).
 
@@ -216,33 +216,33 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^14]: 性别差异：有两本书对这一领域进行了不同的研究，它们是德博拉·布卢姆所著的《大脑中的性别：男女之间的生物学差异》和安妮·莫尔和大卫·杰塞尔所著的《脑性别：男女之间的真正差异》。通过统计分析可以看出大量人群的差异。其中一个例子是使用文本分析来识别文本作者的性别。有关这方面的一些论文可以在[这里](https://www.joycerain.com/uploads/2/3/2/0/23207256/gender_differences_in_language_use.pdf)和[这里](https://u.cs.biu.ac.il/~koppel/papers/male-female-text-final.pdf)找到。 要亲自尝试，请访问[这里](http://www.hackerfactor.com/GenderGuesser.php)。
 
-[^15]: 个体之间的差异：2013 年，卡罗瑟斯和赖斯对现有文献进行的一项[调查](https://psycnet.apa.org/record/2014-04853-004)显示，几乎所有的心理差异都是“维度上”而非“分类上”。换句话说，平均而言，确实存在差异。但是，从性格类型到如何看待潜在配偶、同理心测量、关爱取向、对成功的恐惧等等，男性和女性在各个方面都有很大程度的重叠。对于任何给定的特征，一个人都可能更倾向于一方或另一方，因此不能用任何给定特质的测量结果来预测性别。目前尚不清楚的是：文化同化对这些结果的影响程度；心理学研究在人口统计学上偏向于受过教育的西方大学生，这是众所周知的，因为大多数心理学研究都以心理系学生为研究对象。剑桥智能手册》（剑桥大学出版社，2011 年）对已证明存在的差异进行了出色的调查。
+[^15]: 个体之间的差异：2013 年，卡罗瑟斯和赖斯对现有文献进行的一项[调查](https://psycnet.apa.org/record/2014-04853-004)显示，几乎所有的心理差异都是“维度上”而非“分类上”。换句话说，平均而言，确实存在差异。但是，从性格类型到如何看待潜在配偶、同理心测量、关爱取向、对成功的恐惧等等，男性和女性在各个方面都有很大程度的重叠。对于任何给定的特征，一个人都可能更倾向于一方或另一方，因此不能用任何给定特质的测量结果来预测性别。目前尚不清楚的是：文化同化对这些结果的影响程度；心理学研究在人口统计学上偏向于受过教育的西方大学生，这是众所周知的，因为大多数心理学研究都以心理系学生为研究对象。《剑桥智能手册》（剑桥大学出版社，2011 年）对已证明存在的差异进行了出色的调查。
 
 [^16]: 空间旋转：挪威的一项研究发现，即使是在一个努力实现性别平等的社会中，不同性别在空间旋转能力上的差异也是显而易见的。你可以在[这里](http://www.ncbi.nlm.nih.gov/pubmed/23448540)阅读这项研究。科学界还没有得出结论说这究竟是为什么，当然也有人提出了各种进化方面的原因。
 
-[^17]: 男孩的语言能力：值得再次指出的是，男孩在语言能力方面表现较差只是平均水平；仅凭生物决定论并不能注定一个人的命运。一些研究表明，男孩在各种技能方面的可变范围大于女孩；例如，在智商范围的高端和低端，男性往往多于女性。也有证据表明，至少在年龄较大的孩子中，男女同校会导致男女孩子对那些本应更适合异性的科目望而却步。
+[^17]: 男孩的语言能力：值得再次指出的是，男孩在语言能力方面表现较差只是平均水平；仅凭生物决定论并不能决定一个人的命运。一些研究表明，男孩在各种技能方面的可变范围大于女孩；例如，在智商范围的高端和低端，男性往往多于女性。也有证据表明，至少在年龄较大的孩子中，男女同校会导致男女孩子对那些本应更适合异性的科目望而却步。
 
-[^18]: 差异逐渐消失：1998 年，一项对标准化考试结果的调查显示，除高端数学外，高中生的成绩正以迅雷不及掩耳之势趋于平稳。见[这里](https://psycnet.apa.org/record/1988-18577-001)。 2010 年，杜克大学的一个研究小组对成绩优异的学生进行了调查，也发现了类似的结果：http://bit.ly/2010-duke-differences。
+[^18]: 差异逐渐消失：1998 年，一项对标准化考试结果的调查显示，除高端数学外，高中生的成绩正以惊人的速度势趋于相等。见[这里](https://psycnet.apa.org/record/1988-18577-001)。 2010 年，杜克大学的一个研究小组对成绩优异的学生进行了调查，也发现了类似的结果：http://bit.ly/2010-duke-differences。
 
 [^19]: Permanent changes in rotation ability: To quote Skip Rizzo of USC, from the transcript of his presentation at the Annenberg Center's conference "Entertainment in the Interactive Age" in 2001: "On the paper and pencil test [of spatial rotation ability], men did much better than women. But when we replicated the test involving an integrated immersive interactive approach [e.g., with a video game], we found women performed as well as men...the important finding was that we found that when we administered the paper and pencil test afterwards, that men and women's scores were no longer significantly different." This is not a shocking result; it has also been seen among deaf kids, who typically suffer from problems in spatial rotation as well. See [here](https://www.researchgate.net/publication/11559123_Virtual_Reality_as_a_Tool_for_Improving_Spatial_Rotation_among_Deaf_and_Hard-of-Hearing_Children).
 
-[^20]: 旋转能力的永久性变化：引用南加州大学的斯基普·里佐在 2001 年安纳伯格中心举办的“互动时代的娱乐”会议上的发言记录：“在纸笔测试（空间旋转能力）中，男性的表现比女性好得多。但是，当我们用一种综合的沉浸式互动方法（例如，用电子游戏）进行重复测试时，我们发现女性的表现与男性一样好……重要的发现是，我们发现当我们之后进行纸笔测试时，男性和女性的得分不再有显著差异。”这并不是一个令人震惊的结果；在聋哑儿童中也出现过这种情况，他们通常也有空间旋转方面的问题。参见[这里](https://www.researchgate.net/publication/11559123_Virtual_Reality_as_a_Tool_for_Improving_Spatial_Rotation_among_Deaf_and_Hard-of-Hearing_Children)。
+[^20]: 旋转能力的永久性变化：引用南加州大学的斯基普·里佐在 2001 年安纳伯格中心举办的“互动时代的娱乐”会议上的发言记录：“在纸笔测试（空间旋转能力）中，男性的表现比女性好得多。但是，当我们用一种综合的沉浸式互动方法（例如，用电子游戏）进行重复测试时，我们发现女性的表现与男性一样好……重要的发现是，我们发现当我们之后进行纸笔测试时，男性和女性的得分不再有显著差异。”这并不是一个令人震惊的结果；在听障儿童中也出现过这种情况，他们通常也有空间旋转方面的问题。参见[这里](https://www.researchgate.net/publication/11559123_Virtual_Reality_as_a_Tool_for_Improving_Spatial_Rotation_among_Deaf_and_Hard-of-Hearing_Children)。
 
-[^21]: Simon Baron-Cohen: Baron-Cohen's theory, elucidated in his book The Essential Difference: Men, Women and the Extreme Male Brain, is controversial, although it echoes earlier theories about Thinking and Feeling brains. Baron-Cohen is an autism researcher, so he didn't come to this conclusion solely from gender research; boys suffer disproportionately from autism and Asperger's, and his hypothesis is that these are malfunctions of the "extreme systematizing brain." There are some [tests online](https://www.theguardian.com/life/news/page/0,12983,937443,00.html) that you can take to arrive at your "systematizing quotient" and "empathizing quotient."
+[^21]: Simon Baron-Cohen: Baron-Cohen's theory, elucidated in his book *The Essential Difference: Men, Women and the Extreme Male Brain*, is controversial, although it echoes earlier theories about Thinking and Feeling brains. Baron-Cohen is an autism researcher, so he didn't come to this conclusion solely from gender research; boys suffer disproportionately from autism and Asperger's, and his hypothesis is that these are malfunctions of the "extreme systematizing brain." There are some [tests online](https://www.theguardian.com/life/news/page/0,12983,937443,00.html) that you can take to arrive at your "systematizing quotient" and "empathizing quotient."
 
 [^22]: Asperger's syndrome: Commonly called "high-functioning autism," this syndrome is characterized by difficulty with social interactions and reading emotions. In DSM V Asperger's has been removed as a separate diagnosis, and instead will be simply considered to be on the autism spectrum.
 
-[^23]: 西蒙·巴伦·科恩：巴伦·科恩在其《本质区别：男人、女人和极端的男性大脑》一书中阐明了这一理论，虽然与早先关于思考和感觉大脑的理论相呼应，但仍存在争议。巴龙·科恩是一名自闭症研究者，因此他并不只是从性别研究中得出这一结论；男孩患自闭症和阿斯伯格症的比例过高，而他的假设是，这些都是“极端系统化大脑”的功能障碍。网上有一些[测试](https://www.theguardian.com/life/news/page/0,12983,937443,00.html)，可以测出你的“系统化商数”和“情商”。
+[^23]: 西蒙·巴伦·科恩：巴伦·科恩在其《本质区别：男人、女人和极端的男性大脑》一书中阐明了这一理论，虽然与早先关于思考和感觉大脑的理论相呼应，但仍存在争议。巴龙·科恩是一名自闭症研究者，因此他并不只是从性别研究中得出这一结论；男孩患自闭症和阿斯伯格症的比例过高，而他的假设是，这些都是“极端系统化大脑”的功能障碍。网上有一些[测试](https://www.theguardian.com/life/news/page/0,12983,937443,00.html)，可以测出你的“系统化商数”和“共情商数”。
 
-[^24]: 阿斯伯格综合症：这种综合症通常被称为“高功能自闭症”，其特点是难以进行社会交往和解读情绪。在精神障碍诊断和统计手册第五版中，阿斯伯格综合症已不再作为一个单独的诊断，而是被简单地视为自闭症谱系。
+[^24]: 阿斯伯格综合症：通常被称为“高功能自闭症”，其特点是难以进行社会交往和解读情绪。在《精神障碍诊断和统计手册》第五版中，阿斯伯格综合症已不再作为一个单独的诊断，而是被简单地视为自闭症谱系的一部分。
 
-[^25]: Learning styles: Sheri Graner Ray's Gender Inclusive Game Design is an excellent book covering learning styles as they apply specifically to game design.
+[^25]: Learning styles: Sheri Graner Ray's *Gender Inclusive Game Design* is an excellent book covering learning styles as they apply specifically to game design.
 
 [^26]: Men and women seeing differently: Two examples of scientific work on this are [here](https://bsd.biomedcentral.com/articles/10.1186/2042-6410-3-21) and the [work](https://www.discovermagazine.com/mind/the-humans-with-super-human-vision) of Dr. Gabriele Jordan. In the first, researchers found that women had slightly faster reaction times in finding stationary objects, whereas men were faster at seeing moving ones. In classic evolutionary psych fashion, these were promptly termed "gathering eye" and "hunting eye" in the media. The other study is about color perception. The typical human has three cones and rods for seeing colors. Many men only have two functioning ones, which leads to a far greater prevalence of colorblindness. Recently it has been found that some women have four. Women with four functioning cones and rods are termed "true tetrachromats" and are able to see more colors than other humans.
 
 [^27]: 学习风格：谢里·格拉纳·雷的《游戏设计中的性别包容》是一本很好的书，它专门介绍了适用于游戏设计的学习风格。
 
-[^28]: 男性和女性的看到的不同：[这里](https://bsd.biomedcentral.com/articles/10.1186/2042-6410-3-21)和加布里埃尔·乔丹博士的[工作](https://www.discovermagazine.com/mind/the-humans-with-super-human-vision)是这方面科学研究的两个例子。在第一项研究中，研究人员发现女性发现静止物体的反应时间稍快，而男性看到移动物体的反应时间更快。按照经典的进化心理学方式，媒体迅速将其称为“采集眼”和“狩猎眼”。另一项研究是关于颜色感知的。典型的人类有三个锥状体和杆状体来观察颜色。许多男性只有两个，这导致色盲的发生率要高得多。最近发现，有些女性有四个。拥有四个视锥和视杆细胞的女性被称为“真正的四色人”，她们比其他人能看到更多的颜色。
+[^28]: 男性和女性的可能在视觉方面存在差异：[这里](https://bsd.biomedcentral.com/articles/10.1186/2042-6410-3-21)和加布里埃尔·乔丹博士的[工作](https://www.discovermagazine.com/mind/the-humans-with-super-human-vision)是这方面科学研究的两个例子。在第一项研究中，研究人员发现女性发现静止物体的反应时间稍快，而男性看到移动物体的反应时间更快。按照经典的进化心理学方式，媒体迅速将其称为“采集眼”和“狩猎眼”。另一项研究是关于颜色感知的。典型的人类有三种视锥细胞和视杆细胞来感知颜色。许多男性只有两种功能正常，这导致色盲的发生率要高得多。最近发现，有些女性有四种。拥有四种功能正常的视锥细胞和视杆细胞的女性被称为“真正的四色视者”，她们比其他人能看到更多的颜色。
 
 [^29]: Kiersey Temperament Sorter: A derivation of the Myers-Briggs personality type that uses a slightly different organizing metaphor based on the Hippocratic temperaments.
 
@@ -254,11 +254,11 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^33]: 凯尔西性格分类器：迈尔斯·布里格斯人格类型的衍生，使用了一种基于希波克拉底气质的略有不同的组织隐喻。
 
-[^34]: 迈尔斯·布里格斯性格类型：这种心理测量工具以卡尔·荣格的理论为基础，测量受试者对四种不同二分法中的某一方或另一方的偏好。其结果可被解读为将一个人划分为 16 种人格类型中的一种，但在心理学中，其目的是表示对特定解决问题方法的偏好。
+[^34]: 迈尔斯·布里格斯性格类型：这种心理测量工具以卡尔·荣格的理论为基础，测量受试者对四种不同二分法中的某一方或另一方的偏好。其结果可被解读为将一个人归类为 16 种性格类型中的一种，但在心理学中，其目的是表示对特定解决问题方法的偏好。
 
-[^35]: 九型人格：九型人格是另一种人格分类系统，它将人分为九种不同的类型。每种类型都有两个附属特征；九型人格的图解是一个圆形，因此“翅膀”或次级类型就是圆形上的邻居。九型人格不是基于经验研究或心理学理论，而是基于七宗罪和命理学。
+[^35]: 九型人格：九型人格是另一种性格分类系统，它将人分为九种不同的类型。每种类型都有两个附属特征；九型人格的图解是一个圆圈，因此“翅膀”或次级类型就是圆圈上的邻近类型。九型人格不是基于经验研究或心理学理论，而是基于七宗罪和数字命理学。
 
-[^36]: 五因素模型：也称为大五性格、OCEAN、CANOE 等。这五种因素中的每一种又进一步细分为更多的子类别。这五个因素是通过跨文化元研究发现的，尽管对该模型的某些方面仍有争议，但它在心理学界被广泛使用。五因素模型确实在平均水平上显示出一些性别差异，以及跨文化的显著差异。有些文化可能不具备五个因子中某些因子。
+[^36]: 五因素模型：也称为大五性格、OCEAN、CANOE 等。这五种因素中的每一种又进一步细分为更多的子类别。这五个因素是通过跨文化元研究发现的，尽管对该模型的某些方面仍有争议，但它在心理学界被广泛使用。五因素模型确实在平均水平上显示出一些性别差异，以及跨文化的显著差异。有些文化可能不具备五个因素中某些因素。
 
 [^37]: Jason VandenBerghe: His work has been presented at a few Game Developer Conference events, and you can see his presentation [here](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2012/slides/Design%20Track/VandenBerghe_Jason_The_5_Domains.pdf).
 
@@ -266,11 +266,11 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^39]: Hormone effects on personality: Many hormones have been implicated in personality differences, but there are no clear-cut answers as to why exactly this happens, nor can it be helpfully used as a predictor. That said, as testosterone decreases in males over their lives, they tend towards reduced aggression. Men convicted of violent crimes show higher levels of testosterone than noncriminal men or men convicted of nonviolent crimes.
 
-[^40]: 荷尔蒙对性格的影响：许多激素都被认为与性格差异有关，但究竟为什么会出现这种情况，目前还没有明确的答案，也不能将其作为一种有用的预测指标。不过，随着男性体内睾丸激素的减少，他们的攻击性会降低。被判犯有暴力罪行的男性比未犯罪的男性或被判犯有非暴力罪行的男性显示出更高的睾酮水平。
+[^40]: 荷尔蒙对性格的影响：许多激素都被认为与性格差异有关，但究竟为什么会出现这种情况，目前还没有明确的答案，也不能将其作为一种有用的预测指标。不过，随着男性体内睾酮的减少，他们的攻击性会降低。被判犯有暴力罪行的男性比未犯罪的男性或被判犯有非暴力罪行的男性显示出更高水平的睾酮。
 
 [^41]: Book purchases: The statistic on the ages of women book purchasers comes from the U.S. Census Bureau. For an impressive statistic regarding book purchases by women, consider that romance novels account for almost half of all paperback sales in America. Ninety-three percent of them sell to women.
 
-[^42]: 图书购买：关于女性购书者年龄的统计数据来自美国人口普查局。关于女性购书的一个令人印象深刻的统计数据是，爱情小说几乎占美国平装书销售总量的一半。其中 93% 卖给了女性。
+[^42]: 购买图书：关于女性购书者年龄的统计数据来自美国人口普查局。关于女性购书的一个令人印象深刻的统计数据是，爱情小说几乎占美国平装书销售总量的一半。其中 93% 卖给了女性。
 
 [^43]: Female preferences in games: The most popular game genres among women are puzzle and parlor games. This preference is so marked that despite a low penetration of single-player games into the female market, women playing games online make up 51 percent of the online marketplace. The bulk of this large audience is playing puzzle games.
 
@@ -282,12 +282,12 @@ The converse trick, of training boys up, might be harder for single-player games
 
 [^47]: Aging game players: Nick Yee was able to graph the differences in male and female behavior across ages after surveying a few thousand players of massively multiplayer online games, aka "MMOs." Younger males tended towards the more violent activities in the game, and older males tended to more closely match the behavior of females. The percentage of the respondents who were of a given gender showed markedly different distributions across age; there was a huge spike in younger males, whereas the number of females tended to remain relatively even across ages. Yee's Daedalus Project can be found [here](http://www.nickyee.com/daedalus/). We should not equate this to the theory of "dedifferentiation," which asserted that as we age, our cognitive strengths and weaknesses get "smoothed out." In 2003, the APA issued a press release about dedifferentiation stating that longitudinal studies had disproven it.
 
-[^48]: 老年游戏玩家：尼克·易在对几千名大型多人在线游戏（又称“网络游戏”）玩家进行调查后，绘制出了不同年龄段的男女行为差异图。年轻男性倾向于游戏中更暴力的活动，而年长男性则更接近女性的行为。受访者中特定性别的比例在不同年龄段的分布明显不同；年轻男性的比例激增，而女性的比例在不同年龄段相对均衡。易的代达罗斯项目可在[这里](http://www.nickyee.com/daedalus/)找到。我们不应该把这等同于“去差异化”理论，该理论断言随着年龄的增长，我们的认知强项和弱项都会被“抹平”。2003 年，美国心理学会发布了一份关于“去差异化”的新闻稿，称纵向研究已经推翻了这一理论。
+[^48]: 老年游戏玩家：尼克·易在对几千名大型多人在线游戏（又称“网络游戏”）玩家进行调查后，绘制出了不同年龄段的男女行为差异图。年轻男性倾向于游戏中更暴力的活动，而年长男性则更接近女性的行为。受访者中特定性别的比例在不同年龄段的分布明显不同；年轻男性的占比非常高，而女性的比例在不同年龄段相对均衡。易的代达罗斯项目可在[这里](http://www.nickyee.com/daedalus/)找到。我们不应该把这等同于“去分化”理论，该理论断言随着年龄的增长，我们的认知优势和劣势都会被“抹平”。2003 年，美国心理学会发布了一份关于“去分化”的新闻稿，称纵向研究已经推翻了这一理论。
 
 [^49]: Girls breaking out of traditional gender roles: Reuters reported in September 2004 on a study performed at Penn State that showed that the games played by kids at age 10 had a significant correlation with their academic performance years later. Girls who played sports at age 10 became more interested in math at age 12 than girls who didn't do sports. Girls who spent time on stereotypically "girly" activities such as knitting, reading, dancing, and playing with dolls tended to perform better later in subjects such as English.
 
 [^50]: 女孩打破传统性别角色：路透社 2004 年 9 月报道了宾夕法尼亚州立大学进行的一项研究，该研究表明，孩子们 10 岁时玩的游戏与他们多年后的学习成绩有很大关系。与不参加体育运动的女孩相比，10 岁时参加体育运动的女孩 12 岁时对数学更感兴趣。把时间花在编织、阅读、跳舞和玩洋娃娃等刻板印象中的“少女”活动上的女孩，日后在英语等科目上的表现往往更好。
 
-[^51]: Designs emphasizing social interaction: (Also, see note in Chapter 4 on Diplomacy.) Virtually all games involving negotiation or collaborative storytelling or problem solving might fit the bill. Other examples could include Pandemic, any of the many tabletop role-playing games that de-emphasize combat, and socially-demanding online games such as massively multiplayer online role playing games (MMORPGs).
+[^51]: Designs emphasizing social interaction: (Also, see note in [Chapter 4](chapter-4.md) on *Diplomacy*.) Virtually all games involving negotiation or collaborative storytelling or problem solving might fit the bill. Other examples could include [Pandemic](https://en.wikipedia.org/wiki/Pandemic_(board_game)), any of the many tabletop role-playing games that de-emphasize combat, and socially-demanding online games such as massively multiplayer online role playing games (MMORPGs).
 
-[^52]: 强调社交互动的设计：（另见[第四章](chapter-4.md)“外交”中的注释）几乎所有涉及谈判、合作讲故事或解决问题的游戏都可能符合要求。其他例子还包括大流行、许多不强调战斗的桌面角色扮演游戏中的任何一种，以及大型多人在线角色扮演游戏（MMORPG）等需要社交的网络游戏。
+[^52]: 强调社交互动的设计：（另见[第四章](chapter-4.md)《外交》中的注释）几乎所有涉及谈判、合作讲故事或解决问题的游戏都可能符合要求。其他例子还包括[《瘟疫危机》](https://en.wikipedia.org/wiki/Pandemic_(board_game))、许多不强调战斗的桌面角色扮演游戏中的任何一种，以及大型多人在线角色扮演游戏（MMORPG）等需要社交的网络游戏。

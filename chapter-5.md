@@ -464,11 +464,11 @@ To recap the preceding pages: Games aren't stories. Games aren't about beauty or
 
 [^11]: School shootings: Several school shootings have been blamed on the effects of video games. There have also been cases of criminals claiming inspiration from acts of crime in video games. The industry's position is that games are an art form and worthy of protection under the First Amendment, and that the responsibility for keeping violent media out of the hands of children rests with parents. In addition, several statistics can be cited to buttress the opinion that video games do not have a significant effect on violent crime; for example, the incidence of violent crime has fallen dramatically just as the popularity of video games has risen. Were there a causal link, one would expect the two to rise in tandem.
 
-[^12]: Murder simulators: The most outspoken advocate of the point of view that media and video games cause violent behavior is Lt. Col. Dave Grossman, the author of Stop Teaching Our Kids to Kill: A Call to Action Against TV, Movie and Video Game Violence, published by Crown Books in 1999. The term "murder simulators" is his.
+[^12]: Murder simulators: The most outspoken advocate of the point of view that media and video games cause violent behavior is Lt. Col. Dave Grossman, the author of [Stop Teaching Our Kids to Kill: A Call to Action Against TV, Movie and Video Game Violence](https://www.amazon.com/dp/0609606131), published by Crown Books in 1999. The term "murder simulators" is his.
 
 [^13]: 校园枪击案：多起校园枪击案被归咎于电子游戏的影响。也有罪犯声称从电子游戏中的犯罪行为中获得灵感。游戏业的立场是，游戏是一种艺术形式，值得受到第一修正案的保护，而不让儿童接触暴力媒体的责任在于家长。此外，还可以引用一些统计数据来证明电子游戏对暴力犯罪没有显著影响的观点；例如，随着电子游戏的普及，暴力犯罪的发生率急剧下降。如果两者之间存在因果关系，人们就会认为两者会同步上升。
 
-[^14]: 杀人模拟器：戴夫·格罗斯曼中校是媒体和电子游戏导致暴力行为这一观点最直率的拥护者，他是《停止教我们的孩子杀人：对抗电视、电影和电子游戏暴力的行动呼吁》一书的作者：该书由 Crown Books 于 1999 年出版。“谋杀模拟器”一词就是他提出的。
+[^14]: 杀人模拟器：戴夫·格罗斯曼中校是媒体和电子游戏导致暴力行为这一观点最直率的拥护者，他是[《停止教我们的孩子杀人：对抗电视、电影和电子游戏暴力的行动呼吁》](https://www.amazon.com/dp/0609606131)一书的作者：该书由 Crown Books 于 1999 年出版。“谋杀模拟器”一词就是他提出的。
 
 [^15]: Cumbia: A Colombian folk dance style in 4/4 with a distinctive "heartbeat" rhythm. It has become popular worldwide and is one of the commonest Latin music rhythms heard.
 
