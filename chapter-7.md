@@ -130,7 +130,7 @@ These games, however, do not permit progress. [Most games do not permit innovati
 
 Human beings are *all* about progress. We like life to be easier. We're lazy that way. We like to find ways to become more efficient. We like to find ways to keep from doing something over and over. We dislike tedium, sure, but the fact is that we crave *predictability*. Our whole life is built on it. Unpredictable things are stuff like drive-by shootings, lightning bolts that fry us, smallpox, food poisoning—unpredictable things can kill us! We tend to avoid them. We instead prefer sensible shoes, pasteurized milk, vaccines, lightning rods, and laws. These things aren't perfect, but they do significantly reduce the odds of unpredictable things happening to us.
 
-人类*全都*关乎进步。我们喜欢生活变得简单。我们懒惰。我们喜欢想方设法提高效率。我们喜欢想办法避免重复做某事。我们当然不喜欢单调乏味，但事实上，我们渴望*可预见性*。我们的整个生活都建立在可预测性之上。不可预知的东西，比如驾车枪击、把我们烧焦的闪电、天花、食物中毒——不可预知的东西会要了我们的命！我们倾向于避开它们。相反，我们更倾向于穿合脚的鞋子、喝巴氏杀菌奶、接种疫苗、避雷针和法律。这些东西并不完美，但它们确实大大降低了不可预知的事情发生在我们身上的几率。
+人类*全都*关乎进步。我们喜欢生活变得简单。我们懒惰。我们喜欢想方设法提高效率。我们喜欢想办法避免重复做某事。我们当然不喜欢单调乏味，但事实上，我们渴望*可预测性*。我们的整个生活都建立在可预测性之上。不可预知的东西，比如驾车枪击、把我们烧焦的闪电、天花、食物中毒——不可预知的东西会要了我们的命！我们倾向于避开它们。相反，我们更倾向于穿合脚的鞋子、喝巴氏杀菌奶、接种疫苗、避雷针和法律。这些东西并不完美，但它们确实大大降低了不可预知的事情发生在我们身上的几率。
 
 {% hint style="info" %}
 译者注：drive-by shootings，驾车枪击。犯罪分子在驾车经过目标时进行射击的行为，这种攻击方式往往突然且迅速，使受害者难以防备，同时让犯罪分子能够快速逃离现场。
@@ -158,7 +158,7 @@ The natural instinct of a game player is to make the game more predictable becau
 
 This leads to behaviors like "bottom-feeding," where a player will intentionally take on weaker opponents under the sensible logic that a bunch of sure wins is a better strategy than gambling it all on an iffy winner-take-all battle. Players running an easy level two hundred times to build up enough lives so that they can cruise through the rest of the game with little risk is the equivalent of stockpiling food for winter: it's just the smart thing to do.
 
-这就导致了“抄底”等行为，玩家会故意与较弱的对手较量，其合理的逻辑是，与把全部赌注都押在不确定的赢家通吃的战斗上相比，稳操胜券才是更好的策略。玩家把一个简单的关卡玩上两百次，积累足够的生命值，这样他们就能在几乎没有风险的情况下完成游戏的其余部分，这就相当于为冬天储备食物：这是明智之举。
+这就导致了“抄底”等行为，玩家会故意与较弱的对手较量，其合理的逻辑是，与把全部赌注都押在不确定的赢家通吃的战斗上相比，稳操胜券才是更好的策略。玩家把一个简单的关卡玩上两百次，积累足够的生命值，这样他们就能在几乎没有风险的情况下完成游戏的剩余部分，这就相当于为冬天储备食物：这是明智之举。
 
 This is what games are *for*. They teach us things so that we can minimize risk and know what choices to make. Phrased another way, [the destiny of games](#user-content-fn-7)[^7] is to become boring, not to be fun. Those of us who want games to be fun are fighting a losing battle against the human brain because fun is a process and routine is its destination.
 
