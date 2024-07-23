@@ -174,7 +174,7 @@ All of this happens because the human mind is goal-driven. We make pious stateme
 
 Rewards are one of the key components of a successful game activity; if there isn't a quantifiable advantage to doing something, the brain will often discard it out of hand. What are the other fundamental components of a game element, the "atoms" of games, so to speak? Game designer Ben Cousins calls these "[ludemes](#user-content-fn-9)[^9]," the basic units of gameplay. We've talked about several of them, such as "visit everywhere" and "get to the other side." There are many left to discover, we hope. In the end, though, games are almost always made up of the same elementary particles.
 
-奖励是游戏活动成功的关键要素之一；如果做某件事情没有可量化的好处，大脑往往会立刻放弃。游戏元素的其他基本要素是什么，可以说是游戏的“原子”吗？游戏设计师本·库辛斯将其称为“[游戏元素](#user-content-fn-10)[^10]”，即游戏的基本单位。我们已经讨论过其中的几个，比如“到处游览”和“到达另一边”。我们希望还有更多的游戏等着我们去发现。不过归根结底，游戏几乎都是由相同的基本粒子组成的。
+奖励是游戏活动成功的关键要素之一；如果做某件事情没有可量化的好处，大脑往往会立刻放弃。游戏元素的其他基本要素是什么，可以说是游戏的“原子”吗？游戏设计师本·库辛斯将其称为“[游戏元素](#user-content-fn-10)[^10]”，即游戏的基本单位。我们已经讨论过其中的几个，比如“游览所有地方”和“到达另一边”。我们希望还有更多的游戏等着我们去发现。不过归根结底，游戏几乎都是由相同的基本粒子组成的。
 
 <div align="center">
 <img src="images/7.5.png">
