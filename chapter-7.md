@@ -114,7 +114,7 @@ We can rectify this to a degree via good game design (and even better, we can ma
 
 > They will try to make the gameplay as predictable as possible.
 > 
-> 他们会尽量让游戏变得可控。
+> 他们会尽量让游戏变得可预测。
 > 
 > This then means it becomes boring, and not fun.
 > 
