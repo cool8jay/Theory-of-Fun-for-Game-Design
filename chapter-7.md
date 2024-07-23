@@ -98,7 +98,7 @@ There's a good reason why we instinctively and jealously preserve the notions of
 
 Players and designers often make the distinction between "cheating" and "exploiting a loophole." They always struggle to define this, but it boils down to whether or not the extraneous action is one that resides within the magic circle of the game's framework or not. Unsurprisingly, exploiters are often the *most* expert players of a game. They see the places where the rules don't quite jibe. This is also why they often think that it's unfair when sticklers for the rules tell them that what they did is not allowed. Their logic goes something like "if the game permits it, then it's legal."
 
-球员和设计师经常会区分“作弊”和“钻空子”。他们总是费尽心思去界定这一点，但归根结底还是要看不相干的行为是否在游戏框架的魔法圈内。毫不奇怪，钻空子的人往往是游戏中*最*专业的玩家。他们能看到规则不协调的地方。这也是为什么他们经常会认为，当严格遵守规则的人告诉他们，他们所做的是不被允许的，这是不公平的。他们的逻辑是“如果游戏允许，那就是合法的。”
+球员和设计师经常会区分“作弊”和“钻空子”。他们总是费尽心思去界定这一点，但归根结底还是要看不相干的行为是否在游戏框架的魔法圈内。毫不奇怪，钻空子的人往往是游戏中*最*专业的玩家。他们能看到规则不协调的地方。这也是为什么他们经常会认为，当守规矩的人告诉他们，他们所做的是不被允许的，这是不公平的。他们的逻辑是“如果游戏允许，那就是合法的。”
 
 But the game is usually intended to put players through a particular challenge, and while a bad design may allow the player to circumvent the challenge, we resent it *because* it's circumvention. It's not exactly evidence of mastery of a technique to solve the problem. Often games are trying to teach techniques; they don't merely give players goals and tell them to solve them any way they please.
 
