@@ -203,7 +203,7 @@ Successful [games tend to incorporate the following elements](#user-content-fn-1
     **空间感。** 空间可以是战争游戏中的地形、棋盘，也可以是桥牌游戏中玩家之间的关系网络。
 
 * **A solid core mechanic.** This is a puzzle to solve, an intrinsically interesting rule set into which content can be poured. An example might be "moving a piece in chess." The core mechanic is usually a fairly small rule; the intricacies of games come from either having a lot of mechanics or having a few, very elegantly chosen ones. Most of these mechanics turn out to be from a fairly small set of problem types: estimating curves, optimizing, matching, balancing, or classifying.\
-    **坚实的核心机制。** 这是一个需要解决的难题，是一个内在有趣的规则集，可以在其中注入内容。例如“在国际象棋中移动棋子”。核心机制通常是一个相当小的规则；游戏的复杂性来自于要么有很多机制，要么有少数几个非常优雅的机制。这些机制中的大多数都来自相当小的一组问题类型：估计曲线、优化、匹配、平衡或分类。
+    **坚实的核心机制。** 这是一个需要解决的难题，是一个内在有趣的规则集，可以在其中注入内容。例如“在国际象棋中移动棋子”。核心机制通常是一个相当小的规则；游戏的复杂性来自于拥有很多机制，或者拥有少数几个，精心挑选的机制。这些机制大多都来自于相当小的问题类型集：估计曲线、优化、匹配、平衡或分类。
 
 * **A range of challenges.** This is basically content. It does not change the rules, it operates within the rules, and brings slightly different parameters to the table. Each enemy you encounter in a game is one of these.\
     **一系列挑战。** 这基本上就是内容。它不改变规则，在规则范围内运作，并带来略有不同的参数。游戏中遇到的每个敌人都是其中之一。
