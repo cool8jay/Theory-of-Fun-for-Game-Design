@@ -209,7 +209,7 @@ Successful [games tend to incorporate the following elements](#user-content-fn-1
     **一系列挑战。** 这基本上就是内容。它不改变规则，在规则范围内运作，并带来略有不同的参数。游戏中遇到的每个敌人都是其中之一。
 
 * **A range of abilities required to solve the encounter.** If all you have is a hammer, and you can only do one thing with it, then the game is going to be dull. This is a test that tic-tac-toe fails but that checkers meets; in a game of checkers you start learning the importance of forcing the other player into a disadvantageous jump. Most games unfold abilities over time, until at a high level you have many possible stratagems to choose from.\
-    **解决遭遇战所需的一系列能力。** 如果你只有一把锤子，而你只能用它做一件事，那么游戏就会变得枯燥乏味。在跳棋游戏中，你开始学习迫使对方跳到不利位置的重要性。大多数游戏都会随着时间的推移逐渐展现出各种能力，直到达到很高的水平，你才会有许多可能的计谋可供选择。
+    **解决遭遇战所需的一系列能力。** 如果你只有一把锤子，而你只能用它做一件事，那么游戏就会变得枯燥乏味。这是一个井字棋失败而跳棋通过的测试。在跳棋游戏中，你开始学习迫使对方跳到不利位置的重要性。大多数游戏都会随着时间的推移逐渐展现出各种能力，直到达到很高的水平，你才会有许多可能的计谋可供选择。
 
 * **Skill required in using the abilities.** Bad choices lead to failure in the encounter. This skill can be of any sort, really: resource management during the encounter, failures in timing, failures in physical dexterity, and failures to monitor all the variables that are in motion.\
     **使用这些能力需要技巧。** 错误的选择会导致遭遇失败。这种技巧可以是各种类型的：遭遇战中的资源管理、时机把握失败、身体灵活性失败以及无法监控运动中的所有变量。
