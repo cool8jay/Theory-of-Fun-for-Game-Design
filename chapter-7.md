@@ -232,7 +232,7 @@ Successful [games tend to incorporate the following elements](#user-content-fn-1
 
 A game having all of these elements hits the right cognitive buttons to be fun. If a game involves no preparation, we say it relies on chance. If there's no sense of space, we call it trivial. If there's no core mechanic, there's no game system at all. If there's no range of challenges, we exhaust it quickly. If there aren't multiple choices to make, it's simplistic. And if skill isn't required, it's tedious.
 
-一个游戏如果具备了所有这些要素，就能击中正确的认知按钮，从而变得有趣。如果一个游戏不需要任何准备，我们就说它依赖于机会。如果没有空间感，我们称之为狭小。如果没有核心机制，就根本不存在游戏系统。如果没有各种挑战，我们很快就会把它玩腻。如果没有多种选择，那就是过分简单。如果不需要技巧，就会乏味。
+一个游戏如果具备了所有这些要素，就能击中正确的认知按钮，从而变得有趣。如果一个游戏不需要任何准备，我们就说它依赖于运气。如果没有空间感，我们称之为肤浅。如果没有核心机制，就根本不存在游戏系统。如果没有一系列挑战，我们很快就会把它玩腻。如果没有多种选择，那就是过分简单。如果不需要技巧，就会乏味。
 
 There are also some features that should be present to make the experience a learning experience:
 
