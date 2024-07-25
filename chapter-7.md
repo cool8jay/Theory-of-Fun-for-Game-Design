@@ -346,7 +346,7 @@ In the end, that is both the glory of learning and its fundamental problem: once
 
 [^1]: First recorded rules of war: These were a suggestion by Sun Tzu. Most often, these have been intended to protect non-combatants, but sometimes they have been conventions of honor, such as not attacking by night or from ambush.
 
-[^2]: 第一部有记载的兵书：这是孙子的建议。大多数情况下，这些规则旨在保护非战斗人员，但有时它们也是荣誉公约，例如不在夜间或埋伏地发动攻击。
+[^2]: 第一部有记载的兵书：这是孙子的建议。大多数情况下，这些规则旨在保护非战斗人员，但有时它们也是荣誉公约，例如不在夜间进攻或者偷袭。
 
 [^3]: Cheating during a soccer match: On the flip side, if the referee fails to see that we are offside, we'll take it and often say, "Them's the breaks." It is still a violation of the rules, but since the ref (who is part of the formal construct) is fallible, we accept the violation.
 
