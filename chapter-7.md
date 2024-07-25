@@ -265,7 +265,7 @@ Historically, competitive game-playing of all sorts has tended to squeeze out th
 
 This isn't an algorithm for fun, but it's a useful tool for checking for the absence of fun, because designers can identify systems that fail to meet all the criteria. It may also prove useful in terms of game critique. Simply check each system against this list:
 
-这并不是一种有趣的算法，但它却是检查游戏是否有趣的有用工具，因为设计者可以找出不符合所有标准的系统。在游戏评论方面，它也可能被证明是有用的。只需对照清单检查每个系统即可
+这并不是一种制造有趣的算法，但它却是检查游戏是否有趣的有用工具，因为设计者可以找出不符合所有标准的系统。在游戏评论方面，它也可能被证明是有用的。只需对照清单检查每个系统即可
 
 * Do you have to prepare before taking on the challenge?\
 	在接受挑战之前，你是否必须做好准备？
@@ -303,7 +303,7 @@ This isn't an algorithm for fun, but it's a useful tool for checking for the abs
 > 当然，如果对手不是势均力敌，谜题就会太简单或太难。
 
 * Do advanced players get no benefit from tackling easy challenges?\
-	高级玩家从简单的挑战中得不到任何益处吗？
+	高级玩家从简单的挑战中得不到任何好处吗？
 
 * Does failing at the challenge at the very least make you have to try again?\
 	挑战失败是否至少会让你不得不再试一次？
