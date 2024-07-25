@@ -220,7 +220,7 @@ Successful [games tend to incorporate the following elements](#user-content-fn-1
 
 > In fact, most gamers are so bottom-line that if an activity doesn't give a quantifiable reward, they'll consider it irrelevant.
 > 
-> 事实上，大多数游戏玩家都很有底线，如果一项活动不能带来可量化的奖励，他们就会认为这项活动无关紧要。
+> 事实上，大多数游家都非常注重实际利益，如果一项活动不能带来可量化的奖励，他们就会认为这项活动无关紧要。
 > 
 > NAH, SAVING THE WORLD DIDN'T GIVE ANY EXTRA BONUS POINTS, SO I LET THE MARTIANS NUKE IT.
 > 
