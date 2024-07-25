@@ -338,7 +338,7 @@ In the end, that is both the glory of learning and its fundamental problem: once
 > 
 > IT'S A MASSIVELY MULTIPLAYER STRATEGY-BASED REAL-TIME SHOOTER WITH RPG CHARACTER DEVELOPMENT, PUZZLE GAME COMBAT, A RACING SUBGAME, AND YOU PLAY IT ON A DANCE MAT!
 > 
-> 这是一款基于即时战略的大型多人射击游戏，包含 RPG 角色养成、益智游戏战斗、赛车子游戏，而且是在舞垫上玩的！
+> 这是一款基于即时战略的大型多人射击游戏，包含 RPG 角色养成、益智游戏战斗、赛车子游戏，而且是在跳舞毯上玩的！
 > 
 > ...please, I want this job to cease to exist...Don't you want your daughter to be comfortable at industry events?
 > 
