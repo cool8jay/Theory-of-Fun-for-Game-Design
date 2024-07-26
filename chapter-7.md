@@ -382,7 +382,7 @@ In the end, that is both the glory of learning and its fundamental problem: once
 
 [^15]: Opportunity cost: Since games are always sequences of challenges, the fact that you made a bad choice cannot simply be undone. At the very least, the fact that you could have chosen to do something else allows your opponent to make her own choice. In playing games, we only give "take-backs" to young children, and there exist a plethora of rules dictating when moves become irrevocable in board games (for example, you commit to a move in chess when you let go of the piece).
 
-[^16]: 机会成本：由于游戏总是一连串的挑战，因此你做出了错误的选择这一事实是无法简单挽回的。至少，你本可以选择做其他事情，这让你的对手可以做出自己的选择。在玩游戏时，我们只给年幼的孩子“反悔”的机会，而在棋类游戏中，有大量的规则规定了何时走棋变得不可更改（例如，在国际象棋中，当你放开棋子时，你就承诺了走棋）。
+[^16]: 机会成本：由于游戏总是一连串的挑战，因此你做出了错误选择的事实不能简单地撤销。至少，你本可以选择做其他事情的事实，允许你的对手做出自己的选择。在玩游戏时，我们只给小孩子“反悔”的机会，而在棋类游戏中，有大量的规则规定了何时走棋变得不可更改（例如，在国际象棋中，当你放开棋子时，你就承诺了走棋）。
 
 [^17]: Red Queen's Race: In Lewis Carroll's classic book Through the Looking Glass, Alice runs alongside the Red Queen in a landscape that is moving very quickly. So quickly, in fact, that they have to run to stand still. This situation has become known as the Red Queen's Race.
 
