@@ -10,7 +10,7 @@ The holy grail of game system design is to make a game where the challenges are 
 
 Designers often feel proudest of designing good abstract systems that have deep self-generating challenges—games like chess, [go](#user-content-fn-1)[^1], and *Othello*, and so on. Designing rule sets and making all the content is hard! That hasn't stopped us from trying all sorts of tactics to make games self-refreshing:
 
-设计者通常最引以为豪的是设计出优秀的抽象系统，这些系统具有深刻的自我挑战性——比如国际象棋、[围棋](#user-content-fn-2)[^2]、和*黑白棋*等等。设计规则集和制作所有内容都很难！但这并不妨碍我们尝试各种策略，让游戏自我刷新：
+设计者通常最引以为豪的是设计出优秀的抽象系统，这些系统具有深层的自我生成挑战性——比如国际象棋、[围棋](#user-content-fn-2)[^2]、和*黑白棋*等等。设计规则集和制作所有内容都很难！但这并不妨碍我们尝试各种策略，让游戏自我刷新：
 
 * **"[Emergent behavior](#user-content-fn-3)[^3]"** is a common buzzword. The goal is new patterns that emerge spontaneously out of the rules, allowing the player to do things that the designer did not foresee. (Players do things designers don't expect *all the time*, but we don't like to talk about it.) Emergence has proven a tough nut to crack in game design; it usually makes games easier, often by generating loopholes and exploits.\
 	**“[涌现行为](#user-content-fn-4)[^4]”** 是一个常用的流行语。目标是从规则中自发产生新的模式，允许玩家做出设计者没有预料到的事情。(玩家*经常*会做出设计者意想不到的事情，但我们不喜欢谈论它）。事实证明，在游戏设计中，“涌现”是一个难以破解的难题；它通常会让游戏变得更简单，往往是通过产生漏洞和钻空子的方式。
