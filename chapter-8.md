@@ -38,7 +38,7 @@ Designers often feel proudest of designing good abstract systems that have deep 
 
 But is this futile? I mean, all these designers are trying to expand the possibility space...and all the players are trying to reduce it, just as fast as they can. You see, humans are wired in some interesting ways. If something has worked for us before, we'll tend to do it again. We're really very resistant to discarding prior learning. We're conservative at heart, and we grow more so as we age. You've perhaps heard the old saw, variously attributed to Clemenceau, Churchill, and Bismarck, "If a man isn't liberal when he's 20, he has no heart. If he's not conservative when he's 40, he has no brain." Well, there's a lot of truth to this. We grow more resistant to change as we age, and we grow [less willing (and able) to learn](#user-content-fn-5)[^5].
 
-但这是徒劳的吗？我的意思是，所有这些设计师都在试图扩大可能性空间……而所有玩家都在试图尽可能快地缩小空间。人类的思维方式很有趣。如果某件事以前对我们有用，我们就会倾向于再做一次。我们非常不愿意放弃之前的学习。我们的内心是保守的，而且随着年龄的增长，我们会变得更加保守。你也许听说过克莱蒙梭、丘吉尔和俾斯麦说过的一句老话：“如果一个人在 20 岁时还不是自由主义者，他就没有心。如果一个人到了40岁还不保守，那他就是没脑子。”这句话很有道理。随着年龄的增长，我们会越来越抗拒改变，[越来越不愿意（也越来越不能够）学习](#user-content-fn-6)[^6]。
+但这是徒劳的吗？我的意思是，所有这些设计师都在试图扩大可能性空间……而所有玩家都在试图尽可能快地缩小空间。人类的思维方式很有趣。如果某件事以前对我们有效，我们就会倾向于再做一次。我们非常不愿意放弃之前的学习。我们的内心是保守的，而且随着年龄的增长，我们会变得更加保守。你也许听说过这句老话，有人说是克莱蒙梭说的、有人说是丘吉尔说的，有人说是俾斯麦说的：“如果一个人在 20 岁时不是自由主义者，那他就没有良心。如果一个人在 40 岁时不是保守主义者，那他就没有脑子。”这句话很有道理。随着年龄的增长，我们会越来越抗拒改变，[越来越不愿意（也越来越不能够）学习](#user-content-fn-6)[^6]。
 
 If we come across a problem we have encountered in the past, our first approach is to try the solution that has worked before, even if the circumstances aren't exactly the same.
 
