@@ -46,7 +46,7 @@ If we come across a problem we have encountered in the past, our first approach 
 
 The problem with people isn't that they work to undermine games and make them boring. That's the natural course of events. The real problem with people is that:
 
-人的问题并不在于他们破坏游戏，让游戏变得无聊。这是自然规律。人的真正问题在于：
+人的问题并不在于他们侵蚀游戏，让游戏变得无聊。这是自然规律。人的真正问题在于：
 
     ...even though our brains feed us drugs to keep us learning...
 
