@@ -42,7 +42,7 @@ But is this futile? I mean, all these designers are trying to expand the possibi
 
 If we come across a problem we have encountered in the past, our first approach is to try the solution that has worked before, even if the circumstances aren't exactly the same.
 
-如果我们遇到了过去曾遇到过的问题，我们的第一反应就是尝试以前行之有效的解决方案，即使情况并不完全相同。
+如果我们遇到了过去曾遇到过的问题，我们的第一反应就是尝试以前行之有效的解决方案，即使客观环境并不完全相同。
 
 The problem with people isn't that they work to undermine games and make them boring. That's the natural course of events. The real problem with people is that:
 
