@@ -50,7 +50,7 @@ The problem with people isn't that they work to undermine games and make them bo
 
     ...even though our brains feed us drugs to keep us learning...
 
-    ……尽管我们的大脑给我们喂食药物，让我们不断学习……
+    ……尽管我们的大脑给我们喂食毒品，促使我们持续学习……
 
     ...even though from earliest childhood we are trained to learn through play...
 
@@ -80,7 +80,7 @@ In some ways, anyway. We're reluctant to abandon known solutions.
 > 
 > 钉子，钉子，钉子，钉子，钉子，钉子
 > 
-> HROLD!
+> HAROLD!
 > 
 > 哈罗德！
 > 
