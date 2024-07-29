@@ -222,7 +222,7 @@ Some choose to play for "style points," which is at least a sign that they are c
 > 
 > And if gamers find themselves in tune with a game, they may play it far longer than they need to in order to master it, because being in the zone feels good.
 > 
-> 如果游戏玩家发现自己喜欢上了一款游戏，为了掌握这款游戏，他们可能会玩更长时间，因为进入状态的感觉很好。
+> 如果玩家发现自己喜欢上了一个款游戏，他们可能会玩很长时间，比掌握游戏所需的时间更长，因为处于状态中的感觉很好。
 
 There are other sorts of audience problems with games. One of them has proven fatal to many genres of games: the problem of increasing complexity. Most art forms have swung in pendulum fashion from an [Apollonian to a Dionysian style](#user-content-fn-11)[^11]—meaning, they have alternated between periods where they were reserved and formal and where they were exuberant and communicative and raw. From Romanesque to Gothic churches, from art rock to punk, from the French Academy to Impressionism, pretty much every medium has had these swings.
 
