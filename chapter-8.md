@@ -138,7 +138,7 @@ Another case where the wiring of the human brain tends to betray us lies in the 
 
 Engaging in an activity that you have fully mastered, being in the zone, feeling the flow, can be a heady experience. And no one can deny the positive effects of meditation. That said, the point at which a player chooses to repeatedly play a game they have already mastered completely, just because they like to feel powerful, is the point at which the game is betraying its own purpose. Games need to encourage you to *move on*. They are not there to fulfill power fantasies.
 
-参与一项你已经完全掌握的活动，进入状态，感受心流，会是一种令人陶醉的体验。没有人能否认冥想的积极作用。话虽如此，如果玩家只是因为喜欢感觉强大，而选择反复玩一款自己已经完全掌握的游戏，那么这款游戏就违背了它的初衷。游戏需要鼓励你*继续前进*。游戏不是为了满足你对力量的幻想。
+参与一项你已经完全掌握的活动，进入状态，感受心流，会是一种令人陶醉的体验。没有人能否认冥想的积极效果。话虽如此，当一个玩家选择重复玩一个他们已经完全掌握的游戏，仅仅因为他们喜欢感觉强大时，就是游戏背离初衷的时候。游戏需要鼓励你*继续前进*。它们不是为了满足你对力量的幻想。
 
 Ah, but is it ever seductive! Because games exist within the confines of "let's pretend," they also offer a lack of consequences. They are libertine in their freedoms. They let you be a godlet. They can offer false positive feedback to keep a player playing. To the person that perhaps does not get enough sense of control in her real life, the game may offer something rather...persuasive.
 
