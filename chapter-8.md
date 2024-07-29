@@ -130,7 +130,7 @@ Consider the hypothetical case where every player of an online role-playing game
 > 
 > THE ONLINE RPG RORSCHACH TEST
 > 
-> 在线角色扮演游戏罗夏克测试
+> 在线角色扮演游戏罗夏测试
 
 Another case where the wiring of the human brain tends to betray us lies in the seductive feeling of make-believe mastery.
 
