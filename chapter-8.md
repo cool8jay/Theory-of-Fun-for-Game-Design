@@ -230,7 +230,7 @@ There are other sorts of audience problems with games. One of them has proven fa
 
 Games, however, are always formal. The historical trend in games has shown that when a new genre of game is invented, it follows a [trajectory where increasing complexity](#user-content-fn-13)[^13] is added to it, until eventually the games on the market are so complex and advanced that newcomers can't get into them—the barrier to entry is too high. You could call this the [jargon factor](#user-content-fn-14)[^14] because it is common to *all* formal systems. Priesthoods develop, terms enter common usage, and soon only the educated few can hack it.
 
-然而，游戏始终是形式化的。游戏的历史趋势表明，当一种新的游戏类型被发明出来，它的[发展轨迹是不断增加复杂性(#user-content-fn-15)[^15]，直到最终市场上的游戏变得复杂而发达，以至于新手无法进入——进入门槛太高。你可以称其为[行话因素](#user-content-fn-16)[^16]，因为这是*所有*形式化系统的共同特点。神职人员出现，术语变得通用，很快，只有少数受过教育的人才能掌握它。
+然而，游戏始终是形式化的。游戏的历史趋势表明，当一种新的游戏类型被发明出来，它的[发展轨迹是不断增加复杂性(#user-content-fn-15)[^15]，直到最终市场上的游戏变得复杂而高级，以至于新来者无法进入——进入门槛太高。你可以称其为[行话因素](#user-content-fn-16)[^16]，因为这是*所有*形式化系统的共同特点。神职人员出现，术语变得通用，很快，只有少数受过教育的人才能掌握它。
 
 In most media, the way out of this has been the development of a new formal principle (as well as a cultural shift). Sometimes it was a development in knowledge of the form. Sometimes it was the development of a competing medium that usurped the place of the old medium, as when photography forced painters to undergo a radical reevaluation of their art form. Games, though, aren't tending to do this all that much. By and large, we have seen an inexorable march towards greater complexity. This has led to a priesthood of those who can speak the language, master the intricacies, and keep up-to-date.
 
@@ -238,7 +238,7 @@ In most media, the way out of this has been the development of a new formal prin
 
 Every once in a while games come along that appeal to the masses, and thank goodness. Because frankly, priesthoods are a perversion of what games are about as well. The worst possible fate for games (and by extension, for our species) would be for games to become niche, something played by only a few elite who have the training to do so. It was bad for sports, it was bad for music, it was bad for writing, and it would be bad for games as well.
 
-每隔一段时间，就会出现一些吸引大众的游戏，这真是谢天谢地。因为坦率地说，神职群体也是游戏本质的一种扭曲。对于游戏（以及我们人类）来说，最糟糕的命运莫过于游戏变得小众化，只有少数受过专业训练的精英才会玩。体育如此，音乐如此，写作如此，游戏也是如此。
+每隔一段时间，就会出现一些吸引大众的游戏，这真是谢天谢地。因为坦率地说，神职群体也是游戏本质的一种扭曲。对于游戏（以及我们人类）来说，最糟糕的命运莫过于游戏变得小众化，只有少数受过专业训练的精英才会玩。这对体育不利，对音乐不利，对写作不利，对游戏也同样不利。
 
 Conversely, it's possible that instead games are like the [Twonky](#user-content-fn-17)[^17] from the famous science fiction story. Maybe the kids will keep up, and the older people won't be able to. And then we'll get left behind...
 
