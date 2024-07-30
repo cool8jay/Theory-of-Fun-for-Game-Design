@@ -228,7 +228,7 @@ There are other sorts of audience problems with games. One of them has proven fa
 
 游戏还有其他一些观众问题。其中一个问题已被证明对许多类型的游戏都是致命的：日益复杂的问题。大多数艺术形式都以钟摆的方式从[阿波罗式风格摇摆到戴奥尼索斯式风格](#user-content-fn-12)[^12]——也就是说，它们在一段时间内是保守和正式的，在另一段时间内则是热情洋溢、交流性强和原始的。从罗马式教堂到哥特式教堂，从艺术摇滚到朋克，从法兰西学院到印象派，几乎每一种媒介都有过这样的摇摆。
 
-Games, however, are always formal. The historical trend in games has shown that when a new genre of game is invented, it follows a [trajectory where increasing complexity](#user-content-fn-13)[^13] is added to it, until eventually the games on the market are so complex and advanced that newcomers can't get into them—the barrier to entry is too high.  You could call this the [jargon factor](#user-content-fn-14)[^14] because it is common to *all* formal systems. Priesthoods develop, terms enter common usage, and soon only the educated few can hack it.
+Games, however, are always formal. The historical trend in games has shown that when a new genre of game is invented, it follows a [trajectory where increasing complexity](#user-content-fn-13)[^13] is added to it, until eventually the games on the market are so complex and advanced that newcomers can't get into them—the barrier to entry is too high. You could call this the [jargon factor](#user-content-fn-14)[^14] because it is common to *all* formal systems. Priesthoods develop, terms enter common usage, and soon only the educated few can hack it.
 
 然而，游戏始终是形式化的。游戏的历史趋势表明，当一种新的游戏类型被发明出来，它的[发展轨迹是不断增加复杂性(#user-content-fn-15)[^15]，直到最终市场上的游戏变得复杂而发达，以至于新手无法进入——进入门槛太高。你可以称其为[行话因素](#user-content-fn-16)[^16]，因为这是*所有*形式化系统的共同特点。神职人员出现，术语变得通用，很快，只有少数受过教育的人才能掌握它。
 
@@ -240,7 +240,7 @@ Every once in a while games come along that appeal to the masses, and thank good
 
 每隔一段时间，就会出现一些吸引大众的游戏，这真是谢天谢地。因为坦率地说，神职群体也是游戏本质的一种扭曲。对于游戏（以及我们人类）来说，最糟糕的命运莫过于游戏变得小众化，只有少数受过专业训练的精英才会玩。体育如此，音乐如此，写作如此，游戏也是如此。
 
-Conversely, it's possible that instead games are like the [Twonky](#user-content-fn-17)[^17] from the famous science fiction story.  Maybe the kids will keep up, and the older people won't be able to. And then we'll get left behind...
+Conversely, it's possible that instead games are like the [Twonky](#user-content-fn-17)[^17] from the famous science fiction story. Maybe the kids will keep up, and the older people won't be able to. And then we'll get left behind...
 
 相反，也有可能游戏反而会像著名科幻小说中的 [Twonky](#user-content-fn-18)[^18] 一样。也许孩子们能跟上时代的步伐，而老年人却跟不上。然后我们就会被甩在后面……
 

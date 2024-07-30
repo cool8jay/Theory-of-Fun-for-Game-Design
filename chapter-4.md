@@ -224,7 +224,7 @@ By contrast, literature can tackle all of the above and more. Over time, languag
 
 相比之下，文学作品可以解决上述所有问题，甚至更多。随着时间的推移，以语言为基础的媒介所涉及的主题越来越广泛。难道游戏系统就像音乐一样，比文学作品更有局限性吗？
 
-Pure systems probably cannot convey the same breadth of content that literature can. That said, games are capable of modeling situations of greater richness and complexity than many assume. Games like [Diplomacy](#user-content-fn-53)[^53] are evidence that remarkably subtle interactions can be modeled within the confines of a rule set, and traditional [role-playing](#user-content-fn-54)[^54]  can reach the same heights as literature in the right hands. But it is an uphill battle for the medium nonetheless, simply because games, at their core, are about teaching us survival skills. As we all know, when you're worried about subsistence and survival, more refined things tend to fall by the wayside.
+Pure systems probably cannot convey the same breadth of content that literature can. That said, games are capable of modeling situations of greater richness and complexity than many assume. Games like [Diplomacy](#user-content-fn-53)[^53] are evidence that remarkably subtle interactions can be modeled within the confines of a rule set, and traditional [role-playing](#user-content-fn-54)[^54] can reach the same heights as literature in the right hands. But it is an uphill battle for the medium nonetheless, simply because games, at their core, are about teaching us survival skills. As we all know, when you're worried about subsistence and survival, more refined things tend to fall by the wayside.
 
 纯粹的系统可能无法像文学作品那样传达广泛的内容。尽管如此，游戏还是能够模拟比许多人想象的更加丰富和复杂的情况。像[《外交》](#user-content-fn-55)[^55]这样的游戏就证明，在规则设定的范围内，可以模拟出非常微妙的互动，而传统的[角色扮演](#user-content-fn-56)[^56]游戏在合适的人手中也可以达到与文学作品同样的高度。但是，对于游戏媒介来说，这是一场艰苦的战斗，因为游戏的核心是教会我们生存技能。众所周知，当你为温饱和生存发愁时，更高雅的东西往往会被抛到一边。
 
@@ -536,7 +536,7 @@ Now, I don't know what the first 2-D shooter to have power-ups and scrolling and
 
 现在，我不知道第一款拥有强化道具、滚动屏幕和守关[头目](#user-content-fn-138)[^138]的二维射击游戏是什么，但可以说，从那时起，再也没有一款二维射击游戏拥有不同的“形状”。不出所料，射击游戏的发展已经停滞不前，市场份额不断下降。毕竟，我们在很久以前就学会了这种玩法机制，而从那时起，我们一直在学习那些我们知道是人为的、不太可能在任何地方重复出现的模式。
 
-This offers a possible algorithm for innovation: *find a new dimension to add to the gameplay*. We saw this in the way that puzzle games evolved after [Tetris](#user-content-fn-139)[^139]: people started trying to do it with [hexagons](#user-content-fn-140)[^140],  with [three dimensions](#user-content-fn-141)[^141], and eventually, pattern matching of colors became the thing that replaced spatial analysis. If we really want to innovate on puzzle games, how about exploring [puzzle games based on time](#user-content-fn-142)[^142] rather than space, for example?
+This offers a possible algorithm for innovation: *find a new dimension to add to the gameplay*. We saw this in the way that puzzle games evolved after [Tetris](#user-content-fn-139)[^139]: people started trying to do it with [hexagons](#user-content-fn-140)[^140], with [three dimensions](#user-content-fn-141)[^141], and eventually, pattern matching of colors became the thing that replaced spatial analysis. If we really want to innovate on puzzle games, how about exploring [puzzle games based on time](#user-content-fn-142)[^142] rather than space, for example?
 
 这提供了一种可能的创新算法：*为游戏玩法添加一个新维度*。我们可以从[《俄罗斯方块》](#user-content-fn-143)[^143]之后益智游戏的发展中看到这一点：人们开始尝试用[六边形](#user-content-fn-144)[^144]、[三维空间](#user-content-fn-145)[^145]来进行游戏，最终，颜色模式匹配取代了空间分析。如果我们真的想在益智游戏上有所创新，比如探索[基于时间](#user-content-fn-146)[^146]而非空间的益智游戏如何？
 
