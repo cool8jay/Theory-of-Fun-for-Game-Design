@@ -262,7 +262,7 @@ Conversely, it's possible that instead games are like the [Twonky](#user-content
 
 All of these are cases where human nature works against the success of games as a medium and as a teaching tool. Ironically, these all converge most sharply in the most unlikely of candidates, the person who loves games more than anyone: the game designer.
 
-所有这些都是人的本性妨碍了游戏作为媒介和教学工具成功的情形。具有讽刺意味的是，所有这些都在最不可能的人选——比任何人都热爱游戏的人：游戏设计师——身上得到了最鲜明的体现。
+所有这些都是人的本性妨碍了游戏作为媒介和教学工具成功的情形。具有讽刺意味的是，所有这些都在最不可能的人选——比任何人都热爱游戏的人：游戏设计师——身上得到了最集中的体现。
 
 Game designers spend less time playing individual games than the typical player does. Game designers finish games less often than typical players do. They have less time to play a given game because they typically sample so many of them. And perniciously, they are just as likely (if not more so because of business pressures) to turn to known solutions.
 
