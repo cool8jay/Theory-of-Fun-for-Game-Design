@@ -278,7 +278,7 @@ But they usually *don't* make new games because their very experience, their ver
 
 The result has been, as you would expect, a lot of derivative work. Yes, you need to know the rules in order to break them, but given the lack of codification and critique of what games are, game designers have instead operated under the more guildlike model of apprenticeship. They do what they have seen work—and critically, so do the funders and publishers of games as product.
 
-结果正如你所料，产生了大量仿品。没错，你需要先了解规则才能打破规则，但由于缺乏对游戏本质的系统化定义和批评，游戏设计师更多地遵循着类似行会学徒制的模式在操作。他们做着已见证过成效的事情——至关重要的是，作为产品的游戏的投资方和发行商也是如此行事。
+结果正如你所料，产生了大量衍生作品。没错，你需要先了解规则才能打破规则，但由于缺乏对游戏本质的系统化定义和批评，游戏设计师更多地遵循着类似行会学徒制的模式在操作。他们做着已见证过成效的事情——至关重要的是，作为产品的游戏的投资方和发行商也是如此。
 
 [The most creative and fertile game designers](#user-content-fn-19)[^19] working today tend to be the ones who make a point of *not* focusing too much on other games for inspiration. Creativity comes from cross-pollination, not the reiteration of the same ideas. By making gaming their hobby, game designers are making an echo chamber of their own work. Because of this, it is critical that games be placed in context with the rest of human endeavor so that game designers can feel comfortable venturing outside their field in search of innovative ideas.
 
