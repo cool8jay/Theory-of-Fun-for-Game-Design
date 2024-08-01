@@ -270,7 +270,7 @@ Game designers spend less time playing individual games than the typical player 
 
 Basically, game designers suffer from what I call "designeritis." They are hypersensitive to patterns in games. They grok them very readily and move on. They see past fiction very easily. They build up encyclopedic recollections of games past and present, and they then theoretically use these to make new games.
 
-基本上，游戏设计师都患有我所说的“设计师炎”。他们对游戏中的模式非常敏感。他们很容易理解这些模式，然后继续前进。他们很容易看穿表象。他们对过去和现在的游戏建立起百科全书式的回忆，然后理论上利用这些回忆来制作新游戏。
+基本上，游戏设计师都患有我所说的“设计师病”。他们对游戏中的模式非常敏感。他们很容易理解这些模式，然后继续前进。他们很容易看穿表象。他们对过去和现在的游戏建立起百科全书式的回忆，然后理论上利用这些回忆来制作新游戏。
 
 But they usually *don't* make new games because their very experience, their very library of assumptions, holds them back. Remember what the brain is doing with these chunks it builds—it is trying to create a generically applicable library of solutions. The more solutions you have stored up, the less likely you are to go chasing after a new one.
 
