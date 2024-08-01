@@ -350,7 +350,7 @@ The result has been, as you would expect, a lot of derivative work. Yes, you nee
 
 [^9]: Cross-gender role-play: There have been many papers written about cross-gender role-play. Males tend to do it far more often than females do, and given the choice, males will rarely choose a gender-neutral presentation, whereas females are more willing. Cross-gender role-play in online games is not an indicator of gender dysphoria in real life.
 
-[^10]: 跨性别角色扮演：关于跨性别角色扮演的论文很多。男性进行跨性别角色扮演的频率远高于女性，如果可以选择，男性很少会选择不分性别的表现形式，而女性则更愿意这样做。网络游戏中的跨性别角色扮演并不代表现实生活中的性别障碍。
+[^10]: 跨性别角色扮演：关于跨性别角色扮演的论文很多。男性进行跨性别角色扮演的频率远高于女性，如果可以选择，男性很少会选择性别中立的表现形式，而女性则更愿意这样做。网络游戏中的跨性别角色扮演并不代表现实生活中的性别障碍。
 
 [^11]: Apollonian and Dionysian: Another way to think about the distinction between the two styles is that Apollonian periods are often about the medium as a medium and Dionysian periods are about what could be said with that medium. Modernism, with its focus on formal characteristics of a medium, was an Apollonian movement; the Dionysian rebellion immediately after included populist art forms such as science fiction and other genres of pulp fiction; the rise of swing, blues, and jazz; and the flowering of the comic strip.
 
