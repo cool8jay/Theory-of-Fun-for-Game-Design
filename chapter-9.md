@@ -14,7 +14,7 @@ On the facing pages, I've filled out a few grids with different human endeavors.
 
 Any given activity can be performed either by yourself or with others. If you are doing it with others, you can be working either with or against each other. I call these three approaches *collaborative*, *competitive*, and *solo*.
 
-任何一项活动都可以自己进行，也可以与他人一起进行。如果是与他人一起进行，你们可以相互合作，也可以相互对抗。我把这三种方式称为*合作式*、*竞争式*和*单干式*。
+任何一项活动都可以独自进行，也可以与他人一起进行。如果是与他人一起进行，你们可以相互合作，也可以相互对抗。我把这三种方式称为*合作式*、*竞争式*和*单干式*。
 
 Down the side of our grid, I've made a subtler distinction. Are you a passive consumer of this activity (to the degree the activity permits)? An audience member? If you are someone who doesn't work on the activity, but instead lets the work of others wash over you, we'll call you interested in the *experiential* side of the activity—you want the experience.
 
