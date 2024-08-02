@@ -18,7 +18,7 @@ Any given activity can be performed either by yourself or with others. If you ar
 
 Down the side of our grid, I've made a subtler distinction. Are you a passive consumer of this activity (to the degree the activity permits)? An audience member? If you are someone who doesn't work on the activity, but instead lets the work of others wash over you, we'll call you interested in the *experiential* side of the activity—you want the experience.
 
-在网格的下方，我做了更细微的区分。你是这项活动的被动消费者（在活动允许的范围内）？还是观众？如果你不参与活动，而是任由他人的工作影响你，我们就称你对活动的*体验*方面感兴趣——你想要这种体验。
+在网格的下方，我做了更细微的区分。你是这项活动的被动消费者（在活动允许的范围内）？还是观众？如果你不从事活动，而是任由他人的工作影响你，我们就称你对活动的*体验*方面感兴趣——你想要这种体验。
 
 Are you actually creating the experience? Then you are engaging in a *constructive* activity. Maybe instead, you are taking the experience apart, to see how it works. I used to label this destructive, but it's not really; often the original is left behind, intact though somewhat bruised and battered. So perhaps *deconstructive* is a better term.
 
@@ -69,7 +69,7 @@ Are you actually creating the experience? Then you are engaging in a *constructi
 > 
 > Of course, analyzing a game is just another way of playing it, of pinning down the pattern in it.
 > 
-> 当然，分析游戏只是玩游戏的另一种方式，是找出其中的规律。
+> 当然，分析游戏只是玩游戏的另一种方式，是找出其中的模式。
 
 My second grid shows how we can analyze music. When I look at the chart for music, what I see is a constellation of music-based entertainment. If I made a similar chart for books, it would cover prose-based entertainment. Basically, this chart can be applied to any *medium*.
 
