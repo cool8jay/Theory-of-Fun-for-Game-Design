@@ -85,7 +85,7 @@ Interaction happens with all media (at a minimum, we interact by engaging with t
 
 In other words, modding is just playing the game in another way, sort of like a budding writer might rework plots of characters from other writers into derivative journeyman fiction or into fan fiction. The fact that some forms of interaction are constructive (modding a game), experiential (playing a game), or deconstructive (hacking a game) is immaterial; the same activities are possible with a given play, book, or song. Arguably, the act of literary analysis is much the same as the act of hacking a game—the act of disassembling the components of a given piece of work in a medium to see how it works, or even to get it to do things, carry messages, or otherwise represent itself as something other than what the author of the piece intended.
 
-换句话说，MOD 只是以另一种方式玩游戏，就像新晋作家可能会把其他作家笔下的人物情节改编成衍生的穿越小说或粉丝小说。事实上，某些互动形式是建设性的（修改游戏）、体验性的（玩游戏）或解构性的（黑客攻击游戏）并不重要；同样的活动在特定的戏剧、书籍或歌曲中也是可能的。可以说，文学分析的行为与黑客攻击游戏的行为如出一辙——拆解特定作品在某种媒介中的组成部分，看看它是如何运作的，甚至让它做事、传递信息，或以其他方式表现出与作品作者意图不同的东西。
+换句话说，MOD 只是以另一种方式玩游戏，就像新晋作家可能会把其他作家笔下的人物情节改编成衍生小说或粉丝小说。事实上，某些互动形式是建设性的（修改游戏）、体验性的（玩游戏）或解构性的（黑客攻击游戏）并不重要；同样的活动在特定的戏剧、书籍或歌曲中也是可能的。可以说，文学分析的行为与黑客攻击游戏的行为如出一辙——拆解特定作品在某种媒介中的组成部分，看看它是如何运作的，甚至让它做事、传递信息，或以其他方式表现出与作品作者意图不同的东西。
 
 <div align="center">
 <img src="images/9.2.png">
