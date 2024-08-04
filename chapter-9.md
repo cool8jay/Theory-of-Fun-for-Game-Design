@@ -31,7 +31,7 @@ Are you actually *creating* the experience? Then you are engaging in a *construc
 > <table>
 >   <thead>
 >     <tr>
->       <th colspan="4">人类活动中的游戏矩阵</th>
+>       <th colspan="4">人类活动矩阵中的游戏</th>
 >     </tr>
 >     <tr>
 >       <th>用户目标</th>
@@ -94,7 +94,7 @@ In other words, modding is just playing the game in another way, sort of like a 
 > <table>
 >   <thead>
 >     <tr>
->       <th colspan="4">人类活动中的音乐矩阵</th>
+>       <th colspan="4">人类活动矩阵中的音乐</th>
 >     </tr>
 >     <tr>
 >       <th>用户目标</th>
