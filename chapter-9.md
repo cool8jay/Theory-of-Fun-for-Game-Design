@@ -20,9 +20,9 @@ Down the side of our grid, I've made a subtler distinction. Are you a passive co
 
 在网格的下方，我做了更细微的区分。你是这项活动的被动消费者（在活动允许的范围内）？还是观众？如果你不从事活动，而是任由他人的工作影响你，我们就称你对活动的*体验*方面感兴趣——你想要这种体验。
 
-Are you actually creating the experience? Then you are engaging in a *constructive* activity. Maybe instead, you are taking the experience apart, to see how it works. I used to label this destructive, but it's not really; often the original is left behind, intact though somewhat bruised and battered. So perhaps *deconstructive* is a better term.
+Are you actually *creating* the experience? Then you are engaging in a *constructive* activity. Maybe instead, you are taking the experience apart, to see how it works. I used to label this destructive, but it's not really; often the original is left behind, intact though somewhat bruised and battered. So perhaps *deconstructive* is a better term.
 
-你真的在创造体验吗？那你就是在从事*建设性*的活动。也许相反，你是在拆解体验，看看它是如何运作的。我曾经给这种做法贴上破坏性的标签，但其实并非如此；通常情况下，原来的东西会被留下来，虽然有些伤痕累累，但却完好无损。因此，*解构*也许是一个更好的说法。
+你真的在*创造*体验吗？那你就是在从事*建设性*的活动。也许相反，你是在拆解体验，看看它是如何运作的。我曾经给这种做法贴上破坏性的标签，但其实并非如此；通常情况下，原来的东西会被留下来，虽然有些伤痕累累，但却完好无损。因此，*解构*也许是一个更好的说法。
 
 <div align="center">
 <img src="images/9.1.png">
