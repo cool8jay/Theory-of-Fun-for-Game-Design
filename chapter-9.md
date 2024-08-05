@@ -148,7 +148,7 @@ In other words, games can take forms we don't recognize. They might not be limit
 
 The reason why the rise of critique and academia surrounding games is important is that it finally adds the missing element to put games in context with the rest of human endeavor. It signals their arrival as a medium. Considering how long they have been around, they're a little late to the party.
 
-围绕游戏的评论和学术研究的兴起之所以重要，是因为它最终增加了一个缺失的元素，将游戏与人类其他活动联系起来。它标志着游戏作为一种媒介的到来。考虑到游戏已经存在了很长时间，它们的出现有点晚了。
+围绕游戏的评论和学术研究的兴起之所以重要，是因为它最终增加了缺失的元素，将游戏置于与人类其他活动相联系的背景中。它标志着游戏作为一种媒介的到来。考虑到游戏已经存在了很长时间，它们的出现有点晚了。
 
 Once games are seen as a medium, we can start worrying about whether they are a medium that permits art. All other media do, after all.
 
