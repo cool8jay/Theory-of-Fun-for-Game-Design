@@ -211,7 +211,7 @@ Once games are seen as a medium, we can start worrying about whether they are a 
 
 Pinning art down is tricky. We can start from the basics, though. What is art for? Communicating. That's intrinsic to the definition. And (if you've bought into the premises of this book) we have seen that the basic intent of games is rather communicative as well—it is the creation of a symbolic logic set that conveys meaning.
 
-把艺术固定下来是件棘手的事。不过，我们可以从最基本的开始。艺术是用来做什么的？传播。这是艺术的固有定义。而且（如果你相信本书的前提），我们已经看到，游戏的基本意图也相当具有交流性，它是创造一种传递意义的符号逻辑集。
+把艺术固定下来是件棘手的事。不过，我们可以从最基本的开始。艺术是用来做什么的？交流。这是艺术的固有定义。而且（如果你相信本书的前提），我们已经看到，游戏的基本意图也相当具有交流性，它是创造一种传递意义的符号逻辑集。
 
 Some apologists for games like to tout the fact that games are interactive as a sign that they are special. Others like to say that interactivity is precisely why games cannot be art, because art relies on authorial intent and control. Both positions are balderdash. [Every medium is interactive](#user-content-fn-11)[^11]—just go look on the grid.
 
