@@ -227,7 +227,7 @@ The medium shapes the nature of the message, of course, but the message can be r
 
 One of the most common points I hear about why video games are not an art form is that they are just for fun. They are just entertainment. Hopefully, I've made it clear why that is a dangerous underestimation of fun. But most music is also just entertainment, and most novels are read just for fun, and most movies are mere escapism, and yes, even most pretty pictures are just pretty pictures. The fact that most games are merely entertainment does not mean that this is all they are doomed to be.
 
-关于电子游戏为什么不是一种艺术形式，我最常听到的观点之一就是它们只是为了好玩。它们只是娱乐而已。希望我已经说得很清楚，这是对娱乐的危险低估。但是，大多数音乐也只是娱乐，大多数小说也只是为了消遣，大多数电影也只是逃避现实，是的，甚至大多数漂亮的图片也只是漂亮的图片。大多数游戏只是娱乐，但这并不意味着它们注定只能是娱乐。
+关于电子游戏为什么不是一种艺术形式，我最常听到的观点之一就是它们只是为了好玩。它们只是娱乐而已。希望我已经说得很清楚，这是对乐趣的危险低估。但是，大多数音乐也只是娱乐，大多数小说也只是为了消遣，大多数电影也只是逃避现实，是的，甚至大多数漂亮的图片也只是漂亮的图片。大多数游戏只是娱乐，但这并不意味着它们注定只能是娱乐。
 
 <div align="center">
 <img src="images/9.4.png">
