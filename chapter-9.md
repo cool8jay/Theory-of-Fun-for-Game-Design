@@ -323,7 +323,7 @@ All media are abstract, formal systems. They have grammars, methods, and systems
 
 All artists choose constraints when they set out to create: a postage stamp of paper or a broad canvas; to use rhyme or free verse; the choice of piano versus guitar. In fact, choosing constraints is one of the most fruitful ways to prod creativity.
 
-所有艺术家在开始创作时都会选择一些限制条件：一张邮票大小的纸张还是宽阔的画布；使用韵律还是自由诗；选择钢琴还是吉他。事实上，选择约束条件是激发创造力最富有成效的方法之一。
+所有艺术家在开始创作时都会选择一些限制条件：一张邮票大小的纸张还是宽阔的画布；使用押韵诗还是自由诗；选择钢琴还是吉他。事实上，选择约束条件是激发创造力最富有成效的方法之一。
 
 Games, too, share these characteristics. "Create a one button game." "Invent a game using nothing more than pennies and a deck of cards." "Design a game that is about [exact cover](#user-content-fn-17)[^17]."
 
