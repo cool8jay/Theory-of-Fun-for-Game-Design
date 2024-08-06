@@ -251,7 +251,7 @@ Mere entertainment becomes art when the communicative element in the work is eit
 
 Since games are closed formal systems, that might mean that games can never be art in that sense. But I don't think so. I think that means that we just need to decide what we want to say with a given game—something big, something complex, something open to interpretation, something where there is no single right answer—and then make sure that when the player interacts with it, she can come to it again and reveal whole new aspects to the challenge presented.
 
-由于游戏是封闭的形式系统，这可能意味着游戏在这个意义上永远无法成为艺术。但我不这么认为。我认为，这意味着我们只需要确定我们想用一个游戏表达什么——一些宏大的东西，一些复杂的东西，一些可以解释的东西，一些没有唯一正确答案的东西——然后确保当玩家与之互动时，她可以再次面对它，并揭示所呈现挑战的全新方面。
+由于游戏是封闭的形式系统，这可能意味着游戏在这个意义上永远无法成为艺术。但我不这么认为。我认为，这意味着我们只需要确定我们想用一个游戏表达什么——一些宏大的东西，一些复杂的东西，一些可以解释的东西，一些没有唯一正确答案的东西——然后确保当玩家与之互动时，她可以再次进入游戏，并揭示所面临挑战的全新方面。
 
 <div align="center">
 <img src="images/9.5.png">
