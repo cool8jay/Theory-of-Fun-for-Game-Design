@@ -311,7 +311,7 @@ It would immerse, and change a worldview.
 
 > -- the point at which it becomes subject to interpretation.
 > 
-> ——即当它开始受到主观解读的那一刻。
+> ——即当它变得可以被解释的那一刻。
 
 Some might say that abstract formal systems cannot achieve this. But I have seen wind course across the sky, bearing leaves; I have seen paintings by [Mondrian](#user-content-fn-13)[^13] made of nothing but colored squares; I have heard Bach played on a harpsichord; I have traced the rhythms of a sonnet; I have followed the steps of a dance.
 
