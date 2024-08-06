@@ -384,7 +384,7 @@ Consider the act of creation.
 
 It's one of the toughest things to do well in human endeavor. And yet it is also one of our most instinctive actions; from a young age, we not only trace patterns but attempt to create new ones. We scribble with crayons, we ba-ba-ba our way through songs.
 
-这是人类努力中最难做好的事情之一。然而，这也是我们最本能的行为之一；从小到大，我们不仅追踪模式，还试图创造新的模式。我们用蜡笔涂鸦，用咿咿呀呀的方式唱歌。
+这是人类活动中最难做好的事情之一。然而，这也是我们最本能的行为之一；从小到大，我们不仅追踪模式，还试图创造新的模式。我们用蜡笔涂鸦，用咿咿呀呀的方式唱歌。
 
 The fact that playing games—good ones, anyway—is fundamentally a creative act is something that speaks very well for the medium. Games, at their best, are not prescriptive. They demand that the user create a response given the tools at hand. It is a lot easier to fail to respond to a painting than to fail to respond to a game.
 
@@ -392,7 +392,7 @@ The fact that playing games—good ones, anyway—is fundamentally a creative ac
 
 No other artistic medium is defined around a single intended *effect* on the user, such as "fun." They all embrace a wider array of emotional impact. Now, we may be running into definitional questions for the word "fun" here, obviously, but even so, I'd prefer to approach things from a more [formalist](#user-content-fn-19)[^19] perspective to actually arrive at what the basic building blocks of the medium are. From a formalist point of view, music can be considered ordered sound and silence, poetry can be considered the placement of words and gaps between words, and so on.
 
-没有任何一种艺术媒介是围绕对用户的单一预期*效果*（如“乐趣”）来定义的。它们都包含更广泛的情感影响。现在，我们可能会遇到“趣味”一词的定义问题，但即便如此，我还是倾向于从[形式主义](#user-content-fn-20)[^20]的角度来看待问题，以真正了解艺术媒介的基本构成要素是什么。从形式主义的角度来看，音乐可以被视为有序的声音和寂静，诗歌可以被视为词语的位置和词语之间的间隙，等等。
+没有任何一种艺术媒介是围绕对用户的单一预期*效果*（如“乐趣”）来定义的。它们都包含更广泛的情感影响。现在，我们可能会遇到“趣味”一词的定义问题，但即便如此，我还是倾向于从[形式主义](#user-content-fn-20)[^20]的角度来看待问题，以真正了解艺术媒介的基本构成要素是什么。从形式主义的角度来看，音乐可以被视为有序的声音和寂静，诗歌可以被视为词语和词语之间的间隙的放置，等等。
 
 The closer we get to understanding the basic building blocks of games—the things that players and creators alike manipulate in interacting with the medium—the more likely we are to achieve the heights of art.
 
