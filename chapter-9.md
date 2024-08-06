@@ -247,7 +247,7 @@ Mere entertainment becomes art when the communicative element in the work is eit
 
 "Well done" and "novel" mean, basically, craft. You can have well-crafted entertainment that fails to reach the level of art. The upper reaches of art are usually subtler achievements. They are works that you can return to again and again, and still learn something new from. The analogy for a game would be one you can replay over and over again, and still discover new things.
 
-“做得好”和“新颖”基本上是指技艺。精心制作的娱乐作品可能达不到艺术品的水平。艺术的高级目标通常是更微妙的成就。这些作品可以让你反复回味，并从中汲取新的东西。对于游戏的类比是，一个可以反复玩的游戏，但仍能从中发现新的东西。
+“做得好”和“新颖”基本上是指技艺。精心制作的娱乐作品可能达不到艺术品的水平。艺术的高级目标通常是更微妙的成就。这些作品可以让你反复回味，并且每次都能从中学到新的东西。对于游戏的类比是，一个可以反复玩的游戏，但每次仍能从中发现新的东西。
 
 Since games are closed formal systems, that might mean that games can never be art in that sense. But I don't think so. I think that means that we just need to decide what we want to say with a given game—something big, something complex, something open to interpretation, something where there is no single right answer—and then make sure that when the player interacts with it, she can come to it again and reveal whole new aspects to the challenge presented.
 
