@@ -260,6 +260,10 @@ Since games are closed formal systems, that might mean that games can never be a
 > That may be the best definition of when something ceases to be craft and turns into art --
 > 
 > 这可能是判断某事物何时从工艺转变为艺术的最佳标准——
+> 
+> drawing by Elena, age 7.
+> 
+> 埃琳娜的画，7 岁。
 
 What would a game like this be?
 
