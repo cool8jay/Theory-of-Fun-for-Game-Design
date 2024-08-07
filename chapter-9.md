@@ -396,7 +396,7 @@ No other artistic medium is defined around a single intended *effect* on the use
 
 The closer we get to understanding the basic building blocks of games—the things that players and creators alike manipulate in interacting with the medium—the more likely we are to achieve the heights of art.
 
-我们越是接近于理解游戏的基本构件——玩家和创作者在与游戏媒介互动时所操控的东西——我们就越有可能达到艺术的高度。
+我们越是接近于理解游戏的基本要素——玩家和创作者在与游戏媒介互动时所操控的东西——我们就越有可能达到艺术的高度。
 
 <div align="center">
 <img src="images/9.8.png">
