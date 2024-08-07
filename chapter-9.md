@@ -451,7 +451,7 @@ Can you make an Impressionist game? A game where the formal system conveys the f
 你能制作一款印象派游戏吗？一款形式系统传达以下特点的游戏：
 
 * The object you seek to understand is not visible or depicted.\
-	你所要理解的对象是不可见的，或也没有被描绘出来。
+	你所要理解的对象是不可见的，或者没有被描绘出来。
 
 * Negative space is more important than shape.\
 	负空间比形状更重要。
@@ -477,7 +477,7 @@ The answer is: of course you can. It's called [Minesweeper](#user-content-fn-39)
 > 
 > (did you notice all of these are about communication?)
 > 
-> (你注意到所有这些都与沟通有关吗？）
+> (你注意到所有这些都与交流有关吗？）
 
 In the end, the endeavor that games engage in is similar to the endeavors of any other art form. The principal difference is not the fact that they consist of formal systems. Look at the following lists of terms:
 
@@ -512,7 +512,7 @@ If anything, the great irony about games, put in context with other media, is th
 
 > Or designing games.
 > 
-> 或者射击游戏。
+> 或者设计游戏。
 
 [^1]: Ludic artifact: It's an awkward term, but it avoids the challenges inherent in using "game" for very fuzzy concepts. In short:
 	* The world is full of systems.
