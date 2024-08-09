@@ -366,7 +366,7 @@ When our brain is *really* into practicing something, we'll dream about it. This
 
 [^11]: Sid Meier: One of the most highly regarded computer game designers working today, Meier has been responsible for [Civilization](https://en.wikipedia.org/wiki/Civilization_(series)) (the computer version, not the board game version, although there is now a board game version of the computer game), [Pirates!](https://en.wikipedia.org/wiki/Sid_Meier's_Pirates!), and [Gettysburg](https://en.wikipedia.org/wiki/Sid_Meier's_Gettysburg!).
 
-[^12]: 席德·梅尔：当今最受推崇的电脑游戏设计师之一，他的作品包括[《文明》](https://en.wikipedia.org/wiki/Civilization_(series))（电脑版，而非棋盘游戏版，尽管现在电脑游戏也有棋盘游戏版）、[《海盗！》](https://en.wikipedia.org/wiki/Sid_Meier's_Pirates!)和[《盖茨堡战役》](https://en.wikipedia.org/wiki/Sid_Meier's_Gettysburg!)。
+[^12]: 席德·梅尔：当今最受推崇的电脑游戏设计师之一，他的作品包括[《文明》](https://en.wikipedia.org/wiki/Civilization_(series))（电脑版，而非桌游版，尽管现在电脑游戏也有桌游版）、[《海盗！》](https://en.wikipedia.org/wiki/Sid_Meier's_Pirates!)和[《盖茨堡战役》](https://en.wikipedia.org/wiki/Sid_Meier's_Gettysburg!)。
 
 [^13]: Andrew Rollings and Ernest Adams on Game Design: This book was published by New Riders in 2003. It is a solid "how-to" book covering a variety of game genres as well as general game design principles. Disclaimer: I helped write the chapter on online games, so I am biased.
 

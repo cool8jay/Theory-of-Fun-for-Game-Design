@@ -666,7 +666,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^54]: Role-playing: Generally speaking, role-playing games are ones where the player takes on an alternate identity. Traditional pen-and-paper role-playing is like a special form of collaborative acting, but the computerized versions tend to put a much heavier emphasis on increasing the statistical definition of your character. A game with role-playing elements is typically one where the character you play can become more powerful over time.
 
-[^55]: [《外交》](https://en.wikipedia.org/wiki/Diplomacy_(game))：是一款经典的人际策略棋盘游戏，要求玩家在一个代表世界地图的棋盘上相互交易，然后再相互出卖。
+[^55]: [《外交》](https://en.wikipedia.org/wiki/Diplomacy_(game))：是一款经典的人际策略桌游，要求玩家在一个代表世界地图的棋盘上相互交易，然后再相互出卖。
 
 [^56]: 角色扮演：一般来说，角色扮演游戏是指玩家扮演另一个身份的游戏。传统的纸笔角色扮演游戏就像是一种特殊形式的合作表演，但电脑版的角色扮演游戏往往更强调增加角色的统计定义。具有角色扮演元素的游戏通常会让玩家扮演的角色随着时间的推移变得更加强大。
 
@@ -688,7 +688,7 @@ And now abideth faith, hope, charity, these three; but the greatest of these is 
 
 [^65]: Blind obedience: This tension in games is at the center of the powerful series of games entitled "The Mechanic is the Message," by Brenda Romero. In particular, the board game [Train](http://romero.com/analog/) is about the complicity of players in performing terrible deeds (or finding ways to subvert the system).
 
-[^66]: 盲目服从：游戏中的这种紧张关系正是布伦达·罗梅罗所著的《机械即信息》系列游戏的核心。尤其是棋盘游戏[《火车》](http://romero.com/analog/)，它讲述的是玩家在实施可怕行为（或找到颠覆系统的方法）时的同谋关系。
+[^66]: 盲目服从：游戏中的这种紧张关系正是布伦达·罗梅罗所著的《机械即信息》系列游戏的核心。尤其是桌游[《火车》](http://romero.com/analog/)，它讲述的是玩家在实施可怕行为（或找到颠覆系统的方法）时的同谋关系。
 
 [^67]: Jumping puzzles: A challenge often found in games, jumping puzzles are sequences of jumps that must be performed with precise timing. They are often denigrated as a designer's failure of imagination.
 

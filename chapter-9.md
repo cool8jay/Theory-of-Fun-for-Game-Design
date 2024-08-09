@@ -536,7 +536,7 @@ For an essay-length working out of this concept, see [here](http://www.raphkoste
 
 [^3]: Mod or modding: Many video games are constructed in a way that permits players to create variants on the rules, alter the artwork, or even create whole new games using the game's software. This has led to large "mod communities" of player-contributed games and content. This is similar to "house rules" for board games.
 
-[^4]: 模组或修模：许多电子游戏的构造方式允许玩家对游戏规则进行修改，改变游戏美术设计，甚至使用游戏软件创建全新的游戏。这就形成了由玩家贡献游戏和内容的大型“模组社区”。这与棋盘游戏的“内部规则”类似。
+[^4]: 模组或模组制作：许多电子游戏的构造方式允许玩家对游戏规则进行修改，改变游戏美术设计，甚至使用游戏软件创建全新的游戏。这就形成了由玩家贡献游戏和内容的大型“模组社区”。这与桌游的“内部规则”类似。
 
 [^5]: Lord Jim: A novel by Joseph Conrad. It is not a cheery book, and the ending is fatalistic at best and grim at worst.
 
