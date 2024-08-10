@@ -560,7 +560,7 @@ For an essay-length working out of this concept, see [here](http://www.raphkoste
 
 [^15]: Leading tones: In music theory, this is the idea that certain pitches naturally lead the ear to expect another note. The act of moving to this new pitch is usually called "resolving" the harmony. The commonest place where we see this is leading from the V back to the I (from the dominant to the tonic), where the leading tone is the major third of the V, and one half-step short of the tonic's root, the note that is the key the song is in.
 
-[^16]: 导音：在音乐理论中，这是一种认为某些音高自然引导听者期待另一个音符的概念。移动到这个新音高的行为通常被称为“解决”和声。最常见的情况是从 V 回到 I（从属音回到主音），其中导音是 V 的大三度，距离主音根音——也就是歌曲所在调性的基音——只有半音之遥。
+[^16]: 导音：在音乐理论中，这是一种认为某些音高自然引导听者期待另一个音符的概念。移动到这个新音高的行为通常被称为“解决”和声。最常见的情况是从 V 回到 I（从属音回到主音），其中导音是 V 的大三度，比主音的根音——也就是歌曲所在调的音符——只低半个音阶。
 
 [^17]: Exact cover: A class of mathematical problems based on allocating resources so that every contingency is covered. [Wikipedia](http://en.wikipedia.org/wiki/Exact_cover) has all the math for you.
 
