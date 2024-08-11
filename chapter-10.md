@@ -26,7 +26,7 @@ We know this from other media. It matters who sings a song because delivery is i
 
 In many media, the presentation factors are outside the hands of the initial creator of the content. But in other media, the creator has a say. Often, we have a specific person whose role it is to create the overall experience, as opposed to the content itself. And rightfully, this person is given higher authority over the final output than the content creator alone. The director trumps the writer in a movie, and the conductor trumps the composer in a symphony.
 
-在许多媒介中，内容呈现的因素并不在内容最初创作者的掌控之中。但在其他媒介中，创作者却有发言权。通常情况下，我们有一个特定的人，他的职责是创造整体体验，而不是内容本身。理所当然，这个人在最终产出上比内容创作者一个人拥有更高的权力。在电影中，导演高于编剧，在交响乐中，指挥高于作曲家。
+在许多媒介中，内容呈现的因素并不在内容最初创作者的掌控之中。但在其他媒介中，创作者却有发言权。通常情况下，我们有一个特定的人，他的职责是创造整体体验，而不是内容本身。理所当然，这个人在最终产出上比内容创作者拥有更高的权力。在电影中，导演高于编剧，在交响乐中，指挥高于作曲家。
 
 There is a difference between designing the content and designing the end-user experience.
 
