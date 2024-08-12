@@ -62,7 +62,7 @@ The dressing is tremendously important. It's very likely that chess would not ha
 
 When we compare games to other art forms that rely on multiple disciplines for effect, we find that there are a lot of similarities. Take dance, for example. The "content creator" in dance is called the choreographer (it used to be called the "dancing master," but modern dance disliked the old ballet terms and changed it). Choreography is a recognized discipline. For many centuries, it struggled, in fact, because there was no [notation system for dance](#user-content-fn-3)[^3]. That meant that much of the history of this art form is lost to us because there was simply no way to replicate a dance, save by passing it on from master to student.
 
-当我们将游戏与其他依靠多种学科产生效果的艺术形式进行比较时，我们会发现两者有很多相似之处。以舞蹈为例。舞蹈中的“内容创作者”被称为编舞（过去被称为“舞蹈大师”，但现代舞不喜欢芭蕾舞的旧称，所以改了）。编舞是一门公认的学科。事实上，许多世纪以来，舞蹈编导一直在苦苦挣扎，因为[舞蹈没有记谱系统](#user-content-fn-4)[^4]。这意味着这种艺术形式的大部分历史已被我们遗忘，因为除了师徒相传之外，根本无法复制舞蹈。
+当我们将游戏与其他依靠多种学科产生效果的艺术形式进行比较时，我们会发现两者有很多相似之处。以舞蹈为例。舞蹈中的“内容创作者”被称为编舞师（过去被称为“舞蹈大师”，但现代舞不喜欢芭蕾舞的旧称，所以改了）。编舞是一门公认的学科。事实上，许多世纪以来，它一直在苦苦挣扎，因为[舞蹈没有记谱系统](#user-content-fn-4)[^4]。这意味着这种艺术形式的大部分历史已被我们遗忘，因为除了师徒相传之外，根本无法复制舞蹈。
 
 And yet, the choreographer is not the ultimate arbiter in a dance. There are far too many other variables. There's a reason, for example, why the [prima ballerina](#user-content-fn-5)[^5] is such an important figure. The dancer makes the dance, just as the actor makes the lines. A poor delivery means that the experience is ruined—in fact, if the delivery is poor enough, the sense may be ruined, just as bad handwriting obscures the meaning of a word.
 
