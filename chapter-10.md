@@ -74,7 +74,7 @@ Swan Lake staged on the shore of a lake is a different experience from Swan Lake
 
 Games are the same way. We could probably use new terminology for games. Often in large projects, we make the distinction between game system designers, content designers, the lead designer or creative director (a problematic term because it means something else in different disciplines, such as in graphic design), writers, level designers, world builders, and who knows what else. If we consider games to be solely the design of the formal abstract systems, then only the system designer is properly a game designer. If we came up with a new term for the formal core of games, comparable to "choreography," then we'd give this person a title [derived from that term](#user-content-fn-7)[^7] instead.
 
-游戏也是如此。我们或许可以为游戏使用新的术语。通常在大型项目中，我们会区分游戏系统设计师、内容设计师、首席设计师或创意总监（这是一个有问题的术语，因为它在不同的学科中另有含义，例如在平面设计中）、编剧、关卡设计师、世界构建者，以及其他谁知道是什么的人。如果我们认为游戏仅仅是形式抽象系统的设计，那么只有系统设计师才是真正的游戏设计师。如果我们为游戏的形式核心设计一个类似于“编舞”新术语，那么我们就可以给这个人一个由这个[术语衍生出来](#user-content-fn-8)[^8]的头衔。
+游戏也是如此。我们或许可以为游戏使用新的术语。通常在大型项目中，我们会区分游戏系统设计师、内容设计师、首席设计师或创意总监（这是一个有问题的术语，因为它在不同的学科中另有含义，例如在平面设计中）、编剧、关卡设计师、世界构建师，等等。如果我们认为游戏仅仅是形式抽象系统的设计，那么只有系统设计师才是真正的游戏设计师。如果我们为游戏的形式核心想出一个类似于“编舞”新术语，那么我们就可以给这个人一个由这个[术语衍生出来](#user-content-fn-8)[^8]的头衔。
 
 <div align="center">
 <img src="images/10.3.png">
@@ -82,7 +82,7 @@ Games are the same way. We could probably use new terminology for games. Often i
 
 > casting
 > 
-> 表演
+> 选角
 > 
 > lighting
 > 
