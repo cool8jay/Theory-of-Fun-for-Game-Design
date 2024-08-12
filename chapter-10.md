@@ -66,11 +66,11 @@ When we compare games to other art forms that rely on multiple disciplines for e
 
 And yet, the choreographer is not the ultimate arbiter in a dance. There are far too many other variables. There's a reason, for example, why the [prima ballerina](#user-content-fn-5)[^5] is such an important figure. The dancer makes the dance, just as the actor makes the lines. A poor delivery means that the experience is ruined—in fact, if the delivery is poor enough, the sense may be ruined, just as bad handwriting obscures the meaning of a word.
 
-然而，舞蹈编导并不是舞蹈的最终决定者。还有太多其他变数。例如，[首席芭蕾舞演员](#user-content-fn-6)[^6]之所以如此重要是有原因的。舞者创造舞蹈，正如演员创造台词。糟糕的演绎意味着体验被破坏——事实上，如果演绎足够糟糕，意义也可能被破坏，就像糟糕的字迹会掩盖一个词的意义一样。
+然而，编舞师并不是舞蹈的最终决定者。还有太多其他变数。例如，[首席芭蕾舞演员](#user-content-fn-6)[^6]之所以如此重要是有原因的。舞者创造舞蹈，正如演员创造台词。糟糕的演绎意味着体验被破坏——事实上，如果演绎足够糟糕，意义也可能被破坏，就像糟糕的字迹会掩盖一个词的意义一样。
 
 Swan Lake staged on the shore of a lake is a different experience from Swan Lake on a bare stage. There's a recognized profession there, too: the set designer. And there's the lighting, the casting, the costuming, the performance of the music... The choreographer may be the person who creates the dance, but in the end, there's probably a director who creates the dance.
 
-在湖畔上演的《天鹅湖》与在光秃秃的舞台上上演的《天鹅湖》是两种不同的体验。这里还有一个公认的职业：布景师。还有灯光、选角、服装、音乐表演……编舞可能是创造舞蹈的人，但最终可能还是导演创造了舞蹈。
+在湖畔上演的《天鹅湖》与在光秃秃的舞台上上演的《天鹅湖》是两种不同的体验。这里还有一个公认的职业：布景师。还有灯光、选角、服装、音乐表演……编舞师可能是创造舞蹈的人，但最终可能还是导演创造了舞蹈。
 
 Games are the same way. We could probably use new terminology for games. Often in large projects, we make the distinction between game system designers, content designers, the lead designer or creative director (a problematic term because it means something else in different disciplines, such as in graphic design), writers, level designers, world builders, and who knows what else. If we consider games to be solely the design of the formal abstract systems, then only the system designer is properly a game designer. If we came up with a new term for the formal core of games, comparable to "choreography," then we'd give this person a title [derived from that term](#user-content-fn-7)[^7] instead.
 
