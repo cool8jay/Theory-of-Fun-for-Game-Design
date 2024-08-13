@@ -102,7 +102,7 @@ Games are the same way. We could probably use new terminology for games. Often i
 > 
 > choreography
 > 
-> 舞蹈编排
+> 编舞
 > 
 > For example, we don't say tat dance is solely choreography, even though that is the formal core of it.
 > 
