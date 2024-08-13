@@ -162,7 +162,7 @@ The best test of a game's fun in the strict sense is playing the game with no gr
 > 
 > Consider a game of mass murder where you throw victims down a well and they stand on each other to try to climb out.
 > 
-> 考虑玩一个大屠杀的游戏，把受害者扔到井里，让他们站在对方身上试图爬出来。
+> 想象一个大屠杀的游戏，把受害者扔进井里，他们互相踩在对方身上试图爬出来。
 
 This means the question of ethical responsibility rears its head. The ethical questions surrounding games as murder simulators, games as misogyny, games as undermining of traditional values, and so on are not aimed at games themselves. They are aimed at the dressing.
 
