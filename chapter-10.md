@@ -170,7 +170,7 @@ This means the question of ethical responsibility rears its head. The ethical qu
 
 To the designer of formal abstract systems, these complaints are always going to seem misguided. A vector of force and a marker of territory have no cultural agenda. At the least, the complaints are misdirected—they ought to go to the equivalent of the director, the person who is making the call on the overall user experience.
 
-对于形式抽象系统的设计者来说，这些抱怨似乎总是被误导的。力的矢量和领土的标记并没有文化议程。至少，这些抱怨的方向是错误的——它们应该去找相当于导演的人，也就是对整体用户体验做出决定的人。
+对于形式抽象系统的设计者来说，这些抱怨似乎不着边际。力的矢量和领土的标记并没有文化议程。至少，这些抱怨的方向是错误的——它们应该去找相当于导演的人，也就是决定整体用户体验的人。
 
 Directing these complaints to the director is the standard. It's the standard to which we hold the writers of fiction, the makers of films, the directors of dances, and the painters of paintings. The cultural debate over the acceptable limits of content is a valid one. We all know that there is a difference in experience caused by presentation. If we consider the art of the dance to be the sum of choreography plus direction plus costuming and so on, then we must consider the art of the game to be the ludemes plus direction plus artwork and so on.
 
