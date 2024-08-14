@@ -250,7 +250,7 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 
 [^11]: Games about shooting with a camera: Among them are Pokemon Snap for the Nintendo 64 and Beyond Good & Evil, available on various platforms.
 
-[^12]: 关于用相机拍摄的游戏：其中包括任天堂 64 的《口袋妖怪随乐拍》和多平台的《超越善恶》。
+[^12]: 关于用照相机拍摄照片的游戏：其中包括任天堂 64 的《口袋妖怪随乐拍》和多平台的《超越善恶》。
 
 [^13]: Yet it is Tetris: In the ten years since the first edition of this book was published, at least two examples surfaced of exactly this game, and at least one more was inspired by this chapter.
 
