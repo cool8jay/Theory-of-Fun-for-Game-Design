@@ -246,7 +246,7 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 
 [^9]: A mismatch between the ludemes and the dressing: the theory term for this is "ludonarrative dissonance," coined by game designer Clint Hocking in 2007 in his blog post [here](http://clicknothing.typepad.com/click_nothing/2007/10/ludonarrative-d.html).
 
-[^10]: 游戏与外观之间的不匹配：游戏设计师克林特·霍金于 2007 年在他的[博客文章](http://clicknothing.typepad.com/click_nothing/2007/10/ludonarrative-d.html)中提出了“游戏叙事失调”这一理论术语：。
+[^10]: 游戏元素与外观之间的不匹配：游戏设计师克林特·霍金于 2007 年在他的[博客文章](http://clicknothing.typepad.com/click_nothing/2007/10/ludonarrative-d.html)中提出了“游戏叙事失调”这一理论术语：。
 
 [^11]: Games about shooting with a camera: Among them are Pokemon Snap for the Nintendo 64 and Beyond Good & Evil, available on various platforms.
 
