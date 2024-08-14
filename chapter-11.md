@@ -182,7 +182,7 @@ We know how to create games where the formal mechanics are about climbing a ladd
 > 
 > For games to reach art, the trellis itself, the mechanics, must be revelatory of the human condition.
 > 
-> 游戏要达到艺术的境界，花架本身，游戏机制，必须对人类状况有所启示。
+> 要使游戏成为艺术，其机制本身——花架，必须揭示人类的状况。
 
 Consider a game in which you gained power to act based on how many people you controlled, but you gained power to heal yourself from attacks based on how many friends you had. Then include a rule that friends tend to fall away as you gain power. This is expressible in mathematical terms. It fits within an abstract formal system. It is also an artistic statement, a choice made by the designer of the ludeme.
 
