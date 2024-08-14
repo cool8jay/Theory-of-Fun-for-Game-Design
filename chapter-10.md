@@ -174,11 +174,11 @@ To the designer of formal abstract systems, these complaints are always going to
 
 Directing these complaints to the director is the standard. It's the standard to which we hold the writers of fiction, the makers of films, the directors of dances, and the painters of paintings. The cultural debate over the acceptable limits of content is a valid one. We all know that there is a difference in experience caused by presentation. If we consider the art of the dance to be the sum of choreography plus direction plus costuming and so on, then we must consider the art of the game to be the ludemes plus direction plus artwork and so on.
 
-把这些投诉交给主管是标准。我们对小说作家、电影制作人、舞蹈导演和绘画画家的要求也是如此。关于内容的可接受限度的文化辩论是有道理的。我们都知道，表现形式不同，体验也就不同。如果我们认为舞蹈艺术是舞蹈编排加导演加服装等的总和，那么我们就必须认为游戏艺术是游戏元素加导演加美工等的总和。
+把这些抱怨指向给导演是标准做法。我们对小说作家、电影制作人、舞蹈导演和绘画画家的要求也是如此。关于内容的可接受限度的文化辩论是有道理的。我们都知道，表现形式不同，体验也就不同。如果我们认为舞蹈艺术是舞蹈编排加导演加服装等的总和，那么我们就必须认为游戏艺术是游戏元素加导演加美工等的总和。
 
 The bare mechanics of the game do not determine its meaning. Let's try a thought experiment. Let's picture a mass murder game wherein there is a gas chamber shaped like a well. You the player are dropping innocent victims down into the gas chamber, and they come in all shapes and sizes. There are old ones and young ones, fat ones and tall ones. As they fall to the bottom, they grab onto each other and try to form human pyramids to get to the top of the well. Should they manage to get out, the game is over and you lose. But if you pack them in tightly enough, the ones on the bottom succumb to the gas and die.
 
-纯粹的游戏机制并不能决定游戏的含义。让我们做一个思想实验。让我们想象一个大屠杀游戏，游戏中有一个形状像井的毒气室。玩家要把无辜的受害者扔进毒气室，他们形形色色。他们有老有少，有胖有高。当他们落到井底时，他们会互相抓住，试图组成人形金字塔，爬到井顶。如果他们设法逃了出来，游戏就结束，你就输了。但是，如果你把他们紧密地填塞进去，底部的人就会被毒气毒死。
+纯粹的游戏机制并不能决定游戏的意义。让我们做一个思想实验。让我们想象一个大屠杀游戏，游戏中有一个形状像井的毒气室。玩家要把无辜的受害者扔进毒气室，他们形形色色。他们有老有少，有胖有高。当他们落到井底时，他们会互相抓住，试图组成人形金字塔，爬到井顶。如果他们设法逃了出来，游戏就结束，你就输了。但是，如果你把他们紧密地填塞进去，底部的人就会被毒气毒死。
 
 I do not want to play this game. Do you? [Yet it is Tetris](#user-content-fn-13)[^13]. You could have well-proven, stellar game design mechanics applied towards a quite repugnant premise. To those who say the art of the game is purely that of the mechanics, I say that film is not solely the art of cinematography or scriptwriting or directing or acting. Similarly, the art of the game is the whole.
 
