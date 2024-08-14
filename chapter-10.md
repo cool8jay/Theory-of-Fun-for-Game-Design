@@ -242,7 +242,7 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 
 [^7]: Term comparable to choreography: "Ludography" seems like a good choice, except that it is instead comparable to "bibliography" and means the games you have created. This hasn't stopped designer James Ernest from calling himself a ludographer. If anyone has any ideas better than the awful "gameplayographer," let me know! "Ludeme-ographer"? "Ludemographer"? Right now, the closest term is probably the role of "systems designer," but that all too often covers aspects well outside of ludic artifact specification.
 
-[^8]: 可与舞蹈编排相媲美的术语：“Ludography”似乎是个不错的选择，但它与“bibliography”类似，指的是你创造的游戏。但这并不妨碍设计师詹姆斯·欧内斯特称自己为“ludographer”。如果谁有比糟糕的“gameplayographer”更好的主意，请告诉我！“Ludeme-ographer”？“Ludemographer”？现在，最接近的说法可能是“系统设计师”这个角色，但它往往涵盖的内容远远超出了游戏机制规范的范畴。
+[^8]: 可与编舞相似的术语：“Ludography”似乎是个不错的选择，但它与“bibliography”类似，指的是你创造的游戏。但这并不妨碍设计师詹姆斯·欧内斯特称自己为“ludographer”。如果谁有比糟糕的“gameplayographer”更好的主意，请告诉我！“Ludeme-ographer”？“Ludemographer”？现在，最接近的说法可能是“系统设计师”这个角色，但它往往涵盖的内容远远超出了游戏机制规范的范畴。
 
 [^9]: A mismatch between the ludemes and the dressing: the theory term for this is "ludonarrative dissonance," coined by game designer Clint Hocking in 2007 in his blog post [here](http://clicknothing.typepad.com/click_nothing/2007/10/ludonarrative-d.html).
 
