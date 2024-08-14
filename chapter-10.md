@@ -38,7 +38,7 @@ Game design teams are set up this way, too. Too many other components have treme
 
 Players see through the fiction to the underlying mechanics, but that does not mean the fiction is unimportant. [Consider films](#user-content-fn-1)[^1], where the goal is typically for the many conventions, tricks, and mind-shapings that the camera performs to remain invisible and unperceived by the viewer. It's rare that a film tries to call attention to the gymnastics of the camera, and when it does, it will likely be to make some specific point. For example, cinematographers and directors frame conversations by placing the camera slightly over the shoulder of whoever is listening at the time. This creates psychological proximity. If done well, the audience never notices that the two sides of the conversation were filmed separately. This is part of the "vocabulary" of cinema.
 
-玩家可以透过虚构看到背后的机制，但这并不意味着虚构不重要。[就拿电影来说](#user-content-fn-2)[^2]，电影的目标通常是让摄影机所表现的许多传统手法、特殊技巧和心理塑造手段不被观众察觉。很少有电影会试图引起观众对摄影机技巧的注意，即使有，也很可能是为了表达某种特定的观点。例如，摄影师和导演会将镜头稍稍放在当时正在倾听的人的肩膀上，以此来构图对话场景。这样就会产生心理上的亲近感。如果处理得当，观众永远不会注意到对话的双方是分别拍摄的。这是电影“语言”的一部分。
+玩家可以透过虚构看到背后的机制，但这并不意味着虚构不重要。[拿电影来说](#user-content-fn-2)[^2]，电影的目标通常是让摄影机所表现的许多传统手法、特殊技巧和心理塑造手段不被观众察觉。很少有电影会试图引起观众对摄影机技巧的注意，即使有，也很可能是为了表达某种特定的观点。例如，摄影师和导演会将镜头稍稍放在当时正在倾听的人的肩膀上，以此来构图对话场景。这样就会产生心理上的亲近感。如果处理得当，观众永远不会注意到对话的双方是分别拍摄的。这是电影“语言”的一部分。
 
 For better or worse, visual representation and metaphor are part of the vocabulary of games. When we describe a game, we almost never do so in terms of the formal abstract system alone; we describe it in terms of the overall experience.
 
@@ -222,7 +222,7 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 
 > The literal lesson being taught is still how to stack blocks, but the artistic statement is different.
 > 
-> 所教的字面意思仍然是如何堆砌积木，但艺术表现形式却不同。
+> 字面上教授的内容仍然是如何堆叠积木，但艺术表达的意义却不同了。
 > 
 > MOM, CAN I GET THIS MASS MURDER GAME, HUH, HUH?
 > 
@@ -230,7 +230,7 @@ The constructive thing to do is to push the boundary gently so that it doesn't b
 
 [^1]: Consider films: Jon Boorstin's Making Movies Work (Silman-James Press, 1995) is an excellent primer on the basics of film as a medium.
 
-[^2]: 考虑电影：乔恩·博尔斯汀的《让电影运作》（Silman-James 出版社，1995 年）是介绍电影作为一种媒介的基础知识的优秀入门读物。
+[^2]: 拿电影来说：乔恩·博尔斯汀的《让电影运作》（Silman-James 出版社，1995 年）是介绍电影作为一种媒介的基础知识的优秀入门读物。
 
 [^3]: Notation system for dance: It wasn't until the 1500s that the first very primitive system of notating dance was developed, and it wasn't until 1926 that Laban developed a system that was really what we'd call complete.
 
