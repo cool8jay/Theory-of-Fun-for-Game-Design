@@ -6,7 +6,7 @@
 
 I've spent a lot of time talking about how games intersect the human condition. I think there is an important distinction to be drawn, however. In other media, we frequently speak of how a given work is revelatory of the human condition. By this, we mean that the work is a good portrayal of the human condition—it is something that gives us insight into ourselves. As the Greeks put it, [Gnothi seauton](#user-content-fn-1)[^1]—know thyself. It's perhaps the greatest challenge we as humans face, and in many ways, it may be the greatest threat to our survival.
 
-我已经花了很多时间来讨论游戏如何与人类的生存状态相互交织。然而，我认为有一个重要的区别需要明确。在其他媒介中，我们经常谈到某部作品如何揭示了人类的境况。我们这样说的意思是，该作品很好地描绘了人类的境况——它能让我们洞察自身。正如希腊人所说，[Gnothi seauton](#user-content-fn-2)[^2]——认识你自己。这也许是我们人类面临的最大挑战，在很多方面，它可能是对我们生存的最大威胁。
+我已经花了很多时间来讨论游戏如何与人类的生存状态相互交织。然而，我认为有一个重要的区别需要明确。在其他媒介中，我们经常谈到某部作品如何揭示了人类的境况。我们这样说的意思是，该作品很好地描绘了人类的境况——它能让我们洞察自身。正如希腊人所说，[Gnothi seauton](#user-content-fn-2)[^2]——认识你自己。这也许是我们人类面临的最大挑战，并且在很多方面，它可能是对我们生存的最大威胁。
 
 Many of the things that I have discussed in this book, such as theories of cognition, understanding of gender, learning styles, chaos theory, graph theory, and literary criticism, are fairly recent developments in human history. Humanity is engaged in a grand project of self-understanding, and most of the tools we have used in the past were imprecise at best. Over time we have developed better tools in the quest to understand ourselves better.
 
@@ -50,7 +50,7 @@ It's an important endeavor because other humans have typically been our greatest
 > 
 > <span style="color: rgb(128,83,27)">People who live in society have learned to see themselves in mirrors as they appear to their friends.</span>
 > 
-> <span style="color: rgb(128,83,27)">生活在社会中的人们已经学会在镜子里以朋友眼中的形象来看待自己。</span>
+> <span style="color: rgb(128,83,27)">生活在社会中的人们已经学会了通过朋友的眼睛来了解自己，这就像在镜子中看自己一样。</span>
 
 I'm not being all that fanciful or idealistic in saying that we are in many ways trembling on the threshold of a far deeper understanding of ourselves than ever before, thanks to advances as diverse as medical imaging, [network theory](#user-content-fn-5)[^5], quantum physics, and even [marketing](#user-content-fn-6)[^6]. Much of our view of the world is shaped by our perceptions and the way we filter information as it reaches us. Clarifying our understanding of that filter is reshaping our relationship to the world.
 
