@@ -14,7 +14,7 @@ Many of the things that I have discussed in this book, such as theories of cogni
 
 It's an important endeavor because other humans have typically been our greatest predator. Today we have come to realize how interrelated we all are, even when the left continent doesn't know what the right continent is doing. We have come to realize that actions we undertake often have far-reaching consequences that we never anticipated. Some, such as [James Lovelock](#user-content-fn-3)[^3], have gone so far as to call us all one giant organism.
 
-这是一项重要的工作，因为其他人类通常一直是我们最大的天敌。今天，我们逐渐认识到，即使左边的大陆不知道右边的大陆在做什么，所有人也是息息相关的。我们逐渐认识到，我们采取的行动往往会产生我们从未预料到的深远影响。有些人，比如[詹姆斯·洛夫洛克](#user-content-fn-4)[^4]，甚至称我们都是一个巨大的有机体。
+这是一项重要的工作，因为其他人类通常一直是我们最大的天敌。今天，我们逐渐认识到，即使左边的大陆不知道右边的大陆在做什么，所有人也是息息相关的。我们逐渐认识到，我们的所作所为往往会产生我们从未预料到的深远影响。有些人，比如[詹姆斯·洛夫洛克](#user-content-fn-4)[^4]，甚至称我们都是一个巨大的有机体。
 
 <div align="center">
 <img src="images/11.1.png">
@@ -54,7 +54,7 @@ It's an important endeavor because other humans have typically been our greatest
 
 I'm not being all that fanciful or idealistic in saying that we are in many ways trembling on the threshold of a far deeper understanding of ourselves than ever before, thanks to advances as diverse as medical imaging, [network theory](#user-content-fn-5)[^5], quantum physics, and even [marketing](#user-content-fn-6)[^6]. Much of our view of the world is shaped by our perceptions and the way we filter information as it reaches us. Clarifying our understanding of that filter is reshaping our relationship to the world.
 
-我并不是在胡思乱想，也不是理想主义地认为，由于医学影像、[网络理论](#user-content-fn-7)[^7]、量子物理学甚至[市场营销](#user-content-fn-8)[^8]等领域的进步，我们在很多方面都站在了比以往任何时候都更深入了解自己的门槛上。我们对世界的看法在很大程度上是由我们的感知和我们过滤信息的方式形成的。厘清我们对这种过滤方式的理解，正在重塑我们与世界的关系。
+我这样说并不是空想或者幻想：由于医学影像、[网络理论](#user-content-fn-7)[^7]、量子物理学甚至[市场营销](#user-content-fn-8)[^8]等领域的进步，我们在很多方面都站在了比以往任何时候都更深入了解自己的门槛上。我们的世界观在很大程度上是由我们的感知和我们过滤信息的方式形成的。厘清我们对这种过滤机制的理解，正在重塑我们与世界的关系。
 
 In this light, it's interesting to see how many of the most famous quotes of Jean-Paul Sartre seem eerily applicable to our relationship to the virtual worlds created by games. Students of philosophy would tell you that he was simply recognizing the artificiality of every world we perceive, since they are all mental constructs in the end.
 
@@ -66,7 +66,7 @@ Games thus far have not really worked to extend our understanding of ourselves. 
 
 There is a crucial difference between games really illuminating and exploring the human condition, and seeing how the human condition manifests while we play games. The latter is interesting in an academic sense, but it is unsurprising. The human condition manifests anywhere and anytime we interact. We may come to a better understanding of ourselves by examining our relationship to games, as this book attempts to do, but for games to truly step up to the plate, they need to provide us with insights into ourselves.
 
-游戏真正揭示和探索人类的状况，与我们在玩游戏时看到人类的状况是如何表现出来的，这两者之间有着至关重要的区别。后者在学术意义上是有趣的，但也不足为奇。人类状况在我们互动的任何地方和任何时候都会表现出来。通过研究我们与游戏的关系，我们可能会更好地了解自己，本书也试图这样做，但游戏要真正发挥其作用，它们需要为我们提供对自己深入的见解。
+游戏真正揭示和探索人类的境况，与我们在玩游戏时看到人类的境况是如何表现出来的，这两者之间有着至关重要的区别。后者在学术意义上是有趣的，但也不足为奇。人类境况在我们互动的任何地方和任何时候都会表现出来。通过研究我们与游戏的关系，我们可能会更好地了解自己，本书也试图这样做，但游戏要真正发挥其作用，它们需要为我们提供对自己深入的见解。
 
 <div align="center">
 <img src="images/11.2.png">
