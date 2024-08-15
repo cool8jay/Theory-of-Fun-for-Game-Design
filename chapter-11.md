@@ -22,7 +22,7 @@ It's an important endeavor because other humans have typically been our greatest
 
 > It is not the same thing for our games to portray the human condition and the human condition to exist within our games.
 > 
-> 我们的游戏描绘人类状况与人类状况存在于我们的游戏中并不是一回事。
+> 我们的游戏描绘人类境况与人类状况存在于我们的游戏中并不是一回事。
 > 
 > \* All quotes from Sartre pondering online multiplayer roleplaying games.
 > 
@@ -86,7 +86,7 @@ But, while we're bemoaning the lack of maturity in the field, we need not to mis
 
 We should fix the fact that the average cartoon does a better job at portraying the human condition than our games do.
 
-我们应该正视一个事实，那就是普通动画片在描绘人类状况方面比我们的游戏做得更好。
+我们应该牢记一个事实，那就是普通动画片在描绘人类境况方面比我们的游戏做得更好。
 
 <div align="center">
 <img src="images/11.3.png">
@@ -182,7 +182,7 @@ We know how to create games where the formal mechanics are about climbing a ladd
 > 
 > For games to reach art, the trellis itself, the mechanics, must be revelatory of the human condition.
 > 
-> 要使游戏成为艺术，其机制本身——花架，必须揭示人类的状况。
+> 要使游戏成为艺术，其机制本身——花架，必须揭示人类的境况。
 
 Consider a game in which you gained power to act based on how many people you controlled, but you gained power to heal yourself from attacks based on how many friends you had. Then include a rule that friends tend to fall away as you gain power. This is expressible in mathematical terms. It fits within an abstract formal system. It is also an artistic statement, a choice made by the designer of the ludeme.
 
