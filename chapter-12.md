@@ -6,7 +6,7 @@
 
 There are games that succeed at portraying concepts like social good or honor through mechanics—the work of [Dani Bunten Berry](#user-content-fn-1)[^1] comes to mind. But far too many games do not do so with conscious intent. Games have the capability to sit on the shelf next to all other communications media. They are capable of art. They are capable of portraying the human condition. They are teaching tools. They carry socially redeeming content. They elicit emotion.
 
-有些游戏通过机制成功地描绘了社会公益或荣誉等概念——我想到了[达妮·本腾·贝瑞](#user-content-fn-2)[^2]的作品。但有太多的游戏并非有意为之。游戏有能力与所有其他传播媒介并驾齐驱。它们可以成为艺术。它们能够描绘人类的状况。它们是教学工具。它们承载着社会救赎的内容。它们能激发情感。
+有些游戏通过机制成功地描绘了社会公益或荣誉等概念——我想到了[达妮·本腾·贝瑞](#user-content-fn-2)[^2]的作品。但有太多的游戏并非有意为之。游戏有能力与所有其他传播媒介并驾齐驱。它们可以成为艺术。它们能够描绘人类的境况。它们是教学工具。它们承载着社会救赎的内容。它们能激发情感。
 
 But we have to believe that they do, in order for them to reach their potential. We have to go into the systems design process, the ludeme-building process, aware that games have this potential and this capability. We have to consider ourselves as artists, as teachers, as people with a powerful tool that can be taken up.
 
