@@ -82,7 +82,7 @@ Right now, most games are about violence. They are about power. They are about c
 
 But, while we're bemoaning the lack of maturity in the field, we need not to miss the forest for the trees. Too much sex and violence isn't the problem. The problem is shallow sex and violence. This is why we decry casual player killing in an online world, why we snicker at puerile chat sex logs, why we resent seeing bouncing boobies in the beach volleyball game, and why we are disturbed by the portrayals of ethnicities and women. And also why we get excited to hear of the possibility for meaningful conflict in games, or get defensive about the "reality" of online relationships.
 
-但是，在我们抱怨这个领域不够成熟的同时，我们也不能只见树木不见森林。太多的性和暴力并不是问题所在。问题在于肤浅的性和暴力。正因如此，我们才会谴责网络世界中玩家的随意杀戮，我们才会对幼稚愚蠢的聊天性爱记录嗤之以鼻，我们才会对沙滩排球游戏中的弹跳乳房深恶痛绝，我们才会对游戏中的种族和女性形象感到不安。还有，为什么我们一听到游戏中可能出现有意义的冲突就兴奋不已，或者对网络关系的“现实性”进行维护。
+但是，在我们抱怨这个领域不够成熟的同时，我们也不能只见树木不见森林。太多的性和暴力并不是问题所在。问题在于肤浅的性和暴力。正因如此，我们才会谴责网络世界中玩家的随意杀戮，我们才会对幼稚愚蠢的聊天性爱记录嗤之以鼻，我们才会对沙滩排球游戏中的弹跳乳房深恶痛绝，我们才会对游戏中的种族和女性形象感到不安。还有，为什么我们一听到游戏中可能出现有意义的冲突就兴奋不已，或者对网络关系的“真实性”进行维护。
 
 We should fix the fact that the average cartoon does a better job at portraying the human condition than our games do.
 
