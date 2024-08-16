@@ -23,6 +23,10 @@ It's time for games to move on from only teaching patterns about territory, aimi
 > Games deserve to sit on the shelf right next to all other communications media, once the medium is mature.
 > 
 > 一旦游戏作为一种媒介发展成熟，它理应与所有其他传播媒介平起平坐。
+> 
+> Huckleberry Finn ～ Twain
+> 
+> 全名是Adventures of Huckleberry Finn，《哈克贝利·费恩历险记》，作者马克·吐温
 
 Games do not need to be able to evoke an unexpected tear, like the Pietà.
 
