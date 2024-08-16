@@ -46,7 +46,7 @@ Games do not need to record the history of our souls, like Beowulf.
 
 They may not be able to, in fact. We would not necessarily ask architecture or dance to accomplish all of those things, either.
 
-事实上，游戏可能无法做到这些。我们也不一定会要求建筑或舞蹈完成所有这些事情。
+事实上，游戏可能无法做到这些。我们也不一定会要求建筑或舞蹈做到所有这些事情。
 
 But games do need to illuminate aspects of ourselves that we do not understand fully.
 
