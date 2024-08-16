@@ -112,7 +112,7 @@ Games do need to push at the boundaries.
 
 Most importantly, games and their designers need to acknowledge that there is no distinction between art and entertainment. Viewed in context with human endeavor and what we know of how our inner core actually works, games are not to be denigrated. They are not trivial, childish things.
 
-最重要的是，游戏及其设计者需要承认，艺术与娱乐之间并无区别。从人类的努力和我们所了解的我们的内在核心是如何实际运作的角度来看，游戏是不应该被诋毁的。它们不是微不足道的幼稚事物。
+最重要的是，游戏及其设计者需要知道，艺术与娱乐之间并无区别。从人类活动和已知的人类内在核心运作方式的角度来看，游戏不应该被贬低。它们不是微不足道的幼稚事物。
 
 In no other medium do the practitioners assume that just because they're paying their dues, they cannot create something capable of changing the world. Nor should game designers.
 
