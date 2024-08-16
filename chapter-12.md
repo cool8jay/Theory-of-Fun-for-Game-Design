@@ -66,7 +66,7 @@ Games do need to present us with problems and patterns that do not have one solu
 
 Games do need to be created with formal systems that have authorial intent.
 
-游戏确实需要有作者意图的形式系统。
+游戏确实需要用具有作者意图的形式系统来创造。
 
 Games do need to acknowledge their influence over our patterns of thought.
 
