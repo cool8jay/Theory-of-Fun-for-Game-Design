@@ -74,7 +74,7 @@ Games do need to acknowledge their influence over our patterns of thought.
 
 Games do need to wrestle with issues of social responsibility.
 
-游戏确实需要与社会责任问题作斗争。
+游戏确实需要解决社会责任问题。
 
 Games do need to attempt to apply our understanding of human nature to the formal aspects of game design.
 
