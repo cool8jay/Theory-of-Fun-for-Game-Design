@@ -186,7 +186,7 @@ We know how to create games where the formal mechanics are about climbing a ladd
 
 Consider a game in which you gained power to act based on how many people you controlled, but you gained power to heal yourself from attacks based on how many friends you had. Then include a rule that friends tend to fall away as you gain power. This is expressible in mathematical terms. It fits within an abstract formal system. It is also an artistic statement, a choice made by the designer of the ludeme.
 
-考虑这样一个游戏：在游戏中，你可以根据你控制的人数获得行动能力，但也可以根据你拥有的朋友人数获得治疗自己受到攻击的能力。然后加入一条规则：当你获得力量时，朋友往往会减少。这可以用数学术语来表达。它符合抽象的形式系统。这也是一种艺术表述，是游戏设计者的选择。
+考虑这样一个游戏：在游戏中，你可以根据你控制的人数获得力量，但也可以根据你拥有的朋友人数获得治疗自己受到攻击的能力。然后加入一条规则：当你获得力量时，朋友往往会减少。这可以用数学术语来表达。它符合抽象的形式系统。这也是一种艺术表述，是游戏设计者的选择。
 
 Now, the tough part—the game's victory condition must not be about being on top or being at the bottom. Instead, the goal must be something else, perhaps ensuring the overall survival of the tribe.
 
@@ -194,11 +194,11 @@ Now, the tough part—the game's victory condition must not be about being on to
 
 Now, suddenly, we see that being at the top, and having no allies, is a choice. Being lower in the status hierarchy is also a choice, and it may be a more satisfying choice. The game is presenting a pattern and a lesson with a specific desired outcome. We need the right feedback in place as well, of course: we should reward all players for sacrificing themselves for the good of the tribe. Perhaps if they are captured in the course of the game, they may no longer act directly, but still score points based on the actions of the players they used to rule. This would represent their legacy—an important psychological driver that mere power fantasies tend not to tackle.
 
-现在，我们突然发现，站在顶端，没有盟友，也是一种选择。地位较低也是一种选择，而且可能是一种更令人满意的选择。游戏呈现的是一种模式和一堂课，并有一个具体的预期结果。当然，我们还需要正确的反馈：我们应该奖励所有为部落利益牺牲自己的玩家。或许，如果他们在游戏过程中被俘，他们可以不再直接行动，但仍然可以根据他们曾经统治过的玩家的行动得分。这将代表他们的遗产——一种重要的心理驱动力，而单纯的权力幻想往往无法解决这个问题。
+现在，我们突然发现，站在顶端，没有盟友，也是一种选择。地位较低也是一种选择，而且可能是一种更令人满意的选择。游戏呈现的是一种模式和一堂课，并有一个具体的预期结果。当然，我们还需要正确的反馈：我们应该奖励所有为部落利益牺牲自己的玩家。或许，如果他们在游戏过程中被俘，他们可以不再直接行动，但仍然可以根据他们曾经统治过的玩家的行动得分。这将代表他们的遗产——一种重要的心理驱动力，而单纯的力量幻想往往无法解决这个问题。
 
 There are many possible lessons to be extracted from such a game, and there's no right answer to the question of choice of strategy. It is simply representing some aspects of the world as it is. It's crude, and not worked out in detail, but it is an example of a game that might actually teach something subtler than tactics in a simulated battle. We begin to create mechanics that simulate not the projection of power, but lofty concepts like duty, love, honor, and responsibility, and evolutionary ones like "I want my children to have a better life than mine."
 
-从这样的游戏中可以汲取许多可能的经验教训，而且在选择策略的问题上也没有正确的答案。它只是表现了世界的某些方面。它很粗糙，也没有详细的设计，但它是一个游戏的例子，它实际上可能比模拟战斗中的战术更微妙。我们开始创造一些机制，模拟的不是权力的投射，而是责任、爱、荣誉和责任等崇高的概念，以及“我希望我的孩子过上比我更好的生活”等进化的概念。
+从这样的游戏中可以汲取许多可能的经验教训，而且在选择策略的问题上病没有所谓的正确的答案。它只是表现了世界的某些方面。它很粗糙，也没有详细的设计，但它是一个游戏的例子，它实际上可会教授比模拟战斗中的战术更加微妙的事物。我们开始创造一些机制，模拟的不是权力的投射，而是责任、爱、荣誉和责任感等崇高的概念，以及像“我希望我的孩子过上比我更好的生活”等进化的理念。
 
 The obstacles to making games—trellises—that shape players in ways we choose are not mechanical ones. The primary obstacle is a state of mind. It's an attitude. It's a worldview.
 
