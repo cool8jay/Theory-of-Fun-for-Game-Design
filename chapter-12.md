@@ -173,7 +173,7 @@ Seen in the most pessimistic light, this is irresponsible. When the world shifts
 > 
 > TRUN. DOWN. THAT. DAMN. MUSIC!
 > 
-> 关。掉。那。该死。音乐！
+> 关。掉。那。该死的。音乐！
 
 Play teaches us survival. For many cultural reasons, we have allowed it to take a place in human culture where it is often denigrated, minimized, and assumed to be worthless, set in contrast against concepts such as "work" or "practice" or "seriousness." And yet there's a cultural undercurrent that operates at the instinctive level, an undercurrent that mourns the ways in which play is removed from our lives.
 
