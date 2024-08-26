@@ -157,7 +157,7 @@ We call this "pop music." We call it "mass market." And games are indeed reachin
 
 A tremendous amount of the content pumped through media today has as its goal mere comforting, confirming, and cocooning. We gravitate towards the music we already like, the morals we already know, and the characters who behave predictably.
 
-如今，通过媒介传播的大量内容，其目的仅仅是安慰、确认和安慰。我们倾向于我们已经喜欢的音乐、我们已经知道的道德观以及行为可以预见的人物。
+如今，通过媒介传播的大量内容，其目的仅仅是安慰、确认和呵护。我们倾向于我们已经喜欢的音乐、我们已经知道的道德观以及行为可以预见的人物。
 
 Seen in the most pessimistic light, this is irresponsible. When the world shifts around people whose entertainment diet is unchallenging, they will lack the tools to adapt. The calling of the creator is to provide those people with the tools to adapt, so that when the world changes and is swept along the currents of cultural change, those folks in the reclining chairs are swept along with them and the march of human advancement continues.
 
