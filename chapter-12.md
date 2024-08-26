@@ -140,7 +140,7 @@ Let's be frank with ourselves. We all know that most people, most of the audienc
 
 We call this "pop music." We call it "mass market." And games are indeed reaching this mass market, and I suppose that to a degree I am fighting the tide in arguing that that is not the ultimate destiny for games any more than it is for any other art form. The art we remember is material that opened up new vistas; whether or not it was popular at the time is largely an accident of history. [Shakespeare](#user-content-fn-5)[^5] was a popular playwright and then was neglected for a couple hundred years. Popularity is not a measure of long-term evolutionary success.
 
-我们称之为“流行音乐”。我们称之为“大众市场”。而游戏确实正在进入这个大众市场，我猜想在一定程度上，我在主张这并不是游戏的终极命运，就像任何其他艺术形式一样。我们所记住的艺术是开辟了新视野的材料；它在当时是否受欢迎在很大程度上是历史的偶然。[莎士比亚](#user-content-fn-6)[^6]曾是一位受欢迎的剧作家，然后被忽视了几百年。受欢迎程度不是长期进化成功的一种衡量标准。
+我们称之为“流行音乐”。我们称之为“大众市场”。而游戏确实正在进入这个大众市场，我猜想在一定程度上，我在主张这并不是游戏的终极命运，就像任何其他艺术形式一样。我们所记住的艺术是开辟了新前景的材料；它在当时是否受欢迎在很大程度上是历史的偶然。[莎士比亚](#user-content-fn-6)[^6]曾是一位受欢迎的剧作家，然后被忽视了几百年。受欢迎程度不是长期进化成功的一种衡量标准。
 
 <div align="center">
 <img src="images/12.5.png">
