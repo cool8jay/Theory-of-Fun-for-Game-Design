@@ -199,7 +199,7 @@ I, for one, don't want to put that aside, and I don't think anyone else should e
 > 
 > 在山顶洞人时代，狼和老虎捕食他们。
 
-In the end, if I can say with a straight face after a day's work making games that one person out there learned to be a better leader, a better parent, a better co-worker, learned a new skill that kept her job, a new skill that helped him advance the state of the art in his chosen field, a new skill that made her grow a little...
+In the end, if I can say with a straight face after a day's work making games that one person out there learned to be a better leader, a better parent, a better co-worker, learned a new skill that kept her her job, a new skill that helped him advance the state of the art in his chosen field, a new skill that made her grow a little...
 
 最终，如果在一天的游戏制作工作之后，我能认真地说，有人学会了成为更好的领导、父母、同事，学会了一项能保住工作、提升业务领域技术水平、让自己有所成长的新技能……
 
@@ -213,7 +213,7 @@ I'll be able to whisper to myself, "I do connect people."
 
 "I do teach."
 
-“我在教书育人。”
+“我在教导人。”
 
 Hear that, grandpa?
 
