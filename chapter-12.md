@@ -42,7 +42,7 @@ Games do not need to be able to send us spiraling into awe, like Mozart's Requie
 
 Games do not need to leave us hovering at the boundary of understanding, like Duchamp's [Nude Descending a Staircase](#user-content-fn-3)[^3].
 
-游戏不需要像杜尚的[《下楼梯的裸体》](#user-content-fn-4)[^4]那样，让我们徘徊在理解的边界。
+游戏不需要像杜尚的[《下楼梯的裸女》](#user-content-fn-4)[^4]那样，让我们徘徊在理解的边界。
 
 Games do not need to record the history of our souls, like Beowulf.
 
@@ -205,19 +205,19 @@ In the end, if I can say with a straight face after a day's work making games th
 
 Then I will know that my work was valuable. It was worthwhile. It was a contribution to society.
 
-那么，我就知道我的工作是有价值的，是值得的，是对社会的有贡献的。
+那么，我就知道我的工作是有价值的，是值得的，是对社会有贡献的。
 
 I'll be able to whisper to myself, "I do connect people."
 
-我就能轻声对自己说：“我确实连接了人们。”
+我将能轻声对自己说：“我确实连接了人们。”
 
 "I do teach."
 
-“我在教导人。”
+“我确实在教导他人。”
 
 Hear that, grandpa?
 
-听到了吗？爷爷。
+听到了吗，爷爷？
 
 > I MAKE GAMES, AND I'M PROUD OF IT.
 > 
@@ -228,8 +228,8 @@ Hear that, grandpa?
 </div>
 
 > These days, we're a bit more tolerant -- the job market gets them instead.
-> 
-> 现在，我们宽容多了——换成了就业市场来“捕食”他们。
+>
+> 如今，我们更加宽容了一些 —— 取而代之的是就业市场来“收拾”他们。
 
 [^1]: Dani Bunten Berry: Designer of such classic video games as [M.U.L.E.](https://en.wikipedia.org/wiki/M.U.L.E.) and [Seven Cities of Gold](https://en.wikipedia.org/wiki/The_Seven_Cities_of_Gold_(video_game)).
 
@@ -237,8 +237,8 @@ Hear that, grandpa?
 
 [^3]: Duchamp's Nude Descending a Staircase: Considered one of the first paintings to attempt to show motion abstractly, this painting is an early example of Futurism.
 
-[^4]: 杜尚的《下楼梯的裸体》：这幅画被认为是最早尝试抽象表现运动的画作之一，是未来主义的早期代表作。
+[^4]: 杜尚的《下楼梯的裸女》：被认为是首批试图以抽象方式展现运动的绘画之一，这幅画是未来主义的早期范例。
 
 [^5]: Shakespeare neglected: Interest in the works of Shakespeare has fluctuated over the centuries. Although he was regarded as a solid entertainer in the seventeenth century, and his works were collected in the eighteenth, it is not until the nineteenth century that we see him enthroned as the greatest writer who ever lived.
 
-[^6]: 被忽视的莎士比亚：几个世纪以来，人们对莎士比亚作品的兴趣起伏不定。虽然他在十七世纪被视为一位出色的艺人，其作品在十八世纪被收集起来，但直到十九世纪，我们才看到他被尊为有史以来最伟大的作家。
+[^6]: 被忽视的莎士比亚：几个世纪以来，人们对莎士比亚作品的兴趣起伏不定。虽然他在十七世纪被视为一位实力可靠的娱乐作家，其作品在十八世纪被收集成册，但直到十九世纪，我们才看到他被尊为有史以来最伟大的作家。
