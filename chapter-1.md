@@ -90,7 +90,7 @@ When I work on games that are more my speed, I can still crush them ([mu ha ha h
 
 Games don't last forever, though. There just comes a point where you say, "You know, I think I've seen most everything that this game has to offer." This happened to me most recently with a typing game I found on the Internet—it was a cute game where I played a diver and sharks were trying to eat me. Each shark had a word on its side, and as I typed the words in, the sharks went belly-up.
 
-不过，游戏不会永远持续下去。总有一天你会说，“你知道吗，我想我已经玩遍了这个游戏的所有内容”。最近，我在互联网上发现了一款打字游戏，这是一款可爱的游戏，我扮演一名潜水员，鲨鱼试图吃掉我。每条鲨鱼的侧面都有一个单词，当我输入单词时，鲨鱼就会肚皮朝上。
+不过，游戏不会永远持续下去。总有一天你会说，“你知道吗，我想我已经玩遍了这个游戏的所有内容”。最近，我在互联网上发现了一款打字游戏，这是一款可爱的游戏，我扮演一名潜水员，鲨鱼试图吃掉我。每条鲨鱼的侧面都有一个单词，当我输入这个单词时，鲨鱼就会翻肚皮。
 
 Now, I am a terrible formal typist, but I can hunt-and-peck at almost 100 words a minute. This game was fun, but it was also a piece of cake. After level 12 or 14, the game just gave up. It conceded. It said to me, "You know, I've tried every trick I can think of, including words with random punctuation in the middle, words spelled backwards, and not showing you the words until the last minute. So to hell with it; from now on, I'll just keep throwing the same challenges at you. But really, you can quit now, because you've seen all I've got."
 
